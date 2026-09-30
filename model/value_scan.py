@@ -101,6 +101,65 @@ def find_value(model_tot, bet365_totals, min_edge=0.04):
     return hits
 
 
+def find_main_line_value(model_tot, bet365_totals, min_ev=0.10):
+    """
+    Filter for Telegram-alerts: tittar bara pa "50/50-linjen" - den linje dar
+    modellens sannolikhet ligger narmast 50% (dvs. den mest jamna, centrala
+    totals-linjen som Bet365 erbjuder for matchen) - och flaggar bara om
+    forvantat vardet (EV) pa den sidan overstiger min_ev.
+
+    bet365_totals: lista av dict {"hdp": float, "over": odds, "under": odds}
+    min_ev: minsta EV (som andel, 0.10 = 10%) for att raknas som en trigger
+
+    Returnerar None om ingen sida triggar, annars en dict:
+        {"line", "sida", "bet365_odds", "modell_sannolikhet", "fair_odds",
+         "edge_procentenheter", "ev_procent"}
+    """
+    if not bet365_totals:
+        return None
+
+    # hitta linjen vars over-sannolikhet ligger narmast 50%
+    best_row = None
+    best_dist = None
+    best_p_over = None
+    best_p_under = None
+    for row in bet365_totals:
+        line = row["hdp"]
+        p_over, p_under = over_under_prob(model_tot, line)
+        dist = abs(p_over - 0.5)
+        if best_dist is None or dist < best_dist:
+            best_dist = dist
+            best_row = row
+            best_p_over = p_over
+            best_p_under = p_under
+
+    line = best_row["hdp"]
+    odds_over = float(best_row["over"])
+    odds_under = float(best_row["under"])
+
+    ev_over = best_p_over * odds_over - 1
+    ev_under = best_p_under * odds_under - 1
+
+    if ev_over >= ev_under and ev_over >= min_ev:
+        p, odds, sida = best_p_over, odds_over, "Over"
+        ev = ev_over
+    elif ev_under > ev_over and ev_under >= min_ev:
+        p, odds, sida = best_p_under, odds_under, "Under"
+        ev = ev_under
+    else:
+        return None
+
+    implied = 1 / odds
+    return {
+        "line": line, "sida": sida, "bet365_odds": odds,
+        "modell_sannolikhet": round(p * 100, 2),
+        "fair_odds": round(1 / p, 3),
+        "bet365_implicerad": round(implied * 100, 2),
+        "edge_procentenheter": round((p - implied) * 100, 2),
+        "ev_procent": round(ev * 100, 2),
+    }
+
+
 if __name__ == "__main__":
     # Exempel/test: TOT=2.84, en typisk Totals-marknad
     example_totals = [
