@@ -193,6 +193,20 @@ LEAGUES = {
         "files": [_p("Japan", "J1", "2025.csv")],
         "season_start": None,  # bara en sasong i datan, ingen uppdelning behovs
     },
+    # Kollisionskoll Japan J2: Albirex Niigata, Shonan Bellmare och Yokohama FC
+    # ner fran J1 (2025) till J2 (sasongen 2026-27, ny host-vinter-kalender);
+    # Chiba, Ehime, Kumamoto, Mito, Renofa Yamaguchi och V-Varen Nagasaki
+    # lamnade J2 (sannolikt upp till J1 eller ner till J3, ospargat). Tegevajaro
+    # Miyazaki, Tochigi City och Vanraure nya i J2 utan matchande roster i nagon
+    # sparad liga (sannolikt uppflyttade fran J3, som vi inte har data for).
+    "japan-j2": {
+        "files": [
+            _p("Japan", "J2", "2026.csv"),
+            _p("Japan", "J2", "2025.csv"),
+            _p("Japan", "J1", "2025.csv"),
+        ],
+        "season_start": "2026-08-08",
+    },
     # Kollisionskoll UAE: Hatta + United FC upp fran Division 1 till UAE League;
     # Al Bataeh + Dibba Al Fujairah ner fran UAE League till Division 1.
     # Forte Virtus + Palm City nya i Division 1 utan matchande roster i nagon

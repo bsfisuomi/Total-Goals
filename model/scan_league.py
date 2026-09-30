@@ -75,6 +75,7 @@ LEAGUE_SLUGS = {
     "wales-cymru-south": ["wales-cymru-championship-south"],
 
     "japan-j1": ["japan-jleague"],
+    "japan-j2": ["japan-jleague-2"],
 
     "uae-league": ["united-arab-emirates-pro-league"],
     "uae-division-1": ["united-arab-emirates-division-1"],
@@ -365,6 +366,13 @@ NAME_ALIASES = {
     "NK Odranci": "Odranci", "NK Podvinci": "Podvinci", "NK Race": "Race",
     "NK Sampion Celje": "Sampion Celje", "NK Sencur": "Sencur",
     "NK Skofja Loka": "Skofja Loka", "NK Idrija": "Zidgrad Idrija",
+
+    # Japan J2 (gissningar enligt samma monster som redan bekraftats for J1 -
+    # verifiera mot nasta kornings loggutskrift)
+    "JEF United Chiba": "Chiba", "Mito Hollyhock": "Mito",
+    "Ehime FC": "Ehime", "Roasso Kumamoto": "Kumamoto",
+    "Blaublitz Akita": "Blaublitz", "Iwaki FC": "Iwaki",
+    "Vanraure Hashima": "Vanraure",
 }
 
 
