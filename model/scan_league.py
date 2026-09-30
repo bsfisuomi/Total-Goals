@@ -128,6 +128,197 @@ NAME_ALIASES = {
     "Chojniczanka Chojnice": "Chojniczanka", "Zawisza Bydgoszcz": "Zawisza",
     "Olimpia Grudziadz": "Ol. Grudziadz", "Sandecja Nowy Sacz": "Sandecja Nowy S.",
     "KS Hutnik Krakow SSA": "Hutnik Krakow", "OKS Swit Szczecin": "Swit Szczecin",
+
+    # Polen I Liga
+    "Bruk-Bet Termalica Nieciecza": "Termalica B-B.", "FKS Stal Mielec": "Stal Mielec",
+    "KS Lechia Gdansk": "Lechia Gdansk", "MKS Arka Gdynia": "Arka Gdynia",
+    "Miedz Legnica": "Legnica", "Podbeskidzie Bielsko-Biala": "Podbeskidzie",
+    "Pogon Grodzisk Mazowiecki": "Grodzisk M.", "Puszcza Niepolomice": "Puszcza",
+    "Unia Skierniewice": "Skierniewice", "ZKS Stal Rzeszow": "S. Rzeszow",
+    # Polen III Liga grupp 1
+    "Jagiellonia II Bialystok": "Jagiellonia II", "KS Ck Troszyn": "Troszyn",
+    "KS Pelikan Lowicz": "Pelikan", "KS Warta Sieradz": "Warta Sieradz",
+    "KTS Weszlo Warszawa": "Weszlo", "LKS 1926 Lomza": "LKS Lomza",
+    "Lechia Tomaszow Mazowiecki": "T. Mazowiecki", "MKS Mlawianka Mlawa": "Mlawa",
+    "MKS Polonia Lidzbark Warminski": "Lidzbark Warminski", "Olimpia Zambrow": "Zambrow",
+    "SK Mazovia Minsk Mazowiecki": "Mazovia Minsk Mazowiecki",
+    "Swit Nowy Dwor Mazowiecki": "Swit Mazowiecki",
+    # Polen III Liga grupp 2
+    "KKS 1925 Kalisz": "KKS Kalisz", "KS Lipno Steszew": "Lipno Steszew",
+    "Kss Kotwica Kornik": "Kotwica Kornik", "Lech II Poznan": "Lech Poznan II",
+    "MKS Flota Swinoujscie": "Swinoujscie", "MKS Notec Czarnkow": "Notec Czarnkow",
+    "MKS Viktoria Wrzesnia": "Wrzesnia", "Polonia Sroda Wielkopolska": "Sroda",
+    "Sks Unia Swarzedz": "Unia Swarzedz", "WDA Swiecie": "Wda Swiecie",
+    "Wiked Luzino": "Luzino", "Zks Kluczevia Stargard": "Kluczevia Stargard",
+    # Polen III Liga grupp 3
+    "BTP Stal Brzeg": "Brzeg", "Barycz Sulow": "Sulow",
+    "KS Gornik Polkowice": "Polkowice", "KS Polonia Nysa": "Nysa",
+    "KS Row 1964 Rybnik": "ROW Rybnik", "KS Sleza Wroclaw": "Sleza Wroclaw",
+    "KS Stilon Gorzow Wlkp": "Stilon Gorzow", "Karkonosze Jelenia Gora": "Jelenia Gora",
+    "LKS Goczalkowice-Zdroj": "Goczalkowice Zdroj", "MKS Kluczbork": "Kluczbork",
+    "Miedz Legnica II": "Legnica II", "Mkp Carina Gubin": "Carina Gubin",
+
+    # Tyskland 3. Liga
+    "1. FC Saarbrucken": "Saarbrucken", "FC Ingolstadt 04": "Ingolstadt",
+    "FC Viktoria Cologne": "Viktoria Koln", "FC Wurzburger Kickers": "Wurzburger Kickers",
+    "Fortuna Cologne": "Fortuna Koln", "Fortuna Dusseldorf": "Dusseldorf",
+    "Jahn Regensburg": "Regensburg", "MSV Duisburg": "Duisburg",
+    "Rot-Weiss Essen": "RW Essen", "SC Preussen 06 Munster": "Preussen Munster",
+    "SC Verl": "Verl", "SG Sonnenhof Grossaspach": "Grossaspach",
+    # Tyskland Regionalliga Nord
+    "1. FC Phonix Lubeck": "Phonix Lubeck", "Bremer SV 1906": "Bremer",
+    "Eimsbutteler TV": "Eimsbutteler", "Eintracht Norderstedt": "Norderstedt",
+    "FC St. Pauli II": "St. Pauli II", "FSV Schoningen 2011": "Schoningen",
+    "HSC Hannover": "Hannoverscher SC", "Hannover 96 II": "Hannover II",
+    "Kickers Emden": "Emden", "SC Weiche Flensburg 08": "SC Weiche-08",
+    "SSV Jeddeloh II": "Jeddeloh", "SV Atlas Delmenhorst": "Delmenhorst",
+    # Tyskland Regionalliga West
+    "1. FC Bocholt": "Bocholt", "1. FC Cologne II": "Koln II",
+    "Bonner SC": "Bonner", "Borussia Dortmund II": "Dortmund II",
+    "Borussia Monchengladbach II": "B. Monchengladbach II",
+    "FC Gutersloh 2000": "FC Gutersloh", "FC Schalke 04 II": "Schalke II",
+    "RW Oberhausen": "Oberhausen", "SC Paderborn 07 II": "Paderborn II",
+    "SC Wiedenbruck": "Wiedenbruck", "SG Wattenscheid 09": "SG Wattenscheid",
+    "SV Bergisch Gladbach 09": "Bergisch Gladbach",
+    # Tyskland Regionalliga Sudwest
+    "1. FC Kaiserslautern II": "Kaiserslautern II", "FC 08 Homburg-Saar": "FC 08 Homburg",
+    "FC Astoria Walldorf": "Walldorf", "FSV Frankfurt 1899": "FSV Frankfurt",
+    "FSV Mainz II": "Mainz II", "KSV Hessen Kassel": "Kassel",
+    "Offenbacher FC Kickers 1901": "Offenbach", "SC Freiburg II": "Freiburg II",
+    "SG Barockstadt Fulda-Lehnerz": "Fulda-Lehnerz", "SGV Freiberg": "Freiberg",
+    "SSV Ulm 1846": "Ulm", "SV Sandhausen": "Sandhausen",
+    # Tyskland Regionalliga Nordost
+    "1. FC Lokomotive Leipzig": "Lokomotive Leipzig", "BFC Preussen Berlin": "BFC Preussen",
+    "BSG Chemie Leipzig": "Chemie Leipzig", "Chemnitzer FC": "Chemnitzer",
+    "Erzgebirge Aue": "Aue", "FC Carl Zeiss Jena": "Jena",
+    "FC Magdeburg II": "Magdeburg II", "FC Rot-Weiss Erfurt": "Erfurt",
+    "FSV Luckenwalde": "Luckenwalde", "FSV Zwickau": "Zwickau",
+    "Greifswalder FC": "Greifswald", "Hallescher FC": "Hallescher",
+    # Tyskland Regionalliga Bayern
+    "1 FC Nuremberg II": "Nurnberg II", "1. FC Schweinfurt 05": "Schweinfurt",
+    "Bayern Munich II": "Bayern II", "DJK Vilzing": "Vilzing",
+    "FC Augsburg II": "Augsburg II", "FC Memmingen": "Memmingen",
+    "FV Illertissen": "Illertissen", "Greuther Furth II": "Furth II",
+    "SC Eltersdorf": "Eltersdorf", "SpVgg Ansbach": "Ansbach",
+    "SpVgg Bayreuth": "Bayreuth", "SpVgg Unterhaching": "Unterhaching",
+
+    # Wales Cymru Premier
+    "Airbus UK Broughton": "Airbus", "Barry Town United FC": "Barry",
+    "Caernarfon Town FC": "Caernarfon", "Cardiff Metropolitan University FC": "Cardiff Metropolitan",
+    "Connah's Quay Nomads FC": "Connahs Q.", "Flint Town United": "Flint",
+    "Haverfordwest County AFC": "Haverfordwest", "Holywell Town": "Holywell",
+    "Llandudno FC": "Llandudno", "Pen-y-Bont FC": "Penybont",
+    "The New Saints FC": "TNS", "Trefelin BGC": "Trefelin",
+    # Wales Cymru North
+    "Bala Town FC": "Bala", "Brickfield Rangers": "Brickfield",
+    "Buckley Town": "Buckley", "CPD Dinas Bangor City 1876 FC": "Bangor 1876",
+    "CPD Y Rhyl 1879": "Rhyl", "Caersws": "Caersws FC",
+    "Denbigh Town": "Denbigh", "Gresford Athletic": "Gresford",
+    "Guilsfield FC": "Guilsfield", "Holyhead Hotspur": "Holyhead",
+    "Mold Alexandra FC": "Mold Alexandra", "Newtown AFC": "Newtown",
+    # Wales Cymru South
+    "Aberystwyth Town FC": "Aberystwyth", "Caerau Ely FC": "Caerau Ely",
+    "Caerphilly Athletic FC": "Caerphilly", "Llanelli Town": "Llanelli",
+    "Newport City FC": "Newport City", "Pontardawe Town FC": "Pontardawe",
+    "Pontypridd Town": "Pontypridd", "Treowen Stars": "Treowen",
+
+    # Japan J1
+    "Fagiano Okayama": "Okayama", "Kyoto Sanga FC": "Kyoto",
+    "Machida Zelvia": "Machida", "Tokyo Verdy": "Verdy",
+    "Urawa Red Diamonds": "Urawa Reds", "Yokohama F Marinos": "Yokohama F. Marinos",
+
+    # UAE Pro League + Division 1
+    "Ajman Club": "Ajman", "Al Ain FC": "Al Ain", "Al Dhafra SSC": "Al Dhafra",
+    "Al Jazira (UAE)": "Al Jazira", "Al Wahda FC (UAE)": "Al Wahda",
+    "Al Wasl FC": "Al Wasl", "Al-Nasr Dubai CSC": "Al Nasr",
+    "Baniyas Club": "Bani Yas", "Hatta SC": "Hatta",
+    "Ittihad Kalba FC": "Ittihad Kalba", "Khor Fakkan Club": "Khorfakkan",
+    "AL Arabi (UAE)": "Al Arabi", "AL Bataeh (UAE)": "Al Bataeh",
+    "AL Ittifaq": "Al-Ittifaq", "AL Jazira AL Hamra": "Al Jazira Hamra",
+    "Al Urooba (UAE)": "Al Urooba", "Al-Dhaid": "Al Thaid",
+    "Al-Hamriyah": "Al Hamriyah", "Dibba Al-Hisn SC": "Dibba Al Hisn",
+    "Dubai City FC": "Dubai City", "Forte Virtus FC": "Forte Virtus",
+    "Fujairah FC": "Al Fujairah",
+
+    # Skottland Premiership
+    "Aberdeen FC": "Aberdeen", "Celtic Glasgow": "Celtic",
+    "Dundee United": "Dundee Utd", "Falkirk FC": "Falkirk",
+    "Glasgow Rangers": "Rangers", "Heart of Midlothian FC": "Hearts",
+    "Hibernian FC": "Hibernian", "Kilmarnock FC": "Kilmarnock",
+    "Motherwell FC": "Motherwell", "St Mirren FC": "St. Mirren",
+    "St. Johnstone FC": "St Johnstone",
+    # Skottland Championship
+    "Arbroath FC": "Arbroath", "Ayr United FC": "Ayr",
+    "Dunfermline Athletic FC": "Dunfermline", "Greenock Morton FC": "Morton",
+    "Inverness Caledonian Thistle FC": "Inverness", "Livingston FC": "Livingston",
+    "Partick Thistle FC": "Partick Thistle", "Queens Park FC": "Queen's Park",
+    "Raith Rovers FC": "Raith", "Stenhousemuir FC": "Stenhousemuir",
+    # Skottland League One
+    "Airdrieonians FC": "Airdrieonians", "Alloa Athletic FC": "Alloa",
+    "Cove Rangers FC": "Cove Rangers", "East Fife FC": "East Fife",
+    "East Kilbride FC": "East Kilbride", "Hamilton Academical FC": "Hamilton",
+    "Montrose FC": "Montrose", "Peterhead FC": "Peterhead",
+    "Queen of the South FC": "Queen of South", "Ross County FC": "Ross County",
+    # Skottland League Two
+    "Annan Athletic FC": "Annan", "Clyde FC": "Clyde",
+    "Dumbarton FC": "Dumbarton", "Edinburgh City FC": "Edinburgh City",
+    "Elgin City FC": "Elgin City", "Forfar Athletic FC": "Forfar Athletic",
+    "Kelty Hearts FC": "Kelty Hearts", "Spartans FC": "Spartans",
+    "Stirling Albion FC": "Stirling", "Stranraer FC": "Stranraer",
+    # Skottland Highland League
+    "Banks O'Dee FC": "Banks O' Dee", "Brora Rangers FC": "Brora Rangers",
+    "Buckie Thistle FC": "Buckie Thistle", "Clachnacuddin FC": "Clachnacuddin",
+    "Deveronvale FC": "Deveronvale", "Formartine United FC": "Formartine Utd",
+    "Forres Mechanics FC": "Forres Mechanics", "Fraserburgh FC": "Fraserburgh",
+    "Huntly FC": "Huntly", "Invergordon FC": "Invergordon",
+    "Inverurie Loco Works FC": "Inverurie", "Keith FC": "Keith",
+
+    # Slovakien Nike liga
+    "AS Trencin": "Trencin", "DAC 1904 Dunajska Streda": "Dun. Streda",
+    "FC Spartak Trnava": "Trnava", "FK Kosice": "Kosice",
+    "FK Zeleziarne Podbrezova": "Podbrezova", "KFC Komarno": "Komarno",
+    "MFK Ruzomberok": "Ruzomberok", "MFK Skalica": "Skalica",
+    "MFK Zemplin Michalovce": "Michalovce", "MFk Dukla Banska Bystrica": "Banska Bystrica",
+    "MSK Zilina": "Zilina", "SK Slovan Bratislava": "Slovan Bratislava",
+    # Slovakien 2. Liga
+    "1. FC Tatran Presov": "Presov", "FC Petrzalka": "Petrzalka",
+    "FC STK 1914 Samorin": "Samorin", "FC Slovan Galanta": "Galanta",
+    "FC Vion Zlate Moravce - Vrable": "Z. Moravce-Vrable", "FK Inter Bratislava": "I. Bratislava",
+    "FK Pohronie Ziar Nad Hronom Dolna Zdana": "Pohronie",
+    "MFK Tatran Liptovsky Mikulas": "L. Mikulas", "MFK Zvolen": "Zvolen",
+    "MFk Bytca": "MFK Bytca", "MSK Povazska Bystrica": "Povazska Bystrica",
+    "MSK Zilina B": "Zilina B",
+    # Slovakien 3. Liga Central
+    "MFK Dukla Banska Bystrica B": "B. Bystrica B", "MSK Kysucke Nove Mesto": "K. Nove Mesto",
+    # Slovakien 3. Liga East
+    "MFK Stara Lubovna": "Lubovna", "Ofk-Sim Raslavice": "Raslavice",
+    "SK Odeva Lipany": "Lipany",
+    # Slovakien 3. Liga West
+    "AS Trencin B": "Trencin B", "Druzstevnik Velke Ludince": "Velke Ludince",
+    "FC Banik Prievidza": "Banik Prievidza", "FC Nitra": "Nitra",
+    "FK Belusa": "Belusa", "FK Dac 1904 Dunajska Streda B": "Dun. Streda B",
+    "FK Slovan Duslo Sala": "Sala", "KFC Komarno B": "Komarno B",
+
+    # Slovenien Prva liga
+    "Aluminij Kidricevo": "Aluminij", "Bravo Ljubljana": "Bravo",
+    "FC Koper": "Koper", "Mura Murska Sobota": "Mura",
+    "NK Brinje Grosuplje": "Grosuplje", "NK Celje": "Celje",
+    "NK Maribor": "Maribor", "NK Radomlje": "Radomlje",
+    "Nafta 1903 Lendava": "Nafta", "Olimpija Ljubljana": "O. Ljubljana",
+    # Slovenien 2. SNL
+    "Ilirija Ljubljana": "Ilirija", "Krka Novo Mesto": "NK Krka",
+    "ND Beltinci": "Beltinci", "NK Bilje": "Bilje",
+    "NK Bistrica Slovenska Bistrica": "Bistrc", "NK Brezice 1919": "Brezice",
+    "NK Dekani": "Jadran Dekani", "NK Krsko Posavje": "Krsko Posavje",
+    "NK Rudar Velenje": "Rudar", "NK Vrhnika": "Vrhnika",
+    "Nd Dravinja": "Dravinja", "Nd Slovan": "Slovan Ljubljana",
+    # Slovenien 3. SNL East/West (delade lagnamn i gransomradet)
+    "Fuzinar Ravne": "Fuzinar", "Mnk Izola": "Izola",
+    "ND Adria": "NK Adria", "NK Carda": "NK Carda Martjanci",
+    "NK Dob": "Dob", "NK Hajdina": "Hajdina",
+    "NK IB Ljubljana": "IB 1975 Ljubljana", "NK Korotan": "Korotan",
+    "NK Limbus Pekre": "Limbus-Pekre", "NK Litija": "Litija",
+    "NK Ljutomer": "Ljutomer",
 }
 
 
