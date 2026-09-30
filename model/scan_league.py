@@ -471,9 +471,7 @@ def scan_league(league_key, min_ev=MIN_EV):
 
     print(f"  -> {n_resolved} av dem matchade lag i var historik, {n_with_odds} hade Bet365-odds, {len(hits)} value-traffar", file=sys.stderr)
     if unmatched:
-        sample = sorted(unmatched)[:12]
-        more = f" (+{len(unmatched) - 12} till)" if len(unmatched) > 12 else ""
-        print(f"     Omatchade lagnamn fran odds-api.io: {', '.join(sample)}{more}", file=sys.stderr)
+        print(f"     Omatchade lagnamn fran odds-api.io: {', '.join(sorted(unmatched))}", file=sys.stderr)
     return hits
 
 
