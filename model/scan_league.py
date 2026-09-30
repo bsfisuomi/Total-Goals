@@ -319,6 +319,52 @@ NAME_ALIASES = {
     "NK IB Ljubljana": "IB 1975 Ljubljana", "NK Korotan": "Korotan",
     "NK Limbus Pekre": "Limbus-Pekre", "NK Litija": "Litija",
     "NK Ljutomer": "Ljutomer",
+
+    # Andra omgangen rattelser - Polen
+    "Slask II Wroclaw": "Slask Wroclaw II",
+    "Podbeskidzie Bielsko-Biała": "Podbeskidzie",
+    "Wigry Suwalki": "Suwalki", "Wisla Plock II": "Plock II",
+    "ZKS Olimpia Elblag": "Olimpia Elblag", "Zabkovia Zabki": "Zabki",
+    "Odra Bytom Odrzanski": "Bytom Odrzanski", "Rakow II Czestochowa": "Rakow II",
+    "SKRA Czestochowa": "Skra", "Slowianin Woliborz": "Woliborz",
+    "Warta Gorzow Wielkopolski": "Warta Gorzow", "Zaglebie Lubin II": "Zaglebie II",
+    # Andra omgangen - Tyskland
+    "SV Meppen 1912": "Meppen", "SV Waldhof Mannheim 07": "Mannheim",
+    "SV Wehen Wiesbaden": "Wehen", "TSG Hoffenheim II": "Hoffenheim II",
+    "VfB Stuttgart II": "Stuttgart II",
+    "SV Drochtersen/Assel": "Drochtersen/Assel", "SV Todesfelde": "Todesfelde",
+    "SV Werder Bremen II": "Werder Bremen II",
+    "SV Rodinghausen": "Rodinghausen", "SV Westfalia Rhynern": "Westfalia Rhynern",
+    "Sportfreunde Siegen 1899": "Siegen", "VfB 03 Hilden": "Hilden",
+    "VfL Bochum II": "Bochum II", "VfL Sportfreunde Lotte 1929": "Lotte",
+    "Stuttgarter Kickers": "Stutt. Kickers", "TSV Steinbach Haiger": "Steinbach Haiger",
+    "VfR Aalen": "Aalen",
+    "Hertha BSC II": "Hertha Berlin II", "RSV Eintracht Stahnsdorf 1949": "RSV Eintracht",
+    "SV Babelsberg": "Babelsberg", "SV Tasmania Berlin": "Tasmania Berlin",
+    "VSG Altglienicke": "Altglienicke",
+    "TSV 1860 Munich": "Munich 1860", "TSV Aubstadt": "Aubstadt",
+    "TSV Buchbach": "Buchbach", "TSV Landsberg am Lech": "Landsberg",
+    "VfB Eichstatt": "Eichstatt", "Wacker Burghausen": "Burghausen",
+    # Andra omgangen - Wales
+    "Porthmadog FC": "Porthmadog", "Ruthin Town": "Ruthin",
+    # Andra omgangen - UAE
+    "Dubai United FC": "United FC", "Shabab Al Ahli Dubai": "Shabab Al-Ahli Dubai",
+    "Sharjah FC": "Al Sharjah",
+    # Andra omgangen - Skottland Highland
+    "Lossiemouth FC": "Lossiemouth", "Nairn County FC": "Nairn County",
+    "Rothes FC": "Rothes", "Strathspey Thistle FC": "Strathspey Thistle",
+    "Turriff United FC": "Turriff Utd", "Wick Academy FC": "Wick Academy",
+    # Andra omgangen - Slovakien
+    "OFK Banik Lehota Pod Vtacnikom": "Lehota p. V.", "OFK Dynamo Malzenice": "Malzenice",
+    "FK Cadca": "Cadca", "FK Podkonice": "Podkonice", "FK Poprad": "Poprad",
+    "FTC Filakovo": "Filakovo", "MFK Dolny Kubin": "D. Kubin",
+    "MFK Kezmarok": "Kezmarok", "MFK Snina": "Snina",
+    "MFK Spartak Medzev": "Medzev", "MFK Vranov Nad Topou": "Vranov",
+    # Andra omgangen - Slovenien
+    "Primorje Ajdovscina": "Primorje", "Triglav Kranj": "Triglav",
+    "NK Odranci": "Odranci", "NK Podvinci": "Podvinci", "NK Race": "Race",
+    "NK Sampion Celje": "Sampion Celje", "NK Sencur": "Sencur",
+    "NK Skofja Loka": "Skofja Loka", "NK Idrija": "Zidgrad Idrija",
 }
 
 
