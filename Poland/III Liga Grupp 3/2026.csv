@@ -1,0 +1,90 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2026-07-31,Brzeg,Goczalkowice Zdroj,1,1,2.82,3.31,2.21
+2026-07-31,Polkowice,Rakow II,5,4,1.62,4.27,3.93
+2026-08-01,Sulow,Kluczbork,2,0,2.34,3.53,2.51
+2026-08-01,Bytom Odrzanski,Nysa,3,0,2.03,3.58,2.96
+2026-08-01,Carina Gubin,Legnica II,2,1,2.65,3.54,2.21
+2026-08-01,Jelenia Gora,Zaglebie Sosnowiec,0,0,2.51,3.42,2.31
+2026-08-01,ROW Rybnik,Warta Gorzow,5,1,2.10,3.59,2.81
+2026-08-01,Stilon Gorzow,Sleza Wroclaw,3,1,2.14,3.57,2.67
+2026-08-01,Zaglebie II,BKS Sparta Katowice,1,0,2.16,3.44,2.81
+2026-08-07,Brzeg,Sleza Wroclaw,5,1,1.91,3.59,3.26
+2026-08-08,BKS Sparta Katowice,Stilon Gorzow,2,1,1.70,3.79,3.90
+2026-08-08,Jelenia Gora,ROW Rybnik,1,0,2.11,3.41,2.76
+2026-08-08,Kluczbork,Polkowice,2,1,2.29,3.55,2.53
+2026-08-08,Nysa,Zaglebie II,2,2,3.07,3.41,2.02
+2026-08-08,Rakow II,Bytom Odrzanski,0,1,2.29,3.49,2.58
+2026-08-08,Warta Gorzow,Carina Gubin,2,1,2.13,3.41,2.88
+2026-08-09,Legnica II,Sulow,1,2,2.07,3.66,2.88
+2026-08-09,Zaglebie Sosnowiec,Goczalkowice Zdroj,2,0,1.99,3.29,3.26
+2026-08-14,Brzeg,BKS Sparta Katowice,1,1,,,
+2026-08-14,Carina Gubin,Jelenia Gora,1,1,2.16,3.76,2.61
+2026-08-14,Polkowice,Legnica II,3,3,2.12,3.88,2.64
+2026-08-15,Sulow,Warta Gorzow,2,2,,,
+2026-08-15,Bytom Odrzanski,Kluczbork,1,0,2.14,3.62,2.72
+2026-08-15,Goczalkowice Zdroj,Sleza Wroclaw,0,2,1.92,3.98,5.99
+2026-08-15,Stilon Gorzow,Nysa,1,1,2.26,3.61,2.56
+2026-08-16,ROW Rybnik,Zaglebie Sosnowiec,4,1,2.77,3.51,2.07
+2026-08-16,Zaglebie II,Rakow II,2,2,1.32,5.32,6.26
+2026-08-19,BKS Sparta Katowice,Goczalkowice Zdroj,2,1,1.86,3.43,3.63
+2026-08-19,Jelenia Gora,Sulow,3,0,2.17,3.41,2.82
+2026-08-19,Kluczbork,Zaglebie II,1,3,2.16,3.47,2.77
+2026-08-19,Legnica II,Bytom Odrzanski,0,1,2.10,3.56,2.84
+2026-08-19,Nysa,Brzeg,3,2,2.67,3.36,2.30
+2026-08-19,Rakow II,Stilon Gorzow,1,4,2.12,3.33,3.01
+2026-08-19,ROW Rybnik,Carina Gubin,4,0,1.74,3.77,3.74
+2026-08-19,Warta Gorzow,Polkowice,0,0,2.25,3.56,2.60
+2026-08-19,Zaglebie Sosnowiec,Sleza Wroclaw,3,1,1.40,4.42,6.02
+2026-08-22,Sulow,ROW Rybnik,4,0,,,
+2026-08-22,BKS Sparta Katowice,Sleza Wroclaw,3,0,1.41,4.34,5.99
+2026-08-22,Bytom Odrzanski,Warta Gorzow,0,1,1.85,3.60,3.41
+2026-08-22,Carina Gubin,Zaglebie Sosnowiec,0,4,3.79,3.79,1.66
+2026-08-22,Goczalkowice Zdroj,Nysa,2,0,2.06,3.57,2.87
+2026-08-22,Stilon Gorzow,Kluczbork,0,1,2.84,3.39,2.18
+2026-08-22,Zaglebie II,Legnica II,3,2,1.89,4.01,3.02
+2026-08-23,Brzeg,Rakow II,3,0,2.29,3.50,2.45
+2026-08-23,Polkowice,Jelenia Gora,2,1,2.05,3.44,3.01
+2026-08-28,Carina Gubin,Sulow,0,1,3.14,3.41,1.93
+2026-08-28,Kluczbork,Brzeg,1,0,1.95,3.56,3.14
+2026-08-28,Legnica II,Stilon Gorzow,2,2,1.62,3.98,4.27
+2026-08-29,BKS Sparta Katowice,Zaglebie Sosnowiec,1,0,2.56,3.36,2.38
+2026-08-29,Jelenia Gora,Bytom Odrzanski,0,0,1.91,3.41,3.41
+2026-08-29,Nysa,Sleza Wroclaw,1,3,1.88,3.56,3.14
+2026-08-29,Rakow II,Goczalkowice Zdroj,0,0,2.41,3.54,2.42
+2026-08-29,ROW Rybnik,Polkowice,1,3,2.19,3.80,2.57
+2026-08-29,Warta Gorzow,Zaglebie II,0,2,2.51,3.45,2.35
+2026-09-05,Sulow,Zaglebie Sosnowiec,1,0,2.50,3.38,2.31
+2026-09-05,BKS Sparta Katowice,Nysa,4,0,1.33,4.85,7.00
+2026-09-05,Brzeg,Legnica II,2,4,2.16,3.33,2.72
+2026-09-05,Bytom Odrzanski,ROW Rybnik,3,2,2.05,3.47,3.04
+2026-09-05,Goczalkowice Zdroj,Kluczbork,3,0,2.53,3.38,2.38
+2026-09-05,Sleza Wroclaw,Rakow II,1,2,2.16,3.46,2.82
+2026-09-05,Stilon Gorzow,Warta Gorzow,1,1,2.53,3.44,2.31
+2026-09-05,Zaglebie II,Jelenia Gora,1,0,1.59,4.05,4.34
+2026-09-06,Polkowice,Carina Gubin,2,1,1.54,4.04,4.55
+2026-09-11,Carina Gubin,Bytom Odrzanski,1,1,2.82,3.41,2.07
+2026-09-12,Sulow,Polkowice,2,1,2.00,4.26,12.66
+2026-09-12,Kluczbork,Sleza Wroclaw,3,2,1.53,4.00,4.50
+2026-09-12,Legnica II,Goczalkowice Zdroj,5,0,2.18,3.45,2.77
+2026-09-12,Nysa,Zaglebie Sosnowiec,1,2,3.63,3.60,1.77
+2026-09-12,ROW Rybnik,Zaglebie II,2,2,2.35,3.48,2.43
+2026-09-12,Warta Gorzow,Brzeg,1,0,2.04,4.32,8.71
+2026-09-13,Jelenia Gora,Stilon Gorzow,4,2,1.74,3.58,3.93
+2026-09-13,Rakow II,BKS Sparta Katowice,1,1,3.67,3.84,1.74
+2026-09-18,Bytom Odrzanski,Sulow,1,0,2.54,3.54,2.30
+2026-09-18,Polkowice,Zaglebie Sosnowiec,1,2,2.02,3.54,3.05
+2026-09-18,Nysa,Rakow II,0,2,2.50,3.38,2.31
+2026-09-18,Zaglebie II,Carina Gubin,3,0,1.52,4.37,4.61
+2026-09-19,BKS Sparta Katowice,Kluczbork,2,1,1.71,3.77,3.91
+2026-09-19,Brzeg,Jelenia Gora,1,0,2.40,3.38,2.40
+2026-09-19,Goczalkowice Zdroj,Warta Gorzow,4,1,1.97,3.39,3.26
+2026-09-19,Sleza Wroclaw,Legnica II,3,5,3.52,3.77,1.79
+2026-09-19,Stilon Gorzow,ROW Rybnik,0,0,2.34,3.41,2.44
+2026-09-26,Sulow,Zaglebie II,3,3,2.50,3.51,2.32
+2026-09-26,Carina Gubin,Stilon Gorzow,1,3,2.26,3.41,2.54
+2026-09-26,Jelenia Gora,Goczalkowice Zdroj,2,0,2.05,3.50,3.00
+2026-09-26,Kluczbork,Nysa,1,3,1.51,3.79,4.90
+2026-09-26,Legnica II,BKS Sparta Katowice,0,2,2.19,3.63,2.64
+2026-09-26,Polkowice,Bytom Odrzanski,0,1,1.89,3.57,3.35
+2026-09-26,ROW Rybnik,Brzeg,4,3,1.95,3.64,3.09
+2026-09-26,Warta Gorzow,Sleza Wroclaw,1,1,1.87,3.50,3.55
