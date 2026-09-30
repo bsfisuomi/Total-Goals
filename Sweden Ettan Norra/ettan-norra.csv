@@ -1,0 +1,193 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2026-04-03,FBK Karlstad,Gefle,2,1,2.71,3.27,2.36
+2026-04-03,Arlanda,Vasalund,2,1,3.02,3.70,2.02
+2026-04-04,AFC Eskilstuna,Jarfalla,1,1,1.91,3.69,3.31
+2026-04-04,Enkoping SK,Stocksund,3,2,1.44,4.58,5.36
+2026-04-04,Sollentuna,Karlbergs,0,1,2.76,3.64,2.17
+2026-04-05,Assyriska FF,Stockholm Internazionale,1,2,4.06,3.42,1.76
+2026-04-06,Hammarby TFF,Umea FC,1,2,1.84,3.65,3.60
+2026-04-06,Karlstad,Pitea,2,1,1.42,4.40,6.07
+2026-04-10,Karlbergs,Enkoping SK,1,3,1.98,3.68,3.13
+2026-04-11,Jarfalla,Sollentuna,0,1,2.09,3.60,2.91
+2026-04-11,Gefle,AFC Eskilstuna,4,3,2.06,3.64,2.94
+2026-04-11,Stocksund,Hammarby TFF,2,4,5.66,4.88,1.39
+2026-04-12,Stockholm Internazionale,Karlstad,0,1,3.68,3.85,4.24
+2026-04-12,Pitea,Assyriska FF,0,2,2.62,3.53,2.29
+2026-04-12,Umea FC,Arlanda,0,1,2.12,3.73,2.85
+2026-04-12,Vasalund,FBK Karlstad,1,3,1.43,4.68,5.48
+2026-04-18,Enkoping SK,FBK Karlstad,2,1,2.38,3.51,3.86
+2026-04-18,Arlanda,Stockholm Internazionale,0,0,3.81,3.49,1.82
+2026-04-18,Gefle,Sollentuna,1,2,1.83,3.64,3.61
+2026-04-18,Karlstad,Jarfalla,2,1,1.50,4.17,5.12
+2026-04-19,Assyriska FF,Karlbergs,3,4,2.22,3.58,2.68
+2026-04-19,Pitea,Hammarby TFF,1,4,3.86,3.80,1.75
+2026-04-19,Vasalund,Umea FC,3,1,1.88,3.72,3.41
+2026-04-20,Stocksund,AFC Eskilstuna,4,4,3.40,4.08,1.79
+2026-04-24,Enkoping SK,Arlanda,1,7,2.50,3.64,2.36
+2026-04-25,FBK Karlstad,Stocksund,1,0,1.52,4.46,4.69
+2026-04-25,Sollentuna,Assyriska FF,0,0,2.58,3.55,2.30
+2026-04-26,AFC Eskilstuna,Karlstad,0,2,2.54,3.72,2.31
+2026-04-26,Jarfalla,Pitea,1,0,1.86,3.65,3.52
+2026-04-26,Stockholm Internazionale,Umea FC,3,0,1.40,4.53,6.25
+2026-04-26,Karlbergs,Gefle,3,2,1.93,3.60,3.33
+2026-04-27,Hammarby TFF,Vasalund,2,2,1.88,3.77,3.35
+2026-05-01,Stocksund,Vasalund,2,2,4.99,4.69,1.47
+2026-05-02,AFC Eskilstuna,FBK Karlstad,0,2,1.87,3.76,3.31
+2026-05-02,Gefle,Enkoping SK,2,1,1.97,3.68,3.10
+2026-05-02,Karlstad,Hammarby TFF,0,2,2.78,3.51,2.18
+2026-05-03,Assyriska FF,Jarfalla,3,3,1.84,3.58,3.56
+2026-05-03,Stockholm Internazionale,Sollentuna,1,1,1.29,5.03,8.23
+2026-05-03,Pitea,Arlanda,1,2,3.82,3.88,1.74
+2026-05-03,Umea FC,Karlbergs,2,1,2.26,3.64,2.64
+2026-05-08,Enkoping SK,AFC Eskilstuna,2,1,2.40,3.74,2.42
+2026-05-09,FBK Karlstad,Jarfalla,2,0,1.87,3.60,3.50
+2026-05-09,Arlanda,Sollentuna,1,1,1.69,3.77,4.21
+2026-05-09,Hammarby TFF,Assyriska FF,4,0,1.49,4.23,5.22
+2026-05-09,Stocksund,Stockholm Internazionale,1,6,8.65,5.84,1.24
+2026-05-09,Karlbergs,Karlstad,0,0,2.45,3.52,2.47
+2026-05-09,Umea FC,Gefle,2,2,1.88,3.51,3.56
+2026-05-10,Vasalund,Pitea,1,2,1.32,4.91,7.47
+2026-05-13,Arlanda,Karlbergs,1,1,2.11,3.58,2.89
+2026-05-13,Jarfalla,Enkoping SK,0,3,2.06,3.70,2.96
+2026-05-13,Stockholm Internazionale,AFC Eskilstuna,0,2,1.35,4.96,6.74
+2026-05-13,Sollentuna,Hammarby TFF,0,2,4.28,4.07,1.62
+2026-05-14,Assyriska FF,Umea FC,1,5,2.68,3.50,2.25
+2026-05-14,Karlstad,Stocksund,1,0,1.29,5.60,7.18
+2026-05-14,Pitea,FBK Karlstad,1,5,3.17,3.53,2.01
+2026-05-14,Vasalund,Gefle,1,0,1.64,4.13,4.12
+2026-05-16,Hammarby TFF,Stockholm Internazionale,3,1,2.48,3.32,2.53
+2026-05-16,Karlbergs,Jarfalla,1,3,1.62,3.99,4.39
+2026-05-17,Enkoping SK,Sollentuna,1,0,2.17,3.50,2.86
+2026-05-17,FBK Karlstad,Umea FC,1,1,2.12,3.51,2.95
+2026-05-17,Gefle,Assyriska FF,0,0,2.15,3.44,2.92
+2026-05-17,Stocksund,Pitea,2,3,1.86,3.97,3.23
+2026-05-17,Karlstad,Vasalund,5,0,2.03,3.50,3.14
+2026-05-18,AFC Eskilstuna,Arlanda,0,0,2.50,3.57,2.40
+2026-05-23,Enkoping SK,Hammarby TFF,0,1,4.36,4.02,1.61
+2026-05-23,FBK Karlstad,Arlanda,0,0,2.24,3.42,2.80
+2026-05-23,Jarfalla,Gefle,4,0,2.56,3.44,2.41
+2026-05-23,Stockholm Internazionale,Karlbergs,2,1,1.57,4.02,4.81
+2026-05-23,Stocksund,Assyriska FF,3,3,2.76,3.54,2.19
+2026-05-24,AFC Eskilstuna,Vasalund,0,3,2.55,3.72,2.28
+2026-05-24,Sollentuna,Pitea,2,2,1.56,3.99,5.00
+2026-05-24,Umea FC,Karlstad,0,2,2.88,3.60,2.14
+2026-05-30,Hammarby TFF,AFC Eskilstuna,1,2,1.27,5.55,7.63
+2026-05-30,Karlstad,Sollentuna,0,0,1.46,4.21,5.73
+2026-05-31,Karlbergs,FBK Karlstad,1,1,2.36,3.54,2.55
+2026-05-31,Pitea,Stockholm Internazionale,2,2,8.38,5.30,1.27
+2026-05-31,Umea FC,Stocksund,2,2,1.53,4.66,4.41
+2026-06-01,Arlanda,Gefle,2,3,1.76,3.53,3.98
+2026-06-02,Assyriska FF,Enkoping SK,4,2,2.57,3.62,2.26
+2026-06-03,Vasalund,Jarfalla,3,1,1.64,4.12,4.06
+2026-06-04,AFC Eskilstuna,Karlbergs,3,2,2.50,3.62,2.36
+2026-06-05,FBK Karlstad,Karlstad,2,3,3.25,3.07,2.14
+2026-06-06,Gefle,Hammarby TFF,0,4,4.52,3.98,1.60
+2026-06-07,Arlanda,Assyriska FF,2,0,1.73,3.75,3.83
+2026-06-07,Pitea,Enkoping SK,0,2,2.67,3.80,2.16
+2026-06-07,Sollentuna,Umea FC,1,1,2.18,3.66,2.73
+2026-06-08,Jarfalla,Stocksund,1,6,1.82,4.09,3.29
+2026-06-08,Stockholm Internazionale,Vasalund,4,1,1.56,4.13,4.64
+2026-06-12,Umea FC,Pitea,2,0,1.50,4.45,4.83
+2026-06-13,Jarfalla,Arlanda,2,3,3.37,3.81,1.87
+2026-06-13,Stocksund,Sollentuna,3,3,3.10,3.93,1.92
+2026-06-13,Karlstad,Gefle,2,0,1.48,4.18,5.40
+2026-06-14,AFC Eskilstuna,Assyriska FF,1,0,1.93,3.63,3.24
+2026-06-14,Enkoping SK,Vasalund,1,1,2.48,3.75,2.30
+2026-06-14,Stockholm Internazionale,FBK Karlstad,3,1,1.75,3.67,3.94
+2026-06-14,Karlbergs,Hammarby TFF,0,2,4.20,3.99,1.65
+2026-06-18,Arlanda,Stocksund,1,0,1.48,4.55,4.81
+2026-06-18,Gefle,Stockholm Internazionale,0,2,4.55,3.91,1.61
+2026-06-18,Hammarby TFF,Jarfalla,1,1,1.17,6.97,11.05
+2026-06-18,Sollentuna,FBK Karlstad,0,2,3.31,3.30,2.03
+2026-06-18,Vasalund,Karlbergs,0,4,1.88,3.80,3.29
+2026-06-21,Assyriska FF,Karlstad,2,2,3.89,3.72,1.72
+2026-06-21,Enkoping SK,Umea FC,3,1,2.27,3.60,2.62
+2026-06-21,Pitea,AFC Eskilstuna,2,2,3.05,3.77,1.97
+2026-06-24,Karlbergs,Pitea,3,1,1.38,4.66,6.20
+2026-06-26,Assyriska FF,Vasalund,3,1,2.78,3.68,2.10
+2026-06-26,FBK Karlstad,Hammarby TFF,0,7,3.42,3.41,1.96
+2026-06-26,Sollentuna,AFC Eskilstuna,1,4,2.14,3.68,2.78
+2026-06-27,Arlanda,Karlstad,1,0,3.16,3.56,1.94
+2026-06-27,Stockholm Internazionale,Enkoping SK,2,0,1.36,4.87,6.52
+2026-06-27,Gefle,Stocksund,2,1,1.83,4.07,3.29
+2026-06-28,Umea FC,Jarfalla,1,3,1.69,4.25,3.74
+2026-08-01,FBK Karlstad,Assyriska FF,0,2,1.71,3.74,3.98
+2026-08-01,Jarfalla,Stockholm Internazionale,0,4,5.19,4.16,1.51
+2026-08-01,Stocksund,Karlbergs,0,2,3.17,3.80,1.93
+2026-08-01,Pitea,Gefle,0,2,3.10,3.49,2.04
+2026-08-02,AFC Eskilstuna,Umea FC,1,0,2.05,3.90,2.85
+2026-08-02,Karlstad,Enkoping SK,2,1,1.45,4.34,5.62
+2026-08-03,Hammarby TFF,Arlanda,5,1,1.51,4.12,5.34
+2026-08-03,Vasalund,Sollentuna,1,1,2.10,3.44,3.10
+2026-08-07,Enkoping SK,Karlbergs,2,1,2.55,3.54,2.31
+2026-08-08,Jarfalla,Karlstad,1,4,5.42,4.23,1.48
+2026-08-08,Stocksund,Gefle,5,0,3.00,3.80,1.99
+2026-08-09,Assyriska FF,Sollentuna,3,0,2.19,3.42,2.81
+2026-08-09,Arlanda,Pitea,0,0,1.41,4.48,5.98
+2026-08-09,Hammarby TFF,FBK Karlstad,1,1,1.24,5.67,8.87
+2026-08-09,Umea FC,AFC Eskilstuna,1,3,2.13,3.79,2.77
+2026-08-09,Vasalund,Stockholm Internazionale,2,0,4.11,3.70,1.72
+2026-08-14,AFC Eskilstuna,Hammarby TFF,1,0,3.71,4.14,1.71
+2026-08-15,Gefle,Umea FC,2,0,2.08,3.55,2.97
+2026-08-15,Karlbergs,Stocksund,2,0,1.86,4.09,3.21
+2026-08-15,Karlstad,Assyriska FF,0,2,1.48,4.23,5.05
+2026-08-15,Sollentuna,Jarfalla,2,1,1.85,3.65,3.54
+2026-08-16,FBK Karlstad,Enkoping SK,2,0,1.92,3.66,3.32
+2026-08-16,Stockholm Internazionale,Arlanda,4,1,1.42,4.36,6.05
+2026-08-16,Pitea,Vasalund,1,1,3.61,3.73,1.81
+2026-08-21,Stockholm Internazionale,Jarfalla,2,0,1.17,6.95,11.21
+2026-08-22,Sollentuna,Karlstad,2,1,4.07,3.56,1.76
+2026-08-23,Assyriska FF,Gefle,1,2,1.96,3.54,3.21
+2026-08-23,Arlanda,FBK Karlstad,5,1,2.62,3.46,2.34
+2026-08-23,Hammarby TFF,Pitea,1,1,1.16,7.19,10.74
+2026-08-23,Karlbergs,AFC Eskilstuna,0,3,2.31,3.62,2.57
+2026-08-23,Umea FC,Enkoping SK,0,0,2.17,3.73,2.71
+2026-08-23,Vasalund,Stocksund,4,3,1.81,3.96,3.45
+2026-08-29,AFC Eskilstuna,Sollentuna,2,1,1.63,3.98,4.30
+2026-08-29,Jarfalla,Assyriska FF,0,2,3.55,3.72,1.81
+2026-08-29,Gefle,Karlstad,2,2,3.37,3.25,2.02
+2026-08-29,Stocksund,Arlanda,2,3,3.05,4.09,1.91
+2026-08-30,Enkoping SK,Stockholm Internazionale,0,3,7.46,4.56,1.34
+2026-08-30,FBK Karlstad,Pitea,4,3,1.74,3.72,3.94
+2026-08-30,Umea FC,Vasalund,3,2,2.21,3.68,2.61
+2026-08-31,Hammarby TFF,Karlbergs,0,0,1.31,5.29,7.24
+2026-09-04,Assyriska FF,Stocksund,2,1,1.69,4.12,3.72
+2026-09-05,Jarfalla,FBK Karlstad,0,3,3.18,3.64,1.95
+2026-09-05,Stockholm Internazionale,Hammarby TFF,3,0,2.03,3.08,3.56
+2026-09-05,Karlstad,AFC Eskilstuna,1,2,1.90,3.62,3.34
+2026-09-05,Sollentuna,Gefle,1,0,2.46,3.28,2.56
+2026-09-06,Arlanda,Umea FC,1,2,1.79,3.84,3.62
+2026-09-06,Pitea,Karlbergs,3,0,2.63,3.52,2.30
+2026-09-06,Vasalund,Enkoping SK,2,3,1.74,3.83,3.81
+2026-09-10,Enkoping SK,Assyriska FF,2,1,2.62,3.53,2.30
+2026-09-12,FBK Karlstad,Vasalund,2,1,2.08,3.71,2.84
+2026-09-12,Gefle,Jarfalla,3,1,1.49,4.23,5.28
+2026-09-12,Hammarby TFF,Sollentuna,1,0,1.29,5.26,7.73
+2026-09-12,Stocksund,Karlstad,2,1,4.34,4.19,1.58
+2026-09-12,Karlbergs,Arlanda,1,0,2.50,3.64,2.37
+2026-09-13,AFC Eskilstuna,Pitea,1,0,1.56,4.11,4.72
+2026-09-13,Umea FC,Stockholm Internazionale,0,4,5.04,4.09,1.52
+2026-09-16,Gefle,Arlanda,0,2,2.15,3.48,2.89
+2026-09-16,Karlstad,FBK Karlstad,0,0,1.75,3.68,4.03
+2026-09-16,Pitea,Umea FC,0,2,2.64,3.55,2.27
+2026-09-16,Sollentuna,Enkoping SK,2,3,2.14,3.50,2.89
+2026-09-17,Assyriska FF,AFC Eskilstuna,2,5,2.45,3.58,2.38
+2026-09-17,Jarfalla,Karlbergs,5,0,3.48,3.73,1.84
+2026-09-17,Stockholm Internazionale,Stocksund,5,2,1.13,7.97,13.34
+2026-09-17,Vasalund,Hammarby TFF,0,0,4.31,3.99,1.62
+2026-09-19,Enkoping SK,Karlstad,2,2,3.83,3.65,1.78
+2026-09-19,FBK Karlstad,Sollentuna,0,0,1.76,3.68,3.93
+2026-09-20,AFC Eskilstuna,Gefle,0,1,1.51,4.17,5.19
+2026-09-20,Stocksund,Umea FC,0,3,2.64,3.94,2.13
+2026-09-20,Karlbergs,Stockholm Internazionale,0,2,8.02,5.21,1.28
+2026-09-20,Pitea,Jarfalla,3,1,1.81,3.81,3.53
+2026-09-21,Arlanda,Hammarby TFF,4,2,4.25,3.76,1.68
+2026-09-21,Vasalund,Assyriska FF,1,5,2.30,3.50,2.57
+2026-09-25,Hammarby TFF,Stocksund,2,1,1.26,5.74,7.84
+2026-09-26,Jarfalla,AFC Eskilstuna,2,4,4.17,4.40,1.60
+2026-09-26,Sollentuna,Stockholm Internazionale,1,2,6.93,4.64,1.36
+2026-09-27,Assyriska FF,Pitea,1,2,1.66,3.95,4.05
+2026-09-27,Arlanda,Enkoping SK,2,0,1.59,4.14,4.41
+2026-09-27,Gefle,Vasalund,0,1,1.96,3.55,3.27
+2026-09-27,Karlstad,Karlbergs,1,1,1.49,4.20,5.30
+2026-09-27,Umea FC,FBK Karlstad,1,3,2.33,3.48,2.60
