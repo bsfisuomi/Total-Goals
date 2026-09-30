@@ -16,27 +16,27 @@ Anvandning:
 import os
 import sys
 import json
+import gzip
 import urllib.request
 import urllib.parse
 
 sys.path.insert(0, os.path.dirname(__file__))
 from scan_league import LEAGUE_SLUGS, API_BASE
-
-try:
-    from telegram_bot import load_env
-    load_env()
-except Exception:
-    pass
+from telegram_bot import load_env
 
 
 def get_all_football_leagues():
-    key = os.environ.get("ODDS_API_KEY")
+    key = os.environ.get("ODDS_API_KEY") or load_env().get("ODDS_API_KEY")
     if not key:
-        raise RuntimeError("Satt miljovariabeln ODDS_API_KEY forst (se .env)")
+        raise RuntimeError("Satt miljovariabeln ODDS_API_KEY forst (eller lagg den i .env i projektroten)")
     params = {"sport": "football", "apiKey": key}
     url = f"{API_BASE}/leagues?{urllib.parse.urlencode(params)}"
-    with urllib.request.urlopen(url, timeout=20) as resp:
-        return json.loads(resp.read().decode())
+    req = urllib.request.Request(url, headers={"Accept-Encoding": "gzip"})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        raw = resp.read()
+        if resp.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
+            raw = gzip.decompress(raw)
+        return json.loads(raw.decode("utf-8"))
 
 
 def main():
