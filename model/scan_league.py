@@ -36,7 +36,7 @@ import urllib.parse
 sys.path.insert(0, os.path.dirname(__file__))
 from tot_model import load_league, team_tot_snitt, dnb_probabilities, predict_tot, LAST_N, LEAGUES
 from value_scan import find_goal_line_value
-from telegram_bot import format_value_bet, format_report, send_message
+from telegram_bot import format_value_bet, format_report, send_message, load_env
 
 API_BASE = "https://api.odds-api.io/v3"
 
@@ -148,9 +148,9 @@ def resolve_team(name, known_teams):
 
 
 def api_get(path, params):
-    key = os.environ.get("ODDS_API_KEY")
+    key = os.environ.get("ODDS_API_KEY") or load_env().get("ODDS_API_KEY")
     if not key:
-        raise RuntimeError("Satt miljovariabeln ODDS_API_KEY forst")
+        raise RuntimeError("Satt miljovariabeln ODDS_API_KEY forst (eller lagg den i .env i projektroten)")
     params = dict(params)
     params["apiKey"] = key
     url = f"{API_BASE}{path}?{urllib.parse.urlencode(params)}"
