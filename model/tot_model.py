@@ -91,6 +91,22 @@ LEAGUES = {
         "files": [_p("Poland", "III Liga Grupp 3", "2025.csv"), _p("Poland", "III Liga Grupp 3", "2026.csv")],
         "season_start": "2026-06-01",
     },
+    "germany-3-liga": {
+        # Uppflyttade fran Regionalliga i sommar (bekraftat via kollisionskoll,
+        # bara ett overlapp per grupp): Meppen (North), Fortuna Koln (West),
+        # Grossaspach (Sudwest), Wurzburger Kickers (Bayern). Dusseldorf och
+        # Preussen Munster hittades inte i nagon Regionalliga-grupp - troligen
+        # nedflyttade fran 2. Bundesliga istallet, ingen fallback-data for dem.
+        "files": [
+            _p("Germany", "3. Liga", "2025-26.csv"),
+            _p("Germany", "Regionalliga North", "2025-26.csv"),
+            _p("Germany", "Regionalliga West", "2025-26.csv"),
+            _p("Germany", "Regionalliga Sudwest", "2025-26.csv"),
+            _p("Germany", "Regionalliga Bayern", "2025-26.csv"),
+            _p("Germany", "3. Liga", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
     "germany-regionalliga-north": {
         "files": [_p("Germany", "Regionalliga North", "2025-26.csv"), _p("Germany", "Regionalliga North", "2026-27.csv")],
         "season_start": "2026-07-01",
@@ -100,15 +116,32 @@ LEAGUES = {
         "season_start": "2026-07-01",
     },
     "germany-regionalliga-sudwest": {
-        "files": [_p("Germany", "Regionalliga Sudwest", "2025-26.csv"), _p("Germany", "Regionalliga Sudwest", "2026-27.csv")],
+        # Ulm akte ner fran 3. Liga i sommar - 3. Ligas forra sasong laggs till
+        # som fallback for dess TOT-snitt (enda overlappet, kollisionskollat).
+        "files": [
+            _p("Germany", "Regionalliga Sudwest", "2025-26.csv"),
+            _p("Germany", "3. Liga", "2025-26.csv"),
+            _p("Germany", "Regionalliga Sudwest", "2026-27.csv"),
+        ],
         "season_start": "2026-07-01",
     },
     "germany-regionalliga-nordost": {
-        "files": [_p("Germany", "Regionalliga Nordost", "2025-26.csv"), _p("Germany", "Regionalliga Nordost", "2026-27.csv")],
+        # Aue akte ner fran 3. Liga i sommar - samma fallback-logik som Sudwest.
+        "files": [
+            _p("Germany", "Regionalliga Nordost", "2025-26.csv"),
+            _p("Germany", "3. Liga", "2025-26.csv"),
+            _p("Germany", "Regionalliga Nordost", "2026-27.csv"),
+        ],
         "season_start": "2026-07-01",
     },
     "germany-regionalliga-bayern": {
-        "files": [_p("Germany", "Regionalliga Bayern", "2025-26.csv"), _p("Germany", "Regionalliga Bayern", "2026-27.csv")],
+        # Schweinfurt och Munich 1860 akte ner fran 3. Liga i sommar - samma
+        # fallback-logik som Sudwest/Nordost.
+        "files": [
+            _p("Germany", "Regionalliga Bayern", "2025-26.csv"),
+            _p("Germany", "3. Liga", "2025-26.csv"),
+            _p("Germany", "Regionalliga Bayern", "2026-27.csv"),
+        ],
         "season_start": "2026-07-01",
     },
     "wales-cymru-premier": {
