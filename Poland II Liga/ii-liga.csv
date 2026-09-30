@@ -1,0 +1,380 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-07-25,Ol. Grudziadz,S. Wola,1,1,3.02,3.57,2.04
+2025-07-25,Podbeskidzie,Sandecja Nowy S.,1,3,1.74,3.50,4.12
+2025-07-25,Swit Szczecin,KKS Kalisz,0,3,2.21,3.33,2.86
+2025-07-26,Hutnik Krakow,LKS Lodz II,4,1,1.66,3.75,4.50
+2025-07-26,Podhale Nowy Targ,GKS Jastrzebie,3,0,1.49,3.93,5.69
+2025-07-26,Slask Wroclaw II,Bielsko-Biala,1,2,2.40,3.34,2.62
+2025-07-27,Kleczew,Zaglebie Sosnowiec,1,2,3.61,3.49,1.85
+2025-07-27,R. Rzeszow,Chojniczanka,1,1,2.59,3.18,2.49
+2025-07-27,Skierniewice,Warta Poznan,2,1,1.78,3.55,3.88
+2025-08-01,Bielsko-Biala,Podhale Nowy Targ,1,1,2.34,3.38,2.57
+2025-08-01,S. Wola,Podbeskidzie,5,2,2.50,3.08,2.65
+2025-08-02,GKS Jastrzebie,LKS Lodz II,1,1,2.32,3.45,2.63
+2025-08-02,Sandecja Nowy S.,Swit Szczecin,2,2,2.04,3.25,3.19
+2025-08-02,Slask Wroclaw II,Hutnik Krakow,1,1,2.40,3.38,2.58
+2025-08-02,Skierniewice,Ol. Grudziadz,1,2,2.32,3.14,2.84
+2025-08-02,Zaglebie Sosnowiec,R. Rzeszow,1,5,1.61,3.63,4.84
+2025-08-03,Chojniczanka,Warta Poznan,2,1,1.50,3.79,6.02
+2025-08-03,KKS Kalisz,Kleczew,1,1,2.12,3.07,3.33
+2025-08-08,Podbeskidzie,Slask Wroclaw II,0,0,1.50,4.20,5.14
+2025-08-09,Hutnik Krakow,R. Rzeszow,1,3,2.17,3.58,2.76
+2025-08-09,Kleczew,GKS Jastrzebie,2,1,1.71,3.82,3.75
+2025-08-09,Sandecja Nowy S.,Bielsko-Biala,1,0,2.26,3.38,2.77
+2025-08-09,S. Wola,KKS Kalisz,1,0,1.47,3.92,5.97
+2025-08-10,LKS Lodz II,Chojniczanka,3,1,3.33,3.36,1.95
+2025-08-10,Ol. Grudziadz,Podhale Nowy Targ,0,1,1.93,3.38,3.56
+2025-08-10,Swit Szczecin,Warta Poznan,1,1,2.22,3.32,2.88
+2025-08-10,Zaglebie Sosnowiec,Skierniewice,0,3,1.84,3.66,3.55
+2025-08-15,Chojniczanka,Podbeskidzie,0,1,2.23,3.28,2.83
+2025-08-15,GKS Jastrzebie,Sandecja Nowy S.,2,3,3.52,3.20,1.97
+2025-08-15,Bielsko-Biala,Kleczew,2,1,1.99,3.31,3.32
+2025-08-15,R. Rzeszow,Ol. Grudziadz,1,1,2.16,3.25,3.01
+2025-08-15,Skierniewice,Swit Szczecin,1,2,1.97,3.31,3.39
+2025-08-16,Slask Wroclaw II,Zaglebie Sosnowiec,1,1,2.81,3.43,2.20
+2025-08-17,KKS Kalisz,Hutnik Krakow,1,3,2.17,3.24,2.97
+2025-08-17,LKS Lodz II,Warta Poznan,0,0,2.60,3.20,2.47
+2025-08-17,Podhale Nowy Targ,S. Wola,1,1,2.48,3.31,2.47
+2025-08-22,Kleczew,R. Rzeszow,2,2,2.74,3.31,2.29
+2025-08-22,Bielsko-Biala,Warta Poznan,2,2,2.27,3.39,2.72
+2025-08-22,S. Wola,Skierniewice,2,2,1.84,3.63,3.54
+2025-08-23,Chojniczanka,KKS Kalisz,3,3,1.60,3.80,4.69
+2025-08-23,Hutnik Krakow,Sandecja Nowy S.,2,1,2.54,3.36,2.44
+2025-08-23,Podbeskidzie,LKS Lodz II,1,0,1.36,4.68,6.73
+2025-08-23,Podhale Nowy Targ,Zaglebie Sosnowiec,1,1,2.13,3.22,3.10
+2025-08-23,Swit Szczecin,GKS Jastrzebie,3,1,1.67,3.76,4.30
+2025-08-24,Ol. Grudziadz,Slask Wroclaw II,3,2,1.57,3.80,5.03
+2025-08-29,R. Rzeszow,Podhale Nowy Targ,1,1,2.31,3.38,2.65
+2025-08-29,Skierniewice,Bielsko-Biala,5,1,1.68,3.95,3.98
+2025-08-30,GKS Jastrzebie,Warta Poznan,1,1,3.01,3.21,2.18
+2025-08-30,KKS Kalisz,LKS Lodz II,1,0,1.90,3.53,3.43
+2025-08-30,Podbeskidzie,Hutnik Krakow,3,3,1.73,3.50,4.16
+2025-08-30,Slask Wroclaw II,S. Wola,3,2,2.49,3.51,2.41
+2025-08-31,Sandecja Nowy S.,Chojniczanka,1,1,2.40,3.19,2.69
+2025-08-31,Zaglebie Sosnowiec,Ol. Grudziadz,3,3,2.23,3.23,2.92
+2025-09-03,Swit Szczecin,Kleczew,3,1,2.41,3.47,2.55
+2025-09-05,R. Rzeszow,Slask Wroclaw II,2,3,1.83,3.67,3.54
+2025-09-06,Podhale Nowy Targ,Skierniewice,1,0,2.10,3.41,3.02
+2025-09-06,Bielsko-Biala,KKS Kalisz,0,1,2.36,3.22,2.68
+2025-09-07,S. Wola,Swit Szczecin,5,2,1.64,3.82,4.35
+2025-09-07,Warta Poznan,Zaglebie Sosnowiec,1,0,2.34,3.28,2.66
+2025-09-12,Kleczew,Podhale Nowy Targ,2,2,2.58,3.48,2.35
+2025-09-12,LKS Lodz II,Ol. Grudziadz,2,4,2.69,3.26,2.40
+2025-09-12,Skierniewice,Hutnik Krakow,2,0,1.80,3.64,3.63
+2025-09-13,GKS Jastrzebie,Chojniczanka,1,1,4.62,3.77,1.62
+2025-09-13,Bielsko-Biala,Zaglebie Sosnowiec,1,2,2.49,3.31,2.50
+2025-09-13,Sandecja Nowy S.,S. Wola,2,3,2.41,3.32,2.61
+2025-09-14,KKS Kalisz,Podbeskidzie,0,1,2.83,3.06,2.37
+2025-09-14,Slask Wroclaw II,Warta Poznan,0,1,2.45,3.16,2.63
+2025-09-14,Swit Szczecin,R. Rzeszow,1,2,2.65,3.28,2.35
+2025-09-16,LKS Lodz II,Sandecja Nowy S.,2,2,2.76,3.21,2.33
+2025-09-17,Chojniczanka,Kleczew,1,4,1.65,3.65,4.46
+2025-09-17,Hutnik Krakow,GKS Jastrzebie,3,0,1.59,3.80,4.65
+2025-09-17,Ol. Grudziadz,Podbeskidzie,2,1,2.51,3.15,2.54
+2025-09-19,S. Wola,LKS Lodz II,1,1,1.44,4.25,5.90
+2025-09-19,Zaglebie Sosnowiec,Swit Szczecin,3,0,1.63,3.92,4.23
+2025-09-20,Chojniczanka,Slask Wroclaw II,2,4,1.89,3.64,3.37
+2025-09-20,Hutnik Krakow,Bielsko-Biala,2,2,1.82,3.73,3.58
+2025-09-20,Ol. Grudziadz,GKS Jastrzebie,3,0,1.40,4.53,6.19
+2025-09-20,Podbeskidzie,Skierniewice,3,0,2.08,3.38,3.10
+2025-09-20,Warta Poznan,Kleczew,3,2,1.87,3.52,3.53
+2025-09-21,Podhale Nowy Targ,KKS Kalisz,1,1,1.58,3.84,4.92
+2025-09-21,R. Rzeszow,Sandecja Nowy S.,0,2,2.00,3.32,3.27
+2025-09-26,Warta Poznan,S. Wola,3,1,2.34,3.20,2.79
+2025-09-27,KKS Kalisz,Ol. Grudziadz,0,3,3.40,3.31,1.98
+2025-09-27,Sandecja Nowy S.,Skierniewice,1,3,2.26,3.49,2.69
+2025-09-27,Slask Wroclaw II,Podhale Nowy Targ,0,1,2.80,3.36,2.25
+2025-09-27,Swit Szczecin,Chojniczanka,2,2,3.11,3.56,2.00
+2025-09-28,GKS Jastrzebie,R. Rzeszow,1,2,4.47,3.51,1.70
+2025-09-28,Kleczew,Hutnik Krakow,2,0,2.41,3.39,2.55
+2025-09-28,Podbeskidzie,Bielsko-Biala,2,3,1.73,3.61,4.08
+2025-09-29,LKS Lodz II,Zaglebie Sosnowiec,1,3,4.01,3.55,1.76
+2025-10-03,KKS Kalisz,Sandecja Nowy S.,1,2,2.62,3.20,2.48
+2025-10-04,Podbeskidzie,Warta Poznan,2,3,2.17,3.21,3.05
+2025-10-04,Podhale Nowy Targ,LKS Lodz II,1,0,1.39,4.38,6.49
+2025-10-04,Skierniewice,Slask Wroclaw II,2,1,1.82,3.70,3.58
+2025-10-05,Hutnik Krakow,Swit Szczecin,1,3,2.21,3.53,2.75
+2025-10-05,Ol. Grudziadz,Kleczew,2,1,1.61,3.82,4.64
+2025-10-05,R. Rzeszow,Bielsko-Biala,1,0,1.86,3.58,3.54
+2025-10-05,S. Wola,Chojniczanka,2,3,1.90,3.55,3.45
+2025-10-05,Zaglebie Sosnowiec,GKS Jastrzebie,1,0,1.24,5.25,9.43
+2025-10-10,LKS Lodz II,R. Rzeszow,0,0,3.04,3.54,2.05
+2025-10-11,GKS Jastrzebie,KKS Kalisz,0,1,2.86,3.51,2.15
+2025-10-11,Kleczew,Skierniewice,1,3,3.13,3.47,2.01
+2025-10-11,Swit Szczecin,Podhale Nowy Targ,3,0,2.62,3.41,2.35
+2025-10-11,Warta Poznan,Ol. Grudziadz,3,2,2.49,3.13,2.63
+2025-10-12,Bielsko-Biala,S. Wola,1,0,2.13,3.62,2.82
+2025-10-17,Skierniewice,GKS Jastrzebie,2,0,1.22,5.53,10.40
+2025-10-17,Warta Poznan,Hutnik Krakow,2,1,1.81,3.58,3.70
+2025-10-18,KKS Kalisz,R. Rzeszow,0,0,3.20,3.39,2.03
+2025-10-18,Podhale Nowy Targ,Sandecja Nowy S.,1,1,1.99,3.37,3.32
+2025-10-18,Slask Wroclaw II,Kleczew,2,4,1.81,3.68,3.62
+2025-10-19,LKS Lodz II,Bielsko-Biala,0,3,2.66,3.53,2.26
+2025-10-19,Ol. Grudziadz,Chojniczanka,2,1,2.17,3.29,2.99
+2025-10-19,Podbeskidzie,Swit Szczecin,1,0,1.85,3.53,3.65
+2025-10-19,S. Wola,Zaglebie Sosnowiec,2,0,2.44,3.39,2.54
+2025-10-21,Sandecja Nowy S.,Slask Wroclaw II,0,4,1.97,3.52,3.24
+2025-10-22,Chojniczanka,Hutnik Krakow,2,1,1.72,3.86,3.89
+2025-10-22,Zaglebie Sosnowiec,Podbeskidzie,2,0,1.87,3.54,3.57
+2025-10-24,KKS Kalisz,Slask Wroclaw II,1,2,2.55,3.27,2.50
+2025-10-24,Swit Szczecin,LKS Lodz II,3,1,1.93,3.43,3.44
+2025-10-25,Chojniczanka,Podhale Nowy Targ,0,0,2.08,3.33,3.09
+2025-10-25,GKS Jastrzebie,Podbeskidzie,2,2,4.58,3.87,1.61
+2025-10-25,Hutnik Krakow,Zaglebie Sosnowiec,0,0,2.88,3.54,2.11
+2025-10-25,Bielsko-Biala,Ol. Grudziadz,2,2,2.32,3.32,2.70
+2025-10-26,Kleczew,S. Wola,1,1,2.84,3.47,2.14
+2025-10-26,R. Rzeszow,Skierniewice,1,2,2.47,3.34,2.52
+2025-10-26,Sandecja Nowy S.,Warta Poznan,1,1,2.36,3.21,2.69
+2025-10-31,Kleczew,Podbeskidzie,5,2,2.87,3.57,2.09
+2025-10-31,Bielsko-Biala,GKS Jastrzebie,2,2,1.42,4.28,6.06
+2025-10-31,Slask Wroclaw II,Swit Szczecin,2,2,1.83,3.61,3.59
+2025-10-31,S. Wola,R. Rzeszow,1,1,1.93,3.54,3.30
+2025-10-31,Skierniewice,LKS Lodz II,3,1,1.50,4.05,5.28
+2025-10-31,Warta Poznan,KKS Kalisz,4,2,1.55,3.77,5.16
+2025-10-31,Zaglebie Sosnowiec,Chojniczanka,0,2,1.71,3.68,4.06
+2025-11-02,Ol. Grudziadz,Sandecja Nowy S.,1,0,1.80,3.47,3.89
+2025-11-02,Podhale Nowy Targ,Hutnik Krakow,1,0,1.76,3.60,3.93
+2025-11-07,Chojniczanka,Skierniewice,1,2,1.86,3.39,3.82
+2025-11-07,Sandecja Nowy S.,Kleczew,2,1,2.24,3.28,2.88
+2025-11-08,GKS Jastrzebie,S. Wola,1,5,5.17,3.99,1.52
+2025-11-08,Swit Szczecin,Bielsko-Biala,3,2,2.46,3.32,2.54
+2025-11-08,Warta Poznan,Podhale Nowy Targ,2,0,2.19,3.19,3.03
+2025-11-09,Hutnik Krakow,Ol. Grudziadz,2,2,2.88,3.28,2.24
+2025-11-09,KKS Kalisz,Zaglebie Sosnowiec,1,1,2.72,3.35,2.35
+2025-11-09,Podbeskidzie,R. Rzeszow,3,0,2.17,3.42,2.90
+2025-11-10,LKS Lodz II,Slask Wroclaw II,1,4,3.23,3.38,2.02
+2025-11-14,S. Wola,Hutnik Krakow,2,2,1.79,3.62,3.68
+2025-11-15,Ol. Grudziadz,Swit Szczecin,1,1,1.65,3.77,4.39
+2025-11-16,Podhale Nowy Targ,Podbeskidzie,2,0,2.14,3.27,3.06
+2025-11-16,Bielsko-Biala,Chojniczanka,0,5,2.55,3.46,2.38
+2025-11-16,R. Rzeszow,Warta Poznan,0,2,2.30,3.18,2.83
+2025-11-16,Slask Wroclaw II,GKS Jastrzebie,2,2,1.37,4.62,6.52
+2025-11-16,Skierniewice,KKS Kalisz,1,1,1.51,4.07,5.21
+2025-11-21,LKS Lodz II,Hutnik Krakow,2,0,2.99,3.23,2.17
+2025-11-21,Zaglebie Sosnowiec,Kleczew,1,2,1.48,4.26,5.21
+2025-11-22,Chojniczanka,R. Rzeszow,2,0,1.82,3.51,3.70
+2025-11-22,GKS Jastrzebie,Podhale Nowy Targ,0,3,4.91,3.95,1.54
+2025-11-22,KKS Kalisz,Swit Szczecin,3,4,2.68,3.36,2.30
+2025-11-22,Bielsko-Biala,Slask Wroclaw II,1,1,2.17,3.40,2.87
+2025-11-22,Warta Poznan,Skierniewice,0,2,2.15,3.15,3.09
+2025-11-23,Sandecja Nowy S.,Podbeskidzie,0,0,2.18,3.30,2.94
+2025-11-23,S. Wola,Ol. Grudziadz,2,2,1.94,3.40,3.40
+2025-11-28,R. Rzeszow,Zaglebie Sosnowiec,3,0,2.88,3.36,2.19
+2025-11-29,LKS Lodz II,GKS Jastrzebie,1,1,1.57,3.78,5.01
+2025-11-29,Podhale Nowy Targ,Bielsko-Biala,3,2,1.66,3.61,4.53
+2025-11-29,Warta Poznan,Chojniczanka,1,0,2.41,3.11,2.74
+2025-11-30,Hutnik Krakow,Slask Wroclaw II,1,0,2.41,3.29,2.63
+2025-11-30,Kleczew,KKS Kalisz,0,0,2.25,3.37,2.78
+2025-11-30,Ol. Grudziadz,Skierniewice,1,2,2.25,3.27,2.85
+2025-11-30,Podbeskidzie,S. Wola,3,1,2.34,3.40,2.63
+2025-11-30,Swit Szczecin,Sandecja Nowy S.,2,0,2.35,3.37,2.64
+2025-12-04,Kleczew,LKS Lodz II,2,2,2.03,3.41,3.15
+2026-02-21,Slask Wroclaw II,Podbeskidzie,0,5,3.08,3.33,2.08
+2026-02-22,Podhale Nowy Targ,Ol. Grudziadz,1,2,1.99,3.14,3.55
+2026-02-22,R. Rzeszow,Hutnik Krakow,2,0,1.97,3.40,3.28
+2026-02-24,Zaglebie Sosnowiec,Sandecja Nowy S.,1,2,1.95,3.41,3.32
+2026-02-27,Podbeskidzie,Chojniczanka,2,2,2.04,3.34,3.16
+2026-02-28,Hutnik Krakow,KKS Kalisz,4,0,2.19,3.28,2.95
+2026-02-28,Kleczew,Bielsko-Biala,0,1,2.47,3.36,2.48
+2026-02-28,Swit Szczecin,Skierniewice,2,3,2.92,3.45,2.13
+2026-02-28,Warta Poznan,LKS Lodz II,2,2,1.42,4.10,6.55
+2026-02-28,Zaglebie Sosnowiec,Slask Wroclaw II,1,4,1.70,3.58,4.23
+2026-03-01,Ol. Grudziadz,R. Rzeszow,2,1,2.06,3.23,3.22
+2026-03-01,Sandecja Nowy S.,GKS Jastrzebie,5,0,1.26,5.00,9.35
+2026-03-01,S. Wola,Podhale Nowy Targ,0,0,2.11,3.31,3.08
+2026-03-06,LKS Lodz II,Podbeskidzie,1,4,3.50,3.47,1.89
+2026-03-06,R. Rzeszow,Kleczew,1,1,1.89,3.36,3.64
+2026-03-07,GKS Jastrzebie,Swit Szczecin,0,1,4.75,4.11,1.54
+2026-03-07,Sandecja Nowy S.,Hutnik Krakow,1,0,1.87,3.40,3.63
+2026-03-07,Warta Poznan,Bielsko-Biala,1,1,1.82,3.45,3.79
+2026-03-07,Zaglebie Sosnowiec,Podhale Nowy Targ,1,0,2.42,3.14,2.69
+2026-03-08,KKS Kalisz,Chojniczanka,0,1,3.38,3.30,1.94
+2026-03-08,Slask Wroclaw II,Ol. Grudziadz,1,0,3.07,3.31,2.10
+2026-03-08,Skierniewice,S. Wola,3,2,1.91,3.37,3.48
+2026-03-12,LKS Lodz II,KKS Kalisz,2,0,3.08,3.31,2.10
+2026-03-13,Kleczew,Swit Szczecin,3,0,2.38,3.54,2.49
+2026-03-13,Bielsko-Biala,Skierniewice,0,2,2.58,3.31,2.42
+2026-03-13,S. Wola,Slask Wroclaw II,0,1,1.75,3.67,3.91
+2026-03-13,Warta Poznan,GKS Jastrzebie,3,1,1.20,5.53,11.68
+2026-03-14,Chojniczanka,Sandecja Nowy S.,0,1,2.08,3.21,3.16
+2026-03-14,Hutnik Krakow,Podbeskidzie,1,0,2.97,3.46,2.09
+2026-03-15,Ol. Grudziadz,Zaglebie Sosnowiec,7,1,2.16,3.23,2.99
+2026-03-15,Podhale Nowy Targ,R. Rzeszow,2,1,1.95,3.32,3.50
+2026-03-18,Chojniczanka,LKS Lodz II,0,1,1.54,3.83,5.18
+2026-03-18,GKS Jastrzebie,Kleczew,1,2,4.60,3.84,1.58
+2026-03-18,KKS Kalisz,S. Wola,1,1,3.64,3.28,1.88
+2026-03-18,Bielsko-Biala,Sandecja Nowy S.,1,1,2.74,3.09,2.41
+2026-03-18,Skierniewice,Zaglebie Sosnowiec,3,2,1.51,4.07,5.13
+2026-03-18,Warta Poznan,Swit Szczecin,0,0,1.71,3.54,4.27
+2026-03-21,GKS Jastrzebie,Hutnik Krakow,0,2,5.94,4.08,1.45
+2026-03-21,Sandecja Nowy S.,LKS Lodz II,4,1,1.54,3.92,5.08
+2026-03-21,Swit Szczecin,S. Wola,0,0,2.51,3.47,2.40
+2026-03-22,KKS Kalisz,Bielsko-Biala,2,1,2.94,3.42,2.14
+2026-03-22,Kleczew,Chojniczanka,0,2,3.01,3.40,2.10
+2026-03-22,Podbeskidzie,Ol. Grudziadz,1,1,2.25,3.37,2.79
+2026-03-22,Slask Wroclaw II,R. Rzeszow,5,0,2.34,3.32,2.70
+2026-03-22,Skierniewice,Podhale Nowy Targ,3,3,1.74,3.77,3.84
+2026-03-22,Zaglebie Sosnowiec,Warta Poznan,2,2,2.45,3.31,2.55
+2026-03-27,Ol. Grudziadz,LKS Lodz II,2,0,1.41,4.28,6.52
+2026-03-28,Chojniczanka,GKS Jastrzebie,3,0,1.23,5.20,8.50
+2026-03-28,S. Wola,Sandecja Nowy S.,0,0,2.36,3.21,2.72
+2026-03-29,Hutnik Krakow,Skierniewice,1,1,3.07,3.45,2.06
+2026-03-29,Podbeskidzie,KKS Kalisz,4,1,1.47,4.05,5.89
+2026-03-29,R. Rzeszow,Swit Szczecin,3,1,1.77,3.52,3.95
+2026-03-29,Zaglebie Sosnowiec,Bielsko-Biala,0,4,2.08,3.44,3.03
+2026-04-02,GKS Jastrzebie,Ol. Grudziadz,0,3,6.10,4.25,1.38
+2026-04-02,KKS Kalisz,Podhale Nowy Targ,2,2,3.97,3.51,1.77
+2026-04-02,LKS Lodz II,S. Wola,0,2,3.57,3.54,1.87
+2026-04-02,Bielsko-Biala,Hutnik Krakow,0,0,2.19,3.37,2.87
+2026-04-02,Sandecja Nowy S.,R. Rzeszow,2,2,1.87,3.39,3.65
+2026-04-02,Slask Wroclaw II,Chojniczanka,1,2,2.78,3.42,2.22
+2026-04-04,Kleczew,Warta Poznan,1,3,2.81,3.28,2.23
+2026-04-04,Swit Szczecin,Zaglebie Sosnowiec,2,1,2.27,3.37,2.73
+2026-04-04,Skierniewice,Podbeskidzie,1,4,2.07,3.54,2.96
+2026-04-10,Chojniczanka,Swit Szczecin,2,1,1.61,3.78,4.60
+2026-04-11,Ol. Grudziadz,KKS Kalisz,3,1,1.46,4.09,6.10
+2026-04-11,Podhale Nowy Targ,Slask Wroclaw II,0,2,1.70,3.67,4.18
+2026-04-11,S. Wola,Warta Poznan,0,1,2.31,3.33,2.71
+2026-04-11,Zaglebie Sosnowiec,LKS Lodz II,0,2,2.14,3.34,2.96
+2026-04-12,Hutnik Krakow,Kleczew,2,0,1.93,3.64,3.21
+2026-04-12,Bielsko-Biala,Podbeskidzie,2,1,3.45,3.57,1.88
+2026-04-12,Skierniewice,Sandecja Nowy S.,2,2,1.96,3.47,3.28
+2026-04-15,Podhale Nowy Targ,Kleczew,4,0,1.51,3.91,5.43
+2026-04-15,Warta Poznan,Slask Wroclaw II,1,1,1.63,3.70,4.61
+2026-04-17,Sandecja Nowy S.,KKS Kalisz,1,1,1.40,4.21,6.67
+2026-04-18,Chojniczanka,S. Wola,3,3,1.77,3.43,4.06
+2026-04-18,Kleczew,Ol. Grudziadz,1,0,5.97,4.23,1.44
+2026-04-18,Bielsko-Biala,R. Rzeszow,2,1,2.33,3.30,2.71
+2026-04-19,LKS Lodz II,Podhale Nowy Targ,1,1,3.17,3.27,2.09
+2026-04-19,Slask Wroclaw II,Skierniewice,2,0,3.25,3.46,1.98
+2026-04-19,Swit Szczecin,Hutnik Krakow,1,4,2.52,3.31,2.46
+2026-04-19,Warta Poznan,Podbeskidzie,1,2,2.65,3.36,2.34
+2026-04-24,Podbeskidzie,Zaglebie Sosnowiec,2,0,1.57,3.96,4.62
+2026-04-24,R. Rzeszow,LKS Lodz II,3,0,1.61,3.76,4.61
+2026-04-24,S. Wola,Bielsko-Biala,1,1,1.94,3.43,3.34
+2026-04-25,Hutnik Krakow,Chojniczanka,1,1,2.30,3.17,2.79
+2026-04-25,Slask Wroclaw II,Sandecja Nowy S.,0,4,3.14,3.17,2.12
+2026-04-26,Ol. Grudziadz,Warta Poznan,2,4,1.90,3.37,3.63
+2026-04-26,Podhale Nowy Targ,Swit Szczecin,3,1,1.56,3.92,4.90
+2026-04-26,Skierniewice,Kleczew,2,0,1.37,4.71,6.27
+2026-04-30,Zaglebie Sosnowiec,S. Wola,0,0,3.15,3.36,2.06
+2026-05-01,Kleczew,Slask Wroclaw II,0,2,2.40,3.59,2.45
+2026-05-01,R. Rzeszow,KKS Kalisz,0,1,1.60,3.86,4.65
+2026-05-01,Swit Szczecin,Podbeskidzie,0,2,4.09,3.91,1.66
+2026-05-02,Bielsko-Biala,LKS Lodz II,1,0,1.50,4.04,5.29
+2026-05-03,Chojniczanka,Ol. Grudziadz,2,2,2.46,3.09,2.67
+2026-05-03,Hutnik Krakow,Warta Poznan,0,1,2.38,3.17,2.71
+2026-05-03,Sandecja Nowy S.,Podhale Nowy Targ,0,0,1.90,3.32,3.62
+2026-05-08,LKS Lodz II,Swit Szczecin,1,1,2.14,3.50,2.85
+2026-05-08,S. Wola,Kleczew,3,0,1.41,4.55,5.84
+2026-05-09,Ol. Grudziadz,Bielsko-Biala,2,0,1.58,3.79,4.80
+2026-05-09,Podhale Nowy Targ,Chojniczanka,3,2,1.72,3.50,4.29
+2026-05-09,Slask Wroclaw II,KKS Kalisz,3,2,1.85,3.47,3.62
+2026-05-10,Skierniewice,R. Rzeszow,2,1,1.69,3.74,4.09
+2026-05-10,Warta Poznan,Sandecja Nowy S.,0,0,2.62,3.13,2.47
+2026-05-10,Zaglebie Sosnowiec,Hutnik Krakow,0,2,3.22,3.21,2.07
+2026-05-15,LKS Lodz II,Skierniewice,1,3,4.23,3.66,1.66
+2026-05-15,R. Rzeszow,S. Wola,2,2,2.63,3.37,2.35
+2026-05-16,Chojniczanka,Zaglebie Sosnowiec,3,1,1.76,3.50,4.08
+2026-05-16,Podbeskidzie,Kleczew,3,0,1.30,5.21,7.40
+2026-05-17,Hutnik Krakow,Podhale Nowy Targ,1,0,2.49,3.20,2.56
+2026-05-17,KKS Kalisz,Warta Poznan,0,2,3.50,3.33,1.93
+2026-05-17,Sandecja Nowy S.,Ol. Grudziadz,1,3,2.13,3.35,3.01
+2026-05-17,Swit Szczecin,Slask Wroclaw II,4,3,2.44,3.39,2.49
+2026-05-22,Skierniewice,Chojniczanka,2,3,2.38,3.49,2.51
+2026-05-22,Zaglebie Sosnowiec,KKS Kalisz,3,0,2.08,3.45,3.00
+2026-05-23,Kleczew,Sandecja Nowy S.,2,5,4.91,3.83,1.57
+2026-05-23,Podhale Nowy Targ,Warta Poznan,2,2,2.34,3.23,2.72
+2026-05-23,Bielsko-Biala,Swit Szczecin,1,0,1.75,3.73,3.79
+2026-05-23,R. Rzeszow,Podbeskidzie,1,1,3.18,3.76,1.90
+2026-05-23,Slask Wroclaw II,LKS Lodz II,4,1,1.50,4.52,4.75
+2026-05-24,Ol. Grudziadz,Hutnik Krakow,2,2,1.76,3.72,3.77
+2026-05-30,Chojniczanka,Bielsko-Biala,2,0,1.69,3.74,4.12
+2026-05-30,Hutnik Krakow,S. Wola,0,1,2.86,3.22,2.24
+2026-05-30,KKS Kalisz,Skierniewice,2,1,4.77,4.03,1.54
+2026-05-30,LKS Lodz II,Kleczew,1,2,3.49,3.97,1.78
+2026-05-30,Podbeskidzie,Podhale Nowy Targ,2,1,2.01,3.31,3.25
+2026-05-30,Sandecja Nowy S.,Zaglebie Sosnowiec,1,0,1.39,4.38,6.25
+2026-05-30,Swit Szczecin,Ol. Grudziadz,0,1,4.09,3.99,1.63
+2026-05-30,Warta Poznan,R. Rzeszow,2,2,1.88,3.44,3.51
+2026-07-24,Pruszkow,R. Rzeszow,1,0,1.97,3.56,3.20
+2026-07-25,Legia II,S. Wola,0,2,2.34,3.32,2.67
+2026-07-25,Podhale Nowy Targ,Slask Wroclaw II,3,1,1.52,4.07,5.05
+2026-07-25,Sandecja Nowy S.,Hutnik Krakow,0,0,2.01,3.52,3.10
+2026-07-25,Swit Szczecin,Leczna,2,3,2.57,3.47,2.34
+2026-07-25,Zawisza,Kleczew,1,1,1.60,3.80,4.69
+2026-07-25,Zielona Gora,Bielsko-Biala,1,1,2.28,3.31,2.75
+2026-07-26,Avia Swidnik,Ol. Grudziadz,4,1,2.73,3.43,2.25
+2026-07-26,Chojniczanka,Tychy,0,1,2.49,3.30,2.49
+2026-07-31,Pruszkow,Legia II,2,1,2.02,3.58,3.05
+2026-07-31,S. Wola,Tychy,1,2,2.77,3.05,2.40
+2026-08-01,Hutnik Krakow,Swit Szczecin,3,0,2.03,3.47,3.08
+2026-08-01,Kleczew,Podhale Nowy Targ,0,0,3.72,3.55,1.81
+2026-08-01,Leczna,Avia Swidnik,0,1,2.31,3.13,2.86
+2026-08-01,R. Rzeszow,Slask Wroclaw II,1,5,1.84,3.33,3.82
+2026-08-01,Zielona Gora,Ol. Grudziadz,2,2,2.80,3.15,2.33
+2026-08-02,Bielsko-Biala,Zawisza,3,0,2.53,3.18,2.54
+2026-08-02,Sandecja Nowy S.,Chojniczanka,3,0,2.20,3.30,2.85
+2026-08-08,Podhale Nowy Targ,Hutnik Krakow,2,5,1.68,3.56,4.40
+2026-08-08,Bielsko-Biala,S. Wola,3,1,2.21,3.21,2.95
+2026-08-08,Zawisza,R. Rzeszow,1,0,1.90,3.51,3.44
+2026-08-08,Zielona Gora,Kleczew,6,1,1.86,3.44,3.66
+2026-08-09,Avia Swidnik,Sandecja Nowy S.,3,0,2.48,3.32,2.50
+2026-08-09,Chojniczanka,Pruszkow,1,4,2.14,3.41,2.91
+2026-08-09,Legia II,Swit Szczecin,5,0,1.77,3.66,3.80
+2026-08-09,Slask Wroclaw II,Leczna,2,0,2.60,3.31,2.40
+2026-08-09,Tychy,Ol. Grudziadz,1,1,1.86,3.35,3.74
+2026-08-14,Leczna,Podhale Nowy Targ,5,2,1.67,3.80,4.18
+2026-08-15,Kleczew,Bielsko-Biala,3,0,2.73,3.38,2.26
+2026-08-15,R. Rzeszow,Tychy,2,2,3.18,3.34,2.03
+2026-08-15,Slask Wroclaw II,Chojniczanka,1,2,2.73,3.45,2.24
+2026-08-15,Swit Szczecin,Sandecja Nowy S.,0,1,2.92,3.36,2.16
+2026-08-16,Hutnik Krakow,Legia II,2,0,2.18,3.50,2.79
+2026-08-16,Pruszkow,Ol. Grudziadz,0,1,2.09,3.62,2.89
+2026-08-16,S. Wola,Avia Swidnik,4,0,2.33,3.16,2.79
+2026-08-16,Zawisza,Zielona Gora,2,1,1.79,3.62,3.73
+2026-08-21,Chojniczanka,S. Wola,2,0,2.17,3.30,2.96
+2026-08-21,Sandecja Nowy S.,Leczna,1,1,2.05,3.34,3.19
+2026-08-22,Avia Swidnik,Zawisza,1,4,2.14,3.30,3.02
+2026-08-22,Podhale Nowy Targ,R. Rzeszow,1,1,1.94,3.46,3.40
+2026-08-22,Pruszkow,Swit Szczecin,1,1,1.54,4.34,4.59
+2026-08-23,Legia II,Kleczew,6,1,1.68,3.84,4.06
+2026-08-23,Bielsko-Biala,Ol. Grudziadz,1,2,2.25,3.43,2.73
+2026-08-23,Tychy,Slask Wroclaw II,3,0,1.53,3.94,5.07
+2026-08-23,Zielona Gora,Hutnik Krakow,1,1,2.72,3.26,2.33
+2026-08-28,R. Rzeszow,Sandecja Nowy S.,0,3,3.37,3.51,1.91
+2026-08-29,Avia Swidnik,Zielona Gora,1,3,1.78,3.67,3.73
+2026-08-29,Hutnik Krakow,S. Wola,2,1,2.02,3.32,3.24
+2026-08-29,Kleczew,Chojniczanka,1,1,2.87,3.50,2.12
+2026-08-29,Ol. Grudziadz,Podhale Nowy Targ,1,3,1.81,3.65,3.70
+2026-08-29,Slask Wroclaw II,Pruszkow,2,3,2.95,3.60,2.04
+2026-08-29,Zawisza,Legia II,4,1,1.81,3.61,3.68
+2026-08-30,Leczna,Bielsko-Biala,1,0,1.96,3.49,3.27
+2026-08-30,Swit Szczecin,Tychy,1,1,4.14,3.78,1.68
+2026-09-04,S. Wola,Zawisza,3,3,2.17,3.39,2.87
+2026-09-05,Chojniczanka,R. Rzeszow,2,2,1.71,3.63,4.04
+2026-09-05,Kleczew,Leczna,0,4,2.53,3.48,2.37
+2026-09-05,Podhale Nowy Targ,Sandecja Nowy S.,2,1,2.50,3.22,2.53
+2026-09-05,Zielona Gora,Swit Szczecin,1,4,1.83,3.74,3.43
+2026-09-06,Legia II,Bielsko-Biala,1,2,2.10,3.48,2.97
+2026-09-06,Pruszkow,Hutnik Krakow,4,2,1.94,3.55,3.27
+2026-09-06,Slask Wroclaw II,Ol. Grudziadz,0,1,3.49,3.67,1.83
+2026-09-06,Tychy,Avia Swidnik,1,0,1.74,3.60,3.98
+2026-09-11,Kleczew,Ol. Grudziadz,1,1,3.60,3.70,1.80
+2026-09-11,Pruszkow,Tychy,1,1,2.30,3.33,2.72
+2026-09-11,R. Rzeszow,Zielona Gora,0,1,2.21,3.40,2.79
+2026-09-12,Hutnik Krakow,Zawisza,1,1,2.28,3.34,2.75
+2026-09-12,Leczna,Legia II,4,1,1.83,3.59,3.60
+2026-09-12,Podhale Nowy Targ,S. Wola,5,0,2.14,3.38,2.95
+2026-09-12,Swit Szczecin,Chojniczanka,1,5,2.74,3.57,2.19
+2026-09-13,Avia Swidnik,Bielsko-Biala,0,1,2.07,3.51,2.97
+2026-09-13,Sandecja Nowy S.,Slask Wroclaw II,4,2,1.49,4.24,4.87
+2026-09-18,Kleczew,Avia Swidnik,2,2,2.54,3.52,2.33
+2026-09-18,Bielsko-Biala,Swit Szczecin,3,0,1.69,3.83,3.99
+2026-09-18,Zawisza,Leczna,0,0,2.29,3.41,2.67
+2026-09-19,Chojniczanka,Ol. Grudziadz,3,1,2.27,3.35,2.73
+2026-09-19,Legia II,Podhale Nowy Targ,3,0,2.85,3.73,2.06
+2026-09-19,Zielona Gora,Pruszkow,1,3,2.60,3.50,2.31
+2026-09-20,Slask Wroclaw II,Hutnik Krakow,2,0,2.79,3.50,2.17
+2026-09-20,S. Wola,R. Rzeszow,2,0,2.11,3.38,3.00
+2026-09-20,Tychy,Sandecja Nowy S.,0,0,1.96,3.41,3.34
