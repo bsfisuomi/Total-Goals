@@ -1,21 +1,31 @@
 """
 Skannar en hel liga: hamtar kommande matcher + Bet365-odds via odds-api.io,
-kor TOT-modellen + Poisson-value-scan pa varje match som HAR odds, och
+kor TOT-modellen + Goal Line-value-scan pa varje match som HAR odds, och
 hoppar tyst over matcher som saknar odds an (de tas upp igen nasta korning).
 
-OBS: Detta skript gor riktiga API-anrop och kravs kora i en miljo med
-natverksatkomst till api.odds-api.io (fungerar INTE i Claudes sandlada
-just nu pga natverksfilter - kor detta lokalt eller pa din framtida server).
+Anvander ENDAST Bet365s Goal Line-marknad (Asian totals), inte 2.5-linjen
+och inte 1X2 - se find_goal_line_value() i value_scan.py for metoden.
 
-Miljovariabel som kravs:
+OBS: Detta skript gor riktiga API-anrop och kravs kora i en miljo med
+natverksatkomst till api.odds-api.io och api.telegram.org (fungerar INTE
+i Claudes sandlada just nu pga natverksfilter - kor detta lokalt eller pa
+din egen server/VPS, t.ex. som ett timvis cron-jobb).
+
+Miljovariabler som kravs (las in fran .env i projektroten, se telegram_bot.load_env):
     ODDS_API_KEY
+    TELEGRAM_BOT_TOKEN
+    TELEGRAM_CHAT_ID
 
 Anvandning:
-    export ODDS_API_KEY="din-nyckel"
-    python3 scan_league.py "Sweden Ettan Norra/ettan-norra.csv" sweden-ettan-norra
+    python3 scan_league.py <liga-nyckel> [<liga-nyckel> ...]
+
+Exempel:
+    python3 scan_league.py poland sweden-norra sweden-sodra
+    python3 scan_league.py poland sweden-norra sweden-sodra --send   # skickar till Telegram
+
+Liga-nycklar: se LEAGUES i tot_model.py (poland, sweden-norra, sweden-sodra, japan-j1).
 """
 
-import csv
 import os
 import sys
 import time
@@ -24,39 +34,57 @@ import urllib.request
 import urllib.parse
 
 sys.path.insert(0, os.path.dirname(__file__))
-from tot_model import load_matches, team_tot_snitt, dnb_probabilities, predict_tot, LAST_N
-from value_scan import find_value
-from poisson_grid import value_1x2
+from tot_model import load_league, team_tot_snitt, dnb_probabilities, predict_tot, LAST_N, LEAGUES
+from value_scan import find_goal_line_value
+from telegram_bot import format_value_bet, format_report, send_message
 
 API_BASE = "https://api.odds-api.io/v3"
 
+# odds-api.io liga-slug per liga-nyckel (OBS: odds-api.io:s egen league-
+# taggning ar opalitlig for de svenska lagen - en match taggad "sweden-
+# ettan-norra" eller "sweden-ettan-sodra" kan innehalla lag fran bada
+# ligorna. Vi loser det genom att normalisera lagnamn mot BADA CSV:erna
+# (se resolve_team) istallet for att lita pa taggen.
+LEAGUE_SLUGS = {
+    "poland": ["poland-ii-liga"],
+    "sweden-norra": ["sweden-ettan-norra", "sweden-ettan-sodra"],
+    "sweden-sodra": ["sweden-ettan-norra", "sweden-ettan-sodra"],
+}
+
+MIN_EV = 0.10  # minsta EV for att trigga en Telegram-alert (se find_goal_line_value)
+
 # Kanda namnvarianter: API-namn -> namn i var historik-CSV
 NAME_ALIASES = {
-    "Karlbergs BK": "Karlbergs",
-    "Vasalunds IF": "Vasalund",
-    "IF Karlstad Fotbol": "Karlstad",
-    "FC Arlanda": "Arlanda",
+    "Karlbergs BK": "Karlbergs", "Vasalunds IF": "Vasalund",
+    "IF Karlstad Fotbol": "Karlstad", "FC Arlanda": "Arlanda",
     "FC Stockholm Internazionale": "Stockholm Internazionale",
-    "Piteaa IF": "Pitea",
-    "Enkopings SK": "Enkoping SK",
+    "Piteaa IF": "Pitea", "Enkopings SK": "Enkoping SK",
+    "Gefle IF": "Gefle", "IFK Stocksund": "Stocksund",
+    "FC Jarfalla": "Jarfalla", "Sollentuna FK": "Sollentuna",
+    "Hammarby Talang FF": "Hammarby TFF",
+    "Kristianstad FC": "Kristianstad", "Ariana FC": "AFC Malmo",
+    "Lunds BK": "Lunds", "Laholms FK": "Laholms",
+    "Angelholms FF": "Angelholm", "FC Rosengaard 1917": "Rosengard",
+    "Tvaakers IF": "Tvaaker", "Aatvidabergs FF": "Atvidaberg",
+    "FC Trollhattan": "Trollhattan", "Jonkopings Sodra IF": "Jonkoping",
+    "Eskilsminne IF": "Eskilsminne", "Utsiktens BK": "Utsikten",
+    "BK Olympic": "Olympic", "Trelleborgs FF": "Trelleborg",
     # Poland II Liga (Bet365-namn -> vart historik-namn)
-    "Rekord Bielsko-Biala": "Bielsko-Biala",
-    "Resovia Rzeszow": "R. Rzeszow",
-    "GKS Tychy": "Tychy",
-    "Sokol Kleczew": "Kleczew",
-    "Legia Warsaw II": "Legia II",
-    "Lechia Zielona Gora": "Zielona Gora",
-    "Znicz Pruszkow": "Pruszkow",
-    "Stal Stalowa Wola": "S. Wola",
-    "Gornik Leczna": "Leczna",
-    "Chojniczanka Chojnice": "Chojniczanka",
-    "Zawisza Bydgoszcz": "Zawisza",
-    "Olimpia Grudziadz": "Ol. Grudziadz",
-    "Sandecja Nowy Sacz": "Sandecja Nowy S.",
+    "Rekord Bielsko-Biala": "Bielsko-Biala", "Rekord Bielsko Biala": "Bielsko-Biala",
+    "CWKS Resovia": "R. Rzeszow", "Resovia Rzeszow": "R. Rzeszow",
+    "GKS Tychy": "Tychy", "Sokol Kleczew": "Kleczew",
+    "Legia Warsaw II": "Legia II", "Legia Warszawa II": "Legia II",
+    "KS Lechia Zielona Gora": "Zielona Gora", "Lechia Zielona Gora": "Zielona Gora",
+    "MKS Znicz Pruszkow": "Pruszkow", "Znicz Pruszkow": "Pruszkow",
+    "ZKS Stal Stalowa Wola": "S. Wola", "Stal Stalowa Wola": "S. Wola",
+    "Gornik Leczna": "Leczna", "MKS Chojniczanka Chojnice": "Chojniczanka",
+    "Chojniczanka Chojnice": "Chojniczanka", "Zawisza Bydgoszcz": "Zawisza",
+    "Olimpia Grudziadz": "Ol. Grudziadz", "Sandecja Nowy Sacz": "Sandecja Nowy S.",
+    "KS Hutnik Krakow SSA": "Hutnik Krakow", "OKS Swit Szczecin": "Swit Szczecin",
 }
 
 
-def normalize_name(name, known_teams):
+def resolve_team(name, known_teams):
     if name in known_teams:
         return name
     if name in NAME_ALIASES and NAME_ALIASES[name] in known_teams:
@@ -83,95 +111,91 @@ def get_event_odds(event_id):
     return api_get("/odds", {"eventId": event_id, "bookmakers": "Bet365"})
 
 
-def scan_league(csv_path, league_slug, min_edge_totals=0.04, min_edge_1x2=0.03):
-    matches = load_matches(csv_path)
+def scan_league(league_key, min_ev=MIN_EV):
+    cfg = LEAGUES[league_key]
+    matches = load_league(league_key)
     known_teams = set(m["hemmalag"] for m in matches) | set(m["bortalag"] for m in matches)
 
-    events = get_upcoming_events(league_slug)
-    print(f"{len(events)} kommande matcher hittade i {league_slug}")
+    seen_ids = set()
+    events = []
+    for slug in LEAGUE_SLUGS[league_key]:
+        for ev in get_upcoming_events(slug):
+            if ev["id"] in seen_ids:
+                continue
+            seen_ids.add(ev["id"])
+            events.append(ev)
 
-    results = []
+    hits = []
     for ev in events:
-        home = normalize_name(ev["home"], known_teams)
-        away = normalize_name(ev["away"], known_teams)
-
+        home = resolve_team(ev["home"], known_teams)
+        away = resolve_team(ev["away"], known_teams)
         if not home or not away:
-            print(f"  Hoppar over {ev['home']} - {ev['away']}: saknar historik")
-            continue
+            continue  # laget hor inte till den har ligan (fel slug-tagg) eller saknar historik
 
         odds_data = get_event_odds(ev["id"])
-        bookmakers = odds_data.get("bookmakers", {})
-        bet365 = bookmakers.get("Bet365")
-
+        bet365 = odds_data.get("bookmakers", {}).get("Bet365")
         if not bet365:
-            print(f"  Hoppar over {ev['home']} - {ev['away']}: inga Bet365-odds an (forsok igen senare)")
             continue
 
         ml = next((m for m in bet365 if m["name"] == "ML"), None)
         totals = next((m for m in bet365 if m["name"] == "Totals"), None)
-
-        if not ml:
-            print(f"  Hoppar over {ev['home']} - {ev['away']}: ingen ML-marknad")
+        if not ml or not totals:
             continue
 
         odds_home = float(ml["odds"][0]["home"])
         odds_draw = float(ml["odds"][0]["draw"])
         odds_away = float(ml["odds"][0]["away"])
 
-        snitt1, n1 = team_tot_snitt(matches, home, LAST_N)
-        snitt2, n2 = team_tot_snitt(matches, away, LAST_N)
+        snitt1, n1 = team_tot_snitt(matches, home, LAST_N, cfg["season_start"])
+        snitt2, n2 = team_tot_snitt(matches, away, LAST_N, cfg["season_start"])
         p1_dnb, p2_dnb = dnb_probabilities(odds_home, odds_away)
         tot = predict_tot(snitt1, snitt2, p1_dnb, p2_dnb)
 
-        match_result = {
-            "match": f"{ev['home']} - {ev['away']}",
-            "datum": ev["date"],
-            "tot_forvantad": round(tot, 3),
-            "value_totals": [],
-            "value_1x2": [],
-        }
+        totals_odds = [
+            {"hdp": o["hdp"], "over": float(o["over"]), "under": float(o["under"])}
+            for o in totals["odds"]
+        ]
+        hit = find_goal_line_value(tot, totals_odds, min_ev=min_ev)
+        if hit:
+            hits.append({
+                "league": league_key,
+                "match": f"{ev['home']} - {ev['away']}",
+                "market": "Goal Line",
+                "side": hit["sida"],
+                "line": hit["line"],
+                "model_prob": hit["modell_sannolikhet"],
+                "bet365_odds": hit["bet365_odds"],
+                "edge_pp": hit["edge_procentenheter"],
+            })
 
-        if totals:
-            totals_odds = [
-                {"hdp": o["hdp"], "over": float(o["over"]), "under": float(o["under"])}
-                for o in totals["odds"]
-            ]
-            match_result["value_totals"] = find_value(tot, totals_odds, min_edge=min_edge_totals)
+        time.sleep(0.3)  # var snall mot API:t (free tier: 100 req/h)
 
-        oneXtwo = value_1x2(tot, p1_dnb, p2_dnb, odds_home, odds_draw, odds_away, min_edge=min_edge_1x2)
-        match_result["value_1x2"] = oneXtwo["value"]
-
-        results.append(match_result)
-
-        # var snall mot API:t (free tier: 100 req/h)
-        time.sleep(0.5)
-
-    return results
+    return hits
 
 
 def main():
-    if len(sys.argv) != 3:
+    args = sys.argv[1:]
+    send = "--send" in args
+    league_keys = [a for a in args if a != "--send"]
+
+    if not league_keys:
         print(__doc__)
         sys.exit(1)
 
-    csv_path = sys.argv[1]
-    league_slug = sys.argv[2]
+    all_hits = []
+    for key in league_keys:
+        if key not in LEAGUES:
+            print(f"Okand liga-nyckel: {key} (se LEAGUES i tot_model.py)", file=sys.stderr)
+            continue
+        print(f"Skannar {key} ...", file=sys.stderr)
+        all_hits += scan_league(key)
 
-    results = scan_league(csv_path, league_slug)
+    report = format_report(all_hits)
+    print(report)
 
-    print("\n=== VALUE HITTAT ===")
-    any_value = False
-    for r in results:
-        if r["value_totals"] or r["value_1x2"]:
-            any_value = True
-            print(f"\n{r['match']} ({r['datum']}) — TOT-prognos: {r['tot_forvantad']}")
-            for v in r["value_totals"]:
-                print(f"  Totals {v['line']} {v['sida']}: odds {v['bet365_odds']}  edge +{v['edge_procentenheter']}pp")
-            for v in r["value_1x2"]:
-                print(f"  1X2 {v['sida']}: odds {v['bet365_odds']}  edge +{v['edge_procentenheter']}pp")
-
-    if not any_value:
-        print("Ingen value hittad i den har korningen.")
+    if send:
+        send_message(report)
+        print("Skickat till Telegram.", file=sys.stderr)
 
 
 if __name__ == "__main__":

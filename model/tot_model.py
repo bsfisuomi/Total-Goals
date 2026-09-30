@@ -11,13 +11,20 @@ dar:
     regressionssnitt = medelvardet av TOT i det data regressionen tranades pa
 
 Anvandning:
-    python3 tot_model.py <csv-fil> <lag1> <lag2> <hemmaodds> <oavgjortodds> <bortaodds>
+    python3 tot_model.py <csv-fil-eller-liga-nyckel> <lag1> <lag2> <hemmaodds> <oavgjortodds> <bortaodds>
 
 Exempel:
-    python3 tot_model.py "Sweden Ettan Norra/ettan-norra.csv" "FBK Karlstad" "AFC Eskilstuna" 2.500 3.600 2.300
+    python3 tot_model.py sweden-norra "FBK Karlstad" "AFC Eskilstuna" 2.500 3.600 2.300
+
+Mappstruktur (en mapp per land, en fil per sasong):
+    Poland/II Liga/2025.csv, Poland/II Liga/2026.csv
+    Sweden/Ettan Norra/2026.csv
+    Sweden/Ettan Sodra/2026.csv
+    Japan/J1/2025.csv
 """
 
 import csv
+import os
 import sys
 
 # Globala regressionskoefficienter (ProbDiff -> TOT)
@@ -27,26 +34,64 @@ REGRESSIONSSNITT = 3.6247
 
 LAST_N = 20  # antal matcher per lag som ingar i snittet (minimum om sasongen har farre)
 
-# Sasongsstart per liga ("YYYY-MM-DD"). Anvands for att avgora vilka matcher
-# som racknas som "denna sasong" kontra "forra sasongen". Ligor utan
-# tidigare-sasongsdata i sin CSV behover ingen post har - da fungerar allt
-# som forut (bara de N senaste matcherna totalt, oavsett sasong).
-SEASON_START = {
-    "poland": "2026-06-01",
-    "sweden-norra": "2026-04-03",   # hela filen ar en sasong - satts sa att
-    "sweden-sodra": "2026-04-03",   # ">20 matcher -> anvand alla" gäller aven har
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def _p(*parts):
+    return os.path.join(_ROOT, *parts)
+
+
+# Register per liga: vilka CSV-filer (en per sasong) som hor till ligan, och
+# fran vilket datum ("YYYY-MM-DD") matcher racknas som "denna sasong". Filerna
+# listas aldst-sasong-forst; det spelar ingen roll for load_matches (den
+# sorterar om), men hall ordningen konsekvent for lasbarhetens skull.
+LEAGUES = {
+    "poland": {
+        "files": [_p("Poland", "II Liga", "2025.csv"), _p("Poland", "II Liga", "2026.csv")],
+        "season_start": "2026-06-01",
+    },
+    "sweden-norra": {
+        "files": [_p("Sweden", "Ettan Norra", "2026.csv")],
+        "season_start": "2026-04-03",  # hela filen ar en sasong - "fler an
+                                        # 20 matcher -> anvand alla" galler har med
+    },
+    "sweden-sodra": {
+        "files": [_p("Sweden", "Ettan Sodra", "2026.csv")],
+        "season_start": "2026-04-03",
+    },
+    "japan-j1": {
+        "files": [_p("Japan", "J1", "2025.csv")],
+        "season_start": None,  # bara en sasong i datan, ingen uppdelning behovs
+    },
 }
 
+# Bakatkompatibel genvag: SEASON_START["poland"] etc.
+SEASON_START = {key: cfg["season_start"] for key, cfg in LEAGUES.items()}
 
-def load_matches(csv_path):
+
+def load_matches(csv_paths):
+    """
+    Laddar matcher fran en eller flera CSV-filer (en fil per sasong).
+    csv_paths kan vara en enda sokvag (str) eller en lista av sokvagar -
+    filerna slas ihop och sorteras kronologiskt tillsammans.
+    """
+    if isinstance(csv_paths, str):
+        csv_paths = [csv_paths]
+
     rows = []
-    with open(csv_path, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            rows.append(row)
-    # sakerstall kronologisk ordning (aldst forst)
+    for path in csv_paths:
+        with open(path, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                rows.append(row)
+    # sakerstall kronologisk ordning (aldst forst) over ALLA sasonger
     rows.sort(key=lambda r: r["datum"])
     return rows
+
+
+def load_league(league_key):
+    """Laddar alla matcher (samtliga registrerade sasongsfiler) for en liga."""
+    return load_matches(LEAGUES[league_key]["files"])
 
 
 def team_matches(matches, team):
@@ -108,7 +153,11 @@ def predict_tot(snitt1, snitt2, p1_dnb, p2_dnb):
 
 
 def predict_match(csv_path, team1, team2, odds_home, odds_draw, odds_away, last_n=LAST_N, season_start=None):
-    """Kor hela flodet for en match: laddar data, raknar snitt + DNB, returnerar resultat."""
+    """
+    Kor hela flodet for en match: laddar data, raknar snitt + DNB, returnerar resultat.
+    csv_path kan vara en enda fil, eller en lista av filer (t.ex. bade forra
+    och denna sasongens CSV) - se load_matches().
+    """
     matches = load_matches(csv_path)
 
     snitt1, n1 = team_tot_snitt(matches, team1, last_n, season_start)
@@ -132,6 +181,13 @@ def predict_match(csv_path, team1, team2, odds_home, odds_draw, odds_away, last_
     }
 
 
+def predict_league_match(league_key, team1, team2, odds_home, odds_draw, odds_away, last_n=LAST_N):
+    """Bekvam genvag: slar upp filer + season_start automatiskt fran LEAGUES[league_key]."""
+    cfg = LEAGUES[league_key]
+    return predict_match(cfg["files"], team1, team2, odds_home, odds_draw, odds_away,
+                          last_n=last_n, season_start=cfg["season_start"])
+
+
 def main():
     if len(sys.argv) != 7:
         print(__doc__)
@@ -144,7 +200,13 @@ def main():
     odds_draw = float(sys.argv[5])
     odds_away = float(sys.argv[6])
 
-    result = predict_match(csv_path, team1, team2, odds_home, odds_draw, odds_away)
+    # Om forsta argumentet matchar en registrerad liga-nyckel, anvand den
+    # (med ratt filer + season_start automatiskt). Annars: tolka som en
+    # vanlig CSV-sokvag (gammalt beteende, ingen season-uppdelning).
+    if csv_path in LEAGUES:
+        result = predict_league_match(csv_path, team1, team2, odds_home, odds_draw, odds_away)
+    else:
+        result = predict_match(csv_path, team1, team2, odds_home, odds_draw, odds_away)
 
     print(f"\n{result['team1']} - {result['team2']}")
     print(f"  Snitt TOT {result['team1']}: {result['snitt1']}  ({result['matcher1']} matcher)")
