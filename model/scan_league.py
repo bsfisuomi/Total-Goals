@@ -39,6 +39,20 @@ NAME_ALIASES = {
     "FC Stockholm Internazionale": "Stockholm Internazionale",
     "Piteaa IF": "Pitea",
     "Enkopings SK": "Enkoping SK",
+    # Poland II Liga (Bet365-namn -> vart historik-namn)
+    "Rekord Bielsko-Biala": "Bielsko-Biala",
+    "Resovia Rzeszow": "R. Rzeszow",
+    "GKS Tychy": "Tychy",
+    "Sokol Kleczew": "Kleczew",
+    "Legia Warsaw II": "Legia II",
+    "Lechia Zielona Gora": "Zielona Gora",
+    "Znicz Pruszkow": "Pruszkow",
+    "Stal Stalowa Wola": "S. Wola",
+    "Gornik Leczna": "Leczna",
+    "Chojniczanka Chojnice": "Chojniczanka",
+    "Zawisza Bydgoszcz": "Zawisza",
+    "Olimpia Grudziadz": "Ol. Grudziadz",
+    "Sandecja Nowy Sacz": "Sandecja Nowy S.",
 }
 
 
