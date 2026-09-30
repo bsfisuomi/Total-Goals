@@ -30,6 +30,7 @@ import os
 import sys
 import time
 import json
+import gzip
 import urllib.request
 import urllib.parse
 
@@ -154,8 +155,12 @@ def api_get(path, params):
     params = dict(params)
     params["apiKey"] = key
     url = f"{API_BASE}{path}?{urllib.parse.urlencode(params)}"
-    with urllib.request.urlopen(url, timeout=15) as resp:
-        return json.loads(resp.read().decode())
+    req = urllib.request.Request(url, headers={"Accept-Encoding": "gzip"})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        raw = resp.read()
+        if resp.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
+            raw = gzip.decompress(raw)
+        return json.loads(raw.decode("utf-8"))
 
 
 def get_upcoming_events(league_slug):
