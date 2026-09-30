@@ -1,0 +1,307 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-08-01,Kolbuszowa Dolna,Korona Kielce II,3,1,2.62,3.67,2.19
+2025-08-02,Avia Swidnik,Lubaczow,2,1,1.48,4.89,4.58
+2025-08-02,Biala Podlaska,Chelmianka Chelm,0,3,6.30,5.13,1.33
+2025-08-02,Cracovia II,Wisloka Debica,1,1,1.91,3.81,3.15
+2025-08-02,Czarni Polaniec,Naprzod Jedrzejow,2,1,,,
+2025-08-02,Ostrowiec Swietokrzyski,Swidniczanka Swidnik,3,1,,,
+2025-08-02,Siarka Tarnobrzeg,Wislanie Skawina,1,3,,,
+2025-08-02,Sparta Kazimierza Wielka,Wisla II,6,2,2.60,3.80,2.20
+2025-08-02,Stal Krasnik,Star Starachowice,2,1,3.82,4.03,1.68
+2025-08-08,Wislanie Skawina,Sparta Kazimierza Wielka,2,0,2.66,3.40,2.31
+2025-08-09,Chelmianka Chelm,Kolbuszowa Dolna,2,1,,,
+2025-08-09,Korona Kielce II,Biala Podlaska,2,2,1.46,4.35,5.31
+2025-08-09,Naprzod Jedrzejow,Avia Swidnik,0,1,5.77,4.95,1.38
+2025-08-09,Star Starachowice,Cracovia II,1,0,1.91,3.88,3.12
+2025-08-09,Wisla II,Stal Krasnik,1,0,1.99,3.65,2.92
+2025-08-09,Wisloka Debica,Ostrowiec Swietokrzyski,0,1,3.63,3.61,1.78
+2025-08-10,Lubaczow,Czarni Polaniec,1,0,,,
+2025-08-10,Swidniczanka Swidnik,Siarka Tarnobrzeg,1,2,2.56,3.66,2.29
+2025-08-15,Biala Podlaska,Naprzod Jedrzejow,2,3,1.97,3.59,3.14
+2025-08-15,Ostrowiec Swietokrzyski,Wislanie Skawina,5,1,1.59,3.78,4.61
+2025-08-15,Sparta Kazimierza Wielka,Star Starachowice,2,0,2.56,3.49,2.37
+2025-08-15,Stal Krasnik,Avia Swidnik,0,2,3.24,3.49,1.98
+2025-08-16,Cracovia II,Lubaczow,3,2,1.57,4.43,4.27
+2025-08-16,Siarka Tarnobrzeg,Kolbuszowa Dolna,0,2,,,
+2025-08-16,Swidniczanka Swidnik,Korona Kielce II,1,2,2.60,3.78,2.18
+2025-08-16,Wisla II,Chelmianka Chelm,2,4,3.69,3.92,1.72
+2025-08-17,Czarni Polaniec,Wisloka Debica,1,3,3.03,3.72,1.97
+2025-08-22,Avia Swidnik,Sparta Kazimierza Wielka,4,0,1.67,3.80,3.96
+2025-08-22,Kolbuszowa Dolna,Wisla II,1,2,2.18,3.61,2.67
+2025-08-22,Wislanie Skawina,Cracovia II,6,2,2.29,3.44,2.61
+2025-08-23,Chelmianka Chelm,Czarni Polaniec,1,0,1.09,9.40,11.50
+2025-08-23,Lubaczow,Siarka Tarnobrzeg,2,2,1.99,3.74,2.96
+2025-08-23,Star Starachowice,Swidniczanka Swidnik,2,2,1.27,5.52,7.18
+2025-08-23,Wisloka Debica,Biala Podlaska,1,2,1.87,3.87,3.22
+2025-08-24,Korona Kielce II,Stal Krasnik,2,1,2.01,3.64,3.05
+2025-08-24,Naprzod Jedrzejow,Ostrowiec Swietokrzyski,1,1,,,
+2025-08-27,Biala Podlaska,Kolbuszowa Dolna,3,0,2.50,3.57,2.35
+2025-08-27,Cracovia II,Naprzod Jedrzejow,1,1,1.69,4.05,3.84
+2025-08-27,Ostrowiec Swietokrzyski,Czarni Polaniec,2,1,1.16,6.76,10.68
+2025-08-27,Lubaczow,Wislanie Skawina,5,1,2.77,3.54,2.15
+2025-08-27,Siarka Tarnobrzeg,Star Starachowice,2,2,2.25,3.71,2.52
+2025-08-27,Sparta Kazimierza Wielka,Korona Kielce II,2,3,2.09,3.69,2.77
+2025-08-27,Stal Krasnik,Chelmianka Chelm,5,1,4.41,4.19,1.52
+2025-08-27,Swidniczanka Swidnik,Wisloka Debica,1,1,2.59,3.72,2.16
+2025-08-27,Wisla II,Avia Swidnik,2,3,3.49,3.64,1.84
+2025-08-30,Biala Podlaska,Czarni Polaniec,3,1,2.18,3.59,2.62
+2025-08-30,Kolbuszowa Dolna,Sparta Kazimierza Wielka,1,1,2.30,3.62,2.51
+2025-08-30,Naprzod Jedrzejow,Wisloka Debica,3,3,2.49,3.64,2.26
+2025-08-30,Star Starachowice,Wisla II,4,2,1.72,3.75,3.86
+2025-08-31,Avia Swidnik,Ostrowiec Swietokrzyski,1,2,2.00,3.49,3.11
+2025-08-31,Chelmianka Chelm,Siarka Tarnobrzeg,2,0,1.32,5.19,6.42
+2025-08-31,Korona Kielce II,Cracovia II,1,2,1.76,3.87,3.57
+2025-08-31,Stal Krasnik,Lubaczow,2,2,2.39,3.72,2.39
+2025-08-31,Wislanie Skawina,Swidniczanka Swidnik,2,1,1.54,4.07,4.59
+2025-09-05,Wisla II,Czarni Polaniec,2,4,1.75,3.96,3.64
+2025-09-05,Wisloka Debica,Kolbuszowa Dolna,1,0,,,
+2025-09-06,Biala Podlaska,Wislanie Skawina,2,2,2.25,3.44,2.70
+2025-09-06,Cracovia II,Avia Swidnik,4,5,3.27,3.59,1.93
+2025-09-06,Lubaczow,Naprzod Jedrzejow,1,0,1.93,3.67,3.09
+2025-09-06,Siarka Tarnobrzeg,Korona Kielce II,3,1,2.06,3.62,2.88
+2025-09-06,Sparta Kazimierza Wielka,Stal Krasnik,0,4,1.58,3.99,4.30
+2025-09-06,Swidniczanka Swidnik,Chelmianka Chelm,1,1,4.67,4.18,1.52
+2025-09-07,Ostrowiec Swietokrzyski,Star Starachowice,0,0,1.54,3.97,4.87
+2025-09-12,Wislanie Skawina,Stal Krasnik,1,0,1.97,3.59,3.22
+2025-09-13,Biala Podlaska,Ostrowiec Swietokrzyski,1,2,3.83,3.82,1.72
+2025-09-13,Chelmianka Chelm,Avia Swidnik,1,1,2.27,3.47,2.59
+2025-09-13,Czarni Polaniec,Sparta Kazimierza Wielka,5,2,2.79,3.64,2.09
+2025-09-13,Naprzod Jedrzejow,Wisla II,3,2,2.16,3.65,2.73
+2025-09-13,Star Starachowice,Korona Kielce II,3,2,2.05,3.56,2.92
+2025-09-13,Swidniczanka Swidnik,Cracovia II,1,2,2.78,3.61,2.14
+2025-09-13,Wisloka Debica,Siarka Tarnobrzeg,0,2,2.46,3.57,2.34
+2025-09-14,Kolbuszowa Dolna,Lubaczow,2,4,2.02,3.87,2.85
+2025-09-19,Korona Kielce II,Ostrowiec Swietokrzyski,1,2,3.33,3.79,1.87
+2025-09-20,Avia Swidnik,Swidniczanka Swidnik,2,3,1.32,5.01,6.85
+2025-09-20,Cracovia II,Czarni Polaniec,1,0,1.63,4.17,4.06
+2025-09-20,Lubaczow,Chelmianka Chelm,0,0,3.45,3.77,1.79
+2025-09-20,Siarka Tarnobrzeg,Biala Podlaska,1,2,1.78,3.93,3.48
+2025-09-20,Stal Krasnik,Kolbuszowa Dolna,3,1,2.12,3.62,2.77
+2025-09-20,Star Starachowice,Wisloka Debica,1,1,1.76,3.87,3.60
+2025-09-20,Wisla II,Wislanie Skawina,1,2,2.44,3.77,2.32
+2025-09-21,Sparta Kazimierza Wielka,Naprzod Jedrzejow,0,2,1.60,4.02,4.26
+2025-09-26,Wisloka Debica,Lubaczow,1,0,2.15,3.53,2.82
+2025-09-27,Czarni Polaniec,Siarka Tarnobrzeg,1,5,3.00,3.62,1.99
+2025-09-27,Kolbuszowa Dolna,Cracovia II,0,1,2.27,3.61,2.62
+2025-09-27,Naprzod Jedrzejow,Korona Kielce II,1,4,2.76,3.66,2.12
+2025-09-27,Ostrowiec Swietokrzyski,Stal Krasnik,2,2,1.44,4.28,5.74
+2025-09-27,Swidniczanka Swidnik,Wisla II,4,1,2.41,3.68,2.32
+2025-09-27,Wislanie Skawina,Star Starachowice,1,1,2.09,3.58,2.83
+2025-09-28,Biala Podlaska,Avia Swidnik,1,2,3.27,3.56,1.90
+2025-09-28,Chelmianka Chelm,Sparta Kazimierza Wielka,1,0,1.69,3.82,3.87
+2025-10-04,Avia Swidnik,Wislanie Skawina,1,2,1.66,3.90,3.99
+2025-10-04,Korona Kielce II,Chelmianka Chelm,3,1,2.63,3.63,2.25
+2025-10-04,Siarka Tarnobrzeg,Naprzod Jedrzejow,4,0,1.57,4.23,4.28
+2025-10-04,Sparta Kazimierza Wielka,Swidniczanka Swidnik,2,3,1.48,4.11,5.24
+2025-10-04,Stal Krasnik,Czarni Polaniec,1,1,1.93,3.58,3.19
+2025-10-04,Star Starachowice,Kolbuszowa Dolna,2,0,1.65,3.96,4.15
+2025-10-04,Wisla II,Wisloka Debica,1,2,2.59,3.84,2.16
+2025-10-05,Cracovia II,Biala Podlaska,2,4,1.80,3.76,3.58
+2025-10-05,Lubaczow,Ostrowiec Swietokrzyski,0,0,3.95,3.73,1.70
+2025-10-10,Cracovia II,Sparta Kazimierza Wielka,1,0,1.54,4.29,4.71
+2025-10-10,Wisloka Debica,Stal Krasnik,3,0,2.03,3.62,2.94
+2025-10-11,Avia Swidnik,Kolbuszowa Dolna,2,0,1.30,5.00,7.66
+2025-10-11,Biala Podlaska,Lubaczow,0,3,2.51,3.63,2.36
+2025-10-11,Chelmianka Chelm,Wislanie Skawina,1,2,1.73,3.78,3.75
+2025-10-11,Czarni Polaniec,Swidniczanka Swidnik,2,1,2.00,3.63,3.07
+2025-10-11,Korona Kielce II,Wisla II,0,2,1.70,4.20,3.67
+2025-10-11,Naprzod Jedrzejow,Star Starachowice,0,1,3.45,3.52,1.88
+2025-10-11,Ostrowiec Swietokrzyski,Siarka Tarnobrzeg,1,2,1.67,3.64,4.46
+2025-10-18,Kolbuszowa Dolna,Naprzod Jedrzejow,0,1,1.94,3.43,3.40
+2025-10-18,Lubaczow,Korona Kielce II,0,0,2.28,3.55,2.55
+2025-10-18,Siarka Tarnobrzeg,Avia Swidnik,2,2,2.78,3.47,2.17
+2025-10-18,Sparta Kazimierza Wielka,Wisloka Debica,1,3,2.76,3.48,2.17
+2025-10-18,Stal Krasnik,Cracovia II,2,2,2.54,3.47,2.40
+2025-10-18,Star Starachowice,Chelmianka Chelm,1,1,2.47,3.50,2.35
+2025-10-18,Swidniczanka Swidnik,Biala Podlaska,1,2,2.43,3.54,2.41
+2025-10-18,Wisla II,Ostrowiec Swietokrzyski,0,0,3.53,3.84,1.81
+2025-10-18,Wislanie Skawina,Czarni Polaniec,0,2,1.52,4.53,4.63
+2025-10-24,Wisloka Debica,Korona Kielce II,2,3,2.30,3.66,2.47
+2025-10-25,Avia Swidnik,Star Starachowice,1,1,1.69,3.91,3.86
+2025-10-25,Biala Podlaska,Sparta Kazimierza Wielka,2,0,,,
+2025-10-25,Cracovia II,Wisla II,0,1,1.54,4.33,4.33
+2025-10-25,Czarni Polaniec,Kolbuszowa Dolna,2,0,,,
+2025-10-25,Naprzod Jedrzejow,Wislanie Skawina,1,2,,,
+2025-10-25,Ostrowiec Swietokrzyski,Chelmianka Chelm,1,3,1.83,3.71,3.45
+2025-10-25,Lubaczow,Swidniczanka Swidnik,3,1,,,
+2025-10-25,Siarka Tarnobrzeg,Stal Krasnik,1,0,1.68,3.84,3.90
+2025-10-31,Chelmianka Chelm,Cracovia II,2,1,1.60,4.04,4.24
+2025-10-31,Kolbuszowa Dolna,Ostrowiec Swietokrzyski,1,5,4.37,3.75,1.66
+2025-10-31,Sparta Kazimierza Wielka,Lubaczow,0,3,13.72,6.57,1.15
+2025-10-31,Stal Krasnik,Biala Podlaska,0,1,2.29,3.53,2.57
+2025-10-31,Star Starachowice,Czarni Polaniec,3,2,1.60,3.80,4.66
+2025-10-31,Swidniczanka Swidnik,Naprzod Jedrzejow,0,2,2.38,3.55,2.50
+2025-10-31,Wisla II,Siarka Tarnobrzeg,2,2,2.28,3.65,2.53
+2025-10-31,Wislanie Skawina,Wisloka Debica,0,0,,,
+2025-11-02,Korona Kielce II,Avia Swidnik,0,4,2.57,3.68,2.26
+2025-11-07,Ostrowiec Swietokrzyski,Cracovia II,5,0,1.51,4.16,5.02
+2025-11-08,Biala Podlaska,Star Starachowice,2,1,2.78,3.42,2.21
+2025-11-08,Czarni Polaniec,Korona Kielce II,4,0,2.58,3.64,2.28
+2025-11-08,Lubaczow,Wisla II,3,3,,,
+2025-11-08,Siarka Tarnobrzeg,Sparta Kazimierza Wielka,5,0,,,
+2025-11-08,Swidniczanka Swidnik,Stal Krasnik,2,1,2.64,3.57,2.22
+2025-11-08,Wislanie Skawina,Kolbuszowa Dolna,2,2,1.61,4.08,4.39
+2025-11-08,Wisloka Debica,Avia Swidnik,0,2,3.48,3.68,1.81
+2025-11-09,Naprzod Jedrzejow,Chelmianka Chelm,0,2,,,
+2025-11-14,Cracovia II,Siarka Tarnobrzeg,0,0,2.61,3.75,2.18
+2025-11-15,Avia Swidnik,Czarni Polaniec,5,3,1.41,4.58,5.64
+2025-11-15,Chelmianka Chelm,Wisloka Debica,0,0,,,
+2025-11-15,Kolbuszowa Dolna,Swidniczanka Swidnik,3,0,2.13,3.30,2.94
+2025-11-15,Stal Krasnik,Naprzod Jedrzejow,3,2,,,
+2025-11-15,Star Starachowice,Lubaczow,1,0,2.90,3.58,2.10
+2025-11-15,Wisla II,Biala Podlaska,2,0,2.19,3.68,2.67
+2025-11-15,Wislanie Skawina,Korona Kielce II,1,3,,,
+2025-11-16,Sparta Kazimierza Wielka,Ostrowiec Swietokrzyski,2,4,22.00,10.28,1.06
+2025-11-22,Lubaczow,Avia Swidnik,2,2,,,
+2025-11-22,Star Starachowice,Stal Krasnik,2,0,1.94,3.51,3.24
+2025-11-22,Swidniczanka Swidnik,Ostrowiec Swietokrzyski,1,5,,,
+2025-11-22,Wisla II,Sparta Kazimierza Wielka,8,0,1.10,9.05,12.61
+2025-11-22,Wislanie Skawina,Siarka Tarnobrzeg,2,1,,,
+2025-11-23,Chelmianka Chelm,Biala Podlaska,1,0,1.60,3.96,4.30
+2025-11-23,Korona Kielce II,Kolbuszowa Dolna,5,0,1.78,3.73,3.56
+2025-11-28,Sparta Kazimierza Wielka,Wislanie Skawina,0,6,,,
+2025-11-29,Avia Swidnik,Naprzod Jedrzejow,4,1,1.31,5.02,7.05
+2025-11-29,Biala Podlaska,Korona Kielce II,1,1,2.31,3.57,2.55
+2025-11-29,Cracovia II,Star Starachowice,0,2,2.55,3.41,2.37
+2025-11-29,Czarni Polaniec,Lubaczow,3,2,2.87,3.61,2.10
+2025-11-29,Kolbuszowa Dolna,Chelmianka Chelm,0,3,3.79,3.79,1.73
+2025-11-29,Ostrowiec Swietokrzyski,Wisloka Debica,0,0,,,
+2025-11-29,Siarka Tarnobrzeg,Swidniczanka Swidnik,6,1,1.48,4.29,5.16
+2025-11-29,Stal Krasnik,Wisla II,1,5,,,
+2026-02-28,Avia Swidnik,Stal Krasnik,2,0,,,
+2026-02-28,Chelmianka Chelm,Wisla II,2,1,,,
+2026-02-28,Kolbuszowa Dolna,Siarka Tarnobrzeg,4,1,,,
+2026-02-28,Star Starachowice,Sparta Kazimierza Wielka,4,0,1.09,8.87,18.53
+2026-02-28,Wislanie Skawina,Ostrowiec Swietokrzyski,0,2,3.24,3.39,1.98
+2026-02-28,Wisloka Debica,Czarni Polaniec,0,0,2.10,3.64,2.87
+2026-03-01,Korona Kielce II,Swidniczanka Swidnik,4,0,1.45,4.73,5.09
+2026-03-01,Naprzod Jedrzejow,Biala Podlaska,4,4,2.16,3.11,3.05
+2026-03-01,Lubaczow,Cracovia II,3,2,1.82,3.64,3.51
+2026-03-07,Biala Podlaska,Wisloka Debica,1,1,2.23,3.33,2.79
+2026-03-07,Cracovia II,Wislanie Skawina,0,4,2.58,3.69,2.24
+2026-03-07,Czarni Polaniec,Chelmianka Chelm,1,1,,,
+2026-03-07,Ostrowiec Swietokrzyski,Naprzod Jedrzejow,2,0,,,
+2026-03-07,Siarka Tarnobrzeg,Lubaczow,3,1,2.24,3.57,2.62
+2026-03-07,Stal Krasnik,Korona Kielce II,0,1,,,
+2026-03-07,Swidniczanka Swidnik,Star Starachowice,0,1,,,
+2026-03-07,Wisla II,Kolbuszowa Dolna,2,0,1.56,4.13,4.51
+2026-03-08,Sparta Kazimierza Wielka,Avia Swidnik,0,6,21.62,10.69,1.06
+2026-03-14,Avia Swidnik,Wisla II,1,1,1.62,3.99,4.98
+2026-03-14,Chelmianka Chelm,Stal Krasnik,4,1,1.53,4.16,4.70
+2026-03-14,Czarni Polaniec,Ostrowiec Swietokrzyski,0,1,,,
+2026-03-14,Kolbuszowa Dolna,Biala Podlaska,0,0,,,
+2026-03-14,Korona Kielce II,Sparta Kazimierza Wielka,4,2,1.06,10.96,20.34
+2026-03-14,Naprzod Jedrzejow,Cracovia II,2,0,,,
+2026-03-14,Star Starachowice,Siarka Tarnobrzeg,2,0,2.06,3.74,2.83
+2026-03-14,Wislanie Skawina,Lubaczow,1,3,1.90,3.64,3.29
+2026-03-14,Wisloka Debica,Swidniczanka Swidnik,1,0,1.65,3.65,3.65
+2026-03-18,Wisloka Debica,Cracovia II,1,0,,,
+2026-03-21,Czarni Polaniec,Biala Podlaska,3,2,1.95,3.84,10.07
+2026-03-21,Ostrowiec Swietokrzyski,Avia Swidnik,1,2,2.07,3.37,3.06
+2026-03-21,Lubaczow,Stal Krasnik,2,0,,,
+2026-03-21,Siarka Tarnobrzeg,Chelmianka Chelm,0,2,,,
+2026-03-21,Swidniczanka Swidnik,Wislanie Skawina,0,1,3.92,3.79,1.70
+2026-03-21,Wisla II,Star Starachowice,3,0,2.24,3.75,2.55
+2026-03-22,Cracovia II,Korona Kielce II,2,1,2.77,3.75,2.09
+2026-03-22,Sparta Kazimierza Wielka,Kolbuszowa Dolna,0,1,,,
+2026-03-22,Wisloka Debica,Naprzod Jedrzejow,0,1,1.92,3.54,3.34
+2026-03-25,Naprzod Jedrzejow,Czarni Polaniec,0,1,2.26,3.44,2.68
+2026-03-27,Kolbuszowa Dolna,Wisloka Debica,1,2,2.72,3.39,2.23
+2026-03-28,Avia Swidnik,Cracovia II,4,0,1.32,4.86,6.85
+2026-03-28,Chelmianka Chelm,Swidniczanka Swidnik,6,1,1.25,5.50,8.18
+2026-03-28,Czarni Polaniec,Wisla II,1,0,2.37,3.67,2.39
+2026-03-28,Korona Kielce II,Siarka Tarnobrzeg,1,2,2.23,3.68,2.56
+2026-03-28,Stal Krasnik,Sparta Kazimierza Wielka,0,2,1.54,3.90,4.80
+2026-03-28,Star Starachowice,Ostrowiec Swietokrzyski,1,3,3.33,3.52,1.91
+2026-03-28,Wislanie Skawina,Biala Podlaska,1,2,1.65,3.91,4.09
+2026-03-29,Naprzod Jedrzejow,Lubaczow,1,0,2.97,3.47,2.08
+2026-04-02,Korona Kielce II,Star Starachowice,3,2,2.41,3.42,2.49
+2026-04-02,Stal Krasnik,Wislanie Skawina,1,2,5.86,4.78,1.42
+2026-04-03,Ostrowiec Swietokrzyski,Biala Podlaska,2,1,1.43,4.23,5.82
+2026-04-04,Avia Swidnik,Chelmianka Chelm,1,0,2.03,3.56,3.01
+2026-04-04,Cracovia II,Swidniczanka Swidnik,1,1,1.65,3.88,4.02
+2026-04-04,Lubaczow,Kolbuszowa Dolna,2,1,1.73,3.70,3.84
+2026-04-04,Siarka Tarnobrzeg,Wisloka Debica,0,0,2.02,3.58,3.03
+2026-04-04,Sparta Kazimierza Wielka,Czarni Polaniec,1,5,9.82,4.89,1.26
+2026-04-04,Wisla II,Naprzod Jedrzejow,1,2,1.63,3.82,4.28
+2026-04-10,Wisloka Debica,Star Starachowice,0,0,2.05,3.23,3.20
+2026-04-11,Biala Podlaska,Siarka Tarnobrzeg,2,2,,,
+2026-04-11,Chelmianka Chelm,Lubaczow,1,1,1.46,4.30,4.75
+2026-04-11,Czarni Polaniec,Cracovia II,1,0,1.97,3.77,2.96
+2026-04-11,Kolbuszowa Dolna,Stal Krasnik,1,0,2.19,3.46,2.74
+2026-04-11,Ostrowiec Swietokrzyski,Korona Kielce II,0,0,1.53,4.05,4.71
+2026-04-11,Swidniczanka Swidnik,Avia Swidnik,1,4,8.54,5.58,1.23
+2026-04-11,Wislanie Skawina,Wisla II,0,1,1.96,3.73,3.02
+2026-04-12,Naprzod Jedrzejow,Sparta Kazimierza Wielka,7,1,1.18,6.40,7.70
+2026-04-17,Korona Kielce II,Naprzod Jedrzejow,3,2,2.04,3.55,3.07
+2026-04-18,Avia Swidnik,Biala Podlaska,1,1,1.37,4.72,6.19
+2026-04-18,Cracovia II,Kolbuszowa Dolna,1,2,1.85,3.64,3.41
+2026-04-18,Lubaczow,Wisloka Debica,1,2,1.88,3.51,3.19
+2026-04-18,Siarka Tarnobrzeg,Czarni Polaniec,1,1,1.73,3.77,3.73
+2026-04-18,Star Starachowice,Wislanie Skawina,2,0,2.18,3.49,2.77
+2026-04-18,Wisla II,Swidniczanka Swidnik,1,0,1.35,4.84,6.55
+2026-04-19,Sparta Kazimierza Wielka,Chelmianka Chelm,0,2,19.67,9.42,1.06
+2026-04-19,Stal Krasnik,Ostrowiec Swietokrzyski,0,1,6.77,4.58,1.36
+2026-04-24,Kolbuszowa Dolna,Star Starachowice,1,2,3.29,3.52,1.94
+2026-04-24,Wislanie Skawina,Avia Swidnik,1,2,3.86,4.00,1.61
+2026-04-24,Wisloka Debica,Wisla II,1,0,1.93,3.55,3.04
+2026-04-25,Biala Podlaska,Cracovia II,2,0,1.74,3.60,3.60
+2026-04-25,Chelmianka Chelm,Korona Kielce II,4,1,1.61,4.00,3.86
+2026-04-25,Czarni Polaniec,Stal Krasnik,1,1,1.68,3.82,4.10
+2026-04-25,Swidniczanka Swidnik,Sparta Kazimierza Wielka,4,1,1.35,4.92,6.40
+2026-04-26,Naprzod Jedrzejow,Siarka Tarnobrzeg,0,0,2.54,3.41,2.26
+2026-04-26,Ostrowiec Swietokrzyski,Lubaczow,1,1,1.49,4.16,5.18
+2026-05-01,Kolbuszowa Dolna,Avia Swidnik,1,1,4.07,3.87,1.67
+2026-05-01,Stal Krasnik,Wisloka Debica,3,1,2.95,3.40,2.11
+2026-05-01,Star Starachowice,Naprzod Jedrzejow,2,1,1.70,3.68,4.05
+2026-05-01,Swidniczanka Swidnik,Czarni Polaniec,1,4,3.35,3.57,1.88
+2026-05-01,Wisla II,Korona Kielce II,2,3,1.90,3.87,3.11
+2026-05-01,Wislanie Skawina,Chelmianka Chelm,0,0,3.06,3.61,1.98
+2026-05-02,Siarka Tarnobrzeg,Ostrowiec Swietokrzyski,1,2,3.91,3.72,1.73
+2026-05-02,Sparta Kazimierza Wielka,Cracovia II,1,3,9.33,6.22,1.20
+2026-05-03,Lubaczow,Biala Podlaska,1,3,1.87,3.65,3.42
+2026-05-08,Biala Podlaska,Swidniczanka Swidnik,3,0,1.52,4.23,4.78
+2026-05-08,Wisloka Debica,Sparta Kazimierza Wielka,3,0,1.12,7.57,12.68
+2026-05-09,Avia Swidnik,Siarka Tarnobrzeg,1,0,1.53,3.91,5.16
+2026-05-09,Chelmianka Chelm,Star Starachowice,5,2,1.69,3.78,3.68
+2026-05-09,Cracovia II,Stal Krasnik,1,2,1.74,3.72,3.84
+2026-05-09,Czarni Polaniec,Wislanie Skawina,1,0,2.15,3.53,2.79
+2026-05-09,Korona Kielce II,Lubaczow,3,1,2.13,3.73,2.71
+2026-05-09,Naprzod Jedrzejow,Kolbuszowa Dolna,0,1,1.79,3.55,3.45
+2026-05-09,Ostrowiec Swietokrzyski,Wisla II,4,3,1.58,3.68,4.99
+2026-05-13,Chelmianka Chelm,Ostrowiec Swietokrzyski,1,0,2.12,3.41,2.74
+2026-05-13,Kolbuszowa Dolna,Czarni Polaniec,2,1,2.37,3.56,2.49
+2026-05-13,Korona Kielce II,Wisloka Debica,1,0,2.19,3.80,2.59
+2026-05-13,Sparta Kazimierza Wielka,Biala Podlaska,0,5,9.70,6.50,1.16
+2026-05-13,Stal Krasnik,Siarka Tarnobrzeg,1,1,2.54,3.41,2.26
+2026-05-13,Star Starachowice,Avia Swidnik,1,1,3.68,3.58,1.79
+2026-05-13,Swidniczanka Swidnik,Lubaczow,0,3,3.76,3.96,1.70
+2026-05-13,Wisla II,Cracovia II,3,1,2.09,4.27,2.59
+2026-05-13,Wislanie Skawina,Naprzod Jedrzejow,1,0,1.70,3.67,3.79
+2026-05-16,Avia Swidnik,Korona Kielce II,5,1,1.45,4.40,5.34
+2026-05-16,Biala Podlaska,Stal Krasnik,1,1,1.81,3.50,3.64
+2026-05-16,Czarni Polaniec,Star Starachowice,2,1,1.94,3.48,3.23
+2026-05-16,Naprzod Jedrzejow,Swidniczanka Swidnik,3,1,1.45,4.30,5.31
+2026-05-16,Ostrowiec Swietokrzyski,Kolbuszowa Dolna,2,1,1.29,4.99,7.96
+2026-05-16,Lubaczow,Sparta Kazimierza Wielka,4,0,1.05,11.42,19.77
+2026-05-16,Siarka Tarnobrzeg,Wisla II,1,2,2.29,3.60,2.57
+2026-05-16,Wisloka Debica,Wislanie Skawina,2,2,2.34,3.38,2.61
+2026-05-17,Cracovia II,Chelmianka Chelm,3,3,4.79,4.02,1.56
+2026-05-22,Kolbuszowa Dolna,Wislanie Skawina,2,0,2.56,3.58,2.28
+2026-05-22,Korona Kielce II,Czarni Polaniec,2,1,2.22,3.63,2.62
+2026-05-23,Avia Swidnik,Wisloka Debica,4,0,1.33,4.67,7.27
+2026-05-23,Chelmianka Chelm,Naprzod Jedrzejow,2,0,1.22,5.33,9.96
+2026-05-23,Cracovia II,Ostrowiec Swietokrzyski,1,2,4.68,4.19,1.53
+2026-05-23,Stal Krasnik,Swidniczanka Swidnik,2,0,1.32,4.81,7.05
+2026-05-23,Star Starachowice,Biala Podlaska,1,1,1.92,3.79,3.09
+2026-05-23,Wisla II,Lubaczow,3,1,2.11,3.74,2.73
+2026-05-24,Sparta Kazimierza Wielka,Siarka Tarnobrzeg,3,1,16.65,7.99,1.09
+2026-05-29,Lubaczow,Star Starachowice,3,1,1.87,3.73,3.30
+2026-05-30,Biala Podlaska,Wisla II,2,3,2.58,3.72,2.18
+2026-05-30,Czarni Polaniec,Avia Swidnik,2,3,5.40,4.70,1.37
+2026-05-30,Korona Kielce II,Wislanie Skawina,4,1,2.22,3.86,2.53
+2026-05-30,Naprzod Jedrzejow,Stal Krasnik,0,3,2.45,3.64,2.34
+2026-05-30,Ostrowiec Swietokrzyski,Sparta Kazimierza Wielka,2,0,1.06,9.40,13.00
+2026-05-30,Siarka Tarnobrzeg,Cracovia II,5,6,1.86,3.72,3.27
+2026-05-30,Swidniczanka Swidnik,Kolbuszowa Dolna,0,1,3.67,3.49,1.83
+2026-05-30,Wisloka Debica,Chelmianka Chelm,1,2,3.61,3.98,1.66

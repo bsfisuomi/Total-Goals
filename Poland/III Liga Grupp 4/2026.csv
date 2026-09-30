@@ -1,0 +1,91 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2026-08-01,Jaroslaw,Kolbuszowa Dolna,2,2,1.85,3.60,3.44
+2026-08-01,Naprzod Jedrzejow,Korona Kielce II,5,4,3.45,3.59,1.85
+2026-08-01,Lubaczow,Chelmianka Chelm,0,1,3.04,3.48,2.02
+2026-08-01,Wisla II,Star Starachowice,4,2,1.83,3.68,3.43
+2026-08-02,Busko-Zdroj,Wisloka Debica,1,1,,,
+2026-08-02,Czarni Polaniec,Wieczysta Krakow II,3,1,,,
+2026-08-02,Hetman Zamosc,Siarka Tarnobrzeg,1,1,,,
+2026-08-02,Moravia Morawica,Wislanie Skawina,0,2,3.26,4.02,1.82
+2026-08-02,Ostrowiec Swietokrzyski,Biala Podlaska,1,0,1.40,4.14,6.47
+2026-08-07,Biala Podlaska,Hetman Zamosc,1,1,2.16,3.41,2.67
+2026-08-08,Chelmianka Chelm,Kolbuszowa Dolna,2,0,1.52,3.95,5.02
+2026-08-08,Korona Kielce II,Wisla II,1,2,3.37,3.84,1.79
+2026-08-08,Wieczysta Krakow II,Busko-Zdroj,1,3,1.43,4.29,5.68
+2026-08-08,Lubaczow,Moravia Morawica,0,2,1.38,4.50,6.34
+2026-08-08,Siarka Tarnobrzeg,Czarni Polaniec,0,1,2.25,3.42,2.67
+2026-08-08,Wislanie Skawina,Naprzod Jedrzejow,2,0,1.62,3.70,4.23
+2026-08-08,Wisloka Debica,Jaroslaw,3,1,2.25,3.32,2.75
+2026-08-09,Star Starachowice,Ostrowiec Swietokrzyski,0,0,3.69,3.51,1.81
+2026-08-14,Kolbuszowa Dolna,Wisloka Debica,1,2,2.49,3.33,2.43
+2026-08-14,Ostrowiec Swietokrzyski,Korona Kielce II,3,2,1.56,4.20,4.34
+2026-08-15,Busko-Zdroj,Siarka Tarnobrzeg,1,4,2.60,3.41,2.21
+2026-08-15,Czarni Polaniec,Biala Podlaska,0,2,1.81,3.48,3.66
+2026-08-15,Hetman Zamosc,Star Starachowice,3,0,2.11,3.41,2.76
+2026-08-15,Jaroslaw,Wieczysta Krakow II,1,2,2.52,3.77,2.24
+2026-08-15,Moravia Morawica,Chelmianka Chelm,0,3,4.86,3.93,1.54
+2026-08-15,Naprzod Jedrzejow,Lubaczow,2,1,2.50,3.56,2.35
+2026-08-15,Wisla II,Wislanie Skawina,1,2,2.04,3.63,2.88
+2026-08-19,Biala Podlaska,Busko-Zdroj,2,1,1.53,3.97,4.50
+2026-08-19,Chelmianka Chelm,Wisloka Debica,2,1,1.46,4.14,5.37
+2026-08-19,Korona Kielce II,Hetman Zamosc,2,2,1.74,3.82,3.67
+2026-08-19,Wieczysta Krakow II,Kolbuszowa Dolna,1,1,1.80,4.04,3.25
+2026-08-19,Moravia Morawica,Naprzod Jedrzejow,4,2,2.76,3.41,2.11
+2026-08-19,Lubaczow,Wisla II,1,1,2.65,3.73,2.13
+2026-08-19,Siarka Tarnobrzeg,Jaroslaw,1,3,2.09,3.60,2.85
+2026-08-19,Star Starachowice,Czarni Polaniec,2,0,2.28,3.55,2.55
+2026-08-19,Wislanie Skawina,Ostrowiec Swietokrzyski,2,2,2.69,3.29,2.31
+2026-08-22,Hetman Zamosc,Wislanie Skawina,0,1,2.47,3.45,2.31
+2026-08-22,Jaroslaw,Biala Podlaska,2,0,2.19,3.52,2.69
+2026-08-22,Korona Kielce II,Czarni Polaniec,3,4,2.07,3.62,2.84
+2026-08-22,Star Starachowice,Busko-Zdroj,1,1,1.70,3.68,4.03
+2026-08-22,Wisla II,Moravia Morawica,1,0,1.50,4.27,4.74
+2026-08-22,Wisloka Debica,Wieczysta Krakow II,0,3,2.34,3.52,2.44
+2026-08-23,Kolbuszowa Dolna,Siarka Tarnobrzeg,2,0,2.09,3.47,3.07
+2026-08-23,Naprzod Jedrzejow,Chelmianka Chelm,0,2,4.41,3.91,1.59
+2026-08-23,Ostrowiec Swietokrzyski,Lubaczow,1,0,1.68,3.74,4.14
+2026-08-28,Biala Podlaska,Kolbuszowa Dolna,0,0,2.00,3.28,3.25
+2026-08-28,Wislanie Skawina,Czarni Polaniec,0,1,1.83,3.61,3.53
+2026-08-29,Chelmianka Chelm,Wieczysta Krakow II,1,0,2.07,3.41,2.82
+2026-08-29,Jaroslaw,Star Starachowice,3,0,1.89,3.71,3.24
+2026-08-29,Korona Kielce II,Busko-Zdroj,4,1,1.68,3.70,3.79
+2026-08-29,Lubaczow,Hetman Zamosc,4,2,2.21,3.28,2.68
+2026-08-29,Siarka Tarnobrzeg,Wisloka Debica,1,0,2.60,3.41,2.21
+2026-08-30,Moravia Morawica,Ostrowiec Swietokrzyski,0,4,4.83,3.88,1.55
+2026-08-30,Naprzod Jedrzejow,Wisla II,0,0,2.96,3.74,1.99
+2026-09-04,Kolbuszowa Dolna,Star Starachowice,0,0,1.88,3.43,3.50
+2026-09-05,Czarni Polaniec,Lubaczow,3,0,2.11,3.41,2.76
+2026-09-05,Hetman Zamosc,Moravia Morawica,2,1,1.52,4.10,4.50
+2026-09-05,Jaroslaw,Korona Kielce II,6,2,1.55,4.37,4.30
+2026-09-05,Wieczysta Krakow II,Siarka Tarnobrzeg,0,2,2.23,3.66,2.58
+2026-09-05,Ostrowiec Swietokrzyski,Naprzod Jedrzejow,2,2,1.37,4.50,6.25
+2026-09-05,Wisla II,Chelmianka Chelm,0,2,2.65,3.88,1.99
+2026-09-06,Busko-Zdroj,Wislanie Skawina,2,1,4.70,4.00,1.56
+2026-09-06,Wisloka Debica,Biala Podlaska,1,0,2.51,3.46,2.37
+2026-09-11,Biala Podlaska,Wieczysta Krakow II,2,1,2.03,3.66,2.87
+2026-09-12,Chelmianka Chelm,Siarka Tarnobrzeg,1,1,1.44,4.30,5.00
+2026-09-12,Korona Kielce II,Kolbuszowa Dolna,2,2,1.98,3.73,2.96
+2026-09-12,Naprzod Jedrzejow,Hetman Zamosc,4,2,2.54,3.41,2.26
+2026-09-12,Lubaczow,Busko-Zdroj,2,1,1.67,3.96,3.93
+2026-09-12,Wisla II,Ostrowiec Swietokrzyski,0,1,3.03,3.54,2.03
+2026-09-12,Wislanie Skawina,Jaroslaw,3,1,1.86,5.88,12.87
+2026-09-13,Moravia Morawica,Czarni Polaniec,1,2,3.56,3.66,1.81
+2026-09-13,Star Starachowice,Wisloka Debica,2,3,2.19,3.34,2.84
+2026-09-19,Busko-Zdroj,Moravia Morawica,2,1,1.97,3.41,3.04
+2026-09-19,Czarni Polaniec,Naprzod Jedrzejow,2,5,1.69,3.79,3.65
+2026-09-19,Hetman Zamosc,Wisla II,3,3,2.07,3.41,2.82
+2026-09-19,Jaroslaw,Lubaczow,5,2,1.75,3.95,3.57
+2026-09-19,Wieczysta Krakow II,Star Starachowice,0,0,2.25,3.52,2.61
+2026-09-19,Ostrowiec Swietokrzyski,Chelmianka Chelm,0,0,2.43,3.17,2.56
+2026-09-19,Siarka Tarnobrzeg,Biala Podlaska,2,0,1.93,3.41,3.14
+2026-09-19,Wisloka Debica,Korona Kielce II,1,0,1.80,3.84,3.41
+2026-09-20,Kolbuszowa Dolna,Wislanie Skawina,1,1,2.85,3.47,2.14
+2026-09-25,Wisla II,Czarni Polaniec,1,1,1.91,3.78,3.13
+2026-09-25,Wislanie Skawina,Wisloka Debica,1,2,1.68,3.76,4.13
+2026-09-26,Chelmianka Chelm,Biala Podlaska,2,1,1.49,3.95,5.31
+2026-09-26,Korona Kielce II,Wieczysta Krakow II,1,0,1.93,3.93,2.96
+2026-09-26,Naprzod Jedrzejow,Busko-Zdroj,4,1,1.76,3.89,3.50
+2026-09-26,Lubaczow,Kolbuszowa Dolna,0,1,1.79,3.51,3.51
+2026-09-26,Star Starachowice,Siarka Tarnobrzeg,4,1,2.51,3.48,2.35
+2026-09-27,Moravia Morawica,Jaroslaw,2,2,4.53,4.04,1.56
+2026-09-27,Ostrowiec Swietokrzyski,Hetman Zamosc,1,2,1.28,5.07,7.80
