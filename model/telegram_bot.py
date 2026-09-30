@@ -72,11 +72,12 @@ def get_updates(bot_token=None):
 def format_value_bet(league, match, market, side, line, model_prob, bet365_odds, edge_pp):
     """Formaterar en enskild value-bet-rad for Telegram (Markdown)."""
     line_str = f" {line}" if line is not None else ""
+    fair_odds = 100 / model_prob
     return (
         f"*{league}*\n"
         f"{match}\n"
         f"{market}{line_str} — *{side}*\n"
-        f"Modell: {model_prob:.1f}%  |  Bet365: {bet365_odds}  |  Edge: {edge_pp:+.1f}pp\n"
+        f"Fair odds: {fair_odds:.3f}  |  Bet365: {bet365_odds}  |  Edge: {edge_pp:+.1f}pp\n"
     )
 
 
