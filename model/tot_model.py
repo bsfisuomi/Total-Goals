@@ -47,23 +47,31 @@ def _p(*parts):
 # sorterar om), men hall ordningen konsekvent for lasbarhetens skull.
 LEAGUES = {
     "poland": {
-        # II Liga 2025+2026, plus I Liga 2025 (foregaende sasong) som kalla
-        # for lag som blev NEDFLYTTADE till II Liga i sommar (t.ex. GKS
-        # Tychy spelade I Liga forra sasongen) - de fa matcherna laget har
-        # spelat i II Liga hittills i ar fylls da pa med sina gamla I
-        # Liga-matcher istallet for att tunnas ut till bara 9 matcher.
-        # I Liga 2026 (denna sasongens I Liga) racknas INTE in har - det ar
-        # en annan liga just nu och skulle bara blanda in lag som aldrig
+        # II Liga 2025+2026, plus FORRA sasongens I Liga och III Liga Grupp 1
+        # som fallback-kallor for lag som BYTTE NIVA i sommar:
+        #   - GKS Tychy, Gornik Leczna: NEDFLYTTADE fran I Liga -> II Liga
+        #   - Legia Warszawa II: UPPFLYTTADE fran III Liga Grupp 1 -> II Liga
+        # De fa matcherna laget har spelat i II Liga hittills i ar fylls da
+        # pa med sina gamla matcher fran ratt niva, istallet for att tunnas
+        # ut till bara nagra fa matcher. Ingen namnkollision finns mellan
+        # nivaerna forutom just dessa overgangslag (kontrollerat manuellt).
+        # 2026-filerna for I Liga / III Liga racknas INTE in har - de ar
+        # andra ligor just nu och skulle bara blanda in lag som aldrig
         # spelar i II Liga den har sasongen.
         "files": [
             _p("Poland", "II Liga", "2025.csv"),
             _p("Poland", "I Liga", "2025.csv"),
+            _p("Poland", "III Liga Grupp 1", "2025.csv"),
             _p("Poland", "II Liga", "2026.csv"),
         ],
         "season_start": "2026-06-01",
     },
     "poland-i-liga": {
         "files": [_p("Poland", "I Liga", "2025.csv"), _p("Poland", "I Liga", "2026.csv")],
+        "season_start": "2026-06-01",
+    },
+    "poland-iii-liga-1": {
+        "files": [_p("Poland", "III Liga Grupp 1", "2025.csv"), _p("Poland", "III Liga Grupp 1", "2026.csv")],
         "season_start": "2026-06-01",
     },
     "sweden-norra": {
