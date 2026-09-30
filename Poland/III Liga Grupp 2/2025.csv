@@ -1,0 +1,307 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-08-01,Sroda,Blekitni Stargard,4,2,2.68,3.73,2.15
+2025-08-02,Elana Torun,Lech Poznan II,2,4,2.77,3.39,2.23
+2025-08-02,Kluczevia Stargard,Unia Swarzedz,2,2,2.34,3.72,2.46
+2025-08-02,Lipno Steszew,Zawisza,2,3,3.96,4.01,1.65
+2025-08-02,Luzino,Wda Swiecie,1,0,1.81,3.98,3.33
+2025-08-02,Notec Czarnkow,Swinoujscie,1,1,3.00,3.70,1.99
+2025-08-02,Tluchowo,Rewal,1,2,2.29,3.70,2.50
+2025-08-02,Wrzesnia,Cartusia Kartuzy,0,2,,,
+2025-08-03,Pogon Szczecin II,Nowe Skalmierzyce,4,1,1.67,3.90,3.94
+2025-08-08,Unia Swarzedz,Luzino,1,1,2.08,3.74,2.81
+2025-08-08,Zawisza,Tluchowo,4,0,1.47,3.78,7.22
+2025-08-09,Blekitni Stargard,Elana Torun,0,2,1.73,3.79,3.77
+2025-08-09,Cartusia Kartuzy,Pogon Szczecin II,2,1,2.92,3.61,2.03
+2025-08-09,Lech Poznan II,Lipno Steszew,2,3,1.36,5.03,6.18
+2025-08-09,Nowe Skalmierzyce,Kluczevia Stargard,0,3,2.02,3.73,2.86
+2025-08-09,Swinoujscie,Sroda,0,0,2.28,3.79,2.42
+2025-08-09,Wda Swiecie,Wrzesnia,2,1,1.50,4.23,4.90
+2025-08-09,Rewal,Notec Czarnkow,0,1,2.89,3.66,2.05
+2025-08-15,Cartusia Kartuzy,Elana Torun,4,2,2.82,3.17,2.33
+2025-08-15,Luzino,Lech Poznan II,4,3,2.38,3.53,2.47
+2025-08-15,Notec Czarnkow,Zawisza,2,4,3.26,3.58,1.91
+2025-08-15,Unia Swarzedz,Nowe Skalmierzyce,0,1,1.71,3.72,4.01
+2025-08-16,Kluczevia Stargard,Blekitni Stargard,1,4,2.04,3.76,2.83
+2025-08-16,Lipno Steszew,Wda Swiecie,2,2,2.11,3.61,2.81
+2025-08-16,Pogon Szczecin II,Sroda,2,3,2.26,3.60,2.62
+2025-08-16,Tluchowo,Swinoujscie,0,1,2.58,3.67,2.23
+2025-08-17,Wrzesnia,Rewal,2,0,2.36,3.63,2.39
+2025-08-20,Zawisza,Wrzesnia,2,0,1.28,4.87,8.82
+2025-08-22,Lech Poznan II,Kluczevia Stargard,2,1,1.27,5.73,7.24
+2025-08-22,Nowe Skalmierzyce,Tluchowo,0,0,1.61,4.16,4.11
+2025-08-22,Sroda,Elana Torun,1,0,1.95,3.70,3.07
+2025-08-23,Blekitni Stargard,Lipno Steszew,3,1,1.47,4.40,4.95
+2025-08-23,Notec Czarnkow,Pogon Szczecin II,0,2,1.94,3.74,3.09
+2025-08-23,Swinoujscie,Luzino,3,1,1.80,3.86,3.46
+2025-08-23,Wda Swiecie,Unia Swarzedz,0,3,2.06,3.58,2.88
+2025-08-27,Cartusia Kartuzy,Blekitni Stargard,0,1,2.52,3.80,2.20
+2025-08-27,Kluczevia Stargard,Wda Swiecie,0,0,2.27,3.51,2.64
+2025-08-27,Lipno Steszew,Rewal,2,0,1.91,3.94,2.98
+2025-08-27,Luzino,Sroda,2,2,2.00,3.65,2.94
+2025-08-27,Nowe Skalmierzyce,Elana Torun,0,0,2.19,3.53,2.67
+2025-08-27,Pogon Szczecin II,Zawisza,1,1,3.18,3.50,1.97
+2025-08-27,Tluchowo,Notec Czarnkow,0,0,2.48,3.76,2.30
+2025-08-27,Unia Swarzedz,Lech Poznan II,1,4,2.34,3.53,2.48
+2025-08-27,Wrzesnia,Swinoujscie,1,2,3.40,3.90,1.79
+2025-08-30,Swinoujscie,Lipno Steszew,4,0,1.82,3.77,3.44
+2025-08-30,Tluchowo,Unia Swarzedz,1,2,3.61,3.85,1.73
+2025-08-30,Wrzesnia,Nowe Skalmierzyce,1,3,3.93,3.73,1.71
+2025-08-30,Zawisza,Kluczevia Stargard,4,2,1.34,4.90,6.58
+2025-08-31,Blekitni Stargard,Pogon Szczecin II,4,0,1.71,3.97,3.68
+2025-08-31,Notec Czarnkow,Luzino,0,2,2.37,4.86,2.09
+2025-08-31,Sroda,Lech Poznan II,1,4,2.26,3.59,2.60
+2025-08-31,Wda Swiecie,Cartusia Kartuzy,0,4,2.41,3.50,2.45
+2025-08-31,Rewal,Elana Torun,0,3,3.85,3.68,1.74
+2025-09-05,Unia Swarzedz,Zawisza,0,0,2.95,3.60,2.02
+2025-09-06,Cartusia Kartuzy,Sroda,1,1,2.38,3.57,2.40
+2025-09-06,Elana Torun,Swinoujscie,3,2,1.94,3.50,3.30
+2025-09-06,Kluczevia Stargard,Rewal,0,0,1.72,3.93,3.72
+2025-09-06,Lipno Steszew,Tluchowo,0,2,1.74,4.16,3.46
+2025-09-06,Wrzesnia,Blekitni Stargard,1,3,4.63,3.94,1.56
+2025-09-07,Luzino,Pogon Szczecin II,6,0,2.08,3.95,2.74
+2025-09-07,Nowe Skalmierzyce,Wda Swiecie,0,1,1.59,4.63,3.83
+2025-09-12,Notec Czarnkow,Wrzesnia,0,1,1.63,3.78,4.33
+2025-09-12,Sroda,Lipno Steszew,2,0,1.41,4.68,5.65
+2025-09-12,Zawisza,Nowe Skalmierzyce,3,0,1.29,4.96,7.91
+2025-09-13,Blekitni Stargard,Lech Poznan II,3,3,2.05,3.56,2.91
+2025-09-13,Swinoujscie,Kluczevia Stargard,2,1,1.79,4.04,3.43
+2025-09-13,Tluchowo,Cartusia Kartuzy,1,4,2.90,3.62,2.05
+2025-09-13,Rewal,Luzino,1,4,4.36,3.98,1.61
+2025-09-14,Pogon Szczecin II,Unia Swarzedz,2,3,2.08,3.61,2.82
+2025-09-14,Wda Swiecie,Elana Torun,2,5,3.30,3.61,1.90
+2025-09-17,Lech Poznan II,Notec Czarnkow,0,2,1.62,4.05,4.12
+2025-09-17,Rewal,Cartusia Kartuzy,0,1,2.73,3.53,2.16
+2025-09-19,Unia Swarzedz,Sroda,0,2,2.11,3.62,2.85
+2025-09-20,Kluczevia Stargard,Tluchowo,3,0,1.69,3.96,3.81
+2025-09-20,Lipno Steszew,Elana Torun,2,2,4.02,3.85,1.69
+2025-09-20,Wrzesnia,Pogon Szczecin II,2,3,3.60,3.66,1.80
+2025-09-20,Zawisza,Rewal,5,0,1.20,6.05,9.23
+2025-09-21,Cartusia Kartuzy,Notec Czarnkow,3,2,2.07,3.49,2.92
+2025-09-21,Lech Poznan II,Wda Swiecie,6,0,1.42,4.73,5.35
+2025-09-21,Luzino,Blekitni Stargard,2,2,2.23,3.65,2.64
+2025-09-21,Nowe Skalmierzyce,Swinoujscie,0,2,2.39,3.40,2.52
+2025-09-27,Blekitni Stargard,Wda Swiecie,1,2,1.18,6.39,10.19
+2025-09-27,Cartusia Kartuzy,Unia Swarzedz,1,0,2.23,3.43,2.69
+2025-09-27,Notec Czarnkow,Kluczevia Stargard,1,1,1.68,4.01,3.71
+2025-09-27,Pogon Szczecin II,Lipno Steszew,3,4,1.56,4.23,4.44
+2025-09-27,Tluchowo,Wrzesnia,1,0,2.06,3.60,2.96
+2025-09-28,Elana Torun,Luzino,2,1,1.80,3.81,3.52
+2025-09-28,Sroda,Zawisza,2,1,3.05,3.58,2.02
+2025-09-28,Swinoujscie,Lech Poznan II,1,2,2.55,3.70,2.26
+2025-09-28,Rewal,Nowe Skalmierzyce,1,1,2.42,3.39,2.46
+2025-10-03,Zawisza,Blekitni Stargard,2,0,1.89,3.56,3.42
+2025-10-04,Lech Poznan II,Pogon Szczecin II,3,1,1.66,4.09,3.81
+2025-10-04,Lipno Steszew,Cartusia Kartuzy,1,0,3.34,3.74,1.86
+2025-10-04,Luzino,Tluchowo,6,2,1.30,5.28,6.67
+2025-10-04,Nowe Skalmierzyce,Notec Czarnkow,0,0,2.54,3.47,2.36
+2025-10-04,Unia Swarzedz,Swinoujscie,0,1,2.11,3.56,2.89
+2025-10-04,Wrzesnia,Sroda,2,3,3.57,3.70,1.80
+2025-10-04,Wda Swiecie,Rewal,2,0,1.73,3.92,3.70
+2025-10-05,Kluczevia Stargard,Elana Torun,1,2,2.78,3.54,2.15
+2025-10-10,Sroda,Wda Swiecie,5,1,1.31,5.10,6.92
+2025-10-11,Blekitni Stargard,Unia Swarzedz,1,1,1.74,3.79,3.83
+2025-10-11,Cartusia Kartuzy,Kluczevia Stargard,1,2,2.06,3.49,3.03
+2025-10-11,Elana Torun,Wrzesnia,1,0,1.37,4.64,6.53
+2025-10-11,Nowe Skalmierzyce,Luzino,1,2,3.36,3.64,1.91
+2025-10-11,Swinoujscie,Zawisza,1,0,3.42,3.64,1.84
+2025-10-12,Notec Czarnkow,Lipno Steszew,3,1,1.61,4.07,4.10
+2025-10-12,Pogon Szczecin II,Tluchowo,2,3,1.46,4.60,5.01
+2025-10-18,Lech Poznan II,Cartusia Kartuzy,3,1,1.68,3.86,3.93
+2025-10-18,Lipno Steszew,Nowe Skalmierzyce,0,1,2.27,3.19,2.89
+2025-10-18,Tluchowo,Sroda,0,3,4.35,4.31,1.56
+2025-10-18,Unia Swarzedz,Notec Czarnkow,3,1,1.91,3.64,3.28
+2025-10-18,Wda Swiecie,Swinoujscie,2,1,3.99,3.68,1.72
+2025-10-18,Rewal,Blekitni Stargard,0,2,6.64,4.88,1.34
+2025-10-18,Zawisza,Elana Torun,1,1,1.67,3.73,4.20
+2025-10-19,Kluczevia Stargard,Pogon Szczecin II,3,0,2.02,3.75,2.92
+2025-10-22,Rewal,Lech Poznan II,0,2,8.91,5.85,1.22
+2025-10-24,Sroda,Notec Czarnkow,2,6,1.54,4.49,4.39
+2025-10-25,Blekitni Stargard,Nowe Skalmierzyce,1,1,1.40,4.48,6.02
+2025-10-25,Elana Torun,Pogon Szczecin II,1,2,1.58,4.06,4.40
+2025-10-25,Lipno Steszew,Kluczevia Stargard,2,0,2.81,3.55,2.11
+2025-10-25,Swinoujscie,Rewal,0,1,,,
+2025-10-25,Wrzesnia,Unia Swarzedz,3,1,3.29,3.53,1.92
+2025-10-25,Wda Swiecie,Zawisza,0,1,5.47,4.04,1.47
+2025-10-26,Cartusia Kartuzy,Luzino,3,2,2.51,3.43,2.41
+2025-10-26,Lech Poznan II,Tluchowo,2,1,1.19,5.97,10.13
+2025-10-31,Kluczevia Stargard,Wrzesnia,0,1,,,
+2025-10-31,Luzino,Lipno Steszew,1,2,1.50,4.47,4.66
+2025-10-31,Nowe Skalmierzyce,Cartusia Kartuzy,1,0,2.78,3.10,2.31
+2025-10-31,Tluchowo,Wda Swiecie,0,2,2.19,3.49,2.74
+2025-10-31,Unia Swarzedz,Elana Torun,0,1,2.33,3.36,2.64
+2025-10-31,Rewal,Sroda,0,2,7.06,4.63,1.34
+2025-11-02,Notec Czarnkow,Blekitni Stargard,3,1,,,
+2025-11-02,Pogon Szczecin II,Swinoujscie,3,3,2.31,3.35,2.68
+2025-11-02,Zawisza,Lech Poznan II,3,1,1.84,3.63,3.50
+2025-11-07,Sroda,Kluczevia Stargard,1,4,1.55,4.21,4.44
+2025-11-08,Blekitni Stargard,Tluchowo,3,2,,,
+2025-11-08,Cartusia Kartuzy,Swinoujscie,1,0,,,
+2025-11-08,Lipno Steszew,Wrzesnia,1,0,2.21,3.42,2.78
+2025-11-08,Luzino,Zawisza,2,1,,,
+2025-11-08,Notec Czarnkow,Elana Torun,0,1,,,
+2025-11-08,Wda Swiecie,Pogon Szczecin II,2,0,2.19,3.56,2.75
+2025-11-09,Lech Poznan II,Nowe Skalmierzyce,1,1,1.54,4.06,4.80
+2025-11-09,Rewal,Unia Swarzedz,0,0,4.27,3.71,1.67
+2025-11-11,Luzino,Wrzesnia,1,0,1.53,4.20,4.66
+2025-11-14,Zawisza,Cartusia Kartuzy,2,0,1.38,4.34,6.28
+2025-11-15,Notec Czarnkow,Wda Swiecie,3,0,,,
+2025-11-15,Swinoujscie,Blekitni Stargard,1,1,2.25,3.52,2.66
+2025-11-15,Tluchowo,Elana Torun,0,0,3.73,3.70,1.75
+2025-11-15,Unia Swarzedz,Lipno Steszew,0,2,1.45,4.40,5.36
+2025-11-16,Kluczevia Stargard,Luzino,1,2,5.71,3.63,2.22
+2025-11-16,Nowe Skalmierzyce,Sroda,1,2,3.65,3.84,1.77
+2025-11-22,Blekitni Stargard,Sroda,0,1,2.40,3.59,2.43
+2025-11-22,Nowe Skalmierzyce,Pogon Szczecin II,2,2,,,
+2025-11-22,Unia Swarzedz,Kluczevia Stargard,0,2,1.98,3.44,3.19
+2025-11-22,Wda Swiecie,Luzino,1,0,3.12,3.62,1.95
+2025-11-22,Rewal,Tluchowo,0,1,2.65,3.29,2.34
+2025-11-22,Zawisza,Lipno Steszew,1,1,1.37,4.39,6.67
+2025-11-23,Lech Poznan II,Elana Torun,1,2,2.11,3.53,2.79
+2025-11-26,Pogon Szczecin II,Rewal,5,1,1.71,3.67,3.97
+2025-11-28,Luzino,Unia Swarzedz,3,0,1.77,3.71,3.65
+2025-11-29,Kluczevia Stargard,Nowe Skalmierzyce,2,1,1.82,3.45,3.72
+2025-11-29,Lipno Steszew,Lech Poznan II,1,0,3.79,3.78,1.72
+2025-11-29,Notec Czarnkow,Rewal,2,0,1.48,3.84,5.81
+2025-11-29,Wrzesnia,Wda Swiecie,3,1,,,
+2025-11-30,Pogon Szczecin II,Cartusia Kartuzy,5,0,2.10,3.57,2.82
+2025-12-06,Wrzesnia,Lech Poznan II,0,0,3.42,3.75,1.82
+2026-02-27,Rewal,Wrzesnia,2,1,,,
+2026-02-27,Zawisza,Notec Czarnkow,5,0,1.44,4.11,5.79
+2026-02-28,Blekitni Stargard,Kluczevia Stargard,0,3,2.15,3.43,2.87
+2026-02-28,Elana Torun,Cartusia Kartuzy,1,0,1.44,4.22,5.57
+2026-02-28,Lech Poznan II,Luzino,1,2,2.05,3.65,2.90
+2026-02-28,Swinoujscie,Tluchowo,1,0,,,
+2026-02-28,Wda Swiecie,Lipno Steszew,3,0,2.11,3.47,2.91
+2026-03-01,Nowe Skalmierzyce,Unia Swarzedz,0,4,,,
+2026-03-01,Sroda,Pogon Szczecin II,3,0,1.73,4.06,3.55
+2026-03-06,Luzino,Swinoujscie,2,0,1.81,3.60,3.58
+2026-03-07,Cartusia Kartuzy,Rewal,4,1,,,
+2026-03-07,Kluczevia Stargard,Lech Poznan II,1,0,2.10,3.64,2.77
+2026-03-07,Lipno Steszew,Blekitni Stargard,1,2,2.80,3.40,2.20
+2026-03-07,Pogon Szczecin II,Notec Czarnkow,1,2,1.38,5.80,5.88
+2026-03-07,Tluchowo,Nowe Skalmierzyce,1,3,,,
+2026-03-07,Unia Swarzedz,Wda Swiecie,0,0,2.26,3.49,2.59
+2026-03-07,Wrzesnia,Zawisza,0,2,,,
+2026-03-08,Elana Torun,Sroda,0,3,2.13,3.39,2.89
+2026-03-13,Blekitni Stargard,Cartusia Kartuzy,3,0,1.71,3.95,3.73
+2026-03-13,Sroda,Luzino,1,2,2.02,3.62,2.95
+2026-03-13,Zawisza,Pogon Szczecin II,2,1,1.40,4.66,5.71
+2026-03-14,Elana Torun,Nowe Skalmierzyce,3,1,1.64,3.64,4.51
+2026-03-14,Lech Poznan II,Unia Swarzedz,2,0,1.75,3.49,3.88
+2026-03-14,Notec Czarnkow,Tluchowo,1,1,,,
+2026-03-14,Swinoujscie,Wrzesnia,2,1,1.81,3.38,3.88
+2026-03-14,Wda Swiecie,Kluczevia Stargard,1,1,2.40,3.36,2.48
+2026-03-14,Rewal,Lipno Steszew,1,1,2.65,3.51,2.23
+2026-03-17,Elana Torun,Blekitni Stargard,1,0,2.01,3.21,3.28
+2026-03-21,Cartusia Kartuzy,Wda Swiecie,1,1,2.24,3.34,2.73
+2026-03-21,Kluczevia Stargard,Zawisza,0,0,,,
+2026-03-21,Lech Poznan II,Sroda,1,1,2.41,3.53,2.39
+2026-03-21,Lipno Steszew,Swinoujscie,2,3,,,
+2026-03-21,Luzino,Notec Czarnkow,3,0,1.38,4.35,5.80
+2026-03-21,Nowe Skalmierzyce,Wrzesnia,1,2,,,
+2026-03-21,Unia Swarzedz,Tluchowo,5,1,1.76,3.66,3.75
+2026-03-22,Pogon Szczecin II,Blekitni Stargard,3,0,1.90,3.84,3.12
+2026-03-23,Elana Torun,Rewal,5,1,1.24,4.95,10.72
+2026-03-25,Swinoujscie,Notec Czarnkow,2,4,1.97,3.56,3.08
+2026-03-27,Tluchowo,Lipno Steszew,3,1,2.70,3.51,2.20
+2026-03-28,Blekitni Stargard,Wrzesnia,2,3,1.68,3.68,4.11
+2026-03-28,Sroda,Cartusia Kartuzy,2,1,1.43,4.32,5.76
+2026-03-28,Swinoujscie,Elana Torun,2,2,2.64,3.46,2.25
+2026-03-28,Wda Swiecie,Nowe Skalmierzyce,3,1,2.13,3.42,2.92
+2026-03-28,Rewal,Kluczevia Stargard,0,4,4.61,3.94,1.58
+2026-03-28,Zawisza,Unia Swarzedz,1,0,1.42,4.19,6.10
+2026-04-01,Sroda,Swinoujscie,6,2,1.71,3.85,3.89
+2026-04-01,Tluchowo,Zawisza,0,1,7.55,4.86,1.31
+2026-04-01,Cartusia Kartuzy,Wrzesnia,0,3,1.96,3.66,3.10
+2026-04-03,Elana Torun,Wda Swiecie,0,1,1.73,3.49,4.08
+2026-04-03,Luzino,Rewal,2,1,1.14,6.84,12.78
+2026-04-03,Unia Swarzedz,Pogon Szczecin II,1,0,2.05,3.62,2.98
+2026-04-04,Cartusia Kartuzy,Tluchowo,0,0,1.76,3.59,3.79
+2026-04-04,Kluczevia Stargard,Swinoujscie,2,3,1.67,3.88,3.99
+2026-04-04,Lech Poznan II,Blekitni Stargard,1,1,1.73,3.95,3.52
+2026-04-04,Lipno Steszew,Sroda,1,1,3.68,4.18,1.70
+2026-04-04,Nowe Skalmierzyce,Zawisza,0,1,,,
+2026-04-04,Wrzesnia,Notec Czarnkow,0,0,,,
+2026-04-10,Sroda,Unia Swarzedz,0,1,1.50,4.03,4.85
+2026-04-10,Wda Swiecie,Lech Poznan II,2,3,2.72,3.58,2.17
+2026-04-11,Blekitni Stargard,Luzino,1,4,3.04,3.63,2.00
+2026-04-11,Elana Torun,Lipno Steszew,1,1,1.35,4.38,7.22
+2026-04-11,Notec Czarnkow,Cartusia Kartuzy,3,2,1.88,3.56,3.14
+2026-04-11,Swinoujscie,Nowe Skalmierzyce,0,2,1.55,4.00,4.20
+2026-04-11,Tluchowo,Kluczevia Stargard,0,3,3.41,3.52,1.88
+2026-04-12,Pogon Szczecin II,Wrzesnia,1,2,2.43,3.48,2.45
+2026-04-12,Rewal,Zawisza,2,7,8.79,5.51,1.24
+2026-04-15,Notec Czarnkow,Lech Poznan II,2,1,2.62,3.50,2.16
+2026-04-15,Pogon Szczecin II,Luzino,1,2,3.03,3.89,1.90
+2026-04-18,Kluczevia Stargard,Notec Czarnkow,3,0,1.99,3.48,3.18
+2026-04-18,Lipno Steszew,Pogon Szczecin II,1,0,2.45,3.56,2.41
+2026-04-18,Unia Swarzedz,Cartusia Kartuzy,4,1,1.60,3.68,4.70
+2026-04-18,Wda Swiecie,Blekitni Stargard,3,2,2.31,3.40,2.60
+2026-04-18,Zawisza,Sroda,1,0,1.62,3.85,4.39
+2026-04-19,Lech Poznan II,Swinoujscie,3,1,1.72,3.90,3.66
+2026-04-19,Luzino,Elana Torun,2,1,1.92,3.44,3.38
+2026-04-19,Nowe Skalmierzyce,Rewal,0,0,1.66,3.79,3.79
+2026-04-19,Wrzesnia,Tluchowo,2,0,1.40,4.40,5.40
+2026-04-25,Blekitni Stargard,Zawisza,2,3,4.51,4.11,1.58
+2026-04-25,Cartusia Kartuzy,Lipno Steszew,0,1,2.41,3.31,2.59
+2026-04-25,Elana Torun,Kluczevia Stargard,1,1,2.07,3.31,3.19
+2026-04-25,Notec Czarnkow,Nowe Skalmierzyce,1,2,1.53,4.00,4.50
+2026-04-25,Pogon Szczecin II,Lech Poznan II,2,2,2.71,3.48,2.21
+2026-04-25,Sroda,Wrzesnia,0,0,1.42,4.30,5.30
+2026-04-25,Swinoujscie,Unia Swarzedz,2,2,2.75,3.55,2.20
+2026-04-25,Tluchowo,Luzino,1,1,9.85,5.35,1.23
+2026-04-25,Rewal,Wda Swiecie,1,1,4.11,4.24,1.63
+2026-04-30,Lech Poznan II,Rewal,6,2,1.16,6.75,11.02
+2026-04-30,Luzino,Nowe Skalmierzyce,4,3,1.41,4.26,6.08
+2026-05-01,Kluczevia Stargard,Cartusia Kartuzy,2,1,1.43,4.47,5.45
+2026-05-01,Lipno Steszew,Notec Czarnkow,1,0,2.25,3.46,2.68
+2026-05-01,Tluchowo,Pogon Szczecin II,3,3,2.94,3.60,2.05
+2026-05-01,Unia Swarzedz,Blekitni Stargard,0,0,1.95,3.68,3.13
+2026-05-01,Wrzesnia,Elana Torun,3,2,1.37,4.53,7.01
+2026-05-01,Wda Swiecie,Sroda,3,2,2.65,3.62,2.19
+2026-05-01,Zawisza,Swinoujscie,0,1,1.35,4.73,6.54
+2026-05-08,Blekitni Stargard,Rewal,3,0,1.25,5.34,8.68
+2026-05-08,Notec Czarnkow,Unia Swarzedz,0,1,2.41,3.56,2.30
+2026-05-08,Sroda,Tluchowo,3,1,1.39,4.50,6.07
+2026-05-09,Cartusia Kartuzy,Lech Poznan II,0,0,3.23,3.77,1.89
+2026-05-09,Elana Torun,Zawisza,0,3,3.25,3.83,1.89
+2026-05-09,Nowe Skalmierzyce,Lipno Steszew,2,0,3.60,3.60,1.74
+2026-05-09,Pogon Szczecin II,Kluczevia Stargard,2,1,2.97,3.60,2.03
+2026-05-09,Swinoujscie,Wda Swiecie,0,3,1.51,4.32,4.97
+2026-05-09,Wrzesnia,Luzino,0,1,3.63,3.93,1.76
+2026-05-13,Kluczevia Stargard,Lipno Steszew,0,3,1.58,3.99,4.54
+2026-05-13,Luzino,Cartusia Kartuzy,3,0,1.22,5.70,7.70
+2026-05-13,Notec Czarnkow,Sroda,2,0,3.51,3.69,1.74
+2026-05-13,Nowe Skalmierzyce,Blekitni Stargard,0,0,2.74,3.26,2.30
+2026-05-13,Pogon Szczecin II,Elana Torun,4,0,1.25,5.49,8.82
+2026-05-13,Tluchowo,Lech Poznan II,3,1,3.69,3.89,1.73
+2026-05-13,Unia Swarzedz,Wrzesnia,2,1,1.92,3.58,3.28
+2026-05-13,Rewal,Swinoujscie,1,3,4.35,4.02,1.55
+2026-05-13,Zawisza,Wda Swiecie,1,0,1.23,5.43,9.44
+2026-05-16,Cartusia Kartuzy,Nowe Skalmierzyce,0,1,2.74,3.32,2.28
+2026-05-16,Wrzesnia,Kluczevia Stargard,2,1,2.18,3.54,2.75
+2026-05-16,Wda Swiecie,Tluchowo,1,2,1.60,3.88,4.54
+2026-05-17,Blekitni Stargard,Notec Czarnkow,1,1,2.06,3.46,3.00
+2026-05-17,Elana Torun,Unia Swarzedz,0,4,17.55,8.01,1.11
+2026-05-17,Lech Poznan II,Zawisza,2,4,3.90,3.87,1.70
+2026-05-17,Lipno Steszew,Luzino,0,5,4.71,3.90,1.57
+2026-05-17,Sroda,Rewal,4,0,1.18,6.50,8.70
+2026-05-17,Swinoujscie,Pogon Szczecin II,1,2,2.62,3.44,2.25
+2026-05-22,Swinoujscie,Cartusia Kartuzy,0,0,2.03,3.57,2.96
+2026-05-22,Tluchowo,Blekitni Stargard,1,4,3.19,3.63,1.92
+2026-05-23,Elana Torun,Notec Czarnkow,0,3,8.53,5.00,1.27
+2026-05-23,Kluczevia Stargard,Sroda,1,2,2.53,3.54,2.32
+2026-05-23,Nowe Skalmierzyce,Lech Poznan II,3,0,1.86,3.70,3.29
+2026-05-23,Unia Swarzedz,Rewal,3,1,1.04,12.97,20.67
+2026-05-23,Wrzesnia,Lipno Steszew,1,3,1.78,3.61,3.77
+2026-05-23,Zawisza,Luzino,2,0,1.79,3.69,3.68
+2026-05-24,Pogon Szczecin II,Wda Swiecie,13,1,1.39,4.67,5.70
+2026-05-30,Blekitni Stargard,Swinoujscie,3,0,1.82,3.83,3.35
+2026-05-30,Cartusia Kartuzy,Zawisza,0,2,4.96,4.74,1.45
+2026-05-30,Elana Torun,Tluchowo,2,5,4.18,4.18,1.59
+2026-05-30,Lech Poznan II,Wrzesnia,1,2,,,
+2026-05-30,Lipno Steszew,Unia Swarzedz,4,3,2.68,3.77,2.11
+2026-05-30,Luzino,Kluczevia Stargard,3,2,1.55,3.98,4.63
+2026-05-30,Sroda,Nowe Skalmierzyce,2,1,1.83,4.03,3.18
+2026-05-30,Wda Swiecie,Notec Czarnkow,1,3,2.86,3.97,1.98
+2026-05-30,Rewal,Pogon Szczecin II,1,4,8.30,5.90,1.21

@@ -47,10 +47,11 @@ def _p(*parts):
 # sorterar om), men hall ordningen konsekvent for lasbarhetens skull.
 LEAGUES = {
     "poland": {
-        # II Liga 2025+2026, plus FORRA sasongens I Liga och III Liga Grupp 1
-        # som fallback-kallor for lag som BYTTE NIVA i sommar:
+        # II Liga 2025+2026, plus FORRA sasongens I Liga och III Liga (bada
+        # grupperna) som fallback-kallor for lag som BYTTE NIVA i sommar:
         #   - GKS Tychy, Gornik Leczna: NEDFLYTTADE fran I Liga -> II Liga
         #   - Legia Warszawa II: UPPFLYTTADE fran III Liga Grupp 1 -> II Liga
+        #   - Zawisza (Bydgoszcz): UPPFLYTTADE fran III Liga Grupp 2 -> II Liga
         # De fa matcherna laget har spelat i II Liga hittills i ar fylls da
         # pa med sina gamla matcher fran ratt niva, istallet for att tunnas
         # ut till bara nagra fa matcher. Ingen namnkollision finns mellan
@@ -62,6 +63,7 @@ LEAGUES = {
             _p("Poland", "II Liga", "2025.csv"),
             _p("Poland", "I Liga", "2025.csv"),
             _p("Poland", "III Liga Grupp 1", "2025.csv"),
+            _p("Poland", "III Liga Grupp 2", "2025.csv"),
             _p("Poland", "II Liga", "2026.csv"),
         ],
         "season_start": "2026-06-01",
@@ -72,6 +74,10 @@ LEAGUES = {
     },
     "poland-iii-liga-1": {
         "files": [_p("Poland", "III Liga Grupp 1", "2025.csv"), _p("Poland", "III Liga Grupp 1", "2026.csv")],
+        "season_start": "2026-06-01",
+    },
+    "poland-iii-liga-2": {
+        "files": [_p("Poland", "III Liga Grupp 2", "2025.csv"), _p("Poland", "III Liga Grupp 2", "2026.csv")],
         "season_start": "2026-06-01",
     },
     "sweden-norra": {
