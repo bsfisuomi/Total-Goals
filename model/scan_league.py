@@ -176,12 +176,17 @@ def scan_league(league_key, min_ev=MIN_EV):
             seen_ids.add(ev["id"])
             events.append(ev)
 
+    print(f"  -> {len(events)} kommande matcher hittade hos odds-api.io for {league_key}", file=sys.stderr)
+
+    n_resolved = 0
+    n_with_odds = 0
     hits = []
     for ev in events:
         home = resolve_team(ev["home"], known_teams)
         away = resolve_team(ev["away"], known_teams)
         if not home or not away:
             continue  # laget hor inte till den har ligan (fel slug-tagg) eller saknar historik
+        n_resolved += 1
 
         odds_data = get_event_odds(ev["id"])
         bet365 = odds_data.get("bookmakers", {}).get("Bet365")
@@ -192,6 +197,7 @@ def scan_league(league_key, min_ev=MIN_EV):
         totals = next((m for m in bet365 if m["name"] == "Totals"), None)
         if not ml or not totals:
             continue
+        n_with_odds += 1
 
         odds_home = float(ml["odds"][0]["home"])
         odds_draw = float(ml["odds"][0]["draw"])
@@ -221,6 +227,7 @@ def scan_league(league_key, min_ev=MIN_EV):
 
         time.sleep(0.3)  # var snall mot API:t (free tier: 100 req/h)
 
+    print(f"  -> {n_resolved} av dem matchade lag i var historik, {n_with_odds} hade Bet365-odds, {len(hits)} value-traffar", file=sys.stderr)
     return hits
 
 
