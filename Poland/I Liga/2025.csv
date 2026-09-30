@@ -1,0 +1,307 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-07-18,LKS Lodz,Pruszkow,1,0,1.72,3.66,4.26
+2025-07-18,Slask Wroclaw,Wieczysta Krakow,1,1,2.14,3.47,3.00
+2025-07-19,Leczna,Polonia Bytom,0,3,2.93,3.19,2.32
+2025-07-19,Grodzisk M.,S. Rzeszow,2,1,2.34,3.38,2.75
+2025-07-19,Tychy,Legnica,4,3,2.93,3.19,2.31
+2025-07-20,Chrobry Glogow,Odra Opole,3,0,2.91,3.02,2.42
+2025-07-20,Pogon Siedlce,Polonia Warszawa,1,1,2.75,3.33,2.36
+2025-07-20,Stal Mielec,Wisla,0,4,3.85,3.51,1.84
+2025-07-21,Puszcza,Ruch Chorzow,1,1,2.97,3.08,2.34
+2025-07-25,Pruszkow,Stal Mielec,4,5,2.41,3.31,2.71
+2025-07-25,S. Rzeszow,Slask Wroclaw,2,1,3.09,3.61,2.05
+2025-07-26,Chrobry Glogow,Polonia Bytom,0,1,2.99,3.33,2.22
+2025-07-26,Puszcza,Grodzisk M.,1,1,2.14,3.43,3.07
+2025-07-26,Wisla,LKS Lodz,5,0,1.74,3.63,4.21
+2025-07-27,Wieczysta Krakow,Pogon Siedlce,2,1,1.48,4.13,5.96
+2025-07-27,Polonia Warszawa,Tychy,1,2,1.96,3.64,3.33
+2025-07-27,Ruch Chorzow,Leczna,2,1,1.53,4.01,5.33
+2025-07-28,Odra Opole,Legnica,2,1,2.44,3.15,2.81
+2025-08-01,Wieczysta Krakow,Pruszkow,4,0,1.64,3.97,4.46
+2025-08-01,LKS Lodz,Polonia Bytom,5,0,2.06,3.39,3.28
+2025-08-02,Grodzisk M.,Legnica,4,0,3.12,3.52,2.08
+2025-08-02,S. Rzeszow,Chrobry Glogow,2,2,1.93,3.54,3.56
+2025-08-02,Stal Mielec,Polonia Warszawa,1,3,2.69,3.51,2.33
+2025-08-03,Leczna,Puszcza,2,2,2.71,3.31,2.42
+2025-08-03,Pogon Siedlce,Odra Opole,0,1,2.26,3.24,2.99
+2025-08-03,Slask Wroclaw,Ruch Chorzow,3,1,2.04,3.45,3.26
+2025-08-04,Tychy,Wisla,3,4,3.68,3.61,1.86
+2025-08-08,Ruch Chorzow,Pogon Siedlce,0,2,1.77,3.58,4.15
+2025-08-08,Slask Wroclaw,Legnica,3,1,1.72,3.70,4.26
+2025-08-09,Chrobry Glogow,LKS Lodz,2,1,3.65,3.53,1.89
+2025-08-09,Polonia Bytom,S. Rzeszow,0,1,1.79,3.74,3.88
+2025-08-09,Stal Mielec,Leczna,1,1,1.86,3.58,3.66
+2025-08-10,Odra Opole,Tychy,0,0,2.36,3.20,2.86
+2025-08-10,Pruszkow,Polonia Warszawa,1,4,3.16,3.54,2.05
+2025-08-10,Wisla,Grodzisk M.,3,2,1.36,5.08,6.46
+2025-08-11,Puszcza,Wieczysta Krakow,0,1,2.80,3.48,2.26
+2025-08-15,LKS Lodz,Stal Mielec,2,0,1.69,3.83,4.27
+2025-08-15,Polonia Warszawa,Ruch Chorzow,0,0,1.98,3.46,3.40
+2025-08-16,Chrobry Glogow,Legnica,2,2,3.05,3.32,2.17
+2025-08-16,Grodzisk M.,Pruszkow,4,1,1.85,3.73,3.59
+2025-08-16,S. Rzeszow,Puszcza,2,2,2.11,3.49,3.03
+2025-08-17,Odra Opole,Slask Wroclaw,1,1,3.06,3.29,2.18
+2025-08-17,Pogon Siedlce,Polonia Bytom,2,0,2.98,3.31,2.21
+2025-08-17,Tychy,Leczna,2,2,1.82,3.52,3.94
+2025-08-19,Legnica,LKS Lodz,2,1,2.30,3.50,2.75
+2025-08-19,Polonia Warszawa,Wieczysta Krakow,1,6,2.68,3.48,2.34
+2025-08-19,Pruszkow,Wisla,0,7,6.00,4.69,1.42
+2025-08-20,Chrobry Glogow,Slask Wroclaw,1,2,3.60,3.61,1.88
+2025-08-20,Polonia Bytom,Grodzisk M.,3,0,2.10,3.73,2.93
+2025-08-20,Ruch Chorzow,S. Rzeszow,4,0,1.87,3.65,3.60
+2025-08-21,Leczna,Pogon Siedlce,1,1,2.97,3.24,2.26
+2025-08-21,Puszcza,Tychy,1,2,2.78,3.53,2.26
+2025-08-21,Stal Mielec,Odra Opole,2,1,2.47,3.12,2.77
+2025-08-23,LKS Lodz,Polonia Warszawa,2,2,2.10,3.50,3.07
+2025-08-23,Grodzisk M.,Chrobry Glogow,1,1,2.05,3.50,3.18
+2025-08-23,S. Rzeszow,Legnica,1,2,2.89,3.48,2.21
+2025-08-24,Odra Opole,Pruszkow,0,2,1.76,3.48,4.38
+2025-08-24,Pogon Siedlce,Puszcza,0,0,2.14,3.15,3.34
+2025-08-24,Ruch Chorzow,Polonia Bytom,1,1,2.22,3.23,3.06
+2025-08-24,Wisla,Slask Wroclaw,5,0,1.55,4.11,4.97
+2025-08-25,Wieczysta Krakow,Leczna,2,2,1.31,5.15,7.75
+2025-08-25,Tychy,Stal Mielec,0,1,1.93,3.60,3.43
+2025-08-29,Legnica,Wisla,2,0,4.96,4.24,1.52
+2025-08-29,Slask Wroclaw,Tychy,2,1,2.00,3.65,3.20
+2025-08-30,Leczna,S. Rzeszow,0,4,2.23,3.51,2.81
+2025-08-30,Polonia Bytom,Wieczysta Krakow,4,2,2.94,3.49,2.17
+2025-08-30,Polonia Warszawa,Grodzisk M.,2,1,1.90,3.89,3.29
+2025-08-30,Pruszkow,Pogon Siedlce,0,1,2.71,3.31,2.39
+2025-08-31,Odra Opole,LKS Lodz,1,1,2.82,3.22,2.36
+2025-08-31,Puszcza,Chrobry Glogow,0,0,2.13,3.26,3.20
+2025-08-31,Stal Mielec,Ruch Chorzow,2,2,2.75,3.28,2.37
+2025-09-12,Chrobry Glogow,Pogon Siedlce,2,1,2.17,3.27,3.12
+2025-09-12,Tychy,Polonia Bytom,1,2,2.72,3.39,2.36
+2025-09-13,Slask Wroclaw,Puszcza,2,0,1.75,3.65,4.14
+2025-09-13,S. Rzeszow,Pruszkow,1,0,1.95,3.64,3.33
+2025-09-13,Wisla,Odra Opole,2,2,1.31,5.03,8.04
+2025-09-14,Legnica,Polonia Warszawa,1,1,2.26,3.45,2.81
+2025-09-14,Grodzisk M.,Leczna,3,3,1.85,3.71,3.58
+2025-09-14,Ruch Chorzow,LKS Lodz,2,1,2.43,3.30,2.69
+2025-09-15,Wieczysta Krakow,Stal Mielec,2,0,1.52,4.26,5.12
+2025-09-19,Odra Opole,S. Rzeszow,2,1,1.96,3.42,3.50
+2025-09-19,Stal Mielec,Grodzisk M.,1,2,2.14,3.59,2.92
+2025-09-20,Pogon Siedlce,Slask Wroclaw,2,3,3.66,3.45,1.90
+2025-09-20,Polonia Bytom,Legnica,4,0,2.12,3.39,3.11
+2025-09-20,Polonia Warszawa,Puszcza,1,2,1.62,3.81,4.76
+2025-09-21,Leczna,Wisla,1,2,6.04,4.75,1.40
+2025-09-21,LKS Lodz,Wieczysta Krakow,0,0,2.47,3.51,2.50
+2025-09-21,Pruszkow,Tychy,4,0,2.51,3.45,2.52
+2025-09-22,Ruch Chorzow,Chrobry Glogow,2,1,1.82,3.56,3.91
+2025-09-26,Slask Wroclaw,Polonia Warszawa,1,1,2.04,3.52,3.19
+2025-09-27,Puszcza,Odra Opole,1,1,2.32,3.15,2.94
+2025-09-27,S. Rzeszow,Stal Mielec,3,2,2.10,3.64,2.95
+2025-09-27,Tychy,Pogon Siedlce,1,3,1.87,3.56,3.65
+2025-09-28,Chrobry Glogow,Leczna,2,0,2.00,3.47,3.32
+2025-09-28,Wieczysta Krakow,Ruch Chorzow,4,2,1.72,3.76,4.19
+2025-09-28,Legnica,Pruszkow,2,1,1.67,3.83,4.34
+2025-09-29,Grodzisk M.,LKS Lodz,3,0,2.89,3.51,2.20
+2025-09-29,Wisla,Polonia Bytom,1,0,1.52,4.25,5.08
+2025-10-02,Wieczysta Krakow,Wisla,1,1,2.63,3.55,2.33
+2025-10-03,Polonia Warszawa,S. Rzeszow,2,3,1.63,4.09,4.32
+2025-10-03,Stal Mielec,Chrobry Glogow,1,2,2.40,3.36,2.65
+2025-10-04,Pogon Siedlce,Grodzisk M.,1,2,2.43,3.46,2.58
+2025-10-04,Polonia Bytom,Puszcza,1,1,1.81,3.49,4.03
+2025-10-04,Pruszkow,Slask Wroclaw,2,1,3.59,3.63,1.87
+2025-10-05,Leczna,Legnica,2,0,2.88,3.48,2.21
+2025-10-05,LKS Lodz,Tychy,3,1,1.72,3.77,4.16
+2025-10-05,Odra Opole,Wieczysta Krakow,2,0,4.01,3.67,1.77
+2025-10-05,Wisla,Ruch Chorzow,3,0,1.41,4.52,6.25
+2025-10-17,Legnica,Pogon Siedlce,2,2,1.67,3.90,4.38
+2025-10-17,Grodzisk M.,Ruch Chorzow,2,2,2.33,3.42,2.74
+2025-10-18,Chrobry Glogow,Polonia Warszawa,2,0,2.59,3.42,2.45
+2025-10-18,S. Rzeszow,LKS Lodz,1,4,2.81,3.59,2.21
+2025-10-18,Tychy,Wieczysta Krakow,3,3,3.42,3.66,1.93
+2025-10-19,Leczna,Pruszkow,1,1,2.46,3.43,2.58
+2025-10-19,Polonia Bytom,Odra Opole,0,0,1.69,3.64,4.50
+2025-10-19,Slask Wroclaw,Stal Mielec,2,1,1.66,3.88,4.39
+2025-10-20,Puszcza,Wisla,0,3,4.80,3.99,1.59
+2025-10-24,Odra Opole,Ruch Chorzow,1,1,2.36,3.05,2.99
+2025-10-24,Pruszkow,Puszcza,0,3,2.55,3.24,2.60
+2025-10-25,Pogon Siedlce,LKS Lodz,3,1,3.50,3.47,1.94
+2025-10-25,Polonia Warszawa,Polonia Bytom,2,1,2.28,3.54,2.73
+2025-10-25,Slask Wroclaw,Leczna,3,1,1.50,4.37,5.20
+2025-10-26,Stal Mielec,Legnica,1,2,2.91,3.49,2.17
+2025-10-26,Tychy,Chrobry Glogow,0,1,2.53,3.53,2.43
+2025-10-26,Wisla,S. Rzeszow,2,1,1.23,6.11,8.88
+2025-10-27,Wieczysta Krakow,Grodzisk M.,2,3,1.58,4.24,4.41
+2025-10-31,Leczna,Polonia Warszawa,1,2,2.80,3.44,2.25
+2025-10-31,Ruch Chorzow,Tychy,2,1,1.96,3.47,3.40
+2025-11-02,Chrobry Glogow,Wisla,0,1,4.27,3.65,1.72
+2025-11-02,Legnica,Wieczysta Krakow,3,2,2.65,3.53,2.30
+2025-11-02,Polonia Bytom,Pruszkow,2,0,1.55,4.08,4.86
+2025-11-02,S. Rzeszow,Pogon Siedlce,1,1,2.07,3.56,3.04
+2025-11-03,LKS Lodz,Slask Wroclaw,2,1,2.52,3.30,2.53
+2025-11-03,Grodzisk M.,Odra Opole,2,1,2.07,3.39,3.16
+2025-11-05,Puszcza,Stal Mielec,1,1,2.16,3.35,3.13
+2025-11-07,Pruszkow,Chrobry Glogow,0,2,2.98,3.36,2.21
+2025-11-07,Ruch Chorzow,Legnica,3,1,2.33,3.48,2.71
+2025-11-08,Wieczysta Krakow,S. Rzeszow,1,2,1.50,4.38,5.16
+2025-11-08,LKS Lodz,Puszcza,0,3,1.88,3.47,3.75
+2025-11-08,Stal Mielec,Pogon Siedlce,0,0,2.33,3.52,2.70
+2025-11-08,Wisla,Polonia Warszawa,1,2,1.38,4.78,6.55
+2025-11-09,Odra Opole,Leczna,3,1,1.96,3.41,3.56
+2025-11-09,Slask Wroclaw,Polonia Bytom,2,3,2.02,3.45,3.34
+2025-11-09,Tychy,Grodzisk M.,1,2,2.47,3.57,2.49
+2025-11-21,Grodzisk M.,Slask Wroclaw,2,2,2.62,3.53,2.35
+2025-11-21,Puszcza,Legnica,1,3,3.00,3.25,2.24
+2025-11-22,Chrobry Glogow,Wieczysta Krakow,1,2,2.68,3.35,2.40
+2025-11-22,Polonia Bytom,Stal Mielec,4,1,1.67,3.84,4.37
+2025-11-22,S. Rzeszow,Tychy,2,1,2.15,3.62,2.89
+2025-11-23,Leczna,LKS Lodz,1,2,3.11,3.44,2.07
+2025-11-23,Pogon Siedlce,Wisla,0,0,5.54,4.18,1.49
+2025-11-23,Polonia Warszawa,Odra Opole,1,0,1.90,3.43,3.65
+2025-11-23,Ruch Chorzow,Pruszkow,1,2,1.72,3.70,4.20
+2025-11-28,Legnica,Tychy,6,1,1.47,4.45,5.46
+2025-11-28,Polonia Bytom,Leczna,2,2,1.48,4.33,5.39
+2025-11-29,Odra Opole,Chrobry Glogow,0,2,2.65,2.98,2.65
+2025-11-29,Polonia Warszawa,Pogon Siedlce,2,0,1.80,3.62,3.89
+2025-11-29,Ruch Chorzow,Puszcza,2,0,2.04,3.27,3.39
+2025-11-30,Wieczysta Krakow,Slask Wroclaw,3,3,2.10,3.55,2.98
+2025-11-30,Pruszkow,LKS Lodz,1,1,3.04,3.38,2.14
+2025-11-30,Wisla,Stal Mielec,3,0,1.28,5.48,8.16
+2025-12-01,S. Rzeszow,Grodzisk M.,1,0,2.29,3.73,2.60
+2025-12-05,Tychy,Polonia Warszawa,1,1,2.99,3.43,2.14
+2025-12-06,Legnica,Odra Opole,2,1,1.72,3.58,4.38
+2025-12-06,Grodzisk M.,Puszcza,1,1,2.02,3.38,3.32
+2025-12-06,Pogon Siedlce,Wieczysta Krakow,0,2,3.27,3.54,1.98
+2025-12-07,Leczna,Ruch Chorzow,0,1,2.77,3.46,2.27
+2025-12-07,LKS Lodz,Wisla,1,1,3.80,3.47,1.85
+2025-12-07,Polonia Bytom,Chrobry Glogow,2,0,2.04,3.41,3.19
+2025-12-07,Stal Mielec,Pruszkow,1,2,2.29,3.47,2.73
+2025-12-08,Slask Wroclaw,S. Rzeszow,1,1,1.61,4.08,4.43
+2026-02-06,Odra Opole,Pogon Siedlce,1,0,2.31,3.14,2.96
+2026-02-06,Wisla,Tychy,3,1,1.30,5.09,7.73
+2026-02-07,Legnica,Grodzisk M.,1,1,1.71,3.95,3.93
+2026-02-07,Polonia Bytom,LKS Lodz,2,3,2.46,3.16,2.72
+2026-02-07,Pruszkow,Wieczysta Krakow,2,3,3.64,3.52,1.88
+2026-02-08,Polonia Warszawa,Stal Mielec,5,2,1.74,3.72,4.04
+2026-02-08,Puszcza,Leczna,2,1,2.12,3.12,3.35
+2026-02-08,Ruch Chorzow,Slask Wroclaw,2,2,2.48,3.36,2.57
+2026-02-09,Chrobry Glogow,S. Rzeszow,1,1,2.02,3.46,3.25
+2026-02-13,Leczna,Stal Mielec,1,1,2.02,3.48,3.23
+2026-02-13,Pogon Siedlce,Ruch Chorzow,2,1,2.86,3.17,2.35
+2026-02-14,Legnica,Slask Wroclaw,3,1,2.11,3.59,2.94
+2026-02-14,LKS Lodz,Chrobry Glogow,1,3,1.81,3.36,4.16
+2026-02-14,Polonia Warszawa,Pruszkow,0,0,1.60,3.96,4.70
+2026-02-15,Wieczysta Krakow,Puszcza,3,1,1.51,4.01,5.52
+2026-02-15,Grodzisk M.,Wisla,1,1,4.92,4.23,1.53
+2026-02-15,S. Rzeszow,Polonia Bytom,3,1,2.15,3.51,2.89
+2026-02-16,Tychy,Odra Opole,1,1,2.16,3.26,3.10
+2026-02-20,Leczna,Tychy,1,0,2.52,3.27,2.54
+2026-02-20,Wisla,Wieczysta Krakow,1,1,1.75,3.84,3.81
+2026-02-21,Legnica,Chrobry Glogow,0,1,1.91,3.41,3.63
+2026-02-21,Pruszkow,Grodzisk M.,0,0,2.56,3.50,2.41
+2026-02-21,Ruch Chorzow,Polonia Warszawa,2,3,2.33,3.30,2.80
+2026-02-22,Polonia Bytom,Pogon Siedlce,1,1,1.87,3.51,3.72
+2026-02-22,Puszcza,S. Rzeszow,4,1,2.59,3.30,2.51
+2026-02-22,Slask Wroclaw,Odra Opole,3,0,1.79,3.52,4.05
+2026-02-23,Stal Mielec,LKS Lodz,1,2,3.08,3.31,2.15
+2026-02-27,Pogon Siedlce,Leczna,1,1,2.19,3.20,3.10
+2026-02-27,S. Rzeszow,Ruch Chorzow,0,1,2.46,3.43,2.53
+2026-02-28,LKS Lodz,Legnica,0,0,2.31,3.21,2.87
+2026-02-28,Grodzisk M.,Polonia Bytom,2,1,2.27,3.49,2.72
+2026-02-28,Slask Wroclaw,Chrobry Glogow,2,1,1.97,3.35,3.53
+2026-03-01,Odra Opole,Stal Mielec,0,2,2.04,3.32,3.35
+2026-03-01,Tychy,Puszcza,1,2,2.32,3.20,2.88
+2026-03-01,Wisla,Pruszkow,1,1,1.29,5.06,8.08
+2026-03-02,Wieczysta Krakow,Polonia Warszawa,1,2,2.01,3.60,3.18
+2026-03-06,Puszcza,Pogon Siedlce,3,0,2.31,3.08,2.99
+2026-03-06,Stal Mielec,Tychy,4,0,2.15,3.45,2.96
+2026-03-07,Chrobry Glogow,Grodzisk M.,3,0,2.11,3.31,3.17
+2026-03-07,Leczna,Wieczysta Krakow,0,3,3.63,3.54,1.87
+2026-03-07,Legnica,S. Rzeszow,2,1,1.66,3.99,4.17
+2026-03-07,Slask Wroclaw,Wisla,3,0,3.02,3.41,2.08
+2026-03-08,Polonia Bytom,Ruch Chorzow,0,1,2.45,3.26,2.65
+2026-03-08,Pruszkow,Odra Opole,2,3,2.31,3.04,2.93
+2026-03-09,Polonia Warszawa,LKS Lodz,0,1,2.12,3.38,3.08
+2026-03-13,Chrobry Glogow,Puszcza,1,2,2.07,3.28,3.28
+2026-03-13,Wisla,Legnica,3,2,1.65,3.81,4.46
+2026-03-14,Grodzisk M.,Polonia Warszawa,3,2,2.58,3.48,2.40
+2026-03-14,Ruch Chorzow,Stal Mielec,2,1,1.94,3.47,3.46
+2026-03-14,S. Rzeszow,Leczna,1,1,2.02,3.52,3.19
+2026-03-15,LKS Lodz,Odra Opole,1,1,1.88,3.17,4.10
+2026-03-15,Pogon Siedlce,Pruszkow,1,0,2.31,3.14,2.91
+2026-03-15,Tychy,Slask Wroclaw,2,4,3.24,3.39,2.05
+2026-03-20,Leczna,Grodzisk M.,3,0,2.58,3.43,2.39
+2026-03-20,Pruszkow,S. Rzeszow,2,3,2.41,3.29,2.64
+2026-03-21,LKS Lodz,Ruch Chorzow,2,2,2.06,3.20,3.38
+2026-03-21,Odra Opole,Wisla,1,1,4.89,3.63,1.63
+2026-03-21,Polonia Bytom,Tychy,1,1,2.09,3.46,3.08
+2026-03-21,Polonia Warszawa,Legnica,1,1,2.18,3.46,2.90
+2026-03-21,Puszcza,Slask Wroclaw,1,1,2.81,3.32,2.29
+2026-03-22,Pogon Siedlce,Chrobry Glogow,1,2,2.46,3.10,2.72
+2026-03-22,Stal Mielec,Wieczysta Krakow,3,1,3.19,3.61,2.00
+2026-04-04,Wieczysta Krakow,LKS Lodz,0,2,2.09,3.41,3.13
+2026-04-04,Slask Wroclaw,Pogon Siedlce,1,0,1.66,3.68,4.60
+2026-04-04,Tychy,Pruszkow,0,1,2.28,3.41,2.78
+2026-04-06,Chrobry Glogow,Ruch Chorzow,1,1,2.79,3.25,2.37
+2026-04-06,Grodzisk M.,Stal Mielec,1,2,2.27,3.52,2.73
+2026-04-06,Puszcza,Polonia Warszawa,2,1,2.56,3.20,2.56
+2026-04-06,S. Rzeszow,Odra Opole,0,1,2.22,3.59,2.77
+2026-04-06,Wisla,Leczna,3,2,1.34,5.01,6.91
+2026-04-07,Legnica,Polonia Bytom,1,1,1.68,4.06,4.03
+2026-04-10,Odra Opole,Puszcza,1,0,2.67,2.86,2.72
+2026-04-10,Polonia Warszawa,Slask Wroclaw,0,4,2.40,3.35,2.64
+2026-04-11,Leczna,Chrobry Glogow,1,0,2.60,3.32,2.45
+2026-04-11,Ruch Chorzow,Wieczysta Krakow,0,2,2.43,3.52,2.52
+2026-04-11,Stal Mielec,S. Rzeszow,3,1,1.82,3.81,3.60
+2026-04-12,Pogon Siedlce,Tychy,0,1,2.12,3.27,3.14
+2026-04-12,Polonia Bytom,Wisla,1,1,3.64,3.45,1.89
+2026-04-12,Pruszkow,Legnica,1,2,3.14,3.48,2.05
+2026-04-17,Chrobry Glogow,Stal Mielec,2,1,2.29,3.24,2.88
+2026-04-17,S. Rzeszow,Polonia Warszawa,0,2,2.85,3.79,2.08
+2026-04-18,Wieczysta Krakow,Odra Opole,0,0,1.57,3.91,5.01
+2026-04-18,Puszcza,Polonia Bytom,2,1,2.42,3.33,2.62
+2026-04-18,Slask Wroclaw,Pruszkow,2,2,1.63,3.77,4.69
+2026-04-18,Tychy,LKS Lodz,3,2,3.32,3.35,2.03
+2026-04-19,Grodzisk M.,Pogon Siedlce,0,2,2.13,3.33,3.10
+2026-04-19,Ruch Chorzow,Wisla,1,1,3.02,3.41,2.13
+2026-04-20,Legnica,Leczna,0,2,1.40,4.65,6.23
+2026-04-23,Wieczysta Krakow,Polonia Bytom,4,3,1.79,3.78,3.76
+2026-04-24,Pruszkow,Leczna,2,2,2.15,3.34,3.02
+2026-04-24,Wisla,Puszcza,2,2,1.77,3.43,4.19
+2026-04-25,LKS Lodz,S. Rzeszow,2,1,1.39,4.58,6.57
+2026-04-25,Pogon Siedlce,Legnica,2,0,3.11,3.27,2.14
+2026-04-25,Polonia Warszawa,Chrobry Glogow,1,0,1.85,3.45,3.83
+2026-04-25,Stal Mielec,Slask Wroclaw,2,3,2.94,3.44,2.15
+2026-04-26,Wieczysta Krakow,Tychy,2,0,1.47,4.36,5.45
+2026-04-26,Odra Opole,Polonia Bytom,0,2,2.22,3.23,2.99
+2026-04-27,Ruch Chorzow,Grodzisk M.,2,2,1.54,4.07,4.99
+2026-05-01,Leczna,Slask Wroclaw,0,4,3.83,3.74,1.77
+2026-05-01,Puszcza,Pruszkow,1,0,1.97,3.31,3.55
+2026-05-02,Legnica,Stal Mielec,1,0,1.73,3.85,3.94
+2026-05-02,LKS Lodz,Pogon Siedlce,4,0,1.54,3.75,5.57
+2026-05-02,Grodzisk M.,Wieczysta Krakow,1,4,3.66,3.90,1.77
+2026-05-03,Chrobry Glogow,Tychy,3,2,1.88,3.47,3.61
+2026-05-03,Ruch Chorzow,Odra Opole,2,0,1.48,3.95,6.00
+2026-05-03,S. Rzeszow,Wisla,1,2,5.43,4.57,1.45
+2026-05-04,Polonia Bytom,Polonia Warszawa,3,2,2.53,3.49,2.41
+2026-05-07,LKS Lodz,Grodzisk M.,3,2,1.53,4.14,5.05
+2026-05-08,Wisla,Chrobry Glogow,2,0,1.51,3.94,5.71
+2026-05-09,Wieczysta Krakow,Legnica,0,1,1.95,3.92,3.07
+2026-05-09,Pruszkow,Polonia Bytom,1,4,2.63,3.39,2.38
+2026-05-09,Stal Mielec,Puszcza,1,1,2.34,3.29,2.76
+2026-05-10,Pogon Siedlce,S. Rzeszow,1,2,1.91,3.68,3.35
+2026-05-10,Polonia Warszawa,Leczna,2,1,1.56,4.08,4.80
+2026-05-10,Tychy,Ruch Chorzow,0,4,4.11,3.72,1.71
+2026-05-11,Odra Opole,Grodzisk M.,3,1,2.64,3.17,2.51
+2026-05-11,Slask Wroclaw,LKS Lodz,2,2,2.05,3.34,3.25
+2026-05-15,Pogon Siedlce,Stal Mielec,1,3,3.45,3.32,1.99
+2026-05-15,Polonia Warszawa,Wisla,0,1,2.19,3.53,2.85
+2026-05-16,Chrobry Glogow,Pruszkow,3,2,1.62,3.78,4.71
+2026-05-16,Leczna,Odra Opole,0,2,1.95,3.34,3.56
+2026-05-16,S. Rzeszow,Wieczysta Krakow,1,5,5.46,4.72,1.43
+2026-05-17,Legnica,Ruch Chorzow,1,2,2.07,3.38,3.13
+2026-05-17,Grodzisk M.,Tychy,0,0,1.82,3.73,3.63
+2026-05-17,Polonia Bytom,Slask Wroclaw,1,3,2.96,3.30,2.21
+2026-05-18,Puszcza,LKS Lodz,1,0,3.02,3.21,2.21
+2026-05-24,Wieczysta Krakow,Chrobry Glogow,1,1,1.64,4.01,4.37
+2026-05-24,Legnica,Puszcza,2,1,1.96,3.44,3.45
+2026-05-24,LKS Lodz,Leczna,3,1,1.31,5.03,8.05
+2026-05-24,Odra Opole,Polonia Warszawa,1,2,3.53,3.78,1.84
+2026-05-24,Pruszkow,Ruch Chorzow,3,2,3.72,3.53,1.87
+2026-05-24,Slask Wroclaw,Grodzisk M.,0,0,1.57,4.41,4.34
+2026-05-24,Stal Mielec,Polonia Bytom,4,1,2.38,3.54,2.58
+2026-05-24,Tychy,S. Rzeszow,3,3,1.93,3.71,3.31
+2026-05-24,Wisla,Pogon Siedlce,2,0,1.25,5.66,8.92

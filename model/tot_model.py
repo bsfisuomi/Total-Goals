@@ -47,7 +47,23 @@ def _p(*parts):
 # sorterar om), men hall ordningen konsekvent for lasbarhetens skull.
 LEAGUES = {
     "poland": {
-        "files": [_p("Poland", "II Liga", "2025.csv"), _p("Poland", "II Liga", "2026.csv")],
+        # II Liga 2025+2026, plus I Liga 2025 (foregaende sasong) som kalla
+        # for lag som blev NEDFLYTTADE till II Liga i sommar (t.ex. GKS
+        # Tychy spelade I Liga forra sasongen) - de fa matcherna laget har
+        # spelat i II Liga hittills i ar fylls da pa med sina gamla I
+        # Liga-matcher istallet for att tunnas ut till bara 9 matcher.
+        # I Liga 2026 (denna sasongens I Liga) racknas INTE in har - det ar
+        # en annan liga just nu och skulle bara blanda in lag som aldrig
+        # spelar i II Liga den har sasongen.
+        "files": [
+            _p("Poland", "II Liga", "2025.csv"),
+            _p("Poland", "I Liga", "2025.csv"),
+            _p("Poland", "II Liga", "2026.csv"),
+        ],
+        "season_start": "2026-06-01",
+    },
+    "poland-i-liga": {
+        "files": [_p("Poland", "I Liga", "2025.csv"), _p("Poland", "I Liga", "2026.csv")],
         "season_start": "2026-06-01",
     },
     "sweden-norra": {
