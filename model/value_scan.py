@@ -101,29 +101,34 @@ def find_value(model_tot, bet365_totals, min_edge=0.04):
     return hits
 
 
-def find_main_line_value(model_tot, bet365_totals, min_ev=0.10):
+def find_goal_line_value(model_tot, goal_line_odds, min_ev=0.10):
     """
-    Filter for Telegram-alerts: tittar bara pa "50/50-linjen" - den linje dar
-    modellens sannolikhet ligger narmast 50% (dvs. den mest jamna, centrala
-    totals-linjen som Bet365 erbjuder for matchen) - och flaggar bara om
-    forvantat vardet (EV) pa den sidan overstiger min_ev.
+    Filter for Telegram-alerts. Anvander ENDAST Bet365s "Goal Line"-marknad
+    (odds-api.io kallar den "Goals Over/Under") - Bet365s asiatiska
+    totalmalsmarknad med en central linje per match (t.ex. 2.5, ibland en
+    kvartslinje som 2.75). Detta ar INTE samma marknad som "Totals"
+    (som har manga alternativa linjer och ibland saknar den centrala helt),
+    och 1X2-marknaden anvands inte alls for dessa alerts.
 
-    bet365_totals: lista av dict {"hdp": float, "over": odds, "under": odds}
+    goal_line_odds: lista av dict {"hdp": float, "over": odds, "under": odds}
+    fran Bet365s "Goals Over/Under"-marknad (vanligtvis bara EN rad, men
+    funktionen hanterar flera om de skulle finnas - valjer den narmast 50%).
+
     min_ev: minsta EV (som andel, 0.10 = 10%) for att raknas som en trigger
 
     Returnerar None om ingen sida triggar, annars en dict:
         {"line", "sida", "bet365_odds", "modell_sannolikhet", "fair_odds",
          "edge_procentenheter", "ev_procent"}
     """
-    if not bet365_totals:
+    if not goal_line_odds:
         return None
 
-    # hitta linjen vars over-sannolikhet ligger narmast 50%
+    # hitta linjen vars over-sannolikhet ligger narmast 50% (normalt bara en rad)
     best_row = None
     best_dist = None
     best_p_over = None
     best_p_under = None
-    for row in bet365_totals:
+    for row in goal_line_odds:
         line = row["hdp"]
         p_over, p_under = over_under_prob(model_tot, line)
         dist = abs(p_over - 0.5)
