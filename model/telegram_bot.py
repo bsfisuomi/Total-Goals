@@ -73,11 +73,14 @@ def format_value_bet(league, match, market, side, line, model_prob, bet365_odds,
     """Formaterar en enskild value-bet-rad for Telegram (Markdown)."""
     line_str = f" {line}" if line is not None else ""
     fair_odds = 100 / model_prob
+    p = model_prob / 100
+    ev_pct = (p * bet365_odds - 1) * 100  # forvantad avkastning i % av insatsen
     return (
         f"*{league}*\n"
         f"{match}\n"
         f"{market}{line_str} — *{side}*\n"
-        f"Fair odds: {fair_odds:.3f}  |  Bet365: {bet365_odds}  |  Edge: {edge_pp:+.1f}pp\n"
+        f"Fair odds: {fair_odds:.3f}  |  Bet365: {bet365_odds}\n"
+        f"Edge: {edge_pp:+.1f}pp  |  EV: {ev_pct:+.1f}%\n"
     )
 
 
