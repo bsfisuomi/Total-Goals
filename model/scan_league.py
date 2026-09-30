@@ -37,7 +37,7 @@ import urllib.parse
 sys.path.insert(0, os.path.dirname(__file__))
 from tot_model import load_league, team_tot_snitt, dnb_probabilities, predict_tot, LAST_N, LEAGUES
 from value_scan import find_goal_line_value
-from telegram_bot import format_value_bet, format_report, send_message, load_env
+from telegram_bot import format_value_bet, format_report, format_report_chunks, send_message, load_env
 
 API_BASE = "https://api.odds-api.io/v3"
 
@@ -518,8 +518,13 @@ def main():
     print(report)
 
     if send:
-        send_message(report)
-        print("Skickat till Telegram.", file=sys.stderr)
+        chunks = format_report_chunks(all_hits)
+        for i, chunk in enumerate(chunks, 1):
+            send_message(chunk)
+            if len(chunks) > 1:
+                print(f"Skickat till Telegram ({i}/{len(chunks)}).", file=sys.stderr)
+            else:
+                print("Skickat till Telegram.", file=sys.stderr)
 
 
 if __name__ == "__main__":

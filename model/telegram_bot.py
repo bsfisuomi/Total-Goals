@@ -16,6 +16,7 @@ med riktig natverksatkomst) fungerar detta skript direkt via urllib.
 import os
 import json
 import urllib.request
+import urllib.error
 import urllib.parse
 from pathlib import Path
 
@@ -53,8 +54,18 @@ def send_message(text, bot_token=None, chat_id=None, parse_mode="Markdown"):
         "parse_mode": parse_mode,
     }).encode()
     req = urllib.request.Request(url, data=data, method="POST")
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        return json.loads(resp.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            return json.loads(resp.read().decode())
+    except urllib.error.HTTPError as e:
+        # Telegram skickar alltid en JSON-body med en forklaring aven vid fel
+        # (t.ex. "message is too long" eller "can't parse entities") - visa
+        # den istallet for bara "HTTP Error 400: Bad Request".
+        try:
+            body = json.loads(e.read().decode())
+            raise RuntimeError(f"Telegram avvisade meddelandet: {body.get('description', body)}") from e
+        except (ValueError, json.JSONDecodeError):
+            raise
 
 
 def get_updates(bot_token=None):
@@ -100,6 +111,34 @@ def format_report(hits):
             h.get("line"), h["model_prob"], h["bet365_odds"], h["edge_pp"],
         ))
     return "\n".join(parts)
+
+
+def format_report_chunks(hits, max_len=3500):
+    """
+    Som format_report(), men delar upp i flera meddelanden om det blir for
+    langt for Telegram (som svarar 400 Bad Request over ca 4096 tecken per
+    meddelande). max_len har en marginal under den gransen. Returnerar en
+    lista av en eller flera meddelandetexter.
+    """
+    if not hits:
+        return ["Inga value-fynd just nu."]
+
+    header = f"*Value-bets hittade: {len(hits)}*\n"
+    blocks = [format_value_bet(
+        h["league"], h["match"], h["market"], h["side"],
+        h.get("line"), h["model_prob"], h["bet365_odds"], h["edge_pp"],
+    ) for h in sorted(hits, key=lambda x: -x["edge_pp"])]
+
+    chunks = []
+    current = header
+    for block in blocks:
+        if len(current) + len(block) + 1 > max_len and current != header:
+            chunks.append(current.rstrip("\n"))
+            current = ""
+        current += block + "\n"
+    if current.strip():
+        chunks.append(current.rstrip("\n"))
+    return chunks
 
 
 if __name__ == "__main__":
