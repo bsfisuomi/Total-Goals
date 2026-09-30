@@ -323,6 +323,46 @@ LEAGUES = {
         ],
         "season_start": "2026-07-15",
     },
+    # Slovenien: Prva liga - 2. SNL - (3. SNL East/West). Kollisionskoll bekraftade:
+    # Nafta + Grosuplje upp 2.SNL->Prva liga, Primorje ner motsatt hall; Brezice upp
+    # 3.SNL East->2.SNL; Vrhnika upp 3.SNL West->2.SNL. Domzale (lamnade Prva liga),
+    # ND Gorica (lamnade 2.SNL), samt flera nya lag i 3.SNL East (NK Ormoz, Odranci,
+    # Sampion Celje, Limbus-Pekre) och West (NK Adria, Litija) saknar matchande
+    # roster nagonstans - sannolikt fran ospargade lagre ligor eller nedflyttade dit.
+    "slovenia-prva-liga": {
+        "files": [
+            _p("Slovenia", "Prva Liga", "2025-26.csv"),
+            _p("Slovenia", "2. SNL", "2025-26.csv"),
+            _p("Slovenia", "Prva Liga", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-10",
+    },
+    "slovenia-2-snl": {
+        "files": [
+            _p("Slovenia", "2. SNL", "2025-26.csv"),
+            _p("Slovenia", "Prva Liga", "2025-26.csv"),
+            _p("Slovenia", "3. SNL East", "2025-26.csv"),
+            _p("Slovenia", "3. SNL West", "2025-26.csv"),
+            _p("Slovenia", "2. SNL", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-10",
+    },
+    "slovenia-3-snl-east": {
+        "files": [
+            _p("Slovenia", "3. SNL East", "2025-26.csv"),
+            _p("Slovenia", "2. SNL", "2025-26.csv"),
+            _p("Slovenia", "3. SNL East", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-10",
+    },
+    "slovenia-3-snl-west": {
+        "files": [
+            _p("Slovenia", "3. SNL West", "2025-26.csv"),
+            _p("Slovenia", "2. SNL", "2025-26.csv"),
+            _p("Slovenia", "3. SNL West", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-10",
+    },
 }
 
 # Bakatkompatibel genvag: SEASON_START["poland"] etc.

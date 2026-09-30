@@ -1,0 +1,183 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-15,Bistrc,Tolmin,1,3
+2025-08-15,Sencur,IB 1975 Ljubljana,2,0
+2025-08-16,Dob,Vrhnika,1,3
+2025-08-16,Rudar T.,Izola,1,1
+2025-08-16,Sobec Lesce,Skofja Loka,1,0
+2025-08-17,Ljubljana Svoboda,Zidgrad Idrija,0,3
+2025-08-17,Ziri,Fama Vipava,3,1
+2025-08-23,Dob,Izola,4,0
+2025-08-23,IB 1975 Ljubljana,Rudar T.,2,1
+2025-08-23,Skofja Loka,Sencur,0,0
+2025-08-23,Tolmin,Ljubljana Svoboda,3,0
+2025-08-23,Zidgrad Idrija,Sobec Lesce,1,2
+2025-08-23,Ziri,Bistrc,2,1
+2025-08-24,Fama Vipava,Vrhnika,0,3
+2025-08-29,Sencur,Zidgrad Idrija,2,1
+2025-08-30,Bistrc,Fama Vipava,2,1
+2025-08-30,Sobec Lesce,Tolmin,3,0
+2025-08-30,Vrhnika,Izola,2,1
+2025-08-31,Rudar T.,Skofja Loka,3,3
+2025-09-06,Bistrc,Ljubljana Svoboda,2,4
+2025-09-06,IB 1975 Ljubljana,Vrhnika,0,1
+2025-09-06,Skofja Loka,Dob,3,1
+2025-09-06,Tolmin,Sencur,0,3
+2025-09-06,Ziri,Sobec Lesce,1,1
+2025-09-07,Fama Vipava,Izola,4,1
+2025-09-07,Zidgrad Idrija,Rudar T.,3,3
+2025-09-12,Sencur,Ziri,1,1
+2025-09-13,Dob,Zidgrad Idrija,7,2
+2025-09-13,Ljubljana Svoboda,Fama Vipava,1,2
+2025-09-13,Rudar T.,Tolmin,4,1
+2025-09-13,Sobec Lesce,Bistrc,3,1
+2025-09-13,Vrhnika,Skofja Loka,1,1
+2025-09-14,Izola,IB 1975 Ljubljana,1,1
+2025-09-17,Ljubljana Svoboda,Ziri,0,0
+2025-09-20,Bistrc,Sencur,2,4
+2025-09-20,Ljubljana Svoboda,Sobec Lesce,0,1
+2025-09-20,Skofja Loka,Izola,2,1
+2025-09-20,Tolmin,Dob,2,2
+2025-09-20,Zidgrad Idrija,Vrhnika,2,2
+2025-09-20,Ziri,Rudar T.,4,1
+2025-09-21,Fama Vipava,IB 1975 Ljubljana,0,2
+2025-09-26,Sencur,Ljubljana Svoboda,1,0
+2025-09-27,Dob,Ziri,1,0
+2025-09-27,IB 1975 Ljubljana,Skofja Loka,4,0
+2025-09-27,Rudar T.,Bistrc,5,2
+2025-09-27,Sobec Lesce,Fama Vipava,0,0
+2025-09-27,Vrhnika,Tolmin,0,1
+2025-09-28,Izola,Zidgrad Idrija,2,1
+2025-10-01,Dob,IB 1975 Ljubljana,1,0
+2025-10-04,Bistrc,Dob,1,1
+2025-10-04,Ljubljana Svoboda,Rudar T.,2,2
+2025-10-04,Sobec Lesce,Sencur,0,3
+2025-10-04,Tolmin,Izola,0,1
+2025-10-04,Zidgrad Idrija,IB 1975 Ljubljana,3,1
+2025-10-04,Ziri,Vrhnika,0,0
+2025-10-10,Sencur,Fama Vipava,3,2
+2025-10-11,Dob,Ljubljana Svoboda,2,1
+2025-10-11,IB 1975 Ljubljana,Tolmin,2,2
+2025-10-11,Izola,Ziri,4,1
+2025-10-11,Rudar T.,Sobec Lesce,3,1
+2025-10-11,Skofja Loka,Zidgrad Idrija,2,1
+2025-10-11,Vrhnika,Bistrc,2,0
+2025-10-18,Bistrc,Izola,1,1
+2025-10-18,Fama Vipava,Zidgrad Idrija,2,1
+2025-10-18,Ljubljana Svoboda,Vrhnika,0,7
+2025-10-18,Sencur,Rudar T.,0,2
+2025-10-18,Sobec Lesce,Dob,0,1
+2025-10-18,Tolmin,Skofja Loka,0,2
+2025-10-18,Ziri,IB 1975 Ljubljana,1,2
+2025-10-25,Dob,Sencur,2,1
+2025-10-25,IB 1975 Ljubljana,Bistrc,1,3
+2025-10-25,Izola,Ljubljana Svoboda,2,1
+2025-10-25,Rudar T.,Fama Vipava,2,1
+2025-10-25,Skofja Loka,Ziri,2,0
+2025-10-25,Vrhnika,Sobec Lesce,1,0
+2025-10-25,Zidgrad Idrija,Tolmin,1,0
+2025-11-02,Bistrc,Skofja Loka,3,1
+2025-11-02,Fama Vipava,Tolmin,1,2
+2025-11-02,Ljubljana Svoboda,IB 1975 Ljubljana,1,2
+2025-11-02,Rudar T.,Dob,3,0
+2025-11-02,Sencur,Vrhnika,3,1
+2025-11-02,Sobec Lesce,Izola,0,2
+2025-11-02,Ziri,Zidgrad Idrija,2,1
+2025-11-08,Dob,Fama Vipava,3,0
+2025-11-08,IB 1975 Ljubljana,Sobec Lesce,1,2
+2025-11-08,Izola,Sencur,1,2
+2025-11-08,Skofja Loka,Ljubljana Svoboda,1,4
+2025-11-08,Tolmin,Ziri,3,1
+2025-11-08,Vrhnika,Rudar T.,0,0
+2025-11-08,Zidgrad Idrija,Bistrc,3,2
+2025-11-15,IB 1975 Ljubljana,Sencur,2,0
+2025-11-15,Izola,Rudar T.,2,3
+2025-11-15,Skofja Loka,Sobec Lesce,0,0
+2025-11-15,Tolmin,Bistrc,5,1
+2025-11-15,Vrhnika,Dob,2,1
+2025-11-15,Zidgrad Idrija,Ljubljana Svoboda,3,4
+2025-11-16,Fama Vipava,Ziri,0,3
+2025-11-23,Fama Vipava,Skofja Loka,1,1
+2026-03-07,Bistrc,Ziri,0,4
+2026-03-07,Izola,Dob,1,1
+2026-03-07,Ljubljana Svoboda,Tolmin,1,2
+2026-03-07,Rudar T.,IB 1975 Ljubljana,1,2
+2026-03-07,Sencur,Skofja Loka,1,1
+2026-03-07,Sobec Lesce,Zidgrad Idrija,4,0
+2026-03-07,Vrhnika,Fama Vipava,3,0
+2026-03-14,IB 1975 Ljubljana,Dob,0,3
+2026-03-14,Izola,Vrhnika,0,1
+2026-03-14,Skofja Loka,Rudar T.,2,2
+2026-03-14,Tolmin,Sobec Lesce,1,0
+2026-03-14,Zidgrad Idrija,Sencur,1,2
+2026-03-15,Fama Vipava,Bistrc,0,0
+2026-03-15,Ziri,Ljubljana Svoboda,2,0
+2026-03-21,Dob,Skofja Loka,1,0
+2026-03-21,Izola,Fama Vipava,3,3
+2026-03-21,Ljubljana Svoboda,Bistrc,3,0
+2026-03-21,Rudar T.,Zidgrad Idrija,6,0
+2026-03-21,Sobec Lesce,Ziri,2,1
+2026-03-21,Vrhnika,IB 1975 Ljubljana,5,0
+2026-03-23,Sencur,Tolmin,2,1
+2026-03-28,Bistrc,Sobec Lesce,3,1
+2026-03-28,IB 1975 Ljubljana,Izola,1,4
+2026-03-28,Skofja Loka,Vrhnika,2,2
+2026-03-28,Tolmin,Rudar T.,0,1
+2026-03-28,Zidgrad Idrija,Dob,0,2
+2026-03-28,Ziri,Sencur,2,2
+2026-03-29,Fama Vipava,Ljubljana Svoboda,2,1
+2026-04-03,Sencur,Bistrc,5,1
+2026-04-04,Dob,Tolmin,3,1
+2026-04-04,IB 1975 Ljubljana,Fama Vipava,1,0
+2026-04-04,Izola,Skofja Loka,3,1
+2026-04-04,Rudar T.,Ziri,5,0
+2026-04-04,Sobec Lesce,Ljubljana Svoboda,0,0
+2026-04-04,Vrhnika,Zidgrad Idrija,2,1
+2026-04-11,Bistrc,Rudar T.,1,2
+2026-04-11,Ljubljana Svoboda,Sencur,0,0
+2026-04-11,Skofja Loka,IB 1975 Ljubljana,1,1
+2026-04-11,Tolmin,Vrhnika,2,1
+2026-04-11,Zidgrad Idrija,Izola,1,3
+2026-04-11,Ziri,Dob,0,5
+2026-04-12,Fama Vipava,Sobec Lesce,1,1
+2026-04-17,Sencur,Sobec Lesce,2,0
+2026-04-18,Dob,Bistrc,3,0
+2026-04-18,IB 1975 Ljubljana,Zidgrad Idrija,0,1
+2026-04-18,Izola,Tolmin,2,4
+2026-04-18,Rudar T.,Ljubljana Svoboda,0,1
+2026-04-18,Skofja Loka,Fama Vipava,2,3
+2026-04-18,Vrhnika,Ziri,5,0
+2026-04-25,Bistrc,Vrhnika,0,3
+2026-04-25,Fama Vipava,Sencur,1,1
+2026-04-25,Ljubljana Svoboda,Dob,1,3
+2026-04-25,Sobec Lesce,Rudar T.,1,1
+2026-04-25,Tolmin,IB 1975 Ljubljana,5,0
+2026-04-25,Zidgrad Idrija,Skofja Loka,0,1
+2026-04-25,Ziri,Izola,1,5
+2026-05-02,Dob,Sobec Lesce,1,2
+2026-05-02,Izola,Bistrc,5,0
+2026-05-02,Skofja Loka,Tolmin,1,3
+2026-05-02,Vrhnika,Ljubljana Svoboda,5,1
+2026-05-02,Zidgrad Idrija,Fama Vipava,1,0
+2026-05-03,IB 1975 Ljubljana,Ziri,3,1
+2026-05-03,Rudar T.,Sencur,1,2
+2026-05-09,Bistrc,IB 1975 Ljubljana,1,3
+2026-05-09,Ljubljana Svoboda,Izola,2,2
+2026-05-09,Sencur,Dob,1,0
+2026-05-09,Sobec Lesce,Vrhnika,1,5
+2026-05-09,Tolmin,Zidgrad Idrija,3,0
+2026-05-10,Fama Vipava,Rudar T.,1,0
+2026-05-10,Ziri,Skofja Loka,0,4
+2026-05-16,Dob,Rudar T.,3,3
+2026-05-16,IB 1975 Ljubljana,Ljubljana Svoboda,3,0
+2026-05-16,Skofja Loka,Bistrc,3,4
+2026-05-16,Tolmin,Fama Vipava,0,0
+2026-05-16,Vrhnika,Sencur,2,3
+2026-05-17,Izola,Sobec Lesce,2,1
+2026-05-17,Zidgrad Idrija,Ziri,0,0
+2026-05-23,Bistrc,Zidgrad Idrija,3,3
+2026-05-23,Ljubljana Svoboda,Skofja Loka,2,1
+2026-05-23,Rudar T.,Vrhnika,1,4
+2026-05-23,Sencur,Izola,0,3
+2026-05-23,Sobec Lesce,IB 1975 Ljubljana,4,1
+2026-05-23,Ziri,Tolmin,0,3
+2026-05-24,Fama Vipava,Dob,2,2

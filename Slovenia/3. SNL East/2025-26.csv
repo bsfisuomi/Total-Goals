@@ -1,0 +1,162 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-16,Brezice,NK Carda Martjanci,1,0
+2025-08-16,Drava,Videm,2,2
+2025-08-16,Hajdina,Podvinci,1,1
+2025-08-16,Korotan,Race,2,1
+2025-08-16,Ljutomer,Fuzinar,1,1
+2025-08-17,NK Smartno,Zavrc,3,2
+2025-08-17,Rogaska,Dobrovce,6,0
+2025-08-22,Brezice,NK Smartno,2,1
+2025-08-23,Fuzinar,Drava,1,1
+2025-08-23,Podvinci,Ljutomer,1,0
+2025-08-23,Zavrc,Korotan,0,0
+2025-08-24,NK Carda Martjanci,Dobrovce,2,0
+2025-08-24,Race,Hajdina,1,1
+2025-08-24,Videm,Rogaska,3,0
+2025-08-29,Dobrovce,Videm,1,5
+2025-08-30,Drava,Podvinci,0,1
+2025-08-30,Korotan,Brezice,2,0
+2025-08-30,Ljutomer,Race,1,1
+2025-08-30,Rogaska,Fuzinar,1,0
+2025-08-30,Zavrc,Hajdina,1,3
+2025-08-31,NK Smartno,NK Carda Martjanci,2,1
+2025-09-06,Brezice,Hajdina,3,2
+2025-09-06,Fuzinar,Dobrovce,1,1
+2025-09-06,Podvinci,Rogaska,1,0
+2025-09-06,Race,Drava,1,0
+2025-09-06,Zavrc,Ljutomer,5,0
+2025-09-07,NK Carda Martjanci,Videm,2,2
+2025-09-07,NK Smartno,Korotan,0,0
+2025-09-12,Korotan,NK Carda Martjanci,2,3
+2025-09-13,Dobrovce,Podvinci,3,2
+2025-09-13,Drava,Zavrc,1,0
+2025-09-13,Hajdina,NK Smartno,3,3
+2025-09-13,Ljutomer,Brezice,2,3
+2025-09-13,Rogaska,Race,2,2
+2025-09-14,Videm,Fuzinar,3,1
+2025-09-20,Korotan,Hajdina,0,1
+2025-09-20,Podvinci,Videm,4,0
+2025-09-20,Race,Dobrovce,5,1
+2025-09-20,Zavrc,Rogaska,2,1
+2025-09-21,NK Carda Martjanci,Fuzinar,0,0
+2025-09-21,NK Smartno,Ljutomer,4,2
+2025-09-27,Dobrovce,Zavrc,1,2
+2025-09-27,Fuzinar,Podvinci,0,2
+2025-09-27,Hajdina,NK Carda Martjanci,2,1
+2025-09-27,Ljutomer,Korotan,0,0
+2025-09-27,Rogaska,Brezice,1,1
+2025-09-28,Videm,Race,3,0
+2025-10-04,Brezice,Dobrovce,3,0
+2025-10-04,Hajdina,Ljutomer,2,1
+2025-10-04,Race,Fuzinar,0,0
+2025-10-04,Zavrc,Videm,0,4
+2025-10-05,NK Carda Martjanci,Podvinci,3,0
+2025-10-11,Dobrovce,NK Smartno,0,1
+2025-10-11,Fuzinar,Zavrc,1,2
+2025-10-11,Podvinci,Race,0,1
+2025-10-11,Rogaska,Korotan,4,0
+2025-10-12,Ljutomer,NK Carda Martjanci,1,5
+2025-10-12,Videm,Brezice,3,1
+2025-10-15,NK Smartno,Rogaska,1,2
+2025-10-18,Hajdina,Rogaska,0,0
+2025-10-18,Korotan,Dobrovce,1,0
+2025-10-18,Zavrc,Podvinci,0,1
+2025-10-19,Brezice,Fuzinar,1,1
+2025-10-19,NK Carda Martjanci,Race,3,2
+2025-10-19,NK Smartno,Videm,1,2
+2025-10-24,Fuzinar,NK Smartno,5,1
+2025-10-25,Dobrovce,Hajdina,0,2
+2025-10-25,Podvinci,Brezice,1,2
+2025-10-25,Race,Zavrc,0,0
+2025-10-25,Rogaska,Ljutomer,1,1
+2025-10-26,Videm,Korotan,4,0
+2025-10-31,Brezice,Race,0,0
+2025-10-31,Hajdina,Videm,0,1
+2025-10-31,Korotan,Fuzinar,2,0
+2025-10-31,Ljutomer,Dobrovce,1,1
+2025-10-31,NK Smartno,Podvinci,0,0
+2025-11-02,Zavrc,NK Carda Martjanci,2,0
+2025-11-08,Podvinci,Korotan,1,1
+2025-11-08,Race,NK Smartno,1,1
+2025-11-08,Rogaska,NK Carda Martjanci,3,3
+2025-11-08,Videm,Ljutomer,2,2
+2025-11-08,Zavrc,Brezice,1,0
+2025-11-09,Fuzinar,Hajdina,4,1
+2025-11-15,Dobrovce,Rogaska,0,2
+2025-11-15,Fuzinar,Ljutomer,3,0
+2025-11-15,NK Carda Martjanci,Brezice,1,3
+2025-11-15,Podvinci,Hajdina,1,1
+2025-11-15,Race,Korotan,1,3
+2025-11-15,Zavrc,NK Smartno,2,0
+2026-03-07,Hajdina,Race,1,0
+2026-03-07,Korotan,Zavrc,4,0
+2026-03-07,Ljutomer,Podvinci,1,1
+2026-03-07,Rogaska,Videm,0,0
+2026-03-08,NK Smartno,Brezice,1,1
+2026-03-14,Brezice,Korotan,0,3
+2026-03-14,Hajdina,Zavrc,0,2
+2026-03-14,Race,Ljutomer,1,0
+2026-03-15,Fuzinar,Rogaska,2,1
+2026-03-15,NK Carda Martjanci,NK Smartno,3,2
+2026-03-15,Videm,Dobrovce,4,2
+2026-03-21,Dobrovce,Fuzinar,1,6
+2026-03-21,Hajdina,Brezice,0,2
+2026-03-21,Korotan,NK Smartno,1,1
+2026-03-21,Ljutomer,Zavrc,1,0
+2026-03-21,Rogaska,Podvinci,0,1
+2026-03-22,Videm,NK Carda Martjanci,1,0
+2026-03-28,Brezice,Ljutomer,2,0
+2026-03-28,Fuzinar,Videm,5,2
+2026-03-28,Podvinci,Dobrovce,1,1
+2026-03-29,NK Carda Martjanci,Korotan,5,1
+2026-03-29,NK Smartno,Hajdina,1,0
+2026-03-29,Race,Rogaska,0,0
+2026-04-01,Dobrovce,NK Carda Martjanci,2,1
+2026-04-04,Dobrovce,Race,1,5
+2026-04-04,Fuzinar,NK Carda Martjanci,5,0
+2026-04-04,Hajdina,Korotan,0,2
+2026-04-04,Ljutomer,NK Smartno,2,3
+2026-04-04,Rogaska,Zavrc,2,1
+2026-04-04,Videm,Podvinci,1,0
+2026-04-11,Brezice,Rogaska,2,1
+2026-04-11,Korotan,Ljutomer,2,2
+2026-04-11,Podvinci,Fuzinar,0,1
+2026-04-11,Race,Videm,1,1
+2026-04-11,Zavrc,Dobrovce,3,0
+2026-04-12,NK Carda Martjanci,Hajdina,4,1
+2026-04-18,Dobrovce,Brezice,2,3
+2026-04-18,Fuzinar,Race,5,1
+2026-04-18,Ljutomer,Hajdina,0,1
+2026-04-18,Podvinci,NK Carda Martjanci,1,0
+2026-04-18,Rogaska,NK Smartno,0,3
+2026-04-19,Videm,Zavrc,1,0
+2026-04-24,Korotan,Rogaska,3,0
+2026-04-25,Brezice,Videm,1,0
+2026-04-25,NK Carda Martjanci,Ljutomer,5,2
+2026-04-25,Race,Podvinci,3,1
+2026-04-25,Zavrc,Fuzinar,1,4
+2026-04-26,NK Smartno,Dobrovce,0,1
+2026-04-30,Podvinci,Zavrc,2,3
+2026-05-02,Fuzinar,Brezice,2,2
+2026-05-02,Rogaska,Hajdina,0,1
+2026-05-03,Race,NK Carda Martjanci,0,2
+2026-05-03,Videm,NK Smartno,5,2
+2026-05-05,Dobrovce,Korotan,1,2
+2026-05-09,Brezice,Podvinci,3,1
+2026-05-09,Hajdina,Dobrovce,3,0
+2026-05-09,Korotan,Videm,2,5
+2026-05-09,Zavrc,Race,1,1
+2026-05-10,Ljutomer,Rogaska,6,2
+2026-05-10,NK Smartno,Fuzinar,5,0
+2026-05-16,Dobrovce,Ljutomer,3,3
+2026-05-16,Fuzinar,Korotan,2,3
+2026-05-16,NK Carda Martjanci,Zavrc,2,1
+2026-05-16,Podvinci,NK Smartno,0,2
+2026-05-16,Race,Brezice,0,1
+2026-05-16,Videm,Hajdina,2,1
+2026-05-23,Brezice,Zavrc,6,0
+2026-05-23,Hajdina,Fuzinar,2,1
+2026-05-23,Korotan,Podvinci,1,3
+2026-05-23,Ljutomer,Videm,6,4
+2026-05-23,NK Carda Martjanci,Rogaska,3,3
+2026-05-23,NK Smartno,Race,0,1

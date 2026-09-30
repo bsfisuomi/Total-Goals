@@ -1,0 +1,241 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-08,NK Bistrica,Rudar,3,1
+2025-08-08,Nafta,Slovan Ljubljana,2,0
+2025-08-09,Beltinci,Grosuplje,2,3
+2025-08-09,Bilje,Triglav,0,1
+2025-08-09,Jadran Dekani,Dravinja,3,0
+2025-08-09,Tabor Sezana,NK Krka,0,0
+2025-08-10,Krsko Posavje,Ilirija,3,1
+2025-08-10,NK Jesenice,ND Gorica,0,0
+2025-08-15,Rudar,Nafta,0,1
+2025-08-15,Slovan Ljubljana,Bilje,2,1
+2025-08-15,Triglav,Beltinci,1,2
+2025-08-16,Dravinja,Tabor Sezana,0,1
+2025-08-16,Ilirija,Grosuplje,0,3
+2025-08-16,Krsko Posavje,NK Jesenice,0,4
+2025-08-16,ND Gorica,Jadran Dekani,1,2
+2025-08-18,NK Krka,NK Bistrica,0,4
+2025-08-23,Beltinci,Slovan Ljubljana,0,0
+2025-08-23,Bilje,Rudar,2,1
+2025-08-23,Grosuplje,Triglav,2,0
+2025-08-23,Jadran Dekani,Krsko Posavje,1,2
+2025-08-24,NK Jesenice,Ilirija,0,3
+2025-08-24,Nafta,NK Krka,4,2
+2025-08-24,Tabor Sezana,ND Gorica,1,0
+2025-08-25,NK Bistrica,Dravinja,2,0
+2025-08-30,NK Jesenice,Jadran Dekani,2,2
+2025-08-30,Rudar,Beltinci,2,2
+2025-08-30,Slovan Ljubljana,Grosuplje,0,3
+2025-08-31,Krsko Posavje,Tabor Sezana,0,2
+2025-08-31,ND Gorica,NK Bistrica,2,2
+2025-08-31,NK Krka,Bilje,0,1
+2025-09-01,Dravinja,Nafta,2,2
+2025-09-03,Ilirija,Triglav,0,2
+2025-09-05,Grosuplje,Rudar,4,2
+2025-09-06,Bilje,Dravinja,2,0
+2025-09-06,Jadran Dekani,Ilirija,3,1
+2025-09-06,NK Bistrica,Krsko Posavje,6,0
+2025-09-06,Nafta,ND Gorica,1,0
+2025-09-06,Tabor Sezana,NK Jesenice,1,0
+2025-09-07,Beltinci,NK Krka,4,0
+2025-09-07,Triglav,Slovan Ljubljana,4,1
+2025-09-12,NK Krka,Grosuplje,0,3
+2025-09-12,Rudar,Triglav,0,3
+2025-09-13,Dravinja,Beltinci,0,2
+2025-09-13,Jadran Dekani,Tabor Sezana,0,3
+2025-09-13,Krsko Posavje,Nafta,0,2
+2025-09-13,ND Gorica,Bilje,1,1
+2025-09-14,Ilirija,Slovan Ljubljana,1,2
+2025-09-14,NK Jesenice,NK Bistrica,1,2
+2025-09-19,Grosuplje,Dravinja,2,1
+2025-09-20,Beltinci,ND Gorica,3,0
+2025-09-20,Bilje,Krsko Posavje,2,1
+2025-09-20,Nafta,NK Jesenice,5,1
+2025-09-20,Triglav,NK Krka,2,2
+2025-09-21,NK Bistrica,Jadran Dekani,2,0
+2025-09-21,Slovan Ljubljana,Rudar,0,3
+2025-09-21,Tabor Sezana,Ilirija,1,1
+2025-09-26,ND Gorica,Grosuplje,2,2
+2025-09-27,Ilirija,Rudar,2,2
+2025-09-27,Jadran Dekani,Nafta,0,2
+2025-09-27,Krsko Posavje,Beltinci,0,3
+2025-09-28,Dravinja,Triglav,2,4
+2025-09-28,NK Jesenice,Bilje,1,2
+2025-09-28,NK Krka,Slovan Ljubljana,2,1
+2025-09-28,Tabor Sezana,NK Bistrica,2,1
+2025-10-03,Slovan Ljubljana,Dravinja,0,1
+2025-10-03,Triglav,ND Gorica,3,0
+2025-10-04,Beltinci,NK Jesenice,5,1
+2025-10-04,Bilje,Jadran Dekani,0,0
+2025-10-04,Grosuplje,Krsko Posavje,5,0
+2025-10-04,NK Bistrica,Ilirija,2,2
+2025-10-04,Nafta,Tabor Sezana,3,1
+2025-10-05,Rudar,NK Krka,0,0
+2025-10-10,Tabor Sezana,Bilje,1,1
+2025-10-11,Dravinja,Rudar,1,0
+2025-10-11,Krsko Posavje,Triglav,0,4
+2025-10-11,NK Bistrica,Nafta,0,2
+2025-10-11,NK Jesenice,Grosuplje,2,4
+2025-10-12,Ilirija,NK Krka,1,1
+2025-10-12,Jadran Dekani,Beltinci,0,1
+2025-10-12,ND Gorica,Slovan Ljubljana,1,1
+2025-10-17,Grosuplje,Jadran Dekani,1,1
+2025-10-17,Triglav,NK Jesenice,6,0
+2025-10-18,Bilje,NK Bistrica,0,0
+2025-10-18,NK Krka,Dravinja,2,2
+2025-10-18,Rudar,ND Gorica,2,1
+2025-10-18,Slovan Ljubljana,Krsko Posavje,1,1
+2025-10-19,Beltinci,Tabor Sezana,1,2
+2025-10-19,Nafta,Ilirija,2,1
+2025-10-24,ND Gorica,NK Krka,1,3
+2025-10-24,Tabor Sezana,Grosuplje,0,1
+2025-10-25,Ilirija,Dravinja,2,5
+2025-10-25,Jadran Dekani,Triglav,3,4
+2025-10-25,NK Bistrica,Beltinci,0,1
+2025-10-25,NK Jesenice,Slovan Ljubljana,2,3
+2025-10-26,Nafta,Bilje,4,1
+2025-10-30,Slovan Ljubljana,Jadran Dekani,1,0
+2025-10-31,NK Krka,Krsko Posavje,1,2
+2025-10-31,Rudar,NK Jesenice,1,1
+2025-11-02,Beltinci,Nafta,2,3
+2025-11-02,Dravinja,ND Gorica,2,1
+2025-11-02,Grosuplje,NK Bistrica,2,0
+2025-11-02,Triglav,Tabor Sezana,0,1
+2025-11-04,Krsko Posavje,Rudar,0,2
+2025-11-05,Bilje,Ilirija,1,1
+2025-11-08,Bilje,Beltinci,0,1
+2025-11-08,Krsko Posavje,Dravinja,2,0
+2025-11-08,NK Jesenice,NK Krka,0,3
+2025-11-08,Tabor Sezana,Slovan Ljubljana,1,0
+2025-11-09,Ilirija,ND Gorica,1,1
+2025-11-09,Jadran Dekani,Rudar,1,2
+2025-11-09,NK Bistrica,Triglav,4,3
+2025-11-09,Nafta,Grosuplje,1,1
+2025-11-14,Grosuplje,Bilje,3,0
+2025-11-14,ND Gorica,Krsko Posavje,1,2
+2025-11-14,NK Krka,Jadran Dekani,1,0
+2025-11-14,Triglav,Nafta,0,2
+2025-11-15,Beltinci,Ilirija,3,1
+2025-11-15,Dravinja,NK Jesenice,0,2
+2025-11-15,Slovan Ljubljana,NK Bistrica,2,0
+2025-11-16,Rudar,Tabor Sezana,5,1
+2025-11-21,Grosuplje,Beltinci,1,0
+2025-11-21,NK Krka,Tabor Sezana,0,3
+2025-11-21,Rudar,NK Bistrica,0,0
+2025-11-21,Triglav,Bilje,10,1
+2025-11-22,Ilirija,Krsko Posavje,1,0
+2025-11-22,ND Gorica,NK Jesenice,0,0
+2025-11-22,Slovan Ljubljana,Nafta,2,4
+2025-11-23,Dravinja,Jadran Dekani,1,1
+2026-02-27,Nafta,Rudar,1,1
+2026-02-28,Bilje,Slovan Ljubljana,0,1
+2026-02-28,Grosuplje,Ilirija,3,2
+2026-02-28,Jadran Dekani,ND Gorica,2,1
+2026-02-28,NK Bistrica,NK Krka,3,0
+2026-03-01,Beltinci,Triglav,0,0
+2026-03-01,NK Jesenice,Krsko Posavje,1,0
+2026-03-01,Tabor Sezana,Dravinja,2,0
+2026-03-06,Ilirija,NK Jesenice,2,0
+2026-03-07,Dravinja,NK Bistrica,0,3
+2026-03-07,ND Gorica,Tabor Sezana,0,0
+2026-03-07,Rudar,Bilje,5,0
+2026-03-07,Slovan Ljubljana,Beltinci,0,2
+2026-03-08,Krsko Posavje,Jadran Dekani,1,1
+2026-03-08,NK Krka,Nafta,1,1
+2026-03-08,Triglav,Grosuplje,4,0
+2026-03-14,Bilje,NK Krka,0,0
+2026-03-14,NK Bistrica,ND Gorica,1,2
+2026-03-14,Tabor Sezana,Krsko Posavje,1,0
+2026-03-14,Triglav,Ilirija,1,1
+2026-03-15,Beltinci,Rudar,2,1
+2026-03-15,Grosuplje,Slovan Ljubljana,2,1
+2026-03-15,Jadran Dekani,NK Jesenice,3,0
+2026-03-16,Nafta,Dravinja,2,1
+2026-03-20,Ilirija,Jadran Dekani,2,2
+2026-03-20,NK Krka,Beltinci,0,0
+2026-03-20,Slovan Ljubljana,Triglav,1,2
+2026-03-21,Dravinja,Bilje,1,0
+2026-03-21,Krsko Posavje,NK Bistrica,2,2
+2026-03-21,ND Gorica,Nafta,1,1
+2026-03-21,NK Jesenice,Tabor Sezana,2,2
+2026-03-21,Rudar,Grosuplje,2,3
+2026-03-27,Grosuplje,NK Krka,0,0
+2026-03-27,Triglav,Rudar,2,0
+2026-03-28,Beltinci,Dravinja,1,1
+2026-03-28,Nafta,Krsko Posavje,4,1
+2026-03-28,Tabor Sezana,Jadran Dekani,2,0
+2026-03-29,Bilje,ND Gorica,3,2
+2026-03-29,NK Bistrica,NK Jesenice,1,1
+2026-04-03,Ilirija,Tabor Sezana,2,3
+2026-04-03,Jadran Dekani,NK Bistrica,1,0
+2026-04-03,ND Gorica,Beltinci,2,3
+2026-04-03,NK Krka,Triglav,0,2
+2026-04-03,Rudar,Slovan Ljubljana,4,0
+2026-04-04,Dravinja,Grosuplje,1,1
+2026-04-04,Krsko Posavje,Bilje,1,0
+2026-04-04,NK Jesenice,Nafta,0,2
+2026-04-08,Slovan Ljubljana,Ilirija,2,1
+2026-04-10,Beltinci,Krsko Posavje,1,1
+2026-04-10,Grosuplje,ND Gorica,1,0
+2026-04-11,Bilje,NK Jesenice,2,0
+2026-04-11,Nafta,Jadran Dekani,3,0
+2026-04-11,Rudar,Ilirija,0,0
+2026-04-11,Triglav,Dravinja,2,1
+2026-04-12,NK Bistrica,Tabor Sezana,2,1
+2026-04-12,Slovan Ljubljana,NK Krka,2,2
+2026-04-17,Ilirija,NK Bistrica,2,1
+2026-04-17,NK Krka,Rudar,0,0
+2026-04-17,Tabor Sezana,Nafta,0,2
+2026-04-18,Jadran Dekani,Bilje,2,2
+2026-04-18,Krsko Posavje,Grosuplje,1,2
+2026-04-18,ND Gorica,Triglav,0,1
+2026-04-18,NK Jesenice,Beltinci,0,2
+2026-04-19,Dravinja,Slovan Ljubljana,2,1
+2026-04-24,NK Krka,Ilirija,1,4
+2026-04-24,Triglav,Krsko Posavje,4,0
+2026-04-25,Beltinci,Jadran Dekani,2,0
+2026-04-25,Nafta,NK Bistrica,2,1
+2026-04-25,Rudar,Dravinja,1,1
+2026-04-25,Slovan Ljubljana,ND Gorica,0,3
+2026-04-26,Bilje,Tabor Sezana,2,1
+2026-04-26,Grosuplje,NK Jesenice,8,1
+2026-04-29,Jadran Dekani,Grosuplje,1,1
+2026-04-30,Dravinja,NK Krka,1,0
+2026-04-30,Ilirija,Nafta,0,2
+2026-04-30,Krsko Posavje,Slovan Ljubljana,1,1
+2026-04-30,NK Bistrica,Bilje,3,0
+2026-04-30,NK Jesenice,Triglav,0,3
+2026-05-02,ND Gorica,Rudar,2,3
+2026-05-02,Tabor Sezana,Beltinci,0,2
+2026-05-06,Beltinci,NK Bistrica,3,0
+2026-05-06,Bilje,Nafta,0,1
+2026-05-06,Dravinja,Ilirija,2,1
+2026-05-06,Grosuplje,Tabor Sezana,2,1
+2026-05-06,NK Krka,ND Gorica,1,4
+2026-05-06,Triglav,Jadran Dekani,2,0
+2026-05-07,Rudar,Krsko Posavje,3,0
+2026-05-07,Slovan Ljubljana,NK Jesenice,1,0
+2026-05-09,Ilirija,Bilje,1,0
+2026-05-09,NK Bistrica,Grosuplje,0,4
+2026-05-10,Jadran Dekani,Slovan Ljubljana,5,1
+2026-05-10,Krsko Posavje,NK Krka,0,4
+2026-05-10,NK Jesenice,Rudar,2,1
+2026-05-10,Nafta,Beltinci,2,1
+2026-05-10,Tabor Sezana,Triglav,0,1
+2026-05-11,ND Gorica,Dravinja,1,1
+2026-05-15,ND Gorica,Ilirija,1,0
+2026-05-15,NK Krka,NK Jesenice,3,2
+2026-05-15,Rudar,Jadran Dekani,2,2
+2026-05-16,Beltinci,Bilje,1,3
+2026-05-16,Dravinja,Krsko Posavje,2,1
+2026-05-16,Triglav,NK Bistrica,0,4
+2026-05-17,Grosuplje,Nafta,2,1
+2026-05-17,Slovan Ljubljana,Tabor Sezana,5,1
+2026-05-22,Bilje,Grosuplje,0,1
+2026-05-22,Ilirija,Beltinci,1,3
+2026-05-22,Nafta,Triglav,1,1
+2026-05-23,Jadran Dekani,NK Krka,4,3
+2026-05-23,Krsko Posavje,ND Gorica,2,0
+2026-05-23,NK Bistrica,Slovan Ljubljana,1,0
+2026-05-23,NK Jesenice,Dravinja,0,1
+2026-05-23,Tabor Sezana,Rudar,2,0
