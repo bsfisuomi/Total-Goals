@@ -64,7 +64,7 @@ LEAGUE_SLUGS = {
     "poland-iii-liga-3": ["poland-iii-liga-group-3"],
 
     "germany-3-liga": ["germany-3-liga"],
-    "germany-regionalliga-nord": ["germany-amateur-regionalliga-north"],
+    "germany-regionalliga-north": ["germany-amateur-regionalliga-north"],
     "germany-regionalliga-west": ["germany-amateur-regionalliga-west"],
     "germany-regionalliga-sudwest": ["germany-amateur-regionalliga-southwest"],
     "germany-regionalliga-nordost": ["germany-amateur-regionalliga-northeast"],
