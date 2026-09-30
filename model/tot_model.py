@@ -25,7 +25,15 @@ B0 = 3.281111905
 B1 = 0.008833483
 REGRESSIONSSNITT = 3.6247
 
-LAST_N = 20  # antal senaste matcher per lag som ingar i snittet
+LAST_N = 20  # antal matcher per lag som ingar i snittet (minimum om sasongen har farre)
+
+# Sasongsstart per liga ("YYYY-MM-DD"). Anvands for att avgora vilka matcher
+# som racknas som "denna sasong" kontra "forra sasongen". Ligor utan
+# tidigare-sasongsdata i sin CSV behover ingen post har - da fungerar allt
+# som forut (bara de N senaste matcherna totalt, oavsett sasong).
+SEASON_START = {
+    "poland": "2026-06-01",
+}
 
 
 def load_matches(csv_path):
@@ -44,10 +52,35 @@ def team_matches(matches, team):
     return [m for m in matches if m["hemmalag"] == team or m["bortalag"] == team]
 
 
-def team_tot_snitt(matches, team, last_n=LAST_N):
-    """Snitt TOT-mal (hemma+borta) over de senaste last_n matcherna for laget."""
+def team_tot_snitt(matches, team, last_n=LAST_N, season_start=None):
+    """
+    Snitt TOT-mal (hemma+borta) for laget.
+
+    Om season_start ar satt:
+        - Om laget har spelat FLER an (eller lika med) last_n matcher DENNA
+          sasong (datum >= season_start) -> anvand ALLA matcher fran denna
+          sasong (ingen cap uppat).
+        - Om laget har spelat FARRE matcher denna sasong (t.ex. 17) ->
+          fyll pa med de senaste matcherna fran FORRA sasongen (datum <
+          season_start) tills totalt last_n matcher (om det finns sa manga
+          tillgangliga - annars anvands sa manga som finns).
+    Om season_start ar None (eller ligan saknar tidigare-sasongsdata):
+        - Gamla beteendet: de last_n senaste matcherna totalt, oavsett sasong.
+    """
     tm = team_matches(matches, team)
-    tm = tm[-last_n:]  # de N senaste (listan ar kronologisk, aldst forst)
+
+    if season_start is None:
+        tm = tm[-last_n:]  # de N senaste (listan ar kronologisk, aldst forst)
+    else:
+        current = [m for m in tm if m["datum"] >= season_start]
+        if len(current) >= last_n:
+            tm = current
+        else:
+            previous = [m for m in tm if m["datum"] < season_start]
+            shortfall = last_n - len(current)
+            fill = previous[-shortfall:]  # de senaste fran forra sasongen
+            tm = fill + current
+
     if not tm:
         raise ValueError(f"Inga matcher hittades for '{team}'")
     tots = [int(m["hemmamal"]) + int(m["bortamal"]) for m in tm]
@@ -72,12 +105,12 @@ def predict_tot(snitt1, snitt2, p1_dnb, p2_dnb):
     return regression_term * baseline
 
 
-def predict_match(csv_path, team1, team2, odds_home, odds_draw, odds_away, last_n=LAST_N):
+def predict_match(csv_path, team1, team2, odds_home, odds_draw, odds_away, last_n=LAST_N, season_start=None):
     """Kor hela flodet for en match: laddar data, raknar snitt + DNB, returnerar resultat."""
     matches = load_matches(csv_path)
 
-    snitt1, n1 = team_tot_snitt(matches, team1, last_n)
-    snitt2, n2 = team_tot_snitt(matches, team2, last_n)
+    snitt1, n1 = team_tot_snitt(matches, team1, last_n, season_start)
+    snitt2, n2 = team_tot_snitt(matches, team2, last_n, season_start)
 
     p1_dnb, p2_dnb = dnb_probabilities(odds_home, odds_away)
 
