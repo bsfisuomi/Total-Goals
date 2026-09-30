@@ -1,0 +1,189 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-02,Annan,Elgin City,3,2
+2025-08-02,Dumbarton,Clyde,2,1
+2025-08-02,East Kilbride,Spartans,1,3
+2025-08-02,Edinburgh City,Stirling,1,2
+2025-08-02,Forfar Athletic,Stranraer,1,0
+2025-08-09,Clyde,Forfar Athletic,0,0
+2025-08-09,Elgin City,East Kilbride,0,1
+2025-08-09,Spartans,Dumbarton,1,2
+2025-08-09,Stirling,Annan,0,0
+2025-08-09,Stranraer,Edinburgh City,1,2
+2025-08-16,Clyde,Spartans,1,3
+2025-08-16,Dumbarton,Elgin City,1,1
+2025-08-16,East Kilbride,Stranraer,3,1
+2025-08-16,Edinburgh City,Annan,2,2
+2025-08-16,Forfar Athletic,Stirling,4,2
+2025-08-23,Annan,Dumbarton,3,4
+2025-08-23,Elgin City,Edinburgh City,2,4
+2025-08-23,Spartans,Forfar Athletic,1,0
+2025-08-23,Stirling,East Kilbride,2,3
+2025-08-23,Stranraer,Clyde,1,1
+2025-08-30,Clyde,Elgin City,0,0
+2025-08-30,Dumbarton,Edinburgh City,1,2
+2025-08-30,East Kilbride,Forfar Athletic,5,0
+2025-08-30,Spartans,Annan,1,0
+2025-08-30,Stirling,Stranraer,1,0
+2025-09-13,Annan,Clyde,0,6
+2025-09-13,Edinburgh City,East Kilbride,2,2
+2025-09-13,Elgin City,Stirling,3,0
+2025-09-13,Forfar Athletic,Dumbarton,2,3
+2025-09-13,Stranraer,Spartans,0,2
+2025-09-20,Clyde,Edinburgh City,2,1
+2025-09-20,East Kilbride,Dumbarton,1,1
+2025-09-20,Forfar Athletic,Annan,1,0
+2025-09-20,Spartans,Stirling,1,3
+2025-09-20,Stranraer,Elgin City,1,1
+2025-09-27,Annan,East Kilbride,3,1
+2025-09-27,Dumbarton,Stranraer,1,2
+2025-09-27,Edinburgh City,Forfar Athletic,1,1
+2025-09-27,Elgin City,Spartans,2,3
+2025-09-27,Stirling,Clyde,2,4
+2025-10-04,Clyde,East Kilbride,2,2
+2025-10-04,Elgin City,Forfar Athletic,2,1
+2025-10-04,Spartans,Edinburgh City,0,1
+2025-10-04,Stirling,Dumbarton,2,2
+2025-10-04,Stranraer,Annan,0,1
+2025-10-18,Annan,Stirling,1,1
+2025-10-18,Dumbarton,Spartans,1,2
+2025-10-18,East Kilbride,Elgin City,3,0
+2025-10-18,Edinburgh City,Stranraer,1,3
+2025-10-18,Forfar Athletic,Clyde,0,0
+2025-11-01,Clyde,Dumbarton,3,1
+2025-11-01,Elgin City,Annan,2,0
+2025-11-01,Spartans,East Kilbride,2,1
+2025-11-01,Stirling,Edinburgh City,0,1
+2025-11-01,Stranraer,Forfar Athletic,3,1
+2025-11-08,Clyde,Stranraer,0,0
+2025-11-08,Dumbarton,Annan,2,1
+2025-11-08,East Kilbride,Stirling,2,0
+2025-11-08,Edinburgh City,Elgin City,1,3
+2025-11-08,Forfar Athletic,Spartans,1,1
+2025-11-15,Annan,Edinburgh City,1,1
+2025-11-15,Elgin City,Dumbarton,2,0
+2025-11-15,Spartans,Clyde,1,1
+2025-11-15,Stirling,Forfar Athletic,0,4
+2025-11-15,Stranraer,East Kilbride,1,3
+2025-11-22,Clyde,Annan,1,0
+2025-11-22,Dumbarton,Forfar Athletic,1,4
+2025-11-22,East Kilbride,Edinburgh City,1,1
+2025-11-22,Spartans,Stranraer,0,4
+2025-11-22,Stirling,Elgin City,1,1
+2025-12-06,Annan,Spartans,1,1
+2025-12-06,Edinburgh City,Dumbarton,4,3
+2025-12-06,Elgin City,Clyde,1,1
+2025-12-06,Forfar Athletic,East Kilbride,0,3
+2025-12-06,Stranraer,Stirling,3,2
+2025-12-13,Annan,Forfar Athletic,3,1
+2025-12-13,Dumbarton,East Kilbride,2,0
+2025-12-13,Edinburgh City,Clyde,1,4
+2025-12-13,Elgin City,Stranraer,1,2
+2025-12-13,Stirling,Spartans,1,1
+2025-12-20,Clyde,Stirling,1,2
+2025-12-20,East Kilbride,Annan,1,3
+2025-12-20,Forfar Athletic,Edinburgh City,2,3
+2025-12-20,Spartans,Elgin City,1,0
+2025-12-20,Stranraer,Dumbarton,1,1
+2025-12-27,Annan,Stranraer,2,2
+2025-12-27,Dumbarton,Stirling,1,2
+2025-12-27,East Kilbride,Clyde,1,1
+2025-12-27,Edinburgh City,Spartans,1,3
+2025-12-27,Forfar Athletic,Elgin City,4,2
+2026-01-03,Clyde,Forfar Athletic,1,1
+2026-01-03,Spartans,Dumbarton,2,0
+2026-01-03,Stranraer,Edinburgh City,1,1
+2026-01-10,Edinburgh City,Stirling,1,4
+2026-01-10,Forfar Athletic,Stranraer,2,2
+2026-01-17,Stirling,East Kilbride,1,2
+2026-01-24,Clyde,Spartans,2,1
+2026-01-24,Dumbarton,Elgin City,2,2
+2026-01-24,East Kilbride,Stranraer,0,2
+2026-01-24,Edinburgh City,Annan,2,2
+2026-01-24,Forfar Athletic,Stirling,0,1
+2026-01-27,East Kilbride,Spartans,0,6
+2026-01-31,Annan,Clyde,1,1
+2026-01-31,Dumbarton,Edinburgh City,1,2
+2026-01-31,East Kilbride,Forfar Athletic,3,1
+2026-01-31,Elgin City,Spartans,3,3
+2026-01-31,Stirling,Stranraer,1,1
+2026-02-07,Edinburgh City,East Kilbride,0,2
+2026-02-07,Forfar Athletic,Dumbarton,2,0
+2026-02-07,Stranraer,Annan,0,0
+2026-02-10,Annan,Dumbarton,1,0
+2026-02-10,Clyde,Elgin City,1,1
+2026-02-14,Annan,East Kilbride,2,4
+2026-02-14,Spartans,Edinburgh City,0,0
+2026-02-17,Elgin City,East Kilbride,1,6
+2026-02-17,Stirling,Clyde,0,3
+2026-02-21,Clyde,Edinburgh City,5,0
+2026-02-21,East Kilbride,Dumbarton,3,1
+2026-02-21,Elgin City,Stirling,1,0
+2026-02-21,Forfar Athletic,Annan,2,1
+2026-02-21,Stranraer,Spartans,2,1
+2026-02-24,Dumbarton,Clyde,0,0
+2026-02-24,Elgin City,Edinburgh City,3,0
+2026-02-24,Stirling,Annan,2,0
+2026-02-28,Clyde,East Kilbride,1,3
+2026-02-28,Edinburgh City,Forfar Athletic,0,0
+2026-02-28,Spartans,Annan,4,0
+2026-02-28,Stirling,Dumbarton,1,1
+2026-02-28,Stranraer,Elgin City,1,2
+2026-03-03,Spartans,Stirling,2,0
+2026-03-07,Annan,Stirling,3,3
+2026-03-07,Dumbarton,Spartans,3,0
+2026-03-07,East Kilbride,Elgin City,3,0
+2026-03-07,Edinburgh City,Stranraer,4,1
+2026-03-07,Forfar Athletic,Clyde,1,1
+2026-03-10,Annan,Elgin City,2,1
+2026-03-10,Dumbarton,Stranraer,2,0
+2026-03-14,Annan,Edinburgh City,3,0
+2026-03-14,Elgin City,Dumbarton,1,1
+2026-03-14,Spartans,Clyde,2,1
+2026-03-14,Stirling,Forfar Athletic,0,3
+2026-03-14,Stranraer,East Kilbride,2,1
+2026-03-17,Spartans,Forfar Athletic,1,0
+2026-03-21,Clyde,Stranraer,2,1
+2026-03-21,Dumbarton,Annan,2,1
+2026-03-21,East Kilbride,Stirling,3,2
+2026-03-21,Edinburgh City,Elgin City,0,3
+2026-03-21,Forfar Athletic,Spartans,1,1
+2026-03-24,Elgin City,Forfar Athletic,2,0
+2026-03-24,Stranraer,Clyde,3,1
+2026-03-28,Annan,Stranraer,1,0
+2026-03-28,Dumbarton,Forfar Athletic,2,2
+2026-03-28,Elgin City,Clyde,2,0
+2026-03-28,Spartans,East Kilbride,1,1
+2026-03-28,Stirling,Edinburgh City,1,0
+2026-04-04,Clyde,Stirling,3,1
+2026-04-04,East Kilbride,Annan,2,1
+2026-04-04,Edinburgh City,Spartans,0,3
+2026-04-04,Forfar Athletic,Elgin City,2,1
+2026-04-04,Stranraer,Dumbarton,1,1
+2026-04-11,Dumbarton,Stirling,2,1
+2026-04-11,Edinburgh City,Clyde,0,2
+2026-04-11,Elgin City,Annan,0,3
+2026-04-11,Forfar Athletic,East Kilbride,1,0
+2026-04-11,Spartans,Stranraer,1,2
+2026-04-18,Annan,Spartans,0,2
+2026-04-18,Clyde,Dumbarton,2,0
+2026-04-18,East Kilbride,Edinburgh City,4,0
+2026-04-18,Stirling,Elgin City,2,2
+2026-04-18,Stranraer,Forfar Athletic,0,1
+2026-04-25,Clyde,Annan,3,1
+2026-04-25,Dumbarton,East Kilbride,0,1
+2026-04-25,Forfar Athletic,Edinburgh City,4,0
+2026-04-25,Spartans,Elgin City,1,1
+2026-04-25,Stranraer,Stirling,1,1
+2026-05-02,Annan,Forfar Athletic,1,1
+2026-05-02,East Kilbride,Clyde,5,0
+2026-05-02,Edinburgh City,Dumbarton,5,0
+2026-05-02,Elgin City,Stranraer,0,1
+2026-05-02,Stirling,Spartans,2,2
+2026-05-05,Clyde,Spartans,2,0
+2026-05-05,Forfar Athletic,Hamilton,1,3
+2026-05-09,Brora Rangers,Edinburgh City,1,1
+2026-05-09,Hamilton,Forfar Athletic,2,1
+2026-05-09,Spartans,Clyde,1,1
+2026-05-12,Clyde,Hamilton,1,1
+2026-05-15,Hamilton,Clyde,4,3
+2026-05-16,Edinburgh City,Brora Rangers,2,0

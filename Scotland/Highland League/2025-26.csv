@@ -1,0 +1,307 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-02,Banks O' Dee,Keith,1,1
+2025-08-02,Brechin,Strathspey Thistle,3,0
+2025-08-02,Buckie Thistle,Lossiemouth,2,1
+2025-08-02,Deveronvale,Turriff Utd,0,3
+2025-08-02,Forres Mechanics,Rothes,2,0
+2025-08-02,Fraserburgh,Brora Rangers,3,0
+2025-08-02,Inverurie,Huntly,0,3
+2025-08-02,Nairn County,Clachnacuddin,1,0
+2025-08-02,Wick Academy,Formartine Utd,1,3
+2025-08-09,Brora Rangers,Inverurie,2,0
+2025-08-09,Formartine Utd,Nairn County,2,0
+2025-08-09,Forres Mechanics,Fraserburgh,4,1
+2025-08-09,Huntly,Wick Academy,1,2
+2025-08-09,Keith,Buckie Thistle,0,2
+2025-08-09,Lossiemouth,Deveronvale,1,3
+2025-08-09,Rothes,Brechin,1,8
+2025-08-09,Strathspey Thistle,Banks O' Dee,0,3
+2025-08-09,Turriff Utd,Clachnacuddin,2,2
+2025-08-13,Banks O' Dee,Brechin,0,2
+2025-08-13,Buckie Thistle,Strathspey Thistle,1,4
+2025-08-13,Clachnacuddin,Lossiemouth,5,0
+2025-08-13,Deveronvale,Keith,3,2
+2025-08-13,Fraserburgh,Rothes,3,0
+2025-08-13,Inverurie,Forres Mechanics,1,4
+2025-08-13,Nairn County,Huntly,1,3
+2025-08-13,Turriff Utd,Formartine Utd,2,3
+2025-08-13,Wick Academy,Brora Rangers,1,2
+2025-08-16,Brechin,Buckie Thistle,5,0
+2025-08-16,Brora Rangers,Nairn County,3,1
+2025-08-16,Forres Mechanics,Wick Academy,0,2
+2025-08-16,Fraserburgh,Inverurie,2,2
+2025-08-16,Huntly,Turriff Utd,0,0
+2025-08-16,Keith,Clachnacuddin,0,2
+2025-08-16,Lossiemouth,Formartine Utd,0,0
+2025-08-16,Rothes,Banks O' Dee,2,2
+2025-08-16,Strathspey Thistle,Deveronvale,3,0
+2025-08-23,Buckie Thistle,Banks O' Dee,1,3
+2025-08-23,Clachnacuddin,Strathspey Thistle,6,0
+2025-08-23,Deveronvale,Brechin,0,0
+2025-08-23,Formartine Utd,Keith,1,1
+2025-08-23,Inverurie,Rothes,4,0
+2025-08-23,Lossiemouth,Huntly,1,2
+2025-08-23,Nairn County,Forres Mechanics,4,0
+2025-08-23,Turriff Utd,Brora Rangers,3,4
+2025-08-23,Wick Academy,Fraserburgh,1,2
+2025-08-30,Banks O' Dee,Deveronvale,5,0
+2025-08-30,Brechin,Clachnacuddin,1,1
+2025-08-30,Brora Rangers,Lossiemouth,2,0
+2025-08-30,Forres Mechanics,Turriff Utd,0,3
+2025-08-30,Fraserburgh,Nairn County,7,0
+2025-08-30,Inverurie,Wick Academy,1,1
+2025-08-30,Keith,Huntly,2,0
+2025-08-30,Rothes,Buckie Thistle,1,4
+2025-08-30,Strathspey Thistle,Formartine Utd,1,2
+2025-09-06,Clachnacuddin,Banks O' Dee,0,0
+2025-09-06,Deveronvale,Buckie Thistle,3,2
+2025-09-06,Formartine Utd,Brechin,3,1
+2025-09-06,Huntly,Strathspey Thistle,1,3
+2025-09-06,Keith,Brora Rangers,0,5
+2025-09-06,Lossiemouth,Forres Mechanics,0,3
+2025-09-06,Nairn County,Inverurie,3,0
+2025-09-06,Turriff Utd,Fraserburgh,1,3
+2025-09-06,Wick Academy,Rothes,3,3
+2025-09-10,Banks O' Dee,Formartine Utd,1,0
+2025-09-10,Brechin,Huntly,2,0
+2025-09-10,Buckie Thistle,Clachnacuddin,1,2
+2025-09-10,Forres Mechanics,Keith,2,2
+2025-09-10,Fraserburgh,Lossiemouth,5,0
+2025-09-10,Inverurie,Turriff Utd,1,2
+2025-09-10,Rothes,Deveronvale,2,5
+2025-09-10,Strathspey Thistle,Brora Rangers,0,8
+2025-09-10,Wick Academy,Nairn County,1,2
+2025-09-13,Clachnacuddin,Deveronvale,1,1
+2025-09-13,Formartine Utd,Buckie Thistle,3,1
+2025-09-13,Huntly,Banks O' Dee,1,1
+2025-09-13,Keith,Fraserburgh,0,2
+2025-09-13,Lossiemouth,Inverurie,0,2
+2025-09-13,Nairn County,Rothes,4,0
+2025-09-20,Banks O' Dee,Brora Rangers,3,1
+2025-09-20,Brechin,Forres Mechanics,6,2
+2025-09-20,Buckie Thistle,Huntly,0,0
+2025-09-20,Clachnacuddin,Rothes,7,0
+2025-09-20,Deveronvale,Formartine Utd,1,3
+2025-09-20,Fraserburgh,Strathspey Thistle,4,1
+2025-09-20,Inverurie,Keith,1,0
+2025-09-20,Nairn County,Turriff Utd,3,0
+2025-09-20,Wick Academy,Lossiemouth,0,1
+2025-10-04,Brechin,Fraserburgh,0,1
+2025-10-08,Strathspey Thistle,Forres Mechanics,1,2
+2025-10-11,Banks O' Dee,Fraserburgh,3,1
+2025-10-11,Buckie Thistle,Forres Mechanics,2,0
+2025-10-11,Clachnacuddin,Huntly,0,1
+2025-10-11,Deveronvale,Brora Rangers,2,4
+2025-10-11,Inverurie,Brechin,1,2
+2025-10-11,Nairn County,Keith,0,2
+2025-10-11,Rothes,Formartine Utd,1,5
+2025-10-11,Turriff Utd,Lossiemouth,1,1
+2025-10-11,Wick Academy,Strathspey Thistle,2,1
+2025-10-18,Banks O' Dee,Inverurie,1,0
+2025-10-18,Brechin,Wick Academy,5,1
+2025-10-18,Fraserburgh,Buckie Thistle,2,2
+2025-10-18,Huntly,Formartine Utd,1,2
+2025-10-18,Keith,Turriff Utd,0,0
+2025-10-18,Lossiemouth,Rothes,2,0
+2025-10-18,Strathspey Thistle,Nairn County,3,4
+2025-10-25,Strathspey Thistle,Huntly,3,0
+2025-10-31,Deveronvale,Fraserburgh,1,3
+2025-11-01,Clachnacuddin,Forres Mechanics,6,0
+2025-11-01,Formartine Utd,Brora Rangers,3,3
+2025-11-01,Inverurie,Buckie Thistle,2,3
+2025-11-01,Lossiemouth,Keith,0,2
+2025-11-01,Rothes,Huntly,2,5
+2025-11-01,Turriff Utd,Strathspey Thistle,1,1
+2025-11-12,Wick Academy,Clachnacuddin,2,3
+2025-11-15,Banks O' Dee,Nairn County,2,1
+2025-11-15,Brechin,Turriff Utd,3,1
+2025-11-15,Brora Rangers,Huntly,1,1
+2025-11-15,Buckie Thistle,Wick Academy,2,0
+2025-11-15,Deveronvale,Inverurie,2,2
+2025-11-15,Forres Mechanics,Formartine Utd,1,3
+2025-11-15,Fraserburgh,Clachnacuddin,0,2
+2025-11-15,Keith,Rothes,2,1
+2025-11-15,Strathspey Thistle,Lossiemouth,3,2
+2025-11-19,Brechin,Keith,1,1
+2025-11-19,Forres Mechanics,Deveronvale,1,3
+2025-11-19,Lossiemouth,Nairn County,1,3
+2025-11-22,Clachnacuddin,Inverurie,3,2
+2025-11-22,Lossiemouth,Brechin,0,2
+2025-11-22,Nairn County,Buckie Thistle,0,1
+2025-11-22,Wick Academy,Deveronvale,6,1
+2025-11-29,Deveronvale,Nairn County,1,6
+2025-11-29,Forres Mechanics,Brora Rangers,1,3
+2025-11-29,Fraserburgh,Huntly,3,0
+2025-11-29,Inverurie,Formartine Utd,0,0
+2025-11-29,Keith,Wick Academy,3,2
+2025-12-06,Huntly,Forres Mechanics,2,2
+2025-12-06,Keith,Deveronvale,2,0
+2025-12-13,Brora Rangers,Fraserburgh,0,0
+2025-12-13,Clachnacuddin,Nairn County,0,0
+2025-12-13,Formartine Utd,Wick Academy,0,0
+2025-12-13,Huntly,Inverurie,2,0
+2025-12-13,Keith,Banks O' Dee,3,0
+2025-12-13,Lossiemouth,Buckie Thistle,1,1
+2025-12-13,Rothes,Forres Mechanics,0,3
+2025-12-13,Strathspey Thistle,Brechin,1,0
+2025-12-13,Turriff Utd,Deveronvale,4,0
+2025-12-20,Brechin,Rothes,3,0
+2025-12-20,Buckie Thistle,Keith,5,0
+2025-12-20,Clachnacuddin,Turriff Utd,2,3
+2025-12-20,Deveronvale,Lossiemouth,1,0
+2025-12-20,Fraserburgh,Forres Mechanics,3,1
+2025-12-20,Inverurie,Brora Rangers,0,3
+2025-12-20,Nairn County,Formartine Utd,1,2
+2025-12-20,Wick Academy,Huntly,2,1
+2025-12-27,Brechin,Banks O' Dee,1,1
+2025-12-27,Brora Rangers,Wick Academy,3,0
+2025-12-27,Formartine Utd,Turriff Utd,3,1
+2025-12-27,Forres Mechanics,Inverurie,4,0
+2025-12-27,Huntly,Nairn County,1,2
+2025-12-27,Lossiemouth,Clachnacuddin,0,2
+2026-01-10,Fraserburgh,Wick Academy,4,1
+2026-01-17,Buckie Thistle,Rothes,8,0
+2026-01-17,Deveronvale,Banks O' Dee,0,2
+2026-01-17,Formartine Utd,Strathspey Thistle,4,0
+2026-01-17,Wick Academy,Inverurie,0,0
+2026-01-24,Brora Rangers,Buckie Thistle,4,1
+2026-01-24,Forres Mechanics,Banks O' Dee,1,1
+2026-01-24,Huntly,Deveronvale,2,0
+2026-01-28,Banks O' Dee,Lossiemouth,5,0
+2026-01-28,Brora Rangers,Clachnacuddin,2,1
+2026-01-28,Rothes,Turriff Utd,0,5
+2026-01-31,Banks O' Dee,Clachnacuddin,2,3
+2026-01-31,Brora Rangers,Keith,1,1
+2026-01-31,Buckie Thistle,Deveronvale,2,3
+2026-01-31,Forres Mechanics,Lossiemouth,1,1
+2026-01-31,Fraserburgh,Turriff Utd,0,2
+2026-01-31,Inverurie,Nairn County,4,4
+2026-01-31,Rothes,Wick Academy,1,1
+2026-02-04,Banks O' Dee,Rothes,0,0
+2026-02-04,Deveronvale,Strathspey Thistle,2,1
+2026-02-04,Nairn County,Brora Rangers,2,1
+2026-02-07,Brora Rangers,Strathspey Thistle,7,1
+2026-02-07,Clachnacuddin,Buckie Thistle,2,1
+2026-02-07,Deveronvale,Rothes,2,4
+2026-02-07,Huntly,Brechin,0,1
+2026-02-07,Lossiemouth,Fraserburgh,0,4
+2026-02-07,Nairn County,Wick Academy,1,1
+2026-02-11,Buckie Thistle,Turriff Utd,0,0
+2026-02-11,Rothes,Brora Rangers,1,5
+2026-02-14,Clachnacuddin,Keith,1,2
+2026-02-14,Formartine Utd,Fraserburgh,1,1
+2026-02-20,Banks O' Dee,Huntly,1,0
+2026-02-21,Brechin,Brora Rangers,1,0
+2026-02-21,Deveronvale,Clachnacuddin,2,3
+2026-02-21,Forres Mechanics,Strathspey Thistle,6,0
+2026-02-21,Fraserburgh,Keith,1,2
+2026-02-21,Inverurie,Lossiemouth,2,1
+2026-02-21,Rothes,Nairn County,0,4
+2026-02-21,Wick Academy,Turriff Utd,1,2
+2026-02-25,Buckie Thistle,Brechin,0,3
+2026-02-25,Formartine Utd,Deveronvale,1,0
+2026-02-25,Strathspey Thistle,Rothes,3,2
+2026-02-28,Forres Mechanics,Nairn County,1,0
+2026-02-28,Huntly,Buckie Thistle,1,1
+2026-02-28,Lossiemouth,Wick Academy,0,3
+2026-03-04,Banks O' Dee,Buckie Thistle,1,3
+2026-03-04,Brechin,Deveronvale,3,0
+2026-03-04,Brora Rangers,Turriff Utd,3,0
+2026-03-04,Huntly,Lossiemouth,3,1
+2026-03-04,Keith,Formartine Utd,2,1
+2026-03-04,Rothes,Inverurie,2,6
+2026-03-04,Strathspey Thistle,Clachnacuddin,0,3
+2026-03-07,Banks O' Dee,Forres Mechanics,4,1
+2026-03-07,Buckie Thistle,Brora Rangers,0,2
+2026-03-07,Clachnacuddin,Formartine Utd,2,2
+2026-03-07,Deveronvale,Huntly,1,0
+2026-03-07,Fraserburgh,Brechin,1,0
+2026-03-07,Inverurie,Strathspey Thistle,2,3
+2026-03-07,Nairn County,Lossiemouth,1,0
+2026-03-07,Turriff Utd,Rothes,3,0
+2026-03-07,Wick Academy,Keith,2,3
+2026-03-11,Clachnacuddin,Brechin,0,1
+2026-03-11,Formartine Utd,Lossiemouth,3,0
+2026-03-11,Keith,Inverurie,2,0
+2026-03-11,Strathspey Thistle,Buckie Thistle,2,1
+2026-03-11,Turriff Utd,Banks O' Dee,1,1
+2026-03-14,Brechin,Inverurie,4,1
+2026-03-14,Brora Rangers,Deveronvale,8,1
+2026-03-14,Formartine Utd,Rothes,4,0
+2026-03-14,Forres Mechanics,Buckie Thistle,0,4
+2026-03-14,Fraserburgh,Banks O' Dee,0,1
+2026-03-14,Huntly,Clachnacuddin,3,4
+2026-03-14,Keith,Nairn County,2,0
+2026-03-14,Lossiemouth,Turriff Utd,0,2
+2026-03-14,Strathspey Thistle,Wick Academy,2,0
+2026-03-18,Banks O' Dee,Strathspey Thistle,3,1
+2026-03-18,Buckie Thistle,Formartine Utd,1,0
+2026-03-18,Inverurie,Fraserburgh,4,0
+2026-03-18,Lossiemouth,Brora Rangers,1,3
+2026-03-18,Turriff Utd,Forres Mechanics,2,2
+2026-03-21,Buckie Thistle,Fraserburgh,0,1
+2026-03-21,Clachnacuddin,Brora Rangers,1,2
+2026-03-21,Deveronvale,Forres Mechanics,1,2
+2026-03-21,Formartine Utd,Huntly,0,0
+2026-03-21,Inverurie,Banks O' Dee,2,1
+2026-03-21,Nairn County,Strathspey Thistle,2,1
+2026-03-21,Rothes,Lossiemouth,0,3
+2026-03-21,Turriff Utd,Keith,1,2
+2026-03-21,Wick Academy,Brechin,0,1
+2026-03-25,Brechin,Formartine Utd,0,0
+2026-03-25,Keith,Strathspey Thistle,0,2
+2026-03-25,Rothes,Clachnacuddin,1,5
+2026-03-25,Turriff Utd,Huntly,1,2
+2026-03-25,Wick Academy,Forres Mechanics,1,3
+2026-03-28,Brora Rangers,Banks O' Dee,0,1
+2026-03-28,Formartine Utd,Clachnacuddin,3,0
+2026-03-28,Keith,Forres Mechanics,1,0
+2026-03-28,Nairn County,Brechin,1,4
+2026-03-28,Rothes,Fraserburgh,2,5
+2026-03-28,Strathspey Thistle,Inverurie,0,2
+2026-03-28,Turriff Utd,Wick Academy,0,1
+2026-04-01,Forres Mechanics,Brechin,0,1
+2026-04-01,Huntly,Keith,1,1
+2026-04-01,Strathspey Thistle,Fraserburgh,0,1
+2026-04-01,Turriff Utd,Nairn County,3,2
+2026-04-04,Banks O' Dee,Wick Academy,6,1
+2026-04-04,Brechin,Nairn County,3,0
+2026-04-04,Brora Rangers,Formartine Utd,1,1
+2026-04-04,Buckie Thistle,Inverurie,2,1
+2026-04-04,Forres Mechanics,Clachnacuddin,1,1
+2026-04-04,Fraserburgh,Deveronvale,5,0
+2026-04-04,Huntly,Rothes,3,1
+2026-04-04,Keith,Lossiemouth,5,0
+2026-04-04,Strathspey Thistle,Turriff Utd,0,4
+2026-04-08,Brora Rangers,Brechin,2,1
+2026-04-08,Formartine Utd,Banks O' Dee,2,0
+2026-04-08,Nairn County,Fraserburgh,0,1
+2026-04-08,Turriff Utd,Inverurie,1,3
+2026-04-11,Clachnacuddin,Fraserburgh,2,4
+2026-04-11,Formartine Utd,Forres Mechanics,2,1
+2026-04-11,Huntly,Brora Rangers,1,1
+2026-04-11,Inverurie,Deveronvale,1,3
+2026-04-11,Lossiemouth,Strathspey Thistle,1,1
+2026-04-11,Nairn County,Banks O' Dee,2,0
+2026-04-11,Rothes,Keith,1,5
+2026-04-11,Turriff Utd,Brechin,4,1
+2026-04-11,Wick Academy,Buckie Thistle,0,3
+2026-04-18,Wick Academy,Banks O' Dee,1,1
+2026-07-26,Banks O' Dee,Turriff Utd,2,2
+2026-07-26,Brechin,Lossiemouth,4,0
+2026-07-26,Brora Rangers,Rothes,6,2
+2026-07-26,Buckie Thistle,Nairn County,1,0
+2026-07-26,Deveronvale,Wick Academy,3,2
+2026-07-26,Forres Mechanics,Huntly,1,1
+2026-07-26,Fraserburgh,Formartine Utd,2,2
+2026-07-26,Inverurie,Clachnacuddin,0,5
+2026-07-26,Strathspey Thistle,Keith,3,1
+2026-07-30,Brora Rangers,Forres Mechanics,5,0
+2026-07-30,Clachnacuddin,Wick Academy,1,0
+2026-07-30,Formartine Utd,Inverurie,1,0
+2026-07-30,Huntly,Fraserburgh,4,0
+2026-07-30,Keith,Brechin,0,5
+2026-07-30,Lossiemouth,Banks O' Dee,1,0
+2026-07-30,Nairn County,Deveronvale,1,1
+2026-07-30,Rothes,Strathspey Thistle,3,4
+2026-07-30,Turriff Utd,Buckie Thistle,0,4

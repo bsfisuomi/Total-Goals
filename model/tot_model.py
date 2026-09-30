@@ -213,6 +213,68 @@ LEAGUES = {
         ],
         "season_start": "2026-07-15",
     },
+    # Skottland: Premiership - Championship - League One - League Two - (Highland/Lowland).
+    # Kollisionskoll bekraftade: St Johnstone upp Championship->Premiership, Livingston ner
+    # motsatt hall; Inverness + Stenhousemuir upp League One->Championship, Queen of South +
+    # Airdrieonians + Ross County + Alloa ner motsatt hall; East Kilbride upp League Two->
+    # League One, Hamilton likasa (League Two->League One); Kelty Hearts ner League One->
+    # League Two; Brora Rangers ner League Two->Highland League. Invergordon (Highland) och
+    # ett antal nya lag i Lowland League saknar matchande roster i nagon sparad liga forra
+    # sasongen (sannolikt uppflyttade fran en lagre, ospargad liga - ingen fallback-data finns).
+    "scotland-premiership": {
+        "files": [
+            _p("Scotland", "Premiership", "2025-26.csv"),
+            _p("Scotland", "Championship", "2025-26.csv"),
+            _p("Scotland", "Premiership", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "scotland-championship": {
+        "files": [
+            _p("Scotland", "Championship", "2025-26.csv"),
+            _p("Scotland", "Premiership", "2025-26.csv"),
+            _p("Scotland", "League One", "2025-26.csv"),
+            _p("Scotland", "Championship", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "scotland-league-one": {
+        "files": [
+            _p("Scotland", "League One", "2025-26.csv"),
+            _p("Scotland", "Championship", "2025-26.csv"),
+            _p("Scotland", "League Two", "2025-26.csv"),
+            _p("Scotland", "League One", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "scotland-league-two": {
+        "files": [
+            _p("Scotland", "League Two", "2025-26.csv"),
+            _p("Scotland", "League One", "2025-26.csv"),
+            _p("Scotland", "Highland League", "2025-26.csv"),
+            _p("Scotland", "Lowland League", "2025-26.csv"),
+            _p("Scotland", "League Two", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "scotland-highland": {
+        "files": [
+            _p("Scotland", "Highland League", "2025-26.csv"),
+            _p("Scotland", "League Two", "2025-26.csv"),
+            _p("Scotland", "Lowland League", "2025-26.csv"),
+            _p("Scotland", "Highland League", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "scotland-lowland": {
+        "files": [
+            _p("Scotland", "Lowland League", "2025-26.csv"),
+            _p("Scotland", "League Two", "2025-26.csv"),
+            _p("Scotland", "Highland League", "2025-26.csv"),
+            _p("Scotland", "Lowland League", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
 }
 
 # Bakatkompatibel genvag: SEASON_START["poland"] etc.

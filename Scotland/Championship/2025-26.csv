@@ -1,0 +1,191 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-01,Arbroath,Ayr,1,1
+2025-08-02,Airdrieonians,Ross County,2,2
+2025-08-02,Morton,Dunfermline,0,0
+2025-08-02,Raith,Queen's Park,1,1
+2025-08-02,St Johnstone,Partick Thistle,5,1
+2025-08-08,Ross County,St Johnstone,0,1
+2025-08-09,Ayr,Raith,0,1
+2025-08-09,Dunfermline,Airdrieonians,2,0
+2025-08-09,Partick Thistle,Morton,1,1
+2025-08-09,Queen's Park,Arbroath,1,3
+2025-08-22,Raith,Dunfermline,2,0
+2025-08-23,Airdrieonians,Queen's Park,1,1
+2025-08-23,Morton,Ayr,2,2
+2025-08-23,Ross County,Partick Thistle,1,3
+2025-08-23,St Johnstone,Arbroath,3,0
+2025-08-30,Arbroath,Airdrieonians,1,0
+2025-08-30,Ayr,Queen's Park,1,1
+2025-08-30,Dunfermline,Ross County,2,2
+2025-08-30,Partick Thistle,Raith,3,2
+2025-08-30,St Johnstone,Morton,1,1
+2025-09-06,Morton,Raith,0,1
+2025-09-06,Ross County,Arbroath,1,2
+2025-09-12,Partick Thistle,Airdrieonians,2,1
+2025-09-13,Arbroath,Dunfermline,0,5
+2025-09-13,Ayr,Ross County,1,1
+2025-09-13,Queen's Park,Morton,0,0
+2025-09-13,Raith,St Johnstone,0,2
+2025-09-19,St Johnstone,Dunfermline,2,1
+2025-09-20,Airdrieonians,Raith,0,0
+2025-09-20,Arbroath,Morton,1,1
+2025-09-20,Ross County,Queen's Park,1,2
+2025-09-23,Airdrieonians,St Johnstone,1,2
+2025-09-23,Dunfermline,Ayr,0,1
+2025-09-27,Ayr,Airdrieonians,4,2
+2025-09-27,Dunfermline,Partick Thistle,0,2
+2025-09-27,Morton,Ross County,1,1
+2025-09-27,Queen's Park,St Johnstone,1,2
+2025-09-27,Raith,Arbroath,3,0
+2025-09-30,Queen's Park,Partick Thistle,0,1
+2025-10-04,Airdrieonians,Morton,1,2
+2025-10-04,Dunfermline,Queen's Park,0,0
+2025-10-04,Partick Thistle,Arbroath,1,1
+2025-10-04,Ross County,Raith,2,0
+2025-10-04,St Johnstone,Ayr,0,0
+2025-10-11,Arbroath,Queen's Park,4,1
+2025-10-11,Morton,Partick Thistle,1,1
+2025-10-11,Raith,Ayr,0,2
+2025-10-11,St Johnstone,Ross County,0,0
+2025-10-17,Dunfermline,Raith,2,0
+2025-10-18,Arbroath,St Johnstone,3,1
+2025-10-18,Ayr,Morton,2,1
+2025-10-18,Partick Thistle,Ross County,1,0
+2025-10-18,Queen's Park,Airdrieonians,0,0
+2025-10-21,Airdrieonians,Dunfermline,0,4
+2025-10-21,Partick Thistle,Ayr,2,1
+2025-10-25,Airdrieonians,Arbroath,1,0
+2025-10-25,Morton,St Johnstone,0,4
+2025-10-25,Queen's Park,Ayr,0,0
+2025-10-25,Raith,Partick Thistle,2,0
+2025-10-25,Ross County,Dunfermline,3,2
+2025-10-31,Ayr,Dunfermline,0,1
+2025-11-01,Arbroath,Ross County,3,0
+2025-11-01,Partick Thistle,Queen's Park,5,0
+2025-11-01,Raith,Morton,1,1
+2025-11-01,St Johnstone,Airdrieonians,3,0
+2025-11-07,Airdrieonians,Partick Thistle,1,1
+2025-11-08,Dunfermline,St Johnstone,2,2
+2025-11-08,Morton,Arbroath,1,0
+2025-11-08,Queen's Park,Raith,2,1
+2025-11-08,Ross County,Ayr,3,3
+2025-11-15,Ayr,Arbroath,1,1
+2025-11-15,Raith,Airdrieonians,0,3
+2025-11-15,Ross County,Morton,0,3
+2025-11-15,St Johnstone,Queen's Park,4,3
+2025-11-22,Airdrieonians,Ayr,0,1
+2025-11-22,Arbroath,Raith,0,0
+2025-11-22,Dunfermline,Morton,1,0
+2025-11-22,Partick Thistle,St Johnstone,2,1
+2025-11-25,Partick Thistle,Dunfermline,1,0
+2025-12-05,Morton,Queen's Park,2,1
+2025-12-06,Ayr,Partick Thistle,0,0
+2025-12-06,Dunfermline,Arbroath,1,2
+2025-12-06,Ross County,Airdrieonians,1,2
+2025-12-06,St Johnstone,Raith,0,0
+2025-12-12,Ayr,St Johnstone,2,4
+2025-12-13,Arbroath,Partick Thistle,2,1
+2025-12-13,Morton,Airdrieonians,0,1
+2025-12-13,Queen's Park,Dunfermline,1,1
+2025-12-13,Raith,Ross County,6,0
+2025-12-20,Airdrieonians,Queen's Park,0,3
+2025-12-20,Dunfermline,Ayr,2,3
+2025-12-20,Partick Thistle,Raith,0,0
+2025-12-20,Ross County,Arbroath,0,2
+2025-12-20,St Johnstone,Morton,5,0
+2025-12-27,Arbroath,Airdrieonians,1,1
+2025-12-27,Morton,Ayr,1,1
+2025-12-27,Queen's Park,Partick Thistle,2,2
+2025-12-27,Raith,Dunfermline,1,2
+2025-12-27,Ross County,St Johnstone,0,0
+2026-01-03,Airdrieonians,Raith,0,0
+2026-01-03,Partick Thistle,Morton,3,2
+2026-01-03,St Johnstone,Arbroath,1,0
+2026-01-09,Ross County,Partick Thistle,2,0
+2026-01-10,Ayr,Airdrieonians,1,1
+2026-01-10,Raith,Arbroath,2,3
+2026-01-23,Arbroath,Morton,1,1
+2026-01-24,Airdrieonians,Ross County,0,1
+2026-01-24,Partick Thistle,Ayr,2,1
+2026-01-24,Raith,Queen's Park,4,1
+2026-01-24,St Johnstone,Dunfermline,0,1
+2026-01-30,St Johnstone,Partick Thistle,2,2
+2026-01-31,Ayr,Raith,2,1
+2026-01-31,Dunfermline,Airdrieonians,0,2
+2026-01-31,Morton,Ross County,2,1
+2026-01-31,Queen's Park,Arbroath,2,1
+2026-02-03,Queen's Park,Ross County,0,1
+2026-02-13,Airdrieonians,St Johnstone,0,1
+2026-02-14,Morton,Raith,0,0
+2026-02-14,Ross County,Queen's Park,0,1
+2026-02-17,Morton,Dunfermline,2,0
+2026-02-20,Raith,St Johnstone,0,0
+2026-02-21,Arbroath,Dunfermline,4,2
+2026-02-21,Ayr,Ross County,0,0
+2026-02-21,Partick Thistle,Airdrieonians,1,0
+2026-02-21,Queen's Park,Morton,3,2
+2026-02-24,Dunfermline,Partick Thistle,2,2
+2026-02-24,Queen's Park,St Johnstone,1,1
+2026-02-28,Airdrieonians,Morton,3,1
+2026-02-28,Dunfermline,Queen's Park,1,0
+2026-02-28,Partick Thistle,Arbroath,0,0
+2026-02-28,Ross County,Raith,2,0
+2026-02-28,St Johnstone,Ayr,3,1
+2026-03-03,Arbroath,Ayr,1,1
+2026-03-03,Dunfermline,Ross County,3,0
+2026-03-07,Arbroath,Ross County,0,0
+2026-03-07,Morton,St Johnstone,0,2
+2026-03-07,Queen's Park,Airdrieonians,1,0
+2026-03-10,Ayr,Queen's Park,1,2
+2026-03-13,Morton,Partick Thistle,1,2
+2026-03-14,Airdrieonians,Arbroath,0,0
+2026-03-14,Dunfermline,Raith,3,0
+2026-03-14,Queen's Park,Ayr,1,1
+2026-03-14,St Johnstone,Ross County,1,0
+2026-03-20,Partick Thistle,St Johnstone,0,0
+2026-03-21,Arbroath,Queen's Park,1,0
+2026-03-21,Ayr,Morton,0,1
+2026-03-21,Raith,Airdrieonians,3,1
+2026-03-21,Ross County,Dunfermline,2,2
+2026-03-24,Raith,Partick Thistle,0,2
+2026-03-27,Partick Thistle,Ross County,3,1
+2026-03-27,Raith,Ayr,3,0
+2026-03-28,Morton,Arbroath,2,1
+2026-03-28,St Johnstone,Queen's Park,1,1
+2026-04-04,Arbroath,St Johnstone,2,4
+2026-04-04,Ayr,Partick Thistle,1,1
+2026-04-04,Dunfermline,Morton,3,1
+2026-04-04,Ross County,Airdrieonians,0,4
+2026-04-07,Ayr,Dunfermline,0,3
+2026-04-10,Queen's Park,Ross County,1,0
+2026-04-11,Ayr,Arbroath,1,0
+2026-04-11,Partick Thistle,Dunfermline,2,0
+2026-04-11,Raith,Morton,3,2
+2026-04-11,St Johnstone,Airdrieonians,4,0
+2026-04-14,Airdrieonians,Dunfermline,2,2
+2026-04-14,Queen's Park,Raith,0,2
+2026-04-18,Airdrieonians,Partick Thistle,2,2
+2026-04-18,Arbroath,Raith,2,1
+2026-04-18,Morton,Queen's Park,0,0
+2026-04-18,Ross County,Ayr,2,1
+2026-04-21,Dunfermline,St Johnstone,0,2
+2026-04-24,St Johnstone,Raith,2,0
+2026-04-25,Airdrieonians,Ayr,2,1
+2026-04-25,Arbroath,Partick Thistle,0,0
+2026-04-25,Queen's Park,Dunfermline,0,2
+2026-04-25,Ross County,Morton,4,0
+2026-05-01,Ayr,St Johnstone,0,1
+2026-05-01,Dunfermline,Arbroath,0,0
+2026-05-01,Morton,Airdrieonians,1,1
+2026-05-01,Partick Thistle,Queen's Park,1,1
+2026-05-01,Raith,Ross County,3,2
+2026-05-05,Alloa,Airdrieonians,1,0
+2026-05-05,Dunfermline,Arbroath,1,0
+2026-05-05,Queen of South,Stenhousemuir,1,1
+2026-05-08,Arbroath,Dunfermline,0,0
+2026-05-09,Airdrieonians,Alloa,1,2
+2026-05-09,Stenhousemuir,Queen of South,3,2
+2026-05-12,Dunfermline,Partick Thistle,1,1
+2026-05-13,Alloa,Stenhousemuir,1,3
+2026-05-15,Partick Thistle,Dunfermline,2,1
+2026-05-16,Stenhousemuir,Alloa,0,1
