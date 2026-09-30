@@ -384,7 +384,7 @@ def resolve_team(name, known_teams):
     return None
 
 
-def api_get(path, params):
+def api_get(path, params, max_retries=5):
     key = os.environ.get("ODDS_API_KEY") or load_env().get("ODDS_API_KEY")
     if not key:
         raise RuntimeError("Satt miljovariabeln ODDS_API_KEY forst (eller lagg den i .env i projektroten)")
@@ -392,11 +392,24 @@ def api_get(path, params):
     params["apiKey"] = key
     url = f"{API_BASE}{path}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"Accept-Encoding": "gzip"})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        raw = resp.read()
-        if resp.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
-            raw = gzip.decompress(raw)
-        return json.loads(raw.decode("utf-8"))
+
+    for attempt in range(max_retries):
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw = resp.read()
+                if resp.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
+                    raw = gzip.decompress(raw)
+                return json.loads(raw.decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < max_retries - 1:
+                # Rate-limitad (for manga anrop for snabbt) - backa av och forsok igen.
+                # Kolla om API:t sjalvt sager hur lange vi ska vanta (Retry-After-headern),
+                # annars vanta stigande langre for varje forsok (5s, 10s, 20s, 40s, ...).
+                wait_s = int(e.headers.get("Retry-After", 5 * (2 ** attempt)))
+                print(f"  (429 Too Many Requests - vantar {wait_s}s och forsoker igen, {attempt + 1}/{max_retries})", file=sys.stderr)
+                time.sleep(wait_s)
+                continue
+            raise
 
 
 def get_upcoming_events(league_slug):
@@ -475,7 +488,7 @@ def scan_league(league_key, min_ev=MIN_EV):
                 "edge_pp": hit["edge_procentenheter"],
             })
 
-        time.sleep(0.3)  # var snall mot API:t (free tier: 100 req/h)
+        time.sleep(0.3)  # var snall mot API:t (kvot: 5000 req/h)
 
     print(f"  -> {n_resolved} av dem matchade lag i var historik, {n_with_odds} hade Bet365-odds, {len(hits)} value-traffar", file=sys.stderr)
     if unmatched:
@@ -499,6 +512,7 @@ def main():
             continue
         print(f"Skannar {key} ...", file=sys.stderr)
         all_hits += scan_league(key)
+        time.sleep(0.3)  # var snall mot API:t mellan ligor ocksa, inte bara mellan matcher
 
     report = format_report(all_hits)
     print(report)
