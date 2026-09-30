@@ -1,0 +1,193 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-07-26,Dun. Streda,Michalovce,1,1
+2025-07-26,Komarno,Trencin,1,2
+2025-07-26,Presov,Slovan Bratislava,2,2
+2025-07-27,Podbrezova,Kosice,3,1
+2025-07-27,Skalica,Zilina,0,0
+2025-07-27,Trnava,Ruzomberok,3,0
+2025-08-02,Michalovce,Komarno,3,1
+2025-08-02,Slovan Bratislava,Podbrezova,4,1
+2025-08-03,Trencin,Trnava,0,1
+2025-08-03,Zilina,Presov,1,0
+2025-08-09,Dun. Streda,Ruzomberok,2,0
+2025-08-09,Michalovce,Zilina,2,4
+2025-08-09,Skalica,Podbrezova,2,2
+2025-08-10,Kosice,Trencin,0,1
+2025-08-10,Trnava,Presov,1,0
+2025-08-12,Ruzomberok,Skalica,1,3
+2025-08-16,Podbrezova,Komarno,2,1
+2025-08-16,Presov,Dun. Streda,0,0
+2025-08-16,Ruzomberok,Michalovce,0,1
+2025-08-16,Slovan Bratislava,Skalica,1,0
+2025-08-17,Trencin,Zilina,2,1
+2025-08-23,Dun. Streda,Trencin,4,1
+2025-08-23,Kosice,Ruzomberok,3,1
+2025-08-23,Skalica,Presov,2,2
+2025-08-24,Komarno,Trnava,1,4
+2025-08-24,Michalovce,Slovan Bratislava,1,1
+2025-08-24,Zilina,Podbrezova,3,0
+2025-08-30,Komarno,Skalica,1,0
+2025-08-30,Podbrezova,Michalovce,2,2
+2025-08-30,Presov,Trencin,2,3
+2025-08-31,Ruzomberok,Zilina,3,3
+2025-08-31,Slovan Bratislava,Kosice,3,2
+2025-08-31,Trnava,Dun. Streda,0,3
+2025-09-13,Kosice,Komarno,2,3
+2025-09-13,Skalica,Trnava,0,4
+2025-09-13,Trencin,Ruzomberok,0,3
+2025-09-13,Zilina,Slovan Bratislava,3,3
+2025-09-14,Dun. Streda,Podbrezova,2,0
+2025-09-14,Michalovce,Presov,1,2
+2025-09-20,Podbrezova,Trencin,2,0
+2025-09-20,Presov,Ruzomberok,1,3
+2025-09-20,Skalica,Kosice,1,0
+2025-09-20,Slovan Bratislava,Dun. Streda,3,2
+2025-09-21,Komarno,Zilina,1,3
+2025-09-21,Trnava,Michalovce,0,1
+2025-09-27,Dun. Streda,Komarno,1,1
+2025-09-27,Kosice,Presov,2,2
+2025-09-27,Michalovce,Skalica,2,0
+2025-09-27,Trencin,Slovan Bratislava,1,2
+2025-09-28,Ruzomberok,Podbrezova,1,0
+2025-09-28,Zilina,Trnava,2,2
+2025-10-01,Kosice,Dun. Streda,0,2
+2025-10-04,Komarno,Presov,0,0
+2025-10-04,Michalovce,Trencin,2,0
+2025-10-04,Zilina,Kosice,4,1
+2025-10-05,Skalica,Dun. Streda,1,1
+2025-10-18,Presov,Podbrezova,2,2
+2025-10-18,Ruzomberok,Komarno,0,1
+2025-10-18,Trencin,Skalica,1,1
+2025-10-18,Trnava,Slovan Bratislava,0,2
+2025-10-19,Dun. Streda,Zilina,1,2
+2025-10-19,Kosice,Michalovce,3,2
+2025-10-25,Kosice,Podbrezova,2,4
+2025-10-25,Michalovce,Dun. Streda,2,4
+2025-10-25,Trencin,Komarno,0,1
+2025-10-25,Zilina,Skalica,3,2
+2025-10-26,Ruzomberok,Trnava,1,1
+2025-10-26,Slovan Bratislava,Presov,0,1
+2025-10-29,Komarno,Slovan Bratislava,2,3
+2025-10-29,Trnava,Kosice,3,1
+2025-11-01,Dun. Streda,Kosice,3,1
+2025-11-01,Podbrezova,Slovan Bratislava,1,3
+2025-11-01,Presov,Zilina,0,4
+2025-11-01,Skalica,Ruzomberok,0,0
+2025-11-02,Komarno,Michalovce,1,1
+2025-11-02,Trnava,Trencin,4,0
+2025-11-08,Podbrezova,Skalica,2,0
+2025-11-08,Ruzomberok,Dun. Streda,0,1
+2025-11-08,Trencin,Kosice,2,0
+2025-11-08,Zilina,Michalovce,2,0
+2025-11-09,Presov,Trnava,2,1
+2025-11-09,Slovan Bratislava,Komarno,3,2
+2025-11-22,Komarno,Podbrezova,1,0
+2025-11-22,Kosice,Trnava,1,2
+2025-11-22,Skalica,Slovan Bratislava,0,1
+2025-11-22,Zilina,Trencin,4,1
+2025-11-23,Dun. Streda,Presov,0,0
+2025-11-23,Michalovce,Ruzomberok,4,2
+2025-11-29,Presov,Skalica,3,2
+2025-11-29,Ruzomberok,Kosice,1,1
+2025-11-29,Trencin,Dun. Streda,0,3
+2025-11-29,Trnava,Komarno,2,0
+2025-11-30,Podbrezova,Zilina,2,0
+2025-11-30,Slovan Bratislava,Michalovce,3,2
+2025-12-03,Podbrezova,Trnava,1,3
+2025-12-03,Slovan Bratislava,Ruzomberok,1,2
+2025-12-06,Kosice,Slovan Bratislava,2,0
+2025-12-06,Michalovce,Podbrezova,0,4
+2025-12-06,Skalica,Komarno,1,1
+2025-12-06,Zilina,Ruzomberok,1,2
+2025-12-07,Dun. Streda,Trnava,3,1
+2025-12-07,Trencin,Presov,0,0
+2025-12-13,Podbrezova,Dun. Streda,0,1
+2025-12-13,Presov,Michalovce,0,1
+2025-12-13,Ruzomberok,Trencin,0,0
+2025-12-13,Trnava,Skalica,2,0
+2025-12-14,Komarno,Kosice,1,2
+2025-12-14,Slovan Bratislava,Zilina,3,2
+2026-02-07,Dun. Streda,Slovan Bratislava,0,3
+2026-02-07,Kosice,Skalica,3,1
+2026-02-07,Ruzomberok,Presov,1,0
+2026-02-07,Trencin,Podbrezova,0,4
+2026-02-08,Michalovce,Trnava,1,1
+2026-02-08,Zilina,Komarno,1,0
+2026-02-14,Podbrezova,Ruzomberok,5,0
+2026-02-14,Presov,Kosice,1,4
+2026-02-14,Skalica,Michalovce,2,1
+2026-02-14,Slovan Bratislava,Trencin,0,2
+2026-02-15,Komarno,Dun. Streda,2,2
+2026-02-15,Trnava,Zilina,0,0
+2026-02-21,Dun. Streda,Skalica,3,2
+2026-02-21,Presov,Komarno,1,1
+2026-02-21,Trencin,Michalovce,1,2
+2026-02-21,Trnava,Podbrezova,0,5
+2026-02-22,Kosice,Zilina,2,2
+2026-02-22,Ruzomberok,Slovan Bratislava,2,2
+2026-02-28,Komarno,Ruzomberok,1,1
+2026-02-28,Michalovce,Kosice,0,2
+2026-02-28,Podbrezova,Presov,4,1
+2026-02-28,Skalica,Trencin,0,1
+2026-02-28,Slovan Bratislava,Trnava,4,0
+2026-02-28,Zilina,Dun. Streda,0,0
+2026-03-07,Kosice,Trencin,2,0
+2026-03-07,Michalovce,Slovan Bratislava,1,3
+2026-03-07,Skalica,Presov,1,0
+2026-03-07,Zilina,Trnava,0,1
+2026-03-08,Dun. Streda,Podbrezova,2,1
+2026-03-08,Komarno,Ruzomberok,3,0
+2026-03-14,Podbrezova,Michalovce,0,1
+2026-03-14,Presov,Komarno,0,0
+2026-03-14,Ruzomberok,Kosice,1,1
+2026-03-15,Slovan Bratislava,Zilina,0,1
+2026-03-15,Trencin,Skalica,2,1
+2026-03-21,Kosice,Presov,2,1
+2026-03-21,Michalovce,Trnava,1,0
+2026-03-21,Trencin,Ruzomberok,3,1
+2026-03-21,Zilina,Dun. Streda,3,1
+2026-03-22,Skalica,Komarno,2,1
+2026-03-22,Slovan Bratislava,Podbrezova,2,0
+2026-04-04,Dun. Streda,Slovan Bratislava,0,3
+2026-04-04,Kosice,Skalica,2,0
+2026-04-04,Michalovce,Zilina,2,1
+2026-04-04,Presov,Ruzomberok,0,0
+2026-04-05,Komarno,Trencin,0,1
+2026-04-05,Trnava,Podbrezova,4,1
+2026-04-11,Podbrezova,Zilina,1,5
+2026-04-11,Ruzomberok,Skalica,0,0
+2026-04-11,Slovan Bratislava,Trnava,2,2
+2026-04-11,Trencin,Presov,1,0
+2026-04-12,Dun. Streda,Michalovce,3,0
+2026-04-12,Komarno,Kosice,1,2
+2026-04-18,Podbrezova,Dun. Streda,1,2
+2026-04-18,Ruzomberok,Komarno,2,1
+2026-04-18,Trnava,Michalovce,3,0
+2026-04-18,Zilina,Slovan Bratislava,0,1
+2026-04-19,Presov,Kosice,2,1
+2026-04-19,Skalica,Trencin,4,1
+2026-04-22,Trnava,Dun. Streda,2,1
+2026-04-25,Dun. Streda,Zilina,3,1
+2026-04-25,Komarno,Skalica,0,2
+2026-04-25,Kosice,Ruzomberok,3,1
+2026-04-25,Michalovce,Podbrezova,1,2
+2026-04-26,Presov,Trencin,0,1
+2026-04-26,Trnava,Slovan Bratislava,0,1
+2026-05-02,Ruzomberok,Presov,1,1
+2026-05-02,Slovan Bratislava,Dun. Streda,1,0
+2026-05-03,Podbrezova,Trnava,0,3
+2026-05-03,Trencin,Komarno,1,2
+2026-05-05,Skalica,Kosice,3,1
+2026-05-05,Zilina,Michalovce,3,2
+2026-05-09,Michalovce,Dun. Streda,2,1
+2026-05-09,Podbrezova,Slovan Bratislava,1,2
+2026-05-09,Presov,Skalica,3,0
+2026-05-09,Ruzomberok,Trencin,4,3
+2026-05-10,Kosice,Komarno,2,1
+2026-05-10,Trnava,Zilina,1,0
+2026-05-16,Dun. Streda,Trnava,3,0
+2026-05-16,Komarno,Presov,1,0
+2026-05-16,Skalica,Ruzomberok,1,0
+2026-05-16,Slovan Bratislava,Michalovce,0,2
+2026-05-16,Trencin,Kosice,3,0
+2026-05-16,Zilina,Podbrezova,0,2

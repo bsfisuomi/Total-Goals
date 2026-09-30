@@ -1,0 +1,241 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-02,FKM Nove Zamky,Dun. Streda B,2,0
+2025-08-02,Galanta,Trencin B,5,0
+2025-08-02,Malacky,Banik Prievidza,2,2
+2025-08-03,Belusa,Komarno B,3,1
+2025-08-03,Myjava,Petrzalka B,6,1
+2025-08-03,Raca,Gabcikovo,2,1
+2025-08-03,Sala,MSK Senec,4,3
+2025-08-03,Velke Ludince,Castkovce,1,3
+2025-08-08,MSK Senec,Myjava,1,2
+2025-08-09,Banik Prievidza,Sala,2,2
+2025-08-09,Gabcikovo,Castkovce,1,0
+2025-08-10,Dun. Streda B,Belusa,4,0
+2025-08-10,Komarno B,Galanta,2,3
+2025-08-10,Petrzalka B,FKM Nove Zamky,0,2
+2025-08-10,Raca,Malacky,3,1
+2025-08-10,Trencin B,Velke Ludince,5,1
+2025-08-15,Myjava,Banik Prievidza,2,2
+2025-08-16,Castkovce,Trencin B,3,3
+2025-08-16,FKM Nove Zamky,MSK Senec,2,0
+2025-08-16,Galanta,Dun. Streda B,1,0
+2025-08-16,Malacky,Gabcikovo,0,1
+2025-08-16,Sala,Raca,1,1
+2025-08-17,Belusa,Petrzalka B,2,0
+2025-08-17,Velke Ludince,Komarno B,3,0
+2025-08-22,Komarno B,Castkovce,0,2
+2025-08-22,MSK Senec,Belusa,1,0
+2025-08-23,Banik Prievidza,FKM Nove Zamky,1,1
+2025-08-23,Gabcikovo,Trencin B,2,1
+2025-08-23,Malacky,Sala,3,1
+2025-08-24,Dun. Streda B,Velke Ludince,4,1
+2025-08-24,Petrzalka B,Galanta,0,5
+2025-08-24,Raca,Myjava,1,1
+2025-08-29,Myjava,Malacky,4,1
+2025-08-30,Castkovce,Dun. Streda B,5,0
+2025-08-30,FKM Nove Zamky,Raca,3,2
+2025-08-30,Galanta,MSK Senec,0,3
+2025-08-30,Sala,Gabcikovo,3,2
+2025-08-31,Belusa,Banik Prievidza,1,2
+2025-08-31,Trencin B,Komarno B,3,0
+2025-08-31,Velke Ludince,Petrzalka B,3,0
+2025-09-06,Banik Prievidza,Galanta,4,1
+2025-09-06,Gabcikovo,Komarno B,3,1
+2025-09-06,MSK Senec,Velke Ludince,4,1
+2025-09-06,Malacky,FKM Nove Zamky,0,0
+2025-09-06,Sala,Myjava,2,3
+2025-09-07,Dun. Streda B,Trencin B,1,3
+2025-09-07,Petrzalka B,Castkovce,0,7
+2025-09-07,Raca,Belusa,3,5
+2025-09-10,Belusa,Malacky,1,1
+2025-09-10,Velke Ludince,Banik Prievidza,1,2
+2025-09-11,Castkovce,MSK Senec,2,1
+2025-09-11,Galanta,Raca,1,1
+2025-09-11,Myjava,Gabcikovo,4,0
+2025-09-14,Komarno B,Dun. Streda B,1,0
+2025-09-14,Trencin B,Petrzalka B,5,0
+2025-09-19,MSK Senec,Trencin B,3,0
+2025-09-19,Myjava,FKM Nove Zamky,2,0
+2025-09-20,Banik Prievidza,Castkovce,3,2
+2025-09-20,Gabcikovo,Dun. Streda B,3,2
+2025-09-20,Malacky,Galanta,0,1
+2025-09-20,Sala,Belusa,0,2
+2025-09-21,Petrzalka B,Komarno B,1,0
+2025-09-21,Raca,Velke Ludince,4,1
+2025-09-27,Castkovce,Raca,1,1
+2025-09-27,FKM Nove Zamky,Gabcikovo,2,1
+2025-09-27,Galanta,Sala,0,1
+2025-09-28,Belusa,Myjava,2,2
+2025-09-28,Dun. Streda B,Petrzalka B,3,0
+2025-09-28,Komarno B,MSK Senec,0,0
+2025-09-28,Trencin B,Banik Prievidza,5,0
+2025-09-28,Velke Ludince,Malacky,4,1
+2025-10-03,MSK Senec,Dun. Streda B,1,0
+2025-10-03,Myjava,Galanta,2,2
+2025-10-04,Banik Prievidza,Komarno B,3,1
+2025-10-04,FKM Nove Zamky,Belusa,2,1
+2025-10-04,Gabcikovo,Petrzalka B,3,1
+2025-10-04,Malacky,Castkovce,1,1
+2025-10-04,Sala,Velke Ludince,1,1
+2025-10-05,Raca,Trencin B,0,3
+2025-10-08,FKM Nove Zamky,Sala,2,1
+2025-10-10,Petrzalka B,MSK Senec,1,1
+2025-10-11,Castkovce,Sala,4,3
+2025-10-11,Galanta,FKM Nove Zamky,2,0
+2025-10-11,Komarno B,Raca,3,1
+2025-10-12,Belusa,Gabcikovo,5,2
+2025-10-12,Dun. Streda B,Banik Prievidza,1,2
+2025-10-12,Trencin B,Malacky,3,0
+2025-10-12,Velke Ludince,Myjava,1,4
+2025-10-17,Myjava,Castkovce,2,0
+2025-10-18,Banik Prievidza,Petrzalka B,0,5
+2025-10-18,FKM Nove Zamky,Velke Ludince,1,0
+2025-10-18,Gabcikovo,MSK Senec,1,0
+2025-10-18,Malacky,Komarno B,2,1
+2025-10-18,Sala,Trencin B,2,3
+2025-10-19,Belusa,Galanta,1,1
+2025-10-19,Raca,Dun. Streda B,1,1
+2025-10-23,MSK Senec,Banik Prievidza,2,2
+2025-10-25,Castkovce,FKM Nove Zamky,4,1
+2025-10-25,Galanta,Gabcikovo,2,0
+2025-10-26,Dun. Streda B,Malacky,2,0
+2025-10-26,Komarno B,Sala,3,2
+2025-10-26,Petrzalka B,Raca,1,0
+2025-10-26,Trencin B,Myjava,1,0
+2025-10-26,Velke Ludince,Belusa,0,1
+2025-10-31,Myjava,Komarno B,3,1
+2025-11-01,FKM Nove Zamky,Trencin B,0,2
+2025-11-01,Gabcikovo,Banik Prievidza,1,0
+2025-11-01,Galanta,Velke Ludince,0,2
+2025-11-01,Malacky,Petrzalka B,7,2
+2025-11-01,Sala,Dun. Streda B,0,0
+2025-11-02,Belusa,Castkovce,1,1
+2025-11-02,Raca,MSK Senec,0,2
+2025-11-07,MSK Senec,Malacky,3,2
+2025-11-08,Banik Prievidza,Raca,1,0
+2025-11-08,Castkovce,Galanta,1,2
+2025-11-08,Komarno B,FKM Nove Zamky,0,3
+2025-11-09,Dun. Streda B,Myjava,3,1
+2025-11-09,Petrzalka B,Sala,3,3
+2025-11-09,Trencin B,Belusa,4,1
+2025-11-09,Velke Ludince,Gabcikovo,3,1
+2026-02-27,MSK Senec,Sala,2,1
+2026-02-28,Banik Prievidza,Malacky,5,2
+2026-02-28,Castkovce,Velke Ludince,2,1
+2026-02-28,Gabcikovo,Raca,2,1
+2026-03-01,Dun. Streda B,FKM Nove Zamky,4,0
+2026-03-01,Komarno B,Belusa,1,0
+2026-03-01,Petrzalka B,Myjava,0,3
+2026-03-01,Trencin B,Galanta,1,4
+2026-03-07,Castkovce,Gabcikovo,4,2
+2026-03-07,FKM Nove Zamky,Petrzalka B,3,1
+2026-03-07,Galanta,Komarno B,4,0
+2026-03-07,Malacky,Raca,2,2
+2026-03-07,Myjava,MSK Senec,2,0
+2026-03-07,Sala,Banik Prievidza,3,4
+2026-03-08,Belusa,Dun. Streda B,0,0
+2026-03-08,Velke Ludince,Trencin B,1,0
+2026-03-13,MSK Senec,FKM Nove Zamky,3,0
+2026-03-14,Banik Prievidza,Myjava,1,1
+2026-03-14,Gabcikovo,Malacky,2,3
+2026-03-14,Trencin B,Castkovce,3,1
+2026-03-15,Dun. Streda B,Galanta,1,1
+2026-03-15,Komarno B,Velke Ludince,0,1
+2026-03-15,Petrzalka B,Belusa,0,3
+2026-03-15,Raca,Sala,1,2
+2026-03-20,Myjava,Raca,4,1
+2026-03-21,Castkovce,Komarno B,4,2
+2026-03-21,FKM Nove Zamky,Banik Prievidza,3,3
+2026-03-21,Galanta,Petrzalka B,4,2
+2026-03-21,Sala,Malacky,5,0
+2026-03-22,Belusa,MSK Senec,1,1
+2026-03-22,Trencin B,Gabcikovo,1,1
+2026-03-22,Velke Ludince,Dun. Streda B,2,1
+2026-03-28,Banik Prievidza,Belusa,4,1
+2026-03-28,Gabcikovo,Sala,3,1
+2026-03-28,Malacky,Myjava,1,2
+2026-03-29,Dun. Streda B,Castkovce,1,1
+2026-03-29,Komarno B,Trencin B,3,3
+2026-03-29,Petrzalka B,Velke Ludince,2,1
+2026-03-29,Raca,FKM Nove Zamky,0,1
+2026-04-01,MSK Senec,Galanta,0,2
+2026-04-01,Trencin B,Dun. Streda B,3,0
+2026-04-03,Myjava,Sala,1,0
+2026-04-04,Belusa,Raca,2,0
+2026-04-04,Castkovce,Petrzalka B,3,1
+2026-04-04,FKM Nove Zamky,Malacky,3,0
+2026-04-04,Galanta,Banik Prievidza,3,1
+2026-04-04,Komarno B,Gabcikovo,1,3
+2026-04-05,Velke Ludince,MSK Senec,2,1
+2026-04-10,MSK Senec,Castkovce,2,1
+2026-04-11,Banik Prievidza,Velke Ludince,1,1
+2026-04-11,Gabcikovo,Myjava,2,0
+2026-04-11,Malacky,Belusa,0,3
+2026-04-11,Sala,FKM Nove Zamky,0,2
+2026-04-12,Dun. Streda B,Komarno B,3,1
+2026-04-12,Petrzalka B,Trencin B,1,2
+2026-04-12,Raca,Galanta,1,2
+2026-04-17,Komarno B,Petrzalka B,3,1
+2026-04-18,Castkovce,Banik Prievidza,1,1
+2026-04-18,FKM Nove Zamky,Myjava,0,0
+2026-04-18,Galanta,Malacky,2,1
+2026-04-19,Belusa,Sala,4,0
+2026-04-19,Dun. Streda B,Gabcikovo,4,0
+2026-04-19,Trencin B,MSK Senec,1,1
+2026-04-19,Velke Ludince,Raca,2,1
+2026-04-24,MSK Senec,Komarno B,2,2
+2026-04-24,Myjava,Belusa,3,1
+2026-04-25,Banik Prievidza,Trencin B,7,1
+2026-04-25,Gabcikovo,FKM Nove Zamky,2,2
+2026-04-25,Malacky,Velke Ludince,2,2
+2026-04-25,Sala,Galanta,1,2
+2026-04-26,Petrzalka B,Dun. Streda B,2,2
+2026-04-26,Raca,Castkovce,3,3
+2026-05-01,Galanta,Myjava,0,0
+2026-05-01,Komarno B,Banik Prievidza,2,2
+2026-05-01,Trencin B,Raca,8,2
+2026-05-02,Castkovce,Malacky,0,0
+2026-05-03,Belusa,FKM Nove Zamky,2,1
+2026-05-03,Dun. Streda B,MSK Senec,1,1
+2026-05-03,Petrzalka B,Gabcikovo,1,1
+2026-05-03,Velke Ludince,Sala,3,1
+2026-05-08,Myjava,Velke Ludince,2,0
+2026-05-09,Banik Prievidza,Dun. Streda B,3,0
+2026-05-09,FKM Nove Zamky,Galanta,1,0
+2026-05-09,Gabcikovo,Belusa,1,1
+2026-05-09,MSK Senec,Petrzalka B,1,0
+2026-05-09,Malacky,Trencin B,1,0
+2026-05-09,Sala,Castkovce,2,1
+2026-05-10,Raca,Komarno B,1,1
+2026-05-15,MSK Senec,Gabcikovo,1,1
+2026-05-16,Castkovce,Myjava,0,0
+2026-05-16,Galanta,Belusa,3,2
+2026-05-16,Velke Ludince,FKM Nove Zamky,3,1
+2026-05-17,Dun. Streda B,Raca,0,5
+2026-05-17,Komarno B,Malacky,4,1
+2026-05-17,Petrzalka B,Banik Prievidza,0,3
+2026-05-17,Trencin B,Sala,4,2
+2026-05-22,Myjava,Trencin B,5,3
+2026-05-23,Banik Prievidza,MSK Senec,2,0
+2026-05-23,FKM Nove Zamky,Castkovce,2,1
+2026-05-23,Gabcikovo,Galanta,1,0
+2026-05-23,Malacky,Dun. Streda B,0,0
+2026-05-23,Sala,Komarno B,4,2
+2026-05-24,Belusa,Velke Ludince,3,0
+2026-05-24,Raca,Petrzalka B,0,0
+2026-05-30,Banik Prievidza,Gabcikovo,3,2
+2026-05-30,Castkovce,Belusa,1,4
+2026-05-30,Dun. Streda B,Sala,1,0
+2026-05-30,Komarno B,Myjava,0,0
+2026-05-30,MSK Senec,Raca,0,1
+2026-05-30,Petrzalka B,Malacky,1,0
+2026-05-30,Trencin B,FKM Nove Zamky,2,3
+2026-05-30,Velke Ludince,Galanta,1,2
+2026-06-06,Belusa,Trencin B,1,0
+2026-06-06,FKM Nove Zamky,Komarno B,4,0
+2026-06-06,Gabcikovo,Velke Ludince,6,1
+2026-06-06,Galanta,Castkovce,3,0
+2026-06-06,Malacky,MSK Senec,1,2
+2026-06-06,Myjava,Dun. Streda B,1,1
+2026-06-06,Raca,Banik Prievidza,1,1
+2026-06-06,Sala,Petrzalka B,5,0

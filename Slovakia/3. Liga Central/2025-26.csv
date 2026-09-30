@@ -1,0 +1,183 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-02,D. Kubin,Kalinovo,1,3
+2025-08-02,MSK Martin,MSK Lucenec,3,2
+2025-08-02,Namestovo,Oravske Vesele,3,1
+2025-08-02,Rimavska Sobota,MFK Bytca,2,2
+2025-08-03,Filakovo,Ruzomberok B,2,1
+2025-08-03,Jednota Banova,B. Bystrica B,0,1
+2025-08-03,Podkonice,K. Nove Mesto,2,0
+2025-08-09,K. Nove Mesto,B. Bystrica B,1,1
+2025-08-09,MFK Bytca,D. Kubin,4,2
+2025-08-09,MSK Lucenec,Jednota Banova,3,1
+2025-08-09,Oravske Vesele,Filakovo,2,5
+2025-08-10,Kalinovo,Namestovo,1,3
+2025-08-10,Podkonice,Rimavska Sobota,4,1
+2025-08-10,Ruzomberok B,MSK Martin,1,1
+2025-08-16,D. Kubin,Podkonice,2,4
+2025-08-16,MSK Martin,Oravske Vesele,2,0
+2025-08-16,Namestovo,MFK Bytca,6,0
+2025-08-16,Rimavska Sobota,K. Nove Mesto,3,1
+2025-08-17,B. Bystrica B,MSK Lucenec,0,2
+2025-08-17,Filakovo,Kalinovo,2,1
+2025-08-17,Jednota Banova,Ruzomberok B,1,6
+2025-08-23,K. Nove Mesto,MSK Lucenec,0,0
+2025-08-23,MFK Bytca,Filakovo,1,1
+2025-08-23,Oravske Vesele,Jednota Banova,4,1
+2025-08-23,Rimavska Sobota,D. Kubin,4,0
+2025-08-24,Kalinovo,MSK Martin,2,1
+2025-08-24,Podkonice,Namestovo,2,1
+2025-08-24,Ruzomberok B,B. Bystrica B,1,2
+2025-08-30,B. Bystrica B,Oravske Vesele,3,1
+2025-08-30,D. Kubin,K. Nove Mesto,0,3
+2025-08-30,MSK Lucenec,Ruzomberok B,1,0
+2025-08-30,MSK Martin,MFK Bytca,1,2
+2025-08-30,Namestovo,Rimavska Sobota,4,1
+2025-08-31,Filakovo,Podkonice,4,3
+2025-08-31,Jednota Banova,Kalinovo,0,2
+2025-09-06,D. Kubin,Namestovo,2,6
+2025-09-06,MFK Bytca,Jednota Banova,4,0
+2025-09-06,Oravske Vesele,MSK Lucenec,1,1
+2025-09-06,Rimavska Sobota,Filakovo,4,2
+2025-09-07,Kalinovo,B. Bystrica B,1,1
+2025-09-07,Podkonice,MSK Martin,2,1
+2025-09-07,Ruzomberok B,K. Nove Mesto,3,1
+2025-09-20,MSK Lucenec,Kalinovo,2,1
+2025-09-20,MSK Martin,Rimavska Sobota,2,3
+2025-09-20,Namestovo,K. Nove Mesto,3,0
+2025-09-21,B. Bystrica B,MFK Bytca,3,0
+2025-09-21,Filakovo,D. Kubin,5,3
+2025-09-21,Jednota Banova,Podkonice,1,1
+2025-09-21,Ruzomberok B,Oravske Vesele,2,2
+2025-09-27,D. Kubin,MSK Martin,0,0
+2025-09-27,K. Nove Mesto,Oravske Vesele,1,0
+2025-09-27,MFK Bytca,MSK Lucenec,3,1
+2025-09-27,Namestovo,Filakovo,4,0
+2025-09-27,Rimavska Sobota,Jednota Banova,8,1
+2025-09-28,Kalinovo,Ruzomberok B,2,1
+2025-09-28,Podkonice,B. Bystrica B,1,3
+2025-10-04,MSK Lucenec,Podkonice,4,1
+2025-10-04,MSK Martin,Namestovo,0,1
+2025-10-04,Oravske Vesele,Kalinovo,2,1
+2025-10-05,B. Bystrica B,Rimavska Sobota,5,1
+2025-10-05,Filakovo,K. Nove Mesto,2,1
+2025-10-05,Jednota Banova,D. Kubin,0,3
+2025-10-05,Ruzomberok B,MFK Bytca,3,0
+2025-10-11,D. Kubin,B. Bystrica B,0,1
+2025-10-11,K. Nove Mesto,Kalinovo,2,0
+2025-10-11,MFK Bytca,Oravske Vesele,2,1
+2025-10-11,Namestovo,Jednota Banova,3,3
+2025-10-11,Rimavska Sobota,MSK Lucenec,2,1
+2025-10-12,Filakovo,MSK Martin,3,1
+2025-10-12,Podkonice,Ruzomberok B,3,5
+2025-10-18,MSK Lucenec,D. Kubin,1,3
+2025-10-18,MSK Martin,K. Nove Mesto,4,0
+2025-10-19,B. Bystrica B,Namestovo,1,2
+2025-10-19,Jednota Banova,Filakovo,0,2
+2025-10-19,Kalinovo,MFK Bytca,2,5
+2025-10-19,Oravske Vesele,Podkonice,1,2
+2025-10-19,Ruzomberok B,Rimavska Sobota,3,1
+2025-10-24,K. Nove Mesto,MFK Bytca,2,2
+2025-10-25,D. Kubin,Ruzomberok B,4,2
+2025-10-25,MSK Martin,Jednota Banova,3,3
+2025-10-25,Namestovo,MSK Lucenec,2,2
+2025-10-25,Rimavska Sobota,Oravske Vesele,2,4
+2025-10-26,Filakovo,B. Bystrica B,1,3
+2025-10-26,Podkonice,Kalinovo,3,0
+2025-11-01,MFK Bytca,Podkonice,5,1
+2025-11-01,MSK Lucenec,Filakovo,2,0
+2025-11-01,Oravske Vesele,D. Kubin,4,1
+2025-11-02,B. Bystrica B,MSK Martin,1,4
+2025-11-02,Jednota Banova,K. Nove Mesto,4,0
+2025-11-02,Kalinovo,Rimavska Sobota,1,2
+2025-11-02,Ruzomberok B,Namestovo,2,1
+2026-03-07,K. Nove Mesto,Podkonice,0,1
+2026-03-07,MFK Bytca,Rimavska Sobota,3,0
+2026-03-07,MSK Lucenec,MSK Martin,1,1
+2026-03-07,Oravske Vesele,Namestovo,0,1
+2026-03-08,B. Bystrica B,Jednota Banova,2,1
+2026-03-08,Kalinovo,D. Kubin,2,1
+2026-03-08,Ruzomberok B,Filakovo,2,4
+2026-03-14,D. Kubin,MFK Bytca,1,2
+2026-03-14,MSK Martin,Ruzomberok B,2,2
+2026-03-14,Rimavska Sobota,Podkonice,0,4
+2026-03-15,B. Bystrica B,K. Nove Mesto,3,1
+2026-03-15,Filakovo,Oravske Vesele,1,0
+2026-03-15,Jednota Banova,MSK Lucenec,1,2
+2026-03-15,Namestovo,Kalinovo,3,0
+2026-03-21,K. Nove Mesto,Rimavska Sobota,2,1
+2026-03-21,MFK Bytca,Namestovo,2,0
+2026-03-21,MSK Lucenec,B. Bystrica B,0,0
+2026-03-21,Oravske Vesele,MSK Martin,1,2
+2026-03-22,Kalinovo,Filakovo,0,2
+2026-03-22,Podkonice,D. Kubin,2,2
+2026-03-22,Ruzomberok B,Jednota Banova,3,1
+2026-03-28,MSK Lucenec,K. Nove Mesto,3,0
+2026-03-28,MSK Martin,Kalinovo,2,0
+2026-03-29,B. Bystrica B,Ruzomberok B,1,1
+2026-03-29,D. Kubin,Rimavska Sobota,4,4
+2026-03-29,Filakovo,MFK Bytca,1,2
+2026-03-29,Jednota Banova,Oravske Vesele,0,1
+2026-04-04,K. Nove Mesto,D. Kubin,1,1
+2026-04-04,MFK Bytca,MSK Martin,4,1
+2026-04-04,Oravske Vesele,B. Bystrica B,1,2
+2026-04-04,Rimavska Sobota,Namestovo,2,1
+2026-04-05,Kalinovo,Jednota Banova,2,1
+2026-04-05,Podkonice,Filakovo,0,0
+2026-04-05,Ruzomberok B,MSK Lucenec,5,1
+2026-04-08,Namestovo,Podkonice,1,0
+2026-04-11,K. Nove Mesto,Ruzomberok B,1,1
+2026-04-11,MSK Lucenec,Oravske Vesele,0,0
+2026-04-11,MSK Martin,Podkonice,0,0
+2026-04-11,Namestovo,D. Kubin,5,1
+2026-04-12,B. Bystrica B,Kalinovo,2,2
+2026-04-12,Filakovo,Rimavska Sobota,2,2
+2026-04-12,Jednota Banova,MFK Bytca,0,0
+2026-04-18,D. Kubin,Filakovo,3,0
+2026-04-18,K. Nove Mesto,Namestovo,0,7
+2026-04-18,MFK Bytca,B. Bystrica B,1,1
+2026-04-18,Oravske Vesele,Ruzomberok B,1,1
+2026-04-18,Rimavska Sobota,MSK Martin,2,2
+2026-04-19,Kalinovo,MSK Lucenec,0,1
+2026-04-19,Podkonice,Jednota Banova,3,0
+2026-04-25,MSK Lucenec,MFK Bytca,0,3
+2026-04-25,MSK Martin,D. Kubin,4,0
+2026-04-25,Oravske Vesele,K. Nove Mesto,2,1
+2026-04-26,B. Bystrica B,Podkonice,1,0
+2026-04-26,Filakovo,Namestovo,0,1
+2026-04-26,Jednota Banova,Rimavska Sobota,2,0
+2026-04-26,Ruzomberok B,Kalinovo,2,0
+2026-05-01,Kalinovo,Oravske Vesele,4,2
+2026-05-02,D. Kubin,Jednota Banova,1,1
+2026-05-02,K. Nove Mesto,Filakovo,0,1
+2026-05-02,MFK Bytca,Ruzomberok B,2,0
+2026-05-02,Namestovo,MSK Martin,1,4
+2026-05-02,Rimavska Sobota,B. Bystrica B,1,1
+2026-05-03,Podkonice,MSK Lucenec,1,2
+2026-05-09,MSK Lucenec,Rimavska Sobota,4,1
+2026-05-09,MSK Martin,Filakovo,3,1
+2026-05-09,Oravske Vesele,MFK Bytca,0,2
+2026-05-10,B. Bystrica B,D. Kubin,2,1
+2026-05-10,Jednota Banova,Namestovo,2,0
+2026-05-10,Kalinovo,K. Nove Mesto,1,0
+2026-05-10,Ruzomberok B,Podkonice,1,0
+2026-05-16,D. Kubin,MSK Lucenec,0,1
+2026-05-16,K. Nove Mesto,MSK Martin,0,3
+2026-05-16,MFK Bytca,Kalinovo,2,0
+2026-05-16,Namestovo,B. Bystrica B,2,1
+2026-05-16,Rimavska Sobota,Ruzomberok B,3,0
+2026-05-17,Filakovo,Jednota Banova,1,1
+2026-05-17,Podkonice,Oravske Vesele,0,1
+2026-05-23,B. Bystrica B,Filakovo,3,1
+2026-05-23,Jednota Banova,MSK Martin,1,2
+2026-05-23,Kalinovo,Podkonice,2,0
+2026-05-23,MFK Bytca,K. Nove Mesto,2,1
+2026-05-23,MSK Lucenec,Namestovo,1,1
+2026-05-23,Oravske Vesele,Rimavska Sobota,2,3
+2026-05-23,Ruzomberok B,D. Kubin,2,3
+2026-05-30,D. Kubin,Oravske Vesele,2,2
+2026-05-30,Filakovo,MSK Lucenec,3,1
+2026-05-30,K. Nove Mesto,Jednota Banova,2,0
+2026-05-30,MSK Martin,B. Bystrica B,2,5
+2026-05-30,Namestovo,Ruzomberok B,4,0
+2026-05-30,Podkonice,MFK Bytca,0,2
+2026-05-30,Rimavska Sobota,Kalinovo,0,0

@@ -275,6 +275,54 @@ LEAGUES = {
         ],
         "season_start": "2026-07-15",
     },
+    # Slovakien: Nike liga - 2. Liga - (3. Liga Central/East/West, tre parallella
+    # regionala grupper under 2. Liga). Kollisionskoll bekraftade: Banska Bystrica +
+    # Komarno upp 2.Liga->Nike liga, Presov ner motsatt hall; MFK Bytca upp 3.Liga
+    # Central->2.Liga; FK Humenne upp 3.Liga East->2.Liga, Slavia TU Kosice + Lubovna
+    # ner motsatt hall; Galanta upp 3.Liga West->2.Liga, Puchov ner motsatt hall.
+    "slovakia-nike-liga": {
+        "files": [
+            _p("Slovakia", "Nike Liga", "2025-26.csv"),
+            _p("Slovakia", "2. Liga", "2025-26.csv"),
+            _p("Slovakia", "Nike Liga", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "slovakia-2-liga": {
+        "files": [
+            _p("Slovakia", "2. Liga", "2025-26.csv"),
+            _p("Slovakia", "Nike Liga", "2025-26.csv"),
+            _p("Slovakia", "3. Liga Central", "2025-26.csv"),
+            _p("Slovakia", "3. Liga East", "2025-26.csv"),
+            _p("Slovakia", "3. Liga West", "2025-26.csv"),
+            _p("Slovakia", "2. Liga", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "slovakia-3-liga-central": {
+        "files": [
+            _p("Slovakia", "3. Liga Central", "2025-26.csv"),
+            _p("Slovakia", "2. Liga", "2025-26.csv"),
+            _p("Slovakia", "3. Liga Central", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "slovakia-3-liga-east": {
+        "files": [
+            _p("Slovakia", "3. Liga East", "2025-26.csv"),
+            _p("Slovakia", "2. Liga", "2025-26.csv"),
+            _p("Slovakia", "3. Liga East", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "slovakia-3-liga-west": {
+        "files": [
+            _p("Slovakia", "3. Liga West", "2025-26.csv"),
+            _p("Slovakia", "2. Liga", "2025-26.csv"),
+            _p("Slovakia", "3. Liga West", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
 }
 
 # Bakatkompatibel genvag: SEASON_START["poland"] etc.

@@ -1,0 +1,243 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-07-25,Banska Bystrica,Slavia TU Kosice,2,0
+2025-07-25,Pohronie,Malzenice,0,0
+2025-07-25,Puchov,Slovan Bratislava B,1,1
+2025-07-26,I. Bratislava,Z. Moravce-Vrable,1,2
+2025-07-26,L. Mikulas,Lehota p. V.,2,0
+2025-07-26,Samorin,Zilina B,2,3
+2025-07-26,Zvolen,Lubovna,2,2
+2025-08-01,Slovan Bratislava B,Petrzalka,0,0
+2025-08-01,Z. Moravce-Vrable,Banska Bystrica,2,2
+2025-08-02,L. Mikulas,I. Bratislava,2,1
+2025-08-02,Povazska Bystrica,Lehota p. V.,2,1
+2025-08-02,Samorin,Slavia TU Kosice,2,1
+2025-08-02,Zvolen,Pohronie,1,0
+2025-08-03,Malzenice,Puchov,3,1
+2025-08-03,Zilina B,Lubovna,0,2
+2025-08-06,Petrzalka,Povazska Bystrica,1,0
+2025-08-08,Lehota p. V.,Slovan Bratislava B,2,3
+2025-08-08,Pohronie,Zilina B,4,1
+2025-08-08,Z. Moravce-Vrable,Slavia TU Kosice,1,1
+2025-08-09,Banska Bystrica,L. Mikulas,4,3
+2025-08-09,I. Bratislava,Povazska Bystrica,1,1
+2025-08-09,Lubovna,Samorin,2,0
+2025-08-09,Puchov,Zvolen,1,1
+2025-08-10,Petrzalka,Malzenice,3,1
+2025-08-15,Slovan Bratislava B,I. Bratislava,0,1
+2025-08-16,L. Mikulas,Z. Moravce-Vrable,1,1
+2025-08-16,Lubovna,Slavia TU Kosice,1,1
+2025-08-16,Povazska Bystrica,Banska Bystrica,0,1
+2025-08-16,Samorin,Pohronie,1,1
+2025-08-16,Zvolen,Petrzalka,3,2
+2025-08-17,Malzenice,Lehota p. V.,2,1
+2025-08-17,Zilina B,Puchov,5,2
+2025-08-22,Banska Bystrica,Slovan Bratislava B,1,0
+2025-08-22,Lehota p. V.,Zvolen,1,5
+2025-08-22,Pohronie,Lubovna,3,1
+2025-08-22,Z. Moravce-Vrable,Povazska Bystrica,5,1
+2025-08-23,I. Bratislava,Malzenice,2,1
+2025-08-23,L. Mikulas,Slavia TU Kosice,5,3
+2025-08-23,Puchov,Samorin,2,3
+2025-08-24,Petrzalka,Zilina B,1,1
+2025-08-29,Pohronie,Slavia TU Kosice,4,1
+2025-08-30,Lubovna,Puchov,1,0
+2025-08-30,Povazska Bystrica,L. Mikulas,2,2
+2025-08-30,Samorin,Petrzalka,1,1
+2025-08-30,Zvolen,I. Bratislava,1,1
+2025-08-31,Malzenice,Banska Bystrica,0,3
+2025-08-31,Slovan Bratislava B,Z. Moravce-Vrable,2,1
+2025-08-31,Zilina B,Lehota p. V.,3,2
+2025-09-05,Banska Bystrica,Zvolen,1,1
+2025-09-05,I. Bratislava,Zilina B,1,0
+2025-09-06,L. Mikulas,Slovan Bratislava B,2,1
+2025-09-06,Lehota p. V.,Samorin,2,1
+2025-09-06,Puchov,Pohronie,3,1
+2025-09-07,Petrzalka,Lubovna,1,0
+2025-09-12,Pohronie,Petrzalka,1,2
+2025-09-13,Lubovna,Lehota p. V.,0,0
+2025-09-13,Puchov,Slavia TU Kosice,0,2
+2025-09-13,Samorin,I. Bratislava,2,0
+2025-09-13,Zvolen,Z. Moravce-Vrable,1,3
+2025-09-14,Malzenice,L. Mikulas,1,2
+2025-09-14,Zilina B,Banska Bystrica,0,4
+2025-09-19,Banska Bystrica,Samorin,3,1
+2025-09-19,Povazska Bystrica,Malzenice,1,3
+2025-09-19,Z. Moravce-Vrable,Zilina B,3,1
+2025-09-20,I. Bratislava,Lubovna,4,1
+2025-09-20,L. Mikulas,Zvolen,0,1
+2025-09-20,Lehota p. V.,Pohronie,4,3
+2025-09-20,Petrzalka,Puchov,4,0
+2025-09-21,Slavia TU Kosice,Slovan Bratislava B,2,2
+2025-09-23,Z. Moravce-Vrable,Malzenice,4,3
+2025-09-26,Pohronie,I. Bratislava,1,0
+2025-09-27,Lubovna,Banska Bystrica,0,2
+2025-09-27,Puchov,Lehota p. V.,2,0
+2025-09-27,Samorin,Z. Moravce-Vrable,3,3
+2025-09-27,Zvolen,Povazska Bystrica,0,1
+2025-09-28,Malzenice,Slovan Bratislava B,3,0
+2025-09-28,Petrzalka,Slavia TU Kosice,2,3
+2025-09-28,Zilina B,L. Mikulas,1,0
+2025-10-03,Banska Bystrica,Pohronie,1,1
+2025-10-03,Z. Moravce-Vrable,Lubovna,3,2
+2025-10-04,I. Bratislava,Puchov,0,0
+2025-10-04,L. Mikulas,Samorin,2,1
+2025-10-04,Lehota p. V.,Petrzalka,1,0
+2025-10-04,Povazska Bystrica,Zilina B,1,1
+2025-10-04,Slavia TU Kosice,Malzenice,2,2
+2025-10-05,Slovan Bratislava B,Zvolen,2,0
+2025-10-08,Slavia TU Kosice,Povazska Bystrica,1,1
+2025-10-10,Pohronie,Z. Moravce-Vrable,3,1
+2025-10-10,Zilina B,Slovan Bratislava B,0,1
+2025-10-11,Lehota p. V.,Slavia TU Kosice,3,1
+2025-10-11,Lubovna,L. Mikulas,1,1
+2025-10-11,Puchov,Banska Bystrica,1,4
+2025-10-11,Samorin,Povazska Bystrica,0,2
+2025-10-12,Petrzalka,I. Bratislava,0,1
+2025-10-14,Slovan Bratislava B,Povazska Bystrica,2,4
+2025-10-15,Zvolen,Malzenice,3,1
+2025-10-17,Banska Bystrica,Petrzalka,1,0
+2025-10-17,Z. Moravce-Vrable,Puchov,2,1
+2025-10-18,I. Bratislava,Lehota p. V.,2,2
+2025-10-18,L. Mikulas,Pohronie,0,3
+2025-10-18,Povazska Bystrica,Lubovna,2,0
+2025-10-19,Malzenice,Zilina B,2,1
+2025-10-19,Slavia TU Kosice,Zvolen,1,0
+2025-10-19,Slovan Bratislava B,Samorin,1,4
+2025-10-24,Pohronie,Povazska Bystrica,4,0
+2025-10-25,I. Bratislava,Slavia TU Kosice,3,1
+2025-10-25,Lehota p. V.,Banska Bystrica,1,2
+2025-10-25,Lubovna,Slovan Bratislava B,7,0
+2025-10-25,Puchov,L. Mikulas,3,3
+2025-10-25,Samorin,Malzenice,1,0
+2025-10-26,Petrzalka,Z. Moravce-Vrable,3,2
+2025-10-26,Zilina B,Zvolen,1,3
+2025-10-31,Banska Bystrica,I. Bratislava,3,0
+2025-10-31,Z. Moravce-Vrable,Lehota p. V.,1,1
+2025-11-01,L. Mikulas,Petrzalka,4,2
+2025-11-01,Povazska Bystrica,Puchov,0,1
+2025-11-01,Zvolen,Samorin,1,3
+2025-11-02,Malzenice,Lubovna,2,1
+2025-11-02,Slavia TU Kosice,Zilina B,1,3
+2025-11-02,Slovan Bratislava B,Pohronie,2,2
+2025-11-07,Malzenice,Pohronie,0,0
+2025-11-07,Z. Moravce-Vrable,I. Bratislava,3,0
+2025-11-08,Lehota p. V.,L. Mikulas,2,2
+2025-11-08,Lubovna,Zvolen,1,2
+2025-11-08,Povazska Bystrica,Petrzalka,2,1
+2025-11-09,Slavia TU Kosice,Banska Bystrica,0,1
+2025-11-09,Slovan Bratislava B,Puchov,1,1
+2025-11-09,Zilina B,Samorin,5,4
+2025-11-14,Banska Bystrica,Z. Moravce-Vrable,4,1
+2025-11-14,Pohronie,Zvolen,2,2
+2025-11-15,I. Bratislava,L. Mikulas,2,2
+2025-11-15,Lehota p. V.,Povazska Bystrica,2,1
+2025-11-15,Lubovna,Zilina B,0,1
+2025-11-16,Petrzalka,Slovan Bratislava B,1,0
+2025-11-16,Slavia TU Kosice,Samorin,2,1
+2025-11-21,Puchov,Malzenice,4,2
+2026-02-28,L. Mikulas,Banska Bystrica,3,1
+2026-02-28,Povazska Bystrica,I. Bratislava,0,2
+2026-02-28,Samorin,Lubovna,1,1
+2026-02-28,Zvolen,Puchov,2,2
+2026-03-01,Malzenice,Petrzalka,0,0
+2026-03-01,Slavia TU Kosice,Z. Moravce-Vrable,1,3
+2026-03-01,Slovan Bratislava B,Lehota p. V.,1,1
+2026-03-01,Zilina B,Pohronie,1,0
+2026-03-06,Banska Bystrica,Povazska Bystrica,3,1
+2026-03-06,Pohronie,Samorin,1,0
+2026-03-06,Z. Moravce-Vrable,L. Mikulas,1,2
+2026-03-07,I. Bratislava,Slovan Bratislava B,2,0
+2026-03-07,Lehota p. V.,Malzenice,0,2
+2026-03-07,Puchov,Zilina B,0,0
+2026-03-08,Petrzalka,Zvolen,1,1
+2026-03-08,Slavia TU Kosice,Lubovna,3,0
+2026-03-14,Lubovna,Pohronie,1,1
+2026-03-14,Povazska Bystrica,Z. Moravce-Vrable,1,2
+2026-03-14,Samorin,Puchov,0,0
+2026-03-14,Zvolen,Lehota p. V.,1,0
+2026-03-15,Malzenice,I. Bratislava,1,0
+2026-03-15,Slavia TU Kosice,L. Mikulas,4,0
+2026-03-15,Slovan Bratislava B,Banska Bystrica,2,0
+2026-03-15,Zilina B,Petrzalka,1,1
+2026-03-20,Banska Bystrica,Malzenice,1,3
+2026-03-20,Z. Moravce-Vrable,Slovan Bratislava B,2,2
+2026-03-21,I. Bratislava,Zvolen,0,1
+2026-03-21,L. Mikulas,Povazska Bystrica,4,2
+2026-03-21,Lehota p. V.,Zilina B,1,0
+2026-03-21,Puchov,Lubovna,1,0
+2026-03-22,Petrzalka,Samorin,3,0
+2026-03-22,Slavia TU Kosice,Pohronie,1,1
+2026-03-27,Pohronie,Puchov,3,1
+2026-03-28,Lubovna,Petrzalka,0,4
+2026-03-28,Povazska Bystrica,Slavia TU Kosice,4,0
+2026-03-28,Samorin,Lehota p. V.,0,1
+2026-03-28,Slovan Bratislava B,L. Mikulas,3,1
+2026-03-28,Zilina B,I. Bratislava,1,2
+2026-03-28,Zvolen,Banska Bystrica,1,1
+2026-04-02,Z. Moravce-Vrable,Zvolen,0,0
+2026-04-03,Banska Bystrica,Zilina B,4,1
+2026-04-03,I. Bratislava,Samorin,0,2
+2026-04-04,L. Mikulas,Malzenice,0,0
+2026-04-04,Lehota p. V.,Lubovna,1,2
+2026-04-04,Povazska Bystrica,Slovan Bratislava B,1,1
+2026-04-05,Petrzalka,Pohronie,3,0
+2026-04-05,Slavia TU Kosice,Puchov,0,0
+2026-04-07,Malzenice,Z. Moravce-Vrable,1,0
+2026-04-10,Pohronie,Lehota p. V.,1,2
+2026-04-11,Lubovna,I. Bratislava,2,2
+2026-04-11,Puchov,Petrzalka,1,2
+2026-04-11,Samorin,Banska Bystrica,0,2
+2026-04-11,Zvolen,L. Mikulas,2,1
+2026-04-12,Malzenice,Povazska Bystrica,4,2
+2026-04-12,Slovan Bratislava B,Slavia TU Kosice,4,1
+2026-04-12,Zilina B,Z. Moravce-Vrable,1,4
+2026-04-17,Banska Bystrica,Lubovna,3,0
+2026-04-17,Z. Moravce-Vrable,Samorin,1,2
+2026-04-18,I. Bratislava,Pohronie,2,1
+2026-04-18,L. Mikulas,Zilina B,2,0
+2026-04-18,Lehota p. V.,Puchov,3,3
+2026-04-18,Povazska Bystrica,Zvolen,0,2
+2026-04-19,Slavia TU Kosice,Petrzalka,1,0
+2026-04-19,Slovan Bratislava B,Malzenice,1,1
+2026-04-21,Lubovna,Z. Moravce-Vrable,4,2
+2026-04-22,Malzenice,Slavia TU Kosice,1,0
+2026-04-22,Petrzalka,Lehota p. V.,2,1
+2026-04-22,Pohronie,Banska Bystrica,0,0
+2026-04-22,Puchov,I. Bratislava,1,3
+2026-04-22,Samorin,L. Mikulas,1,1
+2026-04-22,Zilina B,Povazska Bystrica,2,2
+2026-04-22,Zvolen,Slovan Bratislava B,1,2
+2026-04-25,Banska Bystrica,Puchov,0,0
+2026-04-25,I. Bratislava,Petrzalka,0,2
+2026-04-25,L. Mikulas,Lubovna,2,0
+2026-04-25,Povazska Bystrica,Samorin,1,1
+2026-04-26,Malzenice,Zvolen,0,0
+2026-04-26,Slavia TU Kosice,Lehota p. V.,1,1
+2026-04-26,Slovan Bratislava B,Zilina B,4,2
+2026-04-26,Z. Moravce-Vrable,Pohronie,0,1
+2026-05-01,Lehota p. V.,I. Bratislava,1,0
+2026-05-02,Lubovna,Povazska Bystrica,1,1
+2026-05-02,Pohronie,L. Mikulas,2,2
+2026-05-02,Puchov,Z. Moravce-Vrable,1,0
+2026-05-02,Samorin,Slovan Bratislava B,1,1
+2026-05-02,Zvolen,Slavia TU Kosice,2,1
+2026-05-03,Petrzalka,Banska Bystrica,1,3
+2026-05-03,Zilina B,Malzenice,1,1
+2026-05-08,Banska Bystrica,Lehota p. V.,4,1
+2026-05-08,L. Mikulas,Puchov,3,0
+2026-05-08,Malzenice,Samorin,2,3
+2026-05-08,Povazska Bystrica,Pohronie,1,1
+2026-05-08,Slavia TU Kosice,I. Bratislava,2,1
+2026-05-08,Slovan Bratislava B,Lubovna,5,1
+2026-05-08,Z. Moravce-Vrable,Petrzalka,1,0
+2026-05-08,Zvolen,Zilina B,5,2
+2026-05-15,I. Bratislava,Banska Bystrica,1,0
+2026-05-15,Lehota p. V.,Z. Moravce-Vrable,3,3
+2026-05-15,Lubovna,Malzenice,1,2
+2026-05-15,Petrzalka,L. Mikulas,2,1
+2026-05-15,Pohronie,Slovan Bratislava B,2,1
+2026-05-15,Puchov,Povazska Bystrica,0,1
+2026-05-15,Samorin,Zvolen,3,1
+2026-05-15,Zilina B,Slavia TU Kosice,4,0
+2026-05-19,Zvolen,Komarno,1,0
+2026-05-23,Komarno,Zvolen,3,0
