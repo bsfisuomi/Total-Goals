@@ -180,10 +180,15 @@ def scan_league(league_key, min_ev=MIN_EV):
 
     n_resolved = 0
     n_with_odds = 0
+    unmatched = set()
     hits = []
     for ev in events:
         home = resolve_team(ev["home"], known_teams)
         away = resolve_team(ev["away"], known_teams)
+        if not home:
+            unmatched.add(ev["home"])
+        if not away:
+            unmatched.add(ev["away"])
         if not home or not away:
             continue  # laget hor inte till den har ligan (fel slug-tagg) eller saknar historik
         n_resolved += 1
@@ -228,6 +233,10 @@ def scan_league(league_key, min_ev=MIN_EV):
         time.sleep(0.3)  # var snall mot API:t (free tier: 100 req/h)
 
     print(f"  -> {n_resolved} av dem matchade lag i var historik, {n_with_odds} hade Bet365-odds, {len(hits)} value-traffar", file=sys.stderr)
+    if unmatched:
+        sample = sorted(unmatched)[:12]
+        more = f" (+{len(unmatched) - 12} till)" if len(unmatched) > 12 else ""
+        print(f"     Omatchade lagnamn fran odds-api.io: {', '.join(sample)}{more}", file=sys.stderr)
     return hits
 
 
