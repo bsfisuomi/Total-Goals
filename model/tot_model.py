@@ -111,6 +111,42 @@ LEAGUES = {
         "files": [_p("Germany", "Regionalliga Bayern", "2025-26.csv"), _p("Germany", "Regionalliga Bayern", "2026-27.csv")],
         "season_start": "2026-07-01",
     },
+    "wales-cymru-premier": {
+        # Cymru Premier expanderade fran 12 till 16 lag infor 2026/27: Airbus,
+        # Llandudno, Holywell kom upp fran Cymru North och Ammanford, Trefelin,
+        # Cambrian United fran Cymru South (bekraftat - enda overlappen mellan
+        # North/South forra sasongen och Premier denna sasong). Bala och
+        # Llanelli akte ner till North respektive South. North/South forra
+        # sasongens filer laggs till som fallback for de uppflyttade lagens
+        # TOT-snitt.
+        "files": [
+            _p("Wales", "Cymru Premier", "2025-26.csv"),
+            _p("Wales", "Cymru North", "2025-26.csv"),
+            _p("Wales", "Cymru South", "2025-26.csv"),
+            _p("Wales", "Cymru Premier", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "wales-cymru-north": {
+        # Bala akte ner fran Premier till North i sommar - Premier forra
+        # sasongens fil laggs till som fallback for Balas TOT-snitt.
+        "files": [
+            _p("Wales", "Cymru North", "2025-26.csv"),
+            _p("Wales", "Cymru Premier", "2025-26.csv"),
+            _p("Wales", "Cymru North", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "wales-cymru-south": {
+        # Llanelli akte ner fran Premier till South i sommar - samma fallback-
+        # logik som for North/Bala.
+        "files": [
+            _p("Wales", "Cymru South", "2025-26.csv"),
+            _p("Wales", "Cymru Premier", "2025-26.csv"),
+            _p("Wales", "Cymru South", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
     "sweden-norra": {
         "files": [_p("Sweden", "Ettan Norra", "2026.csv")],
         "season_start": "2026-04-03",  # hela filen ar en sasong - "fler an
