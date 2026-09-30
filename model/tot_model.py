@@ -33,6 +33,8 @@ LAST_N = 20  # antal matcher per lag som ingar i snittet (minimum om sasongen ha
 # som forut (bara de N senaste matcherna totalt, oavsett sasong).
 SEASON_START = {
     "poland": "2026-06-01",
+    "sweden-norra": "2026-04-03",   # hela filen ar en sasong - satts sa att
+    "sweden-sodra": "2026-04-03",   # ">20 matcher -> anvand alla" gäller aven har
 }
 
 
