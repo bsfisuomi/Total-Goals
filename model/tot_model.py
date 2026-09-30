@@ -193,6 +193,26 @@ LEAGUES = {
         "files": [_p("Japan", "J1", "2025.csv")],
         "season_start": None,  # bara en sasong i datan, ingen uppdelning behovs
     },
+    # Kollisionskoll UAE: Hatta + United FC upp fran Division 1 till UAE League;
+    # Al Bataeh + Dibba Al Fujairah ner fran UAE League till Division 1.
+    # Forte Virtus + Palm City nya i Division 1 utan matchande roster i nagon
+    # av forra sasongens ligor (sannolikt uppflyttade fran en lag vi inte har data for).
+    "uae-league": {
+        "files": [
+            _p("United Arab Emirates", "UAE League", "2025-26.csv"),
+            _p("United Arab Emirates", "Division 1", "2025-26.csv"),
+            _p("United Arab Emirates", "UAE League", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
+    "uae-division-1": {
+        "files": [
+            _p("United Arab Emirates", "Division 1", "2025-26.csv"),
+            _p("United Arab Emirates", "UAE League", "2025-26.csv"),
+            _p("United Arab Emirates", "Division 1", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-15",
+    },
 }
 
 # Bakatkompatibel genvag: SEASON_START["poland"] etc.

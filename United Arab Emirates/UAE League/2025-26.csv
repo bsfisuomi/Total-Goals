@@ -1,0 +1,183 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-08-16,Al Ain,Al Bataeh,2,1
+2025-08-16,Dibba Al Fujairah,Al Sharjah,1,3
+2025-08-16,Ittihad Kalba,Al Nasr,0,1
+2025-08-16,Shabab Al-Ahli Dubai,Al Dhafra,2,0
+2025-08-17,Ajman,Al Wahda,0,2
+2025-08-17,Al Wasl,Bani Yas,2,0
+2025-08-17,Khorfakkan,Al Jazira,3,2
+2025-08-22,Al Sharjah,Al Jazira,0,1
+2025-08-22,Bani Yas,Ittihad Kalba,0,1
+2025-08-23,Al Dhafra,Al Wasl,3,1
+2025-08-23,Al Wahda,Shabab Al-Ahli Dubai,0,0
+2025-08-23,Dibba Al Fujairah,Al Ain,2,3
+2025-08-24,Al Bataeh,Khorfakkan,2,1
+2025-08-24,Al Nasr,Ajman,1,0
+2025-09-11,Ittihad Kalba,Al Wahda,0,0
+2025-09-11,Khorfakkan,Al Sharjah,2,2
+2025-09-11,Shabab Al-Ahli Dubai,Bani Yas,1,0
+2025-09-12,Ajman,Al Bataeh,1,0
+2025-09-12,Al Dhafra,Dibba Al Fujairah,2,1
+2025-09-13,Al Jazira,Al Nasr,0,0
+2025-09-13,Al Wasl,Al Ain,1,1
+2025-09-19,Al Wahda,Al Dhafra,5,2
+2025-09-19,Bani Yas,Al Jazira,0,4
+2025-09-20,Al Ain,Khorfakkan,3,0
+2025-09-20,Al Nasr,Shabab Al-Ahli Dubai,0,1
+2025-09-20,Dibba Al Fujairah,Ittihad Kalba,1,2
+2025-09-21,Al Bataeh,Al Wasl,0,1
+2025-09-21,Al Sharjah,Ajman,0,1
+2025-09-24,Al Jazira,Al Wahda,0,1
+2025-09-24,Khorfakkan,Ittihad Kalba,2,4
+2025-09-25,Al Wasl,Al Sharjah,2,1
+2025-09-25,Shabab Al-Ahli Dubai,Al Ain,0,1
+2025-09-26,Al Dhafra,Al Bataeh,3,1
+2025-09-26,Al Nasr,Dibba Al Fujairah,1,1
+2025-09-26,Bani Yas,Ajman,0,1
+2025-10-17,Al Bataeh,Al Wahda,1,3
+2025-10-17,Al Sharjah,Al Dhafra,2,0
+2025-10-17,Ittihad Kalba,Shabab Al-Ahli Dubai,0,0
+2025-10-18,Ajman,Khorfakkan,1,2
+2025-10-18,Al Ain,Bani Yas,4,0
+2025-10-18,Al Wasl,Al Nasr,2,1
+2025-10-18,Dibba Al Fujairah,Al Jazira,0,1
+2025-10-30,Ajman,Al Ain,0,3
+2025-10-30,Al Wahda,Al Nasr,3,2
+2025-10-30,Shabab Al-Ahli Dubai,Al Sharjah,2,0
+2025-10-31,Bani Yas,Dibba Al Fujairah,2,2
+2025-10-31,Khorfakkan,Al Wasl,1,1
+2025-11-01,Al Dhafra,Ittihad Kalba,3,0
+2025-11-01,Al Jazira,Al Bataeh,1,0
+2025-11-20,Khorfakkan,Shabab Al-Ahli Dubai,0,1
+2025-11-21,Al Nasr,Al Dhafra,2,0
+2025-11-21,Al Sharjah,Bani Yas,1,4
+2025-11-21,Dibba Al Fujairah,Al Wahda,1,1
+2025-11-22,Al Ain,Al Jazira,1,1
+2025-11-22,Al Wasl,Ajman,0,0
+2025-11-22,Ittihad Kalba,Al Bataeh,1,3
+2025-12-20,Ajman,Dibba Al Fujairah,2,0
+2025-12-20,Al Ain,Ittihad Kalba,2,0
+2025-12-20,Bani Yas,Khorfakkan,0,3
+2025-12-21,Al Bataeh,Al Nasr,2,3
+2025-12-21,Al Jazira,Al Dhafra,4,2
+2025-12-28,Al Nasr,Al Ain,2,2
+2025-12-28,Al Wahda,Khorfakkan,1,0
+2025-12-28,Dibba Al Fujairah,Al Wasl,1,3
+2025-12-29,Al Dhafra,Bani Yas,0,2
+2025-12-29,Ittihad Kalba,Al Jazira,1,1
+2026-01-02,Al Ain,Al Sharjah,1,0
+2026-01-02,Al Wasl,Al Wahda,1,0
+2026-01-02,Bani Yas,Al Nasr,1,2
+2026-01-02,Khorfakkan,Al Dhafra,2,3
+2026-01-03,Ajman,Ittihad Kalba,0,1
+2026-01-03,Al Bataeh,Dibba Al Fujairah,0,1
+2026-01-03,Al Jazira,Shabab Al-Ahli Dubai,0,3
+2026-01-06,Al Nasr,Al Sharjah,2,4
+2026-01-06,Al Wahda,Bani Yas,3,0
+2026-01-07,Al Bataeh,Shabab Al-Ahli Dubai,0,4
+2026-01-07,Ittihad Kalba,Al Wasl,2,2
+2026-01-08,Al Dhafra,Al Ain,1,2
+2026-01-08,Al Jazira,Ajman,3,0
+2026-01-08,Dibba Al Fujairah,Khorfakkan,1,0
+2026-01-10,Al Wahda,Al Sharjah,1,1
+2026-01-11,Shabab Al-Ahli Dubai,Al Wasl,3,1
+2026-01-14,Al Sharjah,Al Bataeh,0,2
+2026-01-15,Shabab Al-Ahli Dubai,Ajman,3,1
+2026-01-17,Al Ain,Al Wahda,2,2
+2026-01-17,Al Wasl,Al Jazira,1,0
+2026-01-17,Khorfakkan,Al Nasr,0,0
+2026-01-18,Al Sharjah,Ittihad Kalba,3,1
+2026-01-18,Bani Yas,Al Bataeh,1,1
+2026-01-19,Ajman,Al Dhafra,1,1
+2026-01-19,Shabab Al-Ahli Dubai,Dibba Al Fujairah,7,0
+2026-01-27,Al Wahda,Dibba Al Fujairah,1,0
+2026-01-27,Ittihad Kalba,Al Ain,1,3
+2026-01-28,Ajman,Shabab Al-Ahli Dubai,0,1
+2026-01-28,Al Dhafra,Al Sharjah,0,2
+2026-01-28,Al Wasl,Khorfakkan,0,1
+2026-01-29,Al Bataeh,Al Jazira,1,1
+2026-01-29,Al Nasr,Bani Yas,0,2
+2026-02-05,Al Nasr,Al Wasl,1,1
+2026-02-05,Al Sharjah,Shabab Al-Ahli Dubai,1,4
+2026-02-05,Al Wahda,Al Bataeh,2,2
+2026-02-06,Al Dhafra,Khorfakkan,2,3
+2026-02-06,Al Jazira,Al Ain,0,1
+2026-02-07,Dibba Al Fujairah,Bani Yas,2,1
+2026-02-07,Ittihad Kalba,Ajman,1,3
+2026-02-13,Al Bataeh,Al Dhafra,1,1
+2026-02-13,Al Jazira,Ittihad Kalba,2,1
+2026-02-14,Al Ain,Al Nasr,1,1
+2026-02-14,Khorfakkan,Ajman,2,5
+2026-02-20,Ajman,Al Sharjah,3,2
+2026-02-20,Al Dhafra,Shabab Al-Ahli Dubai,0,5
+2026-02-20,Al Wahda,Al Jazira,1,2
+2026-02-21,Al Wasl,Al Bataeh,1,0
+2026-02-21,Ittihad Kalba,Dibba Al Fujairah,2,1
+2026-02-22,Al Nasr,Khorfakkan,2,2
+2026-02-22,Bani Yas,Al Ain,2,3
+2026-02-25,Al Wahda,Ajman,2,0
+2026-02-25,Al Wasl,Shabab Al-Ahli Dubai,1,1
+2026-02-26,Al Jazira,Al Sharjah,5,0
+2026-02-26,Ittihad Kalba,Al Dhafra,1,1
+2026-02-27,Al Bataeh,Bani Yas,0,1
+2026-02-27,Dibba Al Fujairah,Al Nasr,1,1
+2026-02-27,Khorfakkan,Al Ain,2,3
+2026-03-07,Al Sharjah,Dibba Al Fujairah,4,1
+2026-03-07,Bani Yas,Al Wasl,2,0
+2026-03-07,Shabab Al-Ahli Dubai,Al Wahda,1,1
+2026-03-10,Al Bataeh,Ajman,1,0
+2026-03-10,Al Dhafra,Al Jazira,1,2
+2026-03-11,Al Sharjah,Al Nasr,1,2
+2026-03-11,Khorfakkan,Dibba Al Fujairah,0,0
+2026-03-11,Shabab Al-Ahli Dubai,Ittihad Kalba,5,1
+2026-03-12,Al Ain,Al Wasl,2,0
+2026-03-12,Bani Yas,Al Wahda,1,0
+2026-03-16,Al Jazira,Khorfakkan,3,1
+2026-03-16,Dibba Al Fujairah,Shabab Al-Ahli Dubai,0,4
+2026-03-17,Al Wahda,Al Ain,0,1
+2026-03-17,Ittihad Kalba,Al Sharjah,2,2
+2026-03-18,Ajman,Bani Yas,1,1
+2026-03-18,Al Nasr,Al Bataeh,1,1
+2026-03-18,Al Wasl,Al Dhafra,3,0
+2026-04-04,Al Bataeh,Ittihad Kalba,2,2
+2026-04-04,Al Nasr,Al Wahda,2,2
+2026-04-04,Shabab Al-Ahli Dubai,Al Jazira,2,1
+2026-04-05,Al Ain,Ajman,2,0
+2026-04-05,Al Sharjah,Al Wasl,2,1
+2026-04-05,Dibba Al Fujairah,Al Dhafra,1,0
+2026-04-05,Khorfakkan,Bani Yas,2,1
+2026-04-09,Al Wahda,Ittihad Kalba,2,2
+2026-04-10,Al Ain,Shabab Al-Ahli Dubai,3,2
+2026-04-10,Bani Yas,Al Sharjah,1,1
+2026-04-11,Ajman,Al Wasl,1,3
+2026-04-11,Al Dhafra,Al Nasr,0,1
+2026-04-11,Al Jazira,Dibba Al Fujairah,4,3
+2026-04-11,Khorfakkan,Al Bataeh,1,1
+2026-04-23,Al Bataeh,Al Ain,0,2
+2026-04-23,Al Sharjah,Al Wahda,0,2
+2026-04-23,Ittihad Kalba,Bani Yas,1,2
+2026-04-24,Al Dhafra,Ajman,0,1
+2026-04-24,Al Nasr,Al Jazira,3,2
+2026-04-24,Al Wasl,Dibba Al Fujairah,4,2
+2026-04-29,Shabab Al-Ahli Dubai,Khorfakkan,3,3
+2026-05-05,Ajman,Al Jazira,1,1
+2026-05-05,Bani Yas,Al Dhafra,2,2
+2026-05-05,Dibba Al Fujairah,Al Bataeh,2,1
+2026-05-05,Ittihad Kalba,Khorfakkan,0,0
+2026-05-06,Al Sharjah,Al Ain,0,5
+2026-05-06,Al Wahda,Al Wasl,2,3
+2026-05-06,Shabab Al-Ahli Dubai,Al Nasr,2,1
+2026-05-10,Al Ain,Al Dhafra,5,0
+2026-05-10,Al Bataeh,Al Sharjah,0,0
+2026-05-10,Bani Yas,Shabab Al-Ahli Dubai,2,2
+2026-05-10,Dibba Al Fujairah,Ajman,0,2
+2026-05-11,Al Jazira,Al Wasl,1,2
+2026-05-11,Al Nasr,Ittihad Kalba,2,1
+2026-05-11,Khorfakkan,Al Wahda,1,1
+2026-05-15,Ajman,Al Nasr,2,2
+2026-05-15,Al Sharjah,Khorfakkan,3,1
+2026-05-15,Al Wasl,Ittihad Kalba,2,1
+2026-05-16,Al Ain,Dibba Al Fujairah,4,0
+2026-05-16,Al Dhafra,Al Wahda,1,0
+2026-05-16,Al Jazira,Bani Yas,4,1
+2026-05-16,Shabab Al-Ahli Dubai,Al Bataeh,1,1

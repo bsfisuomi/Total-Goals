@@ -1,0 +1,211 @@
+datum,hemmalag,bortalag,hemmamal,bortamal
+2025-09-19,Al Hamriyah,Gulf United,4,2
+2025-09-19,Al Jazira Hamra,Hatta,0,1
+2025-09-19,Dibba Al Hisn,Majd FC,2,0
+2025-09-19,Dubai City,Emirates Club,0,1
+2025-09-20,Al Thaid,United FC,1,2
+2025-09-20,Al Urooba,Al Arabi,0,1
+2025-09-20,Al-Ittifaq,Masfut,0,2
+2025-09-28,Al Arabi,Al-Ittifaq,3,1
+2025-09-28,Dibba Al Hisn,Al Jazira Hamra,4,0
+2025-09-28,Emirates Club,Majd FC,3,2
+2025-09-28,Gulf United,Al Thaid,2,0
+2025-09-28,Hatta,Al Fujairah,2,2
+2025-09-28,Masfut,Al Hamriyah,0,2
+2025-09-28,United FC,Dubai City,1,0
+2025-10-04,Al Jazira Hamra,Emirates Club,0,1
+2025-10-04,Dubai City,Gulf United,3,2
+2025-10-05,Al Thaid,Masfut,3,3
+2025-10-18,Dibba Al Hisn,Hatta,1,0
+2025-10-18,Emirates Club,Al Fujairah,3,2
+2025-10-18,Gulf United,Majd FC,5,1
+2025-10-18,United FC,Al Jazira Hamra,3,3
+2025-10-19,Al Arabi,Al Thaid,0,1
+2025-10-19,Al Urooba,Al Hamriyah,1,1
+2025-10-19,Masfut,Dubai City,1,1
+2025-10-26,Al Jazira Hamra,Gulf United,1,1
+2025-10-26,Hatta,Emirates Club,2,1
+2025-10-27,Al Thaid,Al Urooba,1,0
+2025-10-27,Dubai City,Al Arabi,2,2
+2025-10-27,Majd FC,Masfut,1,0
+2025-11-01,Emirates Club,Dibba Al Hisn,2,2
+2025-11-01,Gulf United,Al Fujairah,1,2
+2025-11-01,Masfut,Al Jazira Hamra,1,3
+2025-11-01,United FC,Hatta,1,1
+2025-11-02,Al Arabi,Majd FC,1,0
+2025-11-02,Al Urooba,Dubai City,2,2
+2025-11-02,Al-Ittifaq,Al Thaid,0,1
+2025-11-07,Al Fujairah,Masfut,5,3
+2025-11-07,Al Jazira Hamra,Al Arabi,0,1
+2025-11-07,Dibba Al Hisn,United FC,2,0
+2025-11-07,Hatta,Gulf United,4,1
+2025-11-07,Majd FC,Al Urooba,0,0
+2025-11-08,Al Thaid,Al Hamriyah,0,0
+2025-11-08,Dubai City,Al-Ittifaq,3,0
+2025-11-22,Gulf United,Dibba Al Hisn,2,0
+2025-11-22,Masfut,Hatta,0,2
+2025-11-23,Al Arabi,Al Fujairah,2,2
+2025-11-23,Al Hamriyah,Dubai City,0,1
+2025-11-23,Al Urooba,Al Jazira Hamra,3,1
+2025-11-23,Al-Ittifaq,Majd FC,3,2
+2025-11-23,United FC,Emirates Club,2,0
+2025-11-29,Dibba Al Hisn,Masfut,2,0
+2025-11-29,Emirates Club,Gulf United,0,1
+2025-11-29,Hatta,Al Arabi,0,0
+2025-11-30,Al Fujairah,Al Urooba,0,2
+2025-11-30,Al Jazira Hamra,Al-Ittifaq,4,0
+2025-11-30,Dubai City,Al Thaid,0,1
+2025-11-30,Majd FC,Al Hamriyah,1,2
+2025-12-05,Majd FC,United FC,0,2
+2025-12-06,Al Fujairah,Dibba Al Hisn,3,2
+2025-12-13,Al Fujairah,United FC,4,2
+2025-12-13,Al Hamriyah,Al-Ittifaq,1,0
+2025-12-19,Al Arabi,Dibba Al Hisn,0,3
+2025-12-19,Masfut,Emirates Club,0,1
+2025-12-20,Al Hamriyah,Al Jazira Hamra,0,1
+2025-12-20,Al Thaid,Majd FC,1,1
+2025-12-20,Al Urooba,Hatta,1,1
+2025-12-20,Al-Ittifaq,Al Fujairah,1,3
+2025-12-20,Gulf United,United FC,1,3
+2025-12-26,Al Fujairah,Al Hamriyah,1,0
+2025-12-26,Al Jazira Hamra,Al Thaid,0,4
+2025-12-26,Dibba Al Hisn,Al Urooba,0,2
+2025-12-26,Emirates Club,Al Arabi,0,0
+2025-12-26,Hatta,Al-Ittifaq,0,1
+2025-12-26,Majd FC,Dubai City,1,1
+2025-12-26,United FC,Masfut,0,0
+2025-12-30,Al Hamriyah,Al Arabi,2,3
+2025-12-30,Al-Ittifaq,Al Urooba,0,2
+2026-01-03,Dubai City,Al Jazira Hamra,3,2
+2026-01-03,Masfut,Gulf United,0,2
+2026-01-04,Al Arabi,United FC,1,2
+2026-01-04,Al Hamriyah,Hatta,4,5
+2026-01-04,Al Thaid,Al Fujairah,1,1
+2026-01-04,Al Urooba,Emirates Club,2,0
+2026-01-04,Al-Ittifaq,Dibba Al Hisn,0,3
+2026-01-11,Al-Ittifaq,United FC,2,3
+2026-01-23,Al Fujairah,Dubai City,2,1
+2026-01-23,Al Jazira Hamra,Majd FC,2,3
+2026-01-23,Dibba Al Hisn,Al Hamriyah,3,3
+2026-01-23,Hatta,Al Thaid,1,2
+2026-01-24,Emirates Club,Al-Ittifaq,3,2
+2026-01-24,Gulf United,Al Arabi,2,3
+2026-01-24,United FC,Al Urooba,2,1
+2026-01-29,Al Hamriyah,Emirates Club,0,0
+2026-01-29,Al Thaid,Dibba Al Hisn,1,1
+2026-01-29,Dubai City,Hatta,0,5
+2026-01-29,Majd FC,Al Fujairah,0,0
+2026-01-30,Al Arabi,Masfut,5,2
+2026-01-30,Al Urooba,Gulf United,2,0
+2026-02-06,Gulf United,Al-Ittifaq,1,3
+2026-02-06,Masfut,Al Urooba,0,1
+2026-02-06,United FC,Al Hamriyah,1,0
+2026-02-07,Al Fujairah,Al Jazira Hamra,1,1
+2026-02-07,Dibba Al Hisn,Dubai City,4,1
+2026-02-07,Emirates Club,Al Thaid,2,2
+2026-02-07,Hatta,Majd FC,1,0
+2026-02-15,Emirates Club,Dubai City,1,0
+2026-02-15,Hatta,Al Jazira Hamra,2,1
+2026-02-16,Al Arabi,Al Urooba,2,1
+2026-02-16,Gulf United,Al Hamriyah,1,1
+2026-02-16,Majd FC,Dibba Al Hisn,0,4
+2026-02-16,Masfut,Al-Ittifaq,3,2
+2026-02-16,United FC,Al Thaid,1,1
+2026-02-20,Al Hamriyah,Masfut,1,3
+2026-02-20,Al Thaid,Gulf United,3,1
+2026-02-20,Al-Ittifaq,Al Arabi,1,3
+2026-02-21,Al Fujairah,Hatta,1,0
+2026-02-21,Al Jazira Hamra,Dibba Al Hisn,1,2
+2026-02-21,Dubai City,United FC,1,2
+2026-02-21,Majd FC,Emirates Club,1,2
+2026-02-26,Al Arabi,Al Hamriyah,2,2
+2026-02-26,Al Urooba,Al-Ittifaq,1,0
+2026-02-26,Dibba Al Hisn,Al Fujairah,3,0
+2026-02-26,Emirates Club,Al Jazira Hamra,0,2
+2026-02-26,Gulf United,Dubai City,3,1
+2026-02-26,Masfut,Al Thaid,1,2
+2026-02-26,United FC,Majd FC,3,0
+2026-03-06,Majd FC,Gulf United,4,1
+2026-03-07,Al Fujairah,Emirates Club,2,2
+2026-03-07,Al Hamriyah,Al Urooba,0,1
+2026-03-07,Al Jazira Hamra,United FC,1,3
+2026-03-07,Al Thaid,Al Arabi,2,1
+2026-03-07,Hatta,Dibba Al Hisn,3,2
+2026-03-08,Dubai City,Masfut,0,1
+2026-03-15,Al Arabi,Dubai City,1,2
+2026-03-15,Al Urooba,Al Thaid,2,1
+2026-03-15,Al-Ittifaq,Al Hamriyah,0,0
+2026-03-15,Emirates Club,Hatta,1,3
+2026-03-15,Gulf United,Al Jazira Hamra,0,0
+2026-03-15,Masfut,Majd FC,1,1
+2026-03-15,United FC,Al Fujairah,2,1
+2026-03-22,Al Fujairah,Gulf United,4,3
+2026-03-22,Al Jazira Hamra,Masfut,2,2
+2026-03-22,Al Thaid,Al-Ittifaq,1,0
+2026-03-22,Dibba Al Hisn,Emirates Club,2,3
+2026-03-22,Dubai City,Al Urooba,1,0
+2026-03-22,Majd FC,Al Arabi,1,4
+2026-04-04,Masfut,Al Fujairah,2,2
+2026-04-04,United FC,Dibba Al Hisn,0,0
+2026-04-05,Al Arabi,Al Jazira Hamra,2,1
+2026-04-05,Al Hamriyah,Al Thaid,1,1
+2026-04-05,Al Urooba,Majd FC,4,2
+2026-04-05,Al-Ittifaq,Dubai City,4,2
+2026-04-05,Gulf United,Hatta,0,1
+2026-04-11,Al Fujairah,Al Arabi,0,1
+2026-04-11,Dibba Al Hisn,Gulf United,3,0
+2026-04-11,Emirates Club,United FC,1,2
+2026-04-11,Hatta,Masfut,3,0
+2026-04-11,Majd FC,Al-Ittifaq,0,5
+2026-04-12,Al Jazira Hamra,Al Urooba,0,2
+2026-04-12,Dubai City,Al Hamriyah,0,5
+2026-04-15,Hatta,United FC,3,1
+2026-04-18,Al Hamriyah,Majd FC,3,2
+2026-04-18,Al Thaid,Dubai City,1,0
+2026-04-18,Al-Ittifaq,Al Jazira Hamra,2,1
+2026-04-19,Al Arabi,Hatta,2,1
+2026-04-19,Al Urooba,Al Fujairah,1,0
+2026-04-19,Gulf United,Emirates Club,1,1
+2026-04-19,Masfut,Dibba Al Hisn,0,4
+2026-04-24,Al Fujairah,Al-Ittifaq,4,3
+2026-04-24,Al Jazira Hamra,Al Hamriyah,1,5
+2026-04-24,Dibba Al Hisn,Al Arabi,1,0
+2026-04-24,Emirates Club,Masfut,4,0
+2026-04-24,Majd FC,Al Thaid,1,3
+2026-04-24,United FC,Gulf United,2,1
+2026-04-29,Hatta,Al Urooba,1,1
+2026-05-03,Al Arabi,Emirates Club,1,0
+2026-05-03,Al Hamriyah,Al Fujairah,3,2
+2026-05-03,Al Thaid,Al Jazira Hamra,1,0
+2026-05-03,Al Urooba,Dibba Al Hisn,1,0
+2026-05-03,Al-Ittifaq,Hatta,1,4
+2026-05-03,Dubai City,Majd FC,0,3
+2026-05-03,Masfut,United FC,0,2
+2026-05-10,Al Fujairah,Al Thaid,0,0
+2026-05-10,Al Jazira Hamra,Dubai City,4,3
+2026-05-10,Dibba Al Hisn,Al-Ittifaq,2,2
+2026-05-10,Emirates Club,Al Urooba,0,2
+2026-05-10,Gulf United,Masfut,4,2
+2026-05-10,Hatta,Al Hamriyah,1,0
+2026-05-10,United FC,Al Arabi,2,0
+2026-05-15,Al Arabi,Gulf United,2,1
+2026-05-15,Al Hamriyah,Dibba Al Hisn,0,1
+2026-05-15,Al Thaid,Hatta,0,4
+2026-05-15,Al Urooba,United FC,0,0
+2026-05-15,Al-Ittifaq,Emirates Club,2,4
+2026-05-15,Dubai City,Al Fujairah,1,1
+2026-05-15,Majd FC,Al Jazira Hamra,0,0
+2026-05-23,Al Fujairah,Majd FC,0,2
+2026-05-23,Dibba Al Hisn,Al Thaid,3,1
+2026-05-23,Emirates Club,Al Hamriyah,0,3
+2026-05-23,Gulf United,Al Urooba,0,1
+2026-05-23,Hatta,Dubai City,3,0
+2026-05-23,Masfut,Al Arabi,2,1
+2026-05-23,United FC,Al-Ittifaq,1,1
+2026-05-29,Al Hamriyah,United FC,2,0
+2026-05-29,Al Jazira Hamra,Al Fujairah,3,1
+2026-05-29,Al Thaid,Emirates Club,1,2
+2026-05-29,Al Urooba,Masfut,2,1
+2026-05-29,Al-Ittifaq,Gulf United,1,0
+2026-05-29,Dubai City,Dibba Al Hisn,0,2
+2026-05-29,Majd FC,Hatta,1,3
