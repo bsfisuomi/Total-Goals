@@ -91,6 +91,26 @@ LEAGUES = {
         "files": [_p("Poland", "III Liga Grupp 3", "2025.csv"), _p("Poland", "III Liga Grupp 3", "2026.csv")],
         "season_start": "2026-06-01",
     },
+    "germany-regionalliga-north": {
+        "files": [_p("Germany", "Regionalliga North", "2025-26.csv"), _p("Germany", "Regionalliga North", "2026-27.csv")],
+        "season_start": "2026-07-01",
+    },
+    "germany-regionalliga-west": {
+        "files": [_p("Germany", "Regionalliga West", "2025-26.csv"), _p("Germany", "Regionalliga West", "2026-27.csv")],
+        "season_start": "2026-07-01",
+    },
+    "germany-regionalliga-sudwest": {
+        "files": [_p("Germany", "Regionalliga Sudwest", "2025-26.csv"), _p("Germany", "Regionalliga Sudwest", "2026-27.csv")],
+        "season_start": "2026-07-01",
+    },
+    "germany-regionalliga-nordost": {
+        "files": [_p("Germany", "Regionalliga Nordost", "2025-26.csv"), _p("Germany", "Regionalliga Nordost", "2026-27.csv")],
+        "season_start": "2026-07-01",
+    },
+    "germany-regionalliga-bayern": {
+        "files": [_p("Germany", "Regionalliga Bayern", "2025-26.csv"), _p("Germany", "Regionalliga Bayern", "2026-27.csv")],
+        "season_start": "2026-07-01",
+    },
     "sweden-norra": {
         "files": [_p("Sweden", "Ettan Norra", "2026.csv")],
         "season_start": "2026-04-03",  # hela filen ar en sasong - "fler an
