@@ -47,62 +47,53 @@ API_BASE = "https://api.odds-api.io/v3"
 # ligorna. Vi loser det genom att normalisera lagnamn mot BADA CSV:erna
 # (se resolve_team) istallet for att lita pa taggen.
 #
-# OBS - BEST GUESS / OVERIFIERAT (galler alla rader nedan utom de tre
-# forsta, poland/sweden-norra/sweden-sodra, som ar bekraftat korrekta
-# sedan tidigare). odds-api.io:s /leagues-endpoint gar INTE att na fran
-# den har sandladan (natverksfilter + robots.txt pa api.odds-api.io), sa
-# nedanstaende slugs ar harledda fran det monster som ar bekraftat i
-# dokumentationen (t.ex. "England - Premier League" -> slug
-# "england-premier-league", dvs. "<land>-<liganamn>" i kebab-case) samt
-# fran de tre redan bekraftade exemplen ovan. Skriptet hoppar tyst over
-# matcher/ligor dar sluggen inte hittar nagot (se scan_league() ovan) -
-# sa en felaktig gissning ger bara 0 traffar for den ligan, inget fel.
-#
-# Kor "python3 verify_slugs.py" (se separat fil) fran en miljo med
-# riktig natverksatkomst for att lista de FAKTISKA sluggarna fran
-# /leagues och rata dessa gissningar mot verkligheten innan ni litar
-# helt pa t.ex. Slovakien/Slovenien/Skottland-raderna.
+# Verifierat 2026-09-30 mot odds-api.io:s faktiska /leagues-lista (884
+# fotbollsligor, se verify_slugs.py) - alla slugs nedan ar bekraftat
+# korrekta UTOM scotland-lowland, som saknas helt hos odds-api.io (ingen
+# traff, inte ens pa fritextsokning efter "scotland") - den ligan gar
+# alltsa inte att skanna mot Bet365 via den har tjansten, listan lamnas
+# tom sa skriptet bara hoppar over den (ger 0 traffar, inget fel).
 LEAGUE_SLUGS = {
     "poland": ["poland-ii-liga"],
     "sweden-norra": ["sweden-ettan-norra", "sweden-ettan-sodra"],
     "sweden-sodra": ["sweden-ettan-norra", "sweden-ettan-sodra"],
 
-    "poland-i-liga": ["poland-i-liga"],
-    "poland-iii-liga-1": ["poland-iii-liga-group-1", "poland-iii-liga-1"],
-    "poland-iii-liga-2": ["poland-iii-liga-group-2", "poland-iii-liga-2"],
-    "poland-iii-liga-3": ["poland-iii-liga-group-3", "poland-iii-liga-3"],
+    "poland-i-liga": ["poland-1-liga"],
+    "poland-iii-liga-1": ["poland-iii-liga-group-1"],
+    "poland-iii-liga-2": ["poland-iii-liga-group-2"],
+    "poland-iii-liga-3": ["poland-iii-liga-group-3"],
 
     "germany-3-liga": ["germany-3-liga"],
-    "germany-regionalliga-nord": ["germany-regionalliga-nord"],
-    "germany-regionalliga-west": ["germany-regionalliga-west"],
-    "germany-regionalliga-sudwest": ["germany-regionalliga-sudwest"],
-    "germany-regionalliga-nordost": ["germany-regionalliga-nordost"],
-    "germany-regionalliga-bayern": ["germany-regionalliga-bayern"],
+    "germany-regionalliga-nord": ["germany-amateur-regionalliga-north"],
+    "germany-regionalliga-west": ["germany-amateur-regionalliga-west"],
+    "germany-regionalliga-sudwest": ["germany-amateur-regionalliga-southwest"],
+    "germany-regionalliga-nordost": ["germany-amateur-regionalliga-northeast"],
+    "germany-regionalliga-bayern": ["germany-amateur-regionalliga-bavaria"],
 
-    "wales-cymru-premier": ["wales-cymru-premier", "wales-premier-league"],
-    "wales-cymru-north": ["wales-cymru-north", "wales-cymru-north-league"],
-    "wales-cymru-south": ["wales-cymru-south", "wales-cymru-south-league"],
+    "wales-cymru-premier": ["wales-cymru-premier"],
+    "wales-cymru-north": ["wales-cymru-championship-north"],
+    "wales-cymru-south": ["wales-cymru-championship-south"],
 
-    "japan-j1": ["japan-j1-league", "japan-j-league"],
+    "japan-j1": ["japan-jleague"],
 
-    "uae-league": ["uae-pro-league", "united-arab-emirates-pro-league"],
-    "uae-division-1": ["uae-division-1", "uae-first-division"],
+    "uae-league": ["united-arab-emirates-pro-league"],
+    "uae-division-1": ["united-arab-emirates-division-1"],
 
     "scotland-premiership": ["scotland-premiership"],
     "scotland-championship": ["scotland-championship"],
     "scotland-league-one": ["scotland-league-one"],
     "scotland-league-two": ["scotland-league-two"],
     "scotland-highland": ["scotland-highland-league"],
-    "scotland-lowland": ["scotland-lowland-league"],
+    "scotland-lowland": [],  # saknas hos odds-api.io, gar inte att skanna
 
-    "slovakia-nike-liga": ["slovakia-nike-liga", "slovakia-super-liga"],
+    "slovakia-nike-liga": ["slovakia-superliga"],
     "slovakia-2-liga": ["slovakia-2-liga"],
-    "slovakia-3-liga-central": ["slovakia-3-liga-central"],
+    "slovakia-3-liga-central": ["slovakia-3-liga-center"],
     "slovakia-3-liga-east": ["slovakia-3-liga-east"],
     "slovakia-3-liga-west": ["slovakia-3-liga-west"],
 
-    "slovenia-prva-liga": ["slovenia-prva-liga"],
-    "slovenia-2-snl": ["slovenia-2-snl"],
+    "slovenia-prva-liga": ["slovenia-prvaliga"],
+    "slovenia-2-snl": ["slovenia-2nd-snl"],
     "slovenia-3-snl-east": ["slovenia-3-snl-east"],
     "slovenia-3-snl-west": ["slovenia-3-snl-west"],
 }
