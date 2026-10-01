@@ -471,11 +471,18 @@ def scan_league(league_key, min_ev=MIN_EV):
         odds_data = get_event_odds(ev["id"])
         bet365 = odds_data.get("bookmakers", {}).get("Bet365")
         if not bet365:
+            print(f"     (ingen Bet365-data alls an: {ev['home']} - {ev['away']})", file=sys.stderr)
             continue
 
         ml = next((m for m in bet365 if m["name"] == "ML"), None)
         totals = next((m for m in bet365 if m["name"] == "Totals"), None)
         if not ml or not totals:
+            saknas = []
+            if not ml:
+                saknas.append("ML (1X2)")
+            if not totals:
+                saknas.append("Totals (Goal Line)")
+            print(f"     (Bet365 har data, men saknar {' och '.join(saknas)} an: {ev['home']} - {ev['away']} — marknader som FINNS: {[m['name'] for m in bet365]})", file=sys.stderr)
             continue
         n_with_odds += 1
 
