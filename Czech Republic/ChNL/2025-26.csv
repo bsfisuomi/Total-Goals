@@ -1,0 +1,241 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-07-18,Ceske Budejovice,Brno,0,2,4.28,3.80,1.67
+2025-07-18,Pribram,Opava,0,1,2.47,3.24,2.59
+2025-07-18,Sparta Prague B,Ostrava B,0,1,2.27,3.32,2.82
+2025-07-18,Usti nad Labem,Jihlava,2,1,1.84,3.50,3.71
+2025-07-18,Vlasim,Slavia Prague B,0,1,2.46,3.38,2.50
+2025-07-19,Kromeriz,Zizkov,1,2,1.99,3.56,3.18
+2025-07-19,Taborsko,Prostejov,1,0,1.66,3.55,4.73
+2025-07-25,Brno,Sparta Prague B,3,0,1.36,4.63,6.79
+2025-07-25,Jihlava,Taborsko,0,2,2.89,3.15,2.29
+2025-07-25,Prostejov,Chrudim,3,1,2.06,3.26,3.28
+2025-07-25,Usti nad Labem,Vlasim,4,1,1.51,4.73,6.53
+2025-07-26,Opava,Ceske Budejovice,3,0,1.66,3.69,4.54
+2025-07-27,Slavia Prague B,Artis Brno,1,2,2.63,3.48,2.33
+2025-07-27,Zizkov,Pribram,2,0,1.79,3.68,3.79
+2025-07-30,Artis Brno,Jihlava,0,3,1.34,4.49,8.49
+2025-07-30,Ceske Budejovice,Ostrava B,2,2,2.44,3.26,2.64
+2025-07-30,Chrudim,Zizkov,3,2,2.93,3.38,2.16
+2025-07-30,Kromeriz,Usti nad Labem,2,3,3.27,3.72,1.92
+2025-07-30,Pribram,Brno,2,7,6.16,4.26,1.43
+2025-07-30,Prostejov,Opava,0,0,2.70,3.03,2.52
+2025-07-30,Sparta Prague B,Slavia Prague B,1,0,4.11,3.91,1.68
+2025-07-30,Taborsko,Vlasim,3,1,1.57,3.84,5.02
+2025-08-02,Brno,Taborsko,2,1,1.43,4.10,6.55
+2025-08-02,Opava,Chrudim,3,2,1.62,3.50,5.31
+2025-08-02,Usti nad Labem,Sparta Prague B,3,0,1.40,4.59,6.02
+2025-08-03,Jihlava,Pribram,2,1,1.71,3.70,4.16
+2025-08-03,Ostrava B,Artis Brno,5,0,2.85,3.37,2.23
+2025-08-03,Slavia Prague B,Ceske Budejovice,6,1,1.57,4.02,4.75
+2025-08-03,Vlasim,Kromeriz,5,0,1.91,3.86,3.20
+2025-08-03,Zizkov,Prostejov,1,0,1.77,3.68,3.87
+2025-08-08,Artis Brno,Brno,2,2,4.92,3.91,1.57
+2025-08-08,Ceske Budejovice,Vlasim,0,0,2.14,3.49,2.89
+2025-08-08,Chrudim,Jihlava,1,1,2.60,3.44,2.35
+2025-08-08,Pribram,Usti nad Labem,2,1,3.52,3.76,1.82
+2025-08-08,Prostejov,Slavia Prague B,2,3,2.81,3.32,2.27
+2025-08-08,Sparta Prague B,Kromeriz,1,0,1.67,3.77,4.31
+2025-08-08,Taborsko,Ostrava B,2,3,1.67,3.54,4.64
+2025-08-09,Opava,Zizkov,2,2,1.77,3.45,4.10
+2025-08-16,Brno,Prostejov,1,2,1.18,6.12,12.64
+2025-08-16,Jihlava,Opava,0,0,2.25,3.27,2.91
+2025-08-16,Kromeriz,Taborsko,1,2,3.49,3.40,1.96
+2025-08-16,Zizkov,Ceske Budejovice,0,1,1.58,4.05,4.71
+2025-08-17,Ostrava B,Chrudim,2,2,1.60,3.99,4.62
+2025-08-17,Slavia Prague B,Pribram,1,2,1.55,4.02,5.01
+2025-08-17,Vlasim,Sparta Prague B,1,2,1.94,3.60,3.26
+2025-08-18,Usti nad Labem,Artis Brno,0,2,2.33,3.51,2.62
+2025-08-22,Ceske Budejovice,Sparta Prague B,2,1,2.24,3.35,2.85
+2025-08-22,Chrudim,Brno,0,1,5.97,4.25,1.44
+2025-08-22,Pribram,Ostrava B,2,0,2.74,3.32,2.33
+2025-08-22,Prostejov,Jihlava,0,3,2.13,3.19,3.21
+2025-08-23,Artis Brno,Kromeriz,2,1,1.40,4.60,6.12
+2025-08-23,Opava,Vlasim,3,1,1.63,3.95,4.43
+2025-08-23,Taborsko,Usti nad Labem,2,1,2.18,3.24,3.06
+2025-08-24,Zizkov,Slavia Prague B,1,0,2.39,3.52,2.51
+2025-08-30,Kromeriz,Pribram,1,2,2.17,3.42,2.87
+2025-08-31,Jihlava,Zizkov,0,2,2.14,3.64,2.85
+2025-08-31,Ostrava B,Prostejov,2,0,1.88,3.53,3.65
+2025-08-31,Slavia Prague B,Chrudim,5,0,1.63,4.03,4.29
+2025-08-31,Sparta Prague B,Taborsko,1,3,3.14,3.39,2.09
+2025-08-31,Usti nad Labem,Ceske Budejovice,3,2,1.79,3.87,3.63
+2025-08-31,Vlasim,Artis Brno,0,2,3.26,3.61,1.96
+2025-09-03,Ostrava B,Kromeriz,3,0,1.46,4.40,5.42
+2025-09-12,Ceske Budejovice,Taborsko,1,2,2.99,3.20,2.21
+2025-09-12,Jihlava,Slavia Prague B,0,2,2.18,3.47,2.83
+2025-09-12,Pribram,Vlasim,0,0,2.55,3.44,2.39
+2025-09-12,Prostejov,Kromeriz,3,1,1.81,3.50,3.83
+2025-09-13,Artis Brno,Sparta Prague B,5,0,1.40,4.31,6.67
+2025-09-13,Chrudim,Usti nad Labem,1,1,2.94,3.51,2.11
+2025-09-14,Zizkov,Brno,1,4,4.06,3.78,1.71
+2025-09-15,Opava,Ostrava B,1,0,2.18,3.31,2.99
+2025-09-16,Artis Brno,Chrudim,0,0,1.64,3.38,4.68
+2025-09-19,Usti nad Labem,Prostejov,1,2,1.58,3.89,4.79
+2025-09-19,Vlasim,Chrudim,1,1,1.78,3.60,3.91
+2025-09-20,Brno,Jihlava,2,1,1.31,4.83,7.78
+2025-09-20,Kromeriz,Ceske Budejovice,1,0,2.24,3.52,2.70
+2025-09-20,Taborsko,Artis Brno,0,0,2.41,3.10,2.76
+2025-09-21,Ostrava B,Zizkov,0,2,2.11,3.40,3.03
+2025-09-21,Slavia Prague B,Opava,1,1,2.25,3.28,2.92
+2025-09-26,Jihlava,Ostrava B,2,2,1.91,3.45,3.57
+2025-09-26,Prostejov,Vlasim,1,1,2.20,3.29,2.99
+2025-09-27,Brno,Slavia Prague B,2,1,1.42,4.53,5.90
+2025-09-27,Ceske Budejovice,Artis Brno,0,2,3.22,3.43,2.03
+2025-09-27,Chrudim,Kromeriz,2,1,2.03,3.45,3.17
+2025-09-27,Opava,Sparta Prague B,4,0,1.46,4.25,5.70
+2025-09-28,Zizkov,Usti nad Labem,1,1,2.40,3.49,2.56
+2025-09-29,Pribram,Taborsko,0,3,3.23,3.38,2.07
+2025-10-03,Ceske Budejovice,Pribram,2,0,2.23,3.31,2.88
+2025-10-03,Usti nad Labem,Brno,0,1,3.67,3.85,1.77
+2025-10-04,Artis Brno,Prostejov,3,1,1.54,3.83,5.53
+2025-10-04,Kromeriz,Opava,1,0,4.10,3.78,1.70
+2025-10-04,Taborsko,Zizkov,6,1,1.75,3.61,4.09
+2025-10-05,Ostrava B,Slavia Prague B,1,2,2.20,3.20,3.06
+2025-10-05,Sparta Prague B,Chrudim,2,3,2.08,3.65,2.95
+2025-10-05,Vlasim,Jihlava,3,0,2.18,3.39,2.92
+2025-10-17,Jihlava,Ceske Budejovice,0,1,1.72,3.64,4.10
+2025-10-17,Opava,Usti nad Labem,3,3,1.80,3.66,3.68
+2025-10-17,Pribram,Artis Brno,1,0,3.82,3.49,1.82
+2025-10-17,Prostejov,Sparta Prague B,1,2,2.00,3.49,3.21
+2025-10-18,Brno,Ostrava B,4,1,1.37,4.53,6.91
+2025-10-19,Slavia Prague B,Kromeriz,0,1,1.55,3.93,5.15
+2025-10-19,Zizkov,Vlasim,2,1,1.82,3.62,3.71
+2025-10-20,Chrudim,Taborsko,0,3,3.42,3.24,2.02
+2025-10-21,Sparta Prague B,Pribram,0,1,2.04,3.41,3.20
+2025-10-21,Brno,Opava,0,0,1.59,3.84,4.91
+2025-10-24,Ceske Budejovice,Prostejov,1,0,2.11,3.39,3.09
+2025-10-24,Usti nad Labem,Ostrava B,4,1,1.72,3.75,4.07
+2025-10-25,Kromeriz,Jihlava,0,0,2.40,3.28,2.61
+2025-10-25,Pribram,Chrudim,1,1,2.21,3.30,2.88
+2025-10-25,Taborsko,Slavia Prague B,1,1,1.67,3.76,4.22
+2025-10-26,Sparta Prague B,Zizkov,2,0,2.88,3.54,2.11
+2025-10-26,Vlasim,Brno,0,1,4.79,3.92,1.57
+2025-10-28,Slavia Prague B,Usti nad Labem,2,1,2.42,3.59,2.41
+2025-10-31,Jihlava,Sparta Prague B,4,0,1.80,3.61,3.76
+2025-10-31,Prostejov,Pribram,0,0,2.04,3.21,3.37
+2025-11-01,Brno,Kromeriz,5,2,1.31,4.80,8.10
+2025-11-01,Opava,Taborsko,2,2,2.05,3.21,3.31
+2025-11-02,Ostrava B,Vlasim,1,0,2.03,3.45,3.16
+2025-11-02,Zizkov,Artis Brno,0,4,2.69,3.40,2.30
+2025-11-03,Chrudim,Ceske Budejovice,0,4,2.16,3.40,2.91
+2025-11-07,Ceske Budejovice,Opava,0,1,2.98,3.27,2.21
+2025-11-07,Pribram,Zizkov,1,0,2.52,3.25,2.56
+2025-11-07,Taborsko,Jihlava,2,0,1.70,3.63,4.42
+2025-11-08,Artis Brno,Slavia Prague B,2,1,1.69,3.66,4.44
+2025-11-08,Chrudim,Prostejov,2,2,2.12,3.28,3.13
+2025-11-08,Kromeriz,Ostrava B,0,2,2.36,3.37,2.68
+2025-11-09,Sparta Prague B,Brno,0,3,5.60,4.10,1.48
+2025-11-09,Vlasim,Usti nad Labem,7,2,2.51,3.48,2.45
+2026-02-21,Artis Brno,Opava,3,3,1.78,3.41,4.15
+2026-02-27,Jihlava,Artis Brno,1,1,3.62,3.29,1.91
+2026-02-27,Usti nad Labem,Kromeriz,0,1,1.67,3.79,4.28
+2026-02-28,Brno,Pribram,1,0,1.31,4.95,7.67
+2026-02-28,Opava,Prostejov,2,1,1.49,3.89,5.94
+2026-02-28,Slavia Prague B,Sparta Prague B,2,2,1.49,4.32,5.15
+2026-03-01,Ostrava B,Ceske Budejovice,2,0,1.63,3.58,4.97
+2026-03-01,Vlasim,Taborsko,2,1,2.74,3.28,2.34
+2026-03-01,Zizkov,Chrudim,2,1,1.82,3.51,3.83
+2026-03-06,Pribram,Jihlava,1,1,2.32,3.12,2.89
+2026-03-06,Prostejov,Zizkov,2,2,2.77,3.27,2.32
+2026-03-07,Artis Brno,Ostrava B,1,0,1.60,3.65,5.04
+2026-03-07,Ceske Budejovice,Slavia Prague B,2,0,2.82,3.33,2.26
+2026-03-07,Chrudim,Opava,0,2,3.45,3.30,1.99
+2026-03-07,Kromeriz,Vlasim,0,1,2.27,3.23,2.88
+2026-03-08,Sparta Prague B,Usti nad Labem,0,2,2.78,3.61,2.17
+2026-03-08,Taborsko,Brno,0,1,3.32,3.13,2.09
+2026-03-13,Jihlava,Chrudim,0,1,1.91,3.43,3.57
+2026-03-13,Usti nad Labem,Pribram,0,2,1.82,3.52,3.80
+2026-03-14,Kromeriz,Sparta Prague B,2,1,1.66,3.70,4.56
+2026-03-15,Ostrava B,Taborsko,0,1,1.74,3.54,4.15
+2026-03-15,Slavia Prague B,Prostejov,1,1,1.44,4.20,5.91
+2026-03-15,Vlasim,Ceske Budejovice,1,1,1.74,3.54,4.16
+2026-03-15,Zizkov,Opava,1,0,2.81,3.18,2.33
+2026-03-16,Brno,Artis Brno,2,0,1.95,3.31,3.54
+2026-03-20,Ceske Budejovice,Zizkov,0,2,2.91,3.27,2.23
+2026-03-20,Pribram,Slavia Prague B,1,0,2.48,3.63,2.39
+2026-03-20,Prostejov,Brno,1,2,6.03,4.06,1.46
+2026-03-20,Sparta Prague B,Vlasim,0,1,2.28,3.42,2.73
+2026-03-21,Artis Brno,Usti nad Labem,1,3,1.63,3.81,4.50
+2026-03-21,Chrudim,Ostrava B,3,1,3.82,3.53,1.81
+2026-03-21,Opava,Jihlava,3,1,1.57,3.70,5.27
+2026-03-21,Taborsko,Kromeriz,1,2,1.51,3.94,5.43
+2026-04-03,Jihlava,Prostejov,1,1,1.95,3.30,3.59
+2026-04-03,Usti nad Labem,Taborsko,4,0,2.23,3.44,2.79
+2026-04-03,Vlasim,Opava,2,0,2.85,3.27,2.26
+2026-04-04,Brno,Chrudim,2,0,1.28,5.18,8.41
+2026-04-04,Kromeriz,Artis Brno,1,2,3.80,3.52,1.82
+2026-04-04,Ostrava B,Pribram,0,3,1.92,3.45,3.51
+2026-04-05,Slavia Prague B,Zizkov,2,2,2.28,3.43,2.72
+2026-04-05,Sparta Prague B,Ceske Budejovice,0,1,2.38,3.25,2.71
+2026-04-10,Ceske Budejovice,Usti nad Labem,1,2,3.13,3.49,2.04
+2026-04-10,Chrudim,Slavia Prague B,6,1,2.49,3.53,2.42
+2026-04-10,Pribram,Kromeriz,0,2,1.85,3.59,3.62
+2026-04-10,Prostejov,Ostrava B,1,3,2.47,3.23,2.61
+2026-04-10,Taborsko,Sparta Prague B,1,1,1.34,4.60,7.87
+2026-04-11,Artis Brno,Vlasim,1,3,1.59,3.87,4.81
+2026-04-11,Opava,Brno,4,0,3.21,3.21,2.10
+2026-04-12,Zizkov,Jihlava,2,1,1.87,3.60,3.54
+2026-04-15,Brno,Zizkov,1,0,1.27,5.11,9.31
+2026-04-15,Kromeriz,Prostejov,0,0,1.74,3.57,4.17
+2026-04-15,Ostrava B,Opava,2,0,2.75,3.30,2.33
+2026-04-15,Slavia Prague B,Jihlava,1,0,2.09,3.60,2.95
+2026-04-15,Sparta Prague B,Artis Brno,1,3,5.04,4.13,1.54
+2026-04-15,Taborsko,Ceske Budejovice,1,0,1.52,3.87,5.56
+2026-04-15,Usti nad Labem,Chrudim,1,0,1.61,4.05,4.41
+2026-04-15,Vlasim,Pribram,0,0,1.97,3.40,3.42
+2026-04-18,Chrudim,Vlasim,0,2,2.34,3.47,2.58
+2026-04-18,Pribram,Sparta Prague B,2,0,1.66,3.58,4.70
+2026-04-18,Prostejov,Usti nad Labem,2,1,2.73,3.52,2.25
+2026-04-19,Ceske Budejovice,Kromeriz,1,0,2.60,3.14,2.52
+2026-04-19,Jihlava,Brno,1,2,11.76,4.11,1.60
+2026-04-19,Opava,Slavia Prague B,1,2,1.46,4.08,6.30
+2026-04-19,Zizkov,Ostrava B,2,2,2.15,3.49,2.88
+2026-04-20,Artis Brno,Taborsko,1,1,1.73,3.41,4.39
+2026-04-24,Usti nad Labem,Zizkov,3,0,1.89,3.64,3.40
+2026-04-24,Vlasim,Prostejov,1,1,1.60,3.80,4.76
+2026-04-25,Artis Brno,Ceske Budejovice,2,1,1.31,5.61,18.21
+2026-04-25,Kromeriz,Chrudim,1,0,1.90,3.40,3.64
+2026-04-25,Taborsko,Pribram,2,1,1.69,4.30,10.92
+2026-04-26,Ostrava B,Jihlava,2,1,2.00,3.34,3.35
+2026-04-26,Slavia Prague B,Brno,0,1,4.27,3.66,1.69
+2026-04-26,Sparta Prague B,Opava,0,0,4.47,3.73,1.65
+2026-05-01,Jihlava,Vlasim,1,1,1.94,3.47,3.38
+2026-05-01,Pribram,Ceske Budejovice,2,1,1.78,3.63,3.82
+2026-05-01,Prostejov,Artis Brno,1,1,5.15,3.86,1.54
+2026-05-02,Brno,Usti nad Labem,3,0,1.49,4.04,5.56
+2026-05-02,Chrudim,Sparta Prague B,2,2,1.82,3.71,3.60
+2026-05-02,Opava,Kromeriz,2,2,1.56,3.87,5.09
+2026-05-03,Slavia Prague B,Ostrava B,0,3,2.34,3.57,2.57
+2026-05-03,Zizkov,Taborsko,3,1,3.15,3.52,2.01
+2026-05-06,Artis Brno,Pribram,0,2,1.68,3.76,4.23
+2026-05-06,Ceske Budejovice,Jihlava,3,1,2.88,3.41,2.20
+2026-05-06,Kromeriz,Slavia Prague B,5,0,1.79,3.65,3.79
+2026-05-06,Ostrava B,Brno,1,1,3.97,3.69,1.75
+2026-05-06,Sparta Prague B,Prostejov,5,1,2.07,3.54,3.02
+2026-05-06,Taborsko,Chrudim,2,0,1.57,3.90,5.00
+2026-05-06,Usti nad Labem,Opava,2,1,2.48,3.55,2.44
+2026-05-06,Vlasim,Zizkov,3,1,2.19,3.48,2.83
+2026-05-09,Prostejov,Ceske Budejovice,1,1,1.92,3.48,3.45
+2026-05-10,Brno,Vlasim,1,0,1.44,4.28,5.87
+2026-05-10,Jihlava,Kromeriz,1,0,2.08,3.46,3.04
+2026-05-10,Ostrava B,Usti nad Labem,1,2,1.84,3.71,3.49
+2026-05-10,Slavia Prague B,Taborsko,2,1,2.50,3.43,2.41
+2026-05-10,Zizkov,Sparta Prague B,0,3,2.35,3.60,2.51
+2026-05-11,Opava,Artis Brno,0,2,1.94,3.45,3.44
+2026-05-12,Chrudim,Pribram,2,0,2.66,3.50,2.28
+2026-05-16,Artis Brno,Zizkov,5,1,1.44,4.25,5.82
+2026-05-16,Ceske Budejovice,Chrudim,1,2,2.39,3.46,2.54
+2026-05-16,Kromeriz,Brno,1,1,4.39,3.59,1.71
+2026-05-16,Pribram,Prostejov,0,0,1.72,3.82,3.93
+2026-05-16,Sparta Prague B,Jihlava,0,2,2.01,3.53,3.20
+2026-05-16,Taborsko,Opava,1,0,2.20,3.35,2.88
+2026-05-16,Usti nad Labem,Slavia Prague B,2,1,1.50,4.37,4.92
+2026-05-16,Vlasim,Ostrava B,0,1,2.00,3.56,3.12
+2026-05-23,Brno,Ceske Budejovice,4,1,1.21,5.79,10.09
+2026-05-23,Chrudim,Artis Brno,2,1,3.91,3.74,1.73
+2026-05-23,Jihlava,Usti nad Labem,3,1,1.58,4.06,4.51
+2026-05-23,Opava,Pribram,0,0,1.84,3.60,3.60
+2026-05-23,Ostrava B,Sparta Prague B,1,0,1.94,4.06,11.31
+2026-05-23,Prostejov,Taborsko,2,1,2.20,3.44,2.82
+2026-05-23,Slavia Prague B,Vlasim,3,2,2.41,3.70,2.41
+2026-05-23,Zizkov,Kromeriz,1,2,1.52,4.47,4.67

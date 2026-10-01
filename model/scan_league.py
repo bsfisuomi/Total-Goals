@@ -87,6 +87,7 @@ LEAGUE_SLUGS = {
     "japan-j2": ["japan-jleague-2"],
 
     "czech-chance-liga": ["czech-republic-chance-liga"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-chnl": ["czech-republic-chnl"],  # OBS: gissad slug, ej verifierad mot /leagues
 
     "uae-league": ["united-arab-emirates-pro-league"],
     "uae-division-1": ["united-arab-emirates-division-1"],

@@ -1,0 +1,73 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2026-07-24,Dukla Prague,FK Ceska Lipa,2,0,1.64,3.83,4.44
+2026-07-24,Jihlava,Zizkov,1,0,1.93,3.54,3.41
+2026-07-24,Kromeriz,Taborsko,0,0,2.14,3.31,3.05
+2026-07-24,Prostejov,Trinec,1,1,1.87,3.45,3.70
+2026-07-24,Usti nad Labem,SK Kladno,2,1,1.64,3.74,4.52
+2026-07-26,Ostrava B,Vlasim,2,2,1.89,3.56,3.46
+2026-07-26,Slavia Prague B,Pribram,2,2,2.14,3.29,3.05
+2026-07-27,Opava,Karvina,2,0,2.81,3.41,2.24
+2026-07-31,Karvina,Vlasim,1,0,1.72,3.90,3.87
+2026-07-31,Pribram,Opava,1,0,2.35,3.06,2.92
+2026-07-31,SK Kladno,Ostrava B,1,0,2.50,3.35,2.50
+2026-07-31,Taborsko,Dukla Prague,2,2,2.51,3.24,2.56
+2026-07-31,Zizkov,Prostejov,1,0,1.98,3.45,3.27
+2026-08-01,Kromeriz,Usti nad Labem,0,2,2.21,3.30,2.90
+2026-08-01,Trinec,Jihlava,0,0,2.70,3.32,2.33
+2026-08-02,FK Ceska Lipa,Slavia Prague B,1,1,2.23,3.42,2.79
+2026-08-07,Dukla Prague,Kromeriz,2,0,1.64,3.53,4.88
+2026-08-07,Jihlava,Pribram,1,2,1.83,3.40,3.86
+2026-08-07,Opava,SK Kladno,1,1,1.65,3.79,4.36
+2026-08-07,Prostejov,Karvina,1,2,4.21,3.53,1.73
+2026-08-07,Slavia Prague B,Trinec,3,2,1.74,3.68,4.03
+2026-08-07,Usti nad Labem,FK Ceska Lipa,3,3,1.74,3.64,4.03
+2026-08-07,Vlasim,Zizkov,4,1,1.85,3.58,3.56
+2026-08-09,Ostrava B,Taborsko,1,2,2.34,3.23,2.76
+2026-08-14,Dukla Prague,Slavia Prague B,1,3,1.64,3.80,4.35
+2026-08-14,SK Kladno,Vlasim,1,1,2.45,3.40,2.50
+2026-08-15,FK Ceska Lipa,Karvina,2,5,3.81,3.62,1.78
+2026-08-15,Kromeriz,Jihlava,0,4,2.77,3.18,2.36
+2026-08-15,Pribram,Prostejov,2,2,1.90,3.23,3.75
+2026-08-15,Taborsko,Opava,3,0,2.09,3.19,3.24
+2026-08-16,Zizkov,Ostrava B,1,4,2.37,3.41,2.58
+2026-08-17,Trinec,Usti nad Labem,0,0,2.80,3.68,2.13
+2026-08-21,Jihlava,Taborsko,0,1,2.12,3.34,3.06
+2026-08-21,Karvina,Zizkov,3,0,1.35,4.99,6.80
+2026-08-21,Opava,Trinec,2,2,1.82,3.35,4.07
+2026-08-21,Prostejov,SK Kladno,3,1,2.19,3.29,2.96
+2026-08-21,Usti nad Labem,Dukla Prague,3,1,2.30,3.47,2.64
+2026-08-21,Vlasim,Pribram,2,2,2.06,3.34,3.22
+2026-08-23,Ostrava B,FK Ceska Lipa,0,1,1.66,4.05,4.05
+2026-08-23,Slavia Prague B,Kromeriz,4,1,1.54,4.09,4.83
+2026-08-28,Dukla Prague,Jihlava,3,1,1.97,3.28,3.50
+2026-08-29,FK Ceska Lipa,Vlasim,2,1,2.32,3.55,2.57
+2026-08-29,Kromeriz,Prostejov,2,1,2.12,3.20,3.18
+2026-08-29,Pribram,Karvina,2,1,3.22,3.47,1.98
+2026-08-29,Taborsko,Usti nad Labem,0,1,2.12,3.35,3.02
+2026-08-29,Trinec,Ostrava B,1,4,2.46,3.34,2.53
+2026-08-30,SK Kladno,Zizkov,3,0,2.19,3.52,2.77
+2026-08-30,Slavia Prague B,Opava,3,3,2.04,3.44,3.10
+2026-09-04,Jihlava,FK Ceska Lipa,2,0,1.74,3.57,4.06
+2026-09-04,Karvina,SK Kladno,2,0,1.34,4.85,6.81
+2026-09-04,Prostejov,Taborsko,1,1,2.78,3.09,2.40
+2026-09-04,Usti nad Labem,Slavia Prague B,1,1,1.96,3.74,3.10
+2026-09-04,Vlasim,Trinec,2,1,1.64,3.78,4.45
+2026-09-05,Opava,Dukla Prague,1,2,2.44,3.19,2.65
+2026-09-06,Ostrava B,Kromeriz,1,1,1.61,3.92,4.48
+2026-09-06,Zizkov,Pribram,1,1,2.10,3.37,3.06
+2026-09-11,Dukla Prague,Vlasim,3,1,1.77,3.61,3.85
+2026-09-11,Pribram,Ostrava B,1,3,2.17,3.38,2.89
+2026-09-11,Taborsko,SK Kladno,3,3,1.79,3.48,4.00
+2026-09-11,Trinec,Karvina,3,2,4.82,3.94,1.56
+2026-09-11,Usti nad Labem,Jihlava,1,2,1.98,3.52,3.22
+2026-09-12,FK Ceska Lipa,Prostejov,0,0,2.09,3.33,3.12
+2026-09-12,Kromeriz,Opava,2,2,2.97,3.33,2.15
+2026-09-13,Slavia Prague B,Zizkov,0,1,8.80,4.25,2.56
+2026-09-18,Jihlava,Slavia Prague B,3,2,1.70,3.86,4.00
+2026-09-18,Karvina,Kromeriz,3,2,1.26,5.45,7.93
+2026-09-18,Opava,FK Ceska Lipa,2,1,1.62,3.77,4.63
+2026-09-18,Prostejov,Dukla Prague,2,2,3.13,3.30,2.09
+2026-09-20,Ostrava B,Usti nad Labem,0,2,2.33,3.52,2.58
+2026-09-20,SK Kladno,Pribram,2,2,2.39,3.26,2.68
+2026-09-20,Vlasim,Taborsko,4,1,2.02,3.46,3.16
+2026-09-20,Zizkov,Trinec,3,0,1.75,3.74,3.81

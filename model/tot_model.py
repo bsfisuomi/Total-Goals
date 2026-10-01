@@ -222,6 +222,13 @@ LEAGUES = {
         ],
         "season_start": "2026-07-01",
     },
+    "czech-chnl": {
+        "files": [
+            _p("Czech Republic", "ChNL", "2025-26.csv"),
+            _p("Czech Republic", "ChNL", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
     # Kollisionskoll UAE: Hatta + United FC upp fran Division 1 till UAE League;
     # Al Bataeh + Dibba Al Fujairah ner fran UAE League till Division 1.
     # Forte Virtus + Palm City nya i Division 1 utan matchande roster i nagon
