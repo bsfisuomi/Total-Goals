@@ -91,6 +91,10 @@ LEAGUES = {
         "files": [_p("Poland", "III Liga Grupp 3", "2025.csv"), _p("Poland", "III Liga Grupp 3", "2026.csv")],
         "season_start": "2026-06-01",
     },
+    "poland-iii-liga-4": {
+        "files": [_p("Poland", "III Liga Grupp 4", "2025.csv"), _p("Poland", "III Liga Grupp 4", "2026.csv")],
+        "season_start": "2026-06-01",
+    },
     "germany-3-liga": {
         # Uppflyttade fran Regionalliga i sommar (bekraftat via kollisionskoll,
         # bara ett overlapp per grupp): Meppen (North), Fortuna Koln (West),

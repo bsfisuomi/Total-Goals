@@ -70,6 +70,7 @@ LEAGUE_SLUGS = {
     "poland-iii-liga-1": ["poland-iii-liga-group-1"],
     "poland-iii-liga-2": ["poland-iii-liga-group-2"],
     "poland-iii-liga-3": ["poland-iii-liga-group-3"],
+    "poland-iii-liga-4": ["poland-iii-liga-group-4"],  # OBS: gissad slug, ej verifierad mot /leagues
 
     "germany-3-liga": ["germany-3-liga"],
     "germany-regionalliga-north": ["germany-amateur-regionalliga-north"],
