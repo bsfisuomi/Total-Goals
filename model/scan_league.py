@@ -86,17 +86,21 @@ LEAGUE_SLUGS = {
     "japan-j1": ["japan-jleague"],
     "japan-j2": ["japan-jleague-2"],
 
-    "czech-chance-liga": ["czech-republic-chance-liga"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-chnl": ["czech-republic-chnl"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-3-cfl-group-a": ["czech-republic-3-cfl-group-a"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-3-cfl-group-b": ["czech-republic-3-cfl-group-b"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-3-msfl": ["czech-republic-3-msfl"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-4-liga-group-a": ["czech-republic-4-liga-group-a"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-4-liga-group-b": ["czech-republic-4-liga-group-b"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-4-liga-group-c": ["czech-republic-4-liga-group-c"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-4-liga-group-d": ["czech-republic-4-liga-group-d"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-4-liga-group-e": ["czech-republic-4-liga-group-e"],  # OBS: gissad slug, ej verifierad mot /leagues
-    "czech-4-liga-group-f": ["czech-republic-4-liga-group-f"],  # OBS: gissad slug, ej verifierad mot /leagues
+    # Verifierat 2026-10-01 mot odds-api.io:s faktiska /leagues-lista - alla
+    # 11 ursprungliga gissningarna var felaktiga (odds-api.io anvander
+    # "czechia-..." inte "czech-republic-...", och "4. Liga"/"3. CFL"/"3. MSFL"
+    # heter "Divize"/"CFL"/"MSFL" dar utan nummer-prefix).
+    "czech-chance-liga": ["czechia-1-liga"],
+    "czech-chnl": ["czechia-fnl"],
+    "czech-3-cfl-group-a": ["czechia-cfl-group-a"],
+    "czech-3-cfl-group-b": ["czechia-cfl-group-b"],
+    "czech-3-msfl": ["czechia-msfl"],
+    "czech-4-liga-group-a": ["czechia-divize-a"],
+    "czech-4-liga-group-b": ["czechia-divize-b"],
+    "czech-4-liga-group-c": ["czechia-divize-c"],
+    "czech-4-liga-group-d": ["czechia-divize-d"],
+    "czech-4-liga-group-e": ["czechia-divize-e"],
+    "czech-4-liga-group-f": ["czechia-divize-f"],
 
     "uae-league": ["united-arab-emirates-pro-league"],
     "uae-division-1": ["united-arab-emirates-division-1"],
