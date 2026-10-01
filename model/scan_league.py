@@ -88,6 +88,15 @@ LEAGUE_SLUGS = {
 
     "czech-chance-liga": ["czech-republic-chance-liga"],  # OBS: gissad slug, ej verifierad mot /leagues
     "czech-chnl": ["czech-republic-chnl"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-3-cfl-group-a": ["czech-republic-3-cfl-group-a"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-3-cfl-group-b": ["czech-republic-3-cfl-group-b"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-3-msfl": ["czech-republic-3-msfl"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-4-liga-group-a": ["czech-republic-4-liga-group-a"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-4-liga-group-b": ["czech-republic-4-liga-group-b"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-4-liga-group-c": ["czech-republic-4-liga-group-c"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-4-liga-group-d": ["czech-republic-4-liga-group-d"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-4-liga-group-e": ["czech-republic-4-liga-group-e"],  # OBS: gissad slug, ej verifierad mot /leagues
+    "czech-4-liga-group-f": ["czech-republic-4-liga-group-f"],  # OBS: gissad slug, ej verifierad mot /leagues
 
     "uae-league": ["united-arab-emirates-pro-league"],
     "uae-division-1": ["united-arab-emirates-division-1"],

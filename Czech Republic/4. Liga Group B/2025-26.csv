@@ -1,0 +1,241 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-08-08,Karlovy Vary,Tempo Prague,2,2,1.47,4.52,5.00
+2025-08-09,Olympie Brezova,Chomutov,1,4,3.23,4.32,1.77
+2025-08-09,Ostrov,Spoje Prague,2,0,1.90,3.72,3.15
+2025-08-09,Slany,Ujezd Prague,3,2,2.08,3.63,2.81
+2025-08-09,Sokolov,Steti,0,2,1.88,3.60,3.38
+2025-08-09,Marianske Lazne,Usti nad Labem B,1,5,,,
+2025-08-10,Louny,Psary,2,2,,,
+2025-08-10,Meteor Prague,Predni Kopanina,3,1,1.28,5.72,7.03
+2025-08-16,Chomutov,Karlovy Vary,0,2,1.54,4.39,4.30
+2025-08-16,Predni Kopanina,Tempo Prague,0,4,2.50,3.75,2.23
+2025-08-16,Psary,Ostrov,1,2,2.70,3.65,1.95
+2025-08-16,Spoje Prague,Slany,1,1,3.05,3.65,1.85
+2025-08-16,Steti,Olympie Brezova,3,2,1.61,4.24,4.00
+2025-08-16,Usti nad Labem B,Louny,1,2,1.47,3.75,4.85
+2025-08-17,Meteor Prague,Marianske Lazne,0,3,1.34,5.00,6.38
+2025-08-17,Ujezd Prague,Sokolov,3,1,1.66,4.04,3.77
+2025-08-23,Karlovy Vary,Steti,0,0,1.84,3.59,3.46
+2025-08-23,Louny,Meteor Prague,0,3,3.00,4.08,1.89
+2025-08-23,Olympie Brezova,Ujezd Prague,1,2,,,
+2025-08-23,Ostrov,Usti nad Labem B,1,0,,,
+2025-08-23,Slany,Psary,2,0,,,
+2025-08-23,Sokolov,Spoje Prague,4,2,1.80,3.97,3.31
+2025-08-23,Tempo Prague,Chomutov,3,0,,,
+2025-08-23,Marianske Lazne,Predni Kopanina,1,1,1.41,4.43,5.87
+2025-08-30,Predni Kopanina,Chomutov,0,2,3.32,3.52,1.93
+2025-08-30,Steti,Tempo Prague,1,1,2.39,3.36,2.50
+2025-08-30,Ujezd Prague,Karlovy Vary,5,1,1.85,3.94,3.13
+2025-08-30,Usti nad Labem B,Slany,2,4,3.32,3.63,1.94
+2025-08-30,Marianske Lazne,Louny,4,0,,,
+2025-08-31,Meteor Prague,Ostrov,1,1,1.68,3.84,3.97
+2025-08-31,Spoje Prague,Olympie Brezova,2,3,1.92,3.89,3.08
+2025-09-06,Chomutov,Steti,2,1,1.67,4.17,3.68
+2025-09-06,Karlovy Vary,Spoje Prague,0,1,,,
+2025-09-06,Olympie Brezova,Psary,2,1,1.83,3.78,3.46
+2025-09-06,Ostrov,Marianske Lazne,3,0,2.15,3.37,2.88
+2025-09-06,Slany,Meteor Prague,0,1,1.96,3.56,3.11
+2025-09-06,Sokolov,Usti nad Labem B,1,2,2.77,3.73,2.10
+2025-09-06,Tempo Prague,Ujezd Prague,1,3,3.17,4.00,1.84
+2025-09-07,Louny,Predni Kopanina,1,1,2.10,3.82,2.70
+2025-09-10,Psary,Sokolov,4,2,,,
+2025-09-13,Predni Kopanina,Steti,2,3,3.33,3.66,1.91
+2025-09-13,Psary,Karlovy Vary,1,2,,,
+2025-09-13,Spoje Prague,Tempo Prague,2,1,,,
+2025-09-13,Ujezd Prague,Chomutov,3,1,2.17,4.04,2.51
+2025-09-13,Usti nad Labem B,Olympie Brezova,2,3,,,
+2025-09-13,Marianske Lazne,Slany,1,0,2.40,3.44,2.45
+2025-09-14,Louny,Ostrov,1,4,,,
+2025-09-14,Meteor Prague,Sokolov,1,0,1.47,4.45,5.05
+2025-09-19,Karlovy Vary,Usti nad Labem B,4,0,1.76,3.76,3.65
+2025-09-20,Chomutov,Spoje Prague,0,0,,,
+2025-09-20,Olympie Brezova,Meteor Prague,1,6,,,
+2025-09-20,Ostrov,Predni Kopanina,2,1,,,
+2025-09-20,Slany,Louny,0,2,,,
+2025-09-20,Sokolov,Marianske Lazne,3,2,2.62,3.76,2.20
+2025-09-20,Steti,Ujezd Prague,4,1,2.91,3.61,2.06
+2025-09-20,Tempo Prague,Psary,3,1,1.78,3.91,3.41
+2025-09-27,Ostrov,Slany,2,0,,,
+2025-09-27,Predni Kopanina,Ujezd Prague,2,1,3.91,4.86,1.56
+2025-09-27,Psary,Chomutov,1,5,,,
+2025-09-27,Spoje Prague,Steti,4,2,,,
+2025-09-27,Usti nad Labem B,Tempo Prague,1,1,,,
+2025-09-27,Marianske Lazne,Olympie Brezova,4,1,1.75,3.92,3.63
+2025-09-28,Louny,Sokolov,2,1,2.93,3.76,2.02
+2025-09-28,Meteor Prague,Karlovy Vary,1,1,1.58,4.19,4.39
+2025-10-03,Chomutov,Usti nad Labem B,1,0,1.43,4.56,5.58
+2025-10-03,Karlovy Vary,Marianske Lazne,3,1,1.74,3.97,3.61
+2025-10-04,Olympie Brezova,Louny,1,1,,,
+2025-10-04,Slany,Predni Kopanina,5,1,,,
+2025-10-04,Sokolov,Ostrov,0,2,3.02,3.62,2.01
+2025-10-04,Steti,Psary,0,1,,,
+2025-10-04,Tempo Prague,Meteor Prague,3,1,,,
+2025-10-04,Ujezd Prague,Spoje Prague,1,1,1.52,4.07,5.02
+2025-10-11,Ostrov,Olympie Brezova,2,1,1.29,5.54,6.90
+2025-10-11,Predni Kopanina,Spoje Prague,1,0,3.58,3.54,1.85
+2025-10-11,Psary,Ujezd Prague,4,5,2.98,4.09,1.91
+2025-10-11,Slany,Sokolov,3,1,,,
+2025-10-11,Usti nad Labem B,Steti,3,1,1.20,6.16,8.77
+2025-10-11,Marianske Lazne,Tempo Prague,1,1,2.24,3.63,2.60
+2025-10-12,Louny,Karlovy Vary,0,3,3.03,3.52,2.04
+2025-10-12,Meteor Prague,Chomutov,0,1,1.86,3.62,3.35
+2025-10-17,Chomutov,Marianske Lazne,3,1,1.58,4.21,4.27
+2025-10-18,Karlovy Vary,Ostrov,2,0,2.15,3.60,2.78
+2025-10-18,Olympie Brezova,Slany,2,3,3.17,4.05,1.85
+2025-10-18,Sokolov,Predni Kopanina,7,0,1.78,3.90,3.53
+2025-10-18,Spoje Prague,Psary,4,0,1.47,4.33,5.07
+2025-10-18,Steti,Meteor Prague,1,2,3.05,3.44,2.08
+2025-10-18,Tempo Prague,Louny,7,0,,,
+2025-10-18,Ujezd Prague,Usti nad Labem B,2,1,1.47,4.08,5.89
+2025-10-25,Ostrov,Tempo Prague,0,5,1.93,3.78,3.17
+2025-10-25,Predni Kopanina,Psary,3,2,2.02,3.54,3.15
+2025-10-25,Slany,Karlovy Vary,2,2,2.20,3.92,2.54
+2025-10-25,Sokolov,Olympie Brezova,2,0,1.43,4.61,5.23
+2025-10-25,Usti nad Labem B,Spoje Prague,1,2,1.75,3.69,3.64
+2025-10-25,Marianske Lazne,Steti,3,0,1.70,3.81,4.00
+2025-10-26,Louny,Chomutov,1,1,4.98,4.50,1.48
+2025-10-26,Meteor Prague,Ujezd Prague,1,2,1.80,3.81,3.53
+2025-10-31,Chomutov,Ostrov,1,1,1.73,3.64,4.00
+2025-10-31,Karlovy Vary,Sokolov,1,1,1.65,4.04,4.04
+2025-11-01,Olympie Brezova,Predni Kopanina,1,1,2.00,4.01,2.79
+2025-11-01,Psary,Usti nad Labem B,0,7,,,
+2025-11-01,Spoje Prague,Meteor Prague,2,0,2.63,3.38,2.30
+2025-11-01,Steti,Louny,2,1,,,
+2025-11-01,Tempo Prague,Slany,1,1,,,
+2025-11-01,Ujezd Prague,Marianske Lazne,2,0,1.44,4.52,5.26
+2025-11-08,Olympie Brezova,Karlovy Vary,0,0,,,
+2025-11-08,Ostrov,Steti,1,2,1.61,3.83,4.48
+2025-11-08,Predni Kopanina,Usti nad Labem B,0,1,3.67,3.91,1.74
+2025-11-08,Slany,Chomutov,0,2,2.31,3.57,2.57
+2025-11-08,Sokolov,Tempo Prague,5,2,2.39,3.65,2.35
+2025-11-08,Marianske Lazne,Spoje Prague,1,1,2.05,3.50,2.98
+2025-11-09,Louny,Ujezd Prague,3,6,3.66,4.05,1.71
+2025-11-09,Meteor Prague,Psary,1,1,1.16,6.43,11.48
+2025-11-15,Chomutov,Sokolov,1,2,1.99,3.55,3.11
+2025-11-15,Karlovy Vary,Predni Kopanina,4,3,1.19,6.00,10.52
+2025-11-15,Psary,Marianske Lazne,2,0,,,
+2025-11-15,Spoje Prague,Louny,1,0,1.37,4.76,5.94
+2025-11-15,Steti,Slany,1,5,,,
+2025-11-15,Tempo Prague,Olympie Brezova,9,1,1.40,4.90,5.49
+2025-11-15,Ujezd Prague,Ostrov,3,1,,,
+2025-11-15,Usti nad Labem B,Meteor Prague,3,1,,,
+2026-03-07,Chomutov,Olympie Brezova,2,1,1.26,5.30,7.72
+2026-03-07,Predni Kopanina,Meteor Prague,0,1,4.11,3.88,1.66
+2026-03-07,Psary,Louny,3,1,1.44,3.99,6.00
+2026-03-07,Spoje Prague,Ostrov,0,2,1.99,3.60,3.06
+2026-03-07,Tempo Prague,Karlovy Vary,2,0,2.13,3.47,2.84
+2026-03-07,Ujezd Prague,Slany,0,2,1.82,3.70,3.43
+2026-03-07,Usti nad Labem B,Marianske Lazne,1,2,1.70,3.60,4.08
+2026-03-08,Steti,Sokolov,2,0,3.40,3.47,1.88
+2026-03-14,Karlovy Vary,Chomutov,2,2,1.94,3.48,3.31
+2026-03-14,Louny,Usti nad Labem B,0,4,3.89,4.71,1.60
+2026-03-14,Ostrov,Psary,0,2,1.48,4.25,5.11
+2026-03-14,Slany,Spoje Prague,0,3,,,
+2026-03-14,Sokolov,Ujezd Prague,1,1,2.37,3.63,2.42
+2026-03-14,Tempo Prague,Predni Kopanina,5,2,1.14,7.39,12.87
+2026-03-14,Marianske Lazne,Meteor Prague,2,4,,,
+2026-03-15,Olympie Brezova,Steti,3,2,2.32,3.48,2.55
+2026-03-21,Chomutov,Tempo Prague,1,0,2.45,3.76,2.31
+2026-03-21,Predni Kopanina,Marianske Lazne,1,2,3.14,3.59,1.96
+2026-03-21,Psary,Slany,0,0,,,
+2026-03-21,Spoje Prague,Sokolov,1,2,1.84,3.82,3.36
+2026-03-21,Steti,Karlovy Vary,1,2,3.18,3.63,1.94
+2026-03-21,Ujezd Prague,Olympie Brezova,6,1,1.24,5.83,7.93
+2026-03-21,Usti nad Labem B,Ostrov,3,4,2.14,3.53,2.82
+2026-03-22,Meteor Prague,Louny,3,1,1.20,5.82,10.14
+2026-03-27,Chomutov,Predni Kopanina,4,0,1.24,5.45,9.00
+2026-03-28,Karlovy Vary,Ujezd Prague,2,3,2.11,3.46,2.89
+2026-03-28,Louny,Marianske Lazne,2,2,,,
+2026-03-28,Olympie Brezova,Spoje Prague,3,1,3.33,3.65,1.87
+2026-03-28,Ostrov,Meteor Prague,2,3,2.75,3.38,2.24
+2026-03-28,Slany,Usti nad Labem B,2,4,,,
+2026-03-28,Sokolov,Psary,0,1,1.55,4.10,4.55
+2026-03-28,Tempo Prague,Steti,2,1,1.21,5.57,9.73
+2026-04-03,Meteor Prague,Slany,2,0,1.78,3.76,3.57
+2026-04-03,Predni Kopanina,Louny,1,2,2.12,3.74,2.71
+2026-04-03,Psary,Olympie Brezova,2,0,1.73,4.01,3.62
+2026-04-03,Steti,Chomutov,0,1,3.47,3.51,1.87
+2026-04-03,Ujezd Prague,Tempo Prague,2,1,2.11,3.74,2.70
+2026-04-03,Marianske Lazne,Ostrov,1,2,2.16,3.38,2.84
+2026-04-04,Spoje Prague,Karlovy Vary,0,1,2.36,3.58,2.47
+2026-04-04,Usti nad Labem B,Sokolov,1,2,1.66,3.81,4.05
+2026-04-10,Karlovy Vary,Psary,0,1,1.55,4.13,4.56
+2026-04-11,Olympie Brezova,Usti nad Labem B,3,3,,,
+2026-04-11,Ostrov,Louny,1,2,1.45,4.38,5.36
+2026-04-11,Slany,Marianske Lazne,3,0,,,
+2026-04-11,Sokolov,Meteor Prague,2,0,2.19,3.47,2.70
+2026-04-11,Steti,Predni Kopanina,1,0,1.65,3.82,4.17
+2026-04-11,Tempo Prague,Spoje Prague,1,0,1.46,4.56,5.03
+2026-04-17,Marianske Lazne,Sokolov,0,3,3.85,3.66,1.73
+2026-04-18,Louny,Slany,1,5,3.30,3.74,1.88
+2026-04-18,Predni Kopanina,Ostrov,0,2,,,
+2026-04-18,Psary,Tempo Prague,0,0,2.78,3.42,2.18
+2026-04-18,Spoje Prague,Chomutov,1,4,3.05,3.71,1.96
+2026-04-18,Ujezd Prague,Steti,2,1,1.31,4.94,7.02
+2026-04-18,Usti nad Labem B,Karlovy Vary,5,2,2.96,3.68,2.01
+2026-04-19,Meteor Prague,Olympie Brezova,3,0,1.37,5.08,5.77
+2026-04-24,Chomutov,Psary,2,3,1.50,3.99,5.31
+2026-04-25,Karlovy Vary,Meteor Prague,3,1,,,
+2026-04-25,Olympie Brezova,Marianske Lazne,1,3,,,
+2026-04-25,Slany,Ostrov,0,4,,,
+2026-04-25,Sokolov,Louny,1,2,1.37,4.60,6.13
+2026-04-25,Steti,Spoje Prague,2,2,,,
+2026-04-25,Tempo Prague,Usti nad Labem B,3,1,1.54,4.12,4.65
+2026-04-25,Ujezd Prague,Predni Kopanina,7,1,1.09,8.51,14.97
+2026-05-01,Louny,Olympie Brezova,3,0,1.78,3.82,3.47
+2026-05-01,Ostrov,Sokolov,1,1,2.09,3.58,2.85
+2026-05-01,Predni Kopanina,Slany,3,4,6.49,4.63,1.36
+2026-05-01,Spoje Prague,Ujezd Prague,1,1,2.80,3.59,2.17
+2026-05-02,Psary,Steti,5,0,1.71,3.92,3.74
+2026-05-02,Usti nad Labem B,Chomutov,3,0,3.02,3.93,1.91
+2026-05-03,Meteor Prague,Tempo Prague,1,2,2.48,3.63,2.35
+2026-05-05,Chomutov,Ujezd Prague,3,2,2.22,3.67,2.64
+2026-05-08,Chomutov,Meteor Prague,2,1,1.69,3.63,4.18
+2026-05-08,Karlovy Vary,Louny,3,2,1.65,3.81,4.16
+2026-05-08,Sokolov,Slany,0,1,2.03,3.09,3.38
+2026-05-08,Tempo Prague,Marianske Lazne,2,0,1.35,4.86,6.32
+2026-05-08,Ujezd Prague,Psary,1,1,1.57,4.29,4.24
+2026-05-09,Olympie Brezova,Ostrov,0,2,3.95,3.88,1.68
+2026-05-09,Spoje Prague,Predni Kopanina,0,1,1.29,4.84,8.21
+2026-05-09,Steti,Usti nad Labem B,3,3,2.78,3.59,2.14
+2026-05-15,Marianske Lazne,Chomutov,0,3,4.10,3.89,1.65
+2026-05-16,Louny,Tempo Prague,1,2,4.17,4.22,1.60
+2026-05-16,Ostrov,Karlovy Vary,2,0,,,
+2026-05-16,Predni Kopanina,Sokolov,2,4,,,
+2026-05-16,Psary,Spoje Prague,1,1,,,
+2026-05-16,Slany,Olympie Brezova,5,1,1.27,5.35,7.85
+2026-05-16,Usti nad Labem B,Ujezd Prague,1,1,2.60,3.72,2.21
+2026-05-17,Meteor Prague,Steti,4,2,1.46,4.50,4.95
+2026-05-22,Chomutov,Louny,2,1,1.21,6.00,8.48
+2026-05-22,Karlovy Vary,Slany,2,2,2.00,3.41,3.12
+2026-05-23,Olympie Brezova,Sokolov,2,4,5.54,4.34,1.43
+2026-05-23,Psary,Predni Kopanina,6,0,,,
+2026-05-23,Spoje Prague,Usti nad Labem B,3,2,2.00,3.56,3.08
+2026-05-23,Steti,Marianske Lazne,5,3,1.97,3.56,3.12
+2026-05-23,Tempo Prague,Ostrov,1,1,1.63,3.95,4.15
+2026-05-23,Ujezd Prague,Meteor Prague,3,1,1.47,4.25,5.26
+2026-05-29,Sokolov,Karlovy Vary,3,4,1.93,3.46,3.29
+2026-05-30,Louny,Steti,0,3,2.04,3.66,2.88
+2026-05-30,Ostrov,Chomutov,1,0,2.92,3.46,2.08
+2026-05-30,Predni Kopanina,Olympie Brezova,2,4,2.54,3.62,2.19
+2026-05-30,Slany,Tempo Prague,2,1,2.57,3.51,2.28
+2026-05-30,Usti nad Labem B,Psary,0,0,2.36,3.44,2.49
+2026-05-30,Marianske Lazne,Ujezd Prague,1,2,6.49,5.16,1.32
+2026-05-31,Meteor Prague,Spoje Prague,2,1,,,
+2026-06-02,Marianske Lazne,Karlovy Vary,1,4,,,
+2026-06-05,Chomutov,Slany,4,1,,,
+2026-06-06,Karlovy Vary,Olympie Brezova,7,0,,,
+2026-06-06,Psary,Meteor Prague,5,2,,,
+2026-06-06,Spoje Prague,Marianske Lazne,4,4,,,
+2026-06-06,Steti,Ostrov,3,1,,,
+2026-06-06,Ujezd Prague,Louny,4,1,1.23,5.88,8.11
+2026-06-06,Usti nad Labem B,Predni Kopanina,5,2,,,
+2026-06-07,Tempo Prague,Sokolov,1,1,,,
+2026-06-10,Meteor Prague,Usti nad Labem B,2,1,2.12,4.10,2.62
+2026-06-13,Louny,Spoje Prague,3,6,,,
+2026-06-13,Olympie Brezova,Tempo Prague,0,6,,,
+2026-06-13,Ostrov,Ujezd Prague,1,0,,,
+2026-06-13,Predni Kopanina,Karlovy Vary,0,6,,,
+2026-06-13,Slany,Steti,3,1,,,
+2026-06-13,Sokolov,Chomutov,2,2,,,
+2026-06-13,Marianske Lazne,Psary,1,1,,,

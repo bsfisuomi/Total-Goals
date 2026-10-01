@@ -1,0 +1,65 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2026-08-08,Hlinsko,Kolin,1,1,,,
+2026-08-08,Prepere,Kosmonosy,2,4,1.57,3.96,4.46
+2026-08-08,Trutnov,Police nad Metuji,1,2,2.04,3.62,2.89
+2026-08-08,Usti nad Orlici,Turnov,2,2,,,
+2026-08-08,Vykan,Chrudim B,7,2,1.33,5.32,6.27
+2026-08-08,Vysoke Myto,Chlumec nad Cidlinou,4,2,1.51,4.10,5.20
+2026-08-09,Dvur Kralove,Slavia HK,2,1,2.16,4.04,2.51
+2026-08-09,Svitavy,Letohrad,3,1,,,
+2026-08-15,Chrudim B,Usti nad Orlici,0,6,,,
+2026-08-15,Hlinsko,Dvur Kralove,3,2,2.02,3.80,2.85
+2026-08-15,Kosmonosy,Vysoke Myto,2,2,2.76,3.64,2.12
+2026-08-15,Letohrad,Vykan,1,4,,,
+2026-08-15,Slavia HK,Svitavy,3,2,2.34,3.63,2.43
+2026-08-16,Kolin,Chlumec nad Cidlinou,1,1,2.04,3.77,2.80
+2026-08-16,Police nad Metuji,Prepere,0,1,2.65,3.29,2.30
+2026-08-16,Turnov,Trutnov,4,0,1.94,3.59,3.13
+2026-08-22,Prepere,Turnov,5,2,1.99,3.66,2.99
+2026-08-22,Trutnov,Chrudim B,5,0,1.24,5.95,7.66
+2026-08-22,Usti nad Orlici,Letohrad,4,1,,,
+2026-08-22,Vysoke Myto,Police nad Metuji,2,0,1.34,4.91,6.28
+2026-08-23,Chlumec nad Cidlinou,Kosmonosy,0,2,2.26,3.67,2.54
+2026-08-23,Dvur Kralove,Kolin,2,2,3.58,3.75,1.80
+2026-08-23,Svitavy,Hlinsko,0,6,,,
+2026-08-29,Chrudim B,Prepere,1,2,,,
+2026-08-29,Hlinsko,Vykan,2,1,2.62,3.83,2.15
+2026-08-29,Letohrad,Trutnov,1,2,,,
+2026-08-29,Slavia HK,Usti nad Orlici,3,1,,,
+2026-08-30,Dvur Kralove,Svitavy,1,0,2.08,3.76,2.76
+2026-08-30,Kolin,Kosmonosy,0,4,2.43,3.71,2.33
+2026-08-30,Police nad Metuji,Chlumec nad Cidlinou,3,1,,,
+2026-08-30,Turnov,Vysoke Myto,0,2,,,
+2026-09-05,Kosmonosy,Police nad Metuji,4,1,1.57,4.11,4.36
+2026-09-05,Prepere,Letohrad,8,1,1.25,5.58,8.00
+2026-09-05,Trutnov,Slavia HK,2,2,1.74,3.85,3.69
+2026-09-05,Usti nad Orlici,Hlinsko,2,1,1.64,3.99,4.25
+2026-09-05,Vykan,Dvur Kralove,2,1,1.30,5.15,7.13
+2026-09-05,Vysoke Myto,Chrudim B,4,4,,,
+2026-09-06,Chlumec nad Cidlinou,Turnov,1,0,2.29,3.60,2.52
+2026-09-06,Svitavy,Kolin,1,3,2.66,3.60,2.19
+2026-09-12,Chrudim B,Chlumec nad Cidlinou,2,3,3.53,4.11,1.73
+2026-09-12,Hlinsko,Trutnov,1,0,2.06,3.55,2.92
+2026-09-12,Letohrad,Vysoke Myto,2,3,,,
+2026-09-12,Slavia HK,Prepere,0,1,3.54,3.65,1.79
+2026-09-13,Dvur Kralove,Usti nad Orlici,0,1,4.48,4.62,1.50
+2026-09-13,Kolin,Police nad Metuji,3,1,1.92,3.94,3.05
+2026-09-13,Svitavy,Vykan,0,0,5.11,4.94,1.41
+2026-09-13,Turnov,Kosmonosy,4,1,2.07,3.79,2.75
+2026-09-19,Kosmonosy,Chrudim B,6,1,1.19,6.48,9.58
+2026-09-19,Prepere,Hlinsko,5,0,1.39,4.76,5.71
+2026-09-19,Trutnov,Dvur Kralove,2,0,,,
+2026-09-19,Usti nad Orlici,Svitavy,0,0,,,
+2026-09-19,Vykan,Kolin,2,3,1.46,4.12,5.45
+2026-09-19,Vysoke Myto,Slavia HK,7,2,,,
+2026-09-20,Chlumec nad Cidlinou,Letohrad,4,1,1.24,5.45,8.74
+2026-09-20,Police nad Metuji,Turnov,3,5,2.15,3.96,2.50
+2026-09-23,Vykan,Slavia HK,1,3,1.43,4.57,4.98
+2026-09-26,Chrudim B,Police nad Metuji,1,2,3.84,4.34,1.60
+2026-09-26,Hlinsko,Vysoke Myto,2,3,,,
+2026-09-26,Letohrad,Kosmonosy,2,3,,,
+2026-09-26,Slavia HK,Chlumec nad Cidlinou,0,2,2.55,3.75,2.23
+2026-09-26,Vykan,Usti nad Orlici,0,2,,,
+2026-09-27,Dvur Kralove,Prepere,1,0,6.50,4.99,1.32
+2026-09-27,Kolin,Turnov,1,2,2.43,3.63,2.35
+2026-09-27,Svitavy,Trutnov,1,3,2.96,3.77,1.97

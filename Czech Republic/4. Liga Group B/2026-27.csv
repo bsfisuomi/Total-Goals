@@ -1,0 +1,65 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2026-08-07,Chomutov,Psary,2,1,1.76,3.79,3.60
+2026-08-07,Karlovy Vary,Hostoun,3,2,2.27,3.50,2.56
+2026-08-08,Hvezda Cheb,Brandys n. Labem,4,3,,,
+2026-08-08,Ostrov,Tempo Prague,2,3,2.62,3.44,2.28
+2026-08-08,Slany,Ujezd Prague,2,2,2.26,3.83,2.51
+2026-08-08,Sokolov,Usti nad Labem B,6,0,1.71,3.84,3.79
+2026-08-08,Steti,Velvary,1,2,1.73,4.31,3.37
+2026-08-09,Meteor Prague,Vysehrad,1,0,1.39,5.01,5.72
+2026-08-15,Brandys n. Labem,Karlovy Vary,4,3,2.38,3.47,2.47
+2026-08-15,Psary,Meteor Prague,3,0,2.02,3.48,3.09
+2026-08-15,Sokolov,Chomutov,0,1,2.13,3.56,2.77
+2026-08-15,Ujezd Prague,Hvezda Cheb,4,0,,,
+2026-08-15,Usti nad Labem B,Tempo Prague,1,1,3.30,3.57,1.87
+2026-08-15,Velvary,Slany,1,1,4.23,4.97,1.50
+2026-08-15,Vysehrad,Steti,3,1,,,
+2026-08-16,Hostoun,Ostrov,6,0,1.45,4.24,5.37
+2026-08-21,Chomutov,Usti nad Labem B,5,0,1.35,4.56,6.93
+2026-08-21,Hvezda Cheb,Velvary,3,4,2.94,3.55,2.07
+2026-08-22,Karlovy Vary,Ujezd Prague,4,1,2.01,3.74,2.88
+2026-08-22,Slany,Vysehrad,9,1,1.62,4.45,3.77
+2026-08-22,Steti,Psary,1,0,4.37,4.22,1.56
+2026-08-22,Tempo Prague,Hostoun,1,2,2.76,3.59,2.12
+2026-08-29,Brandys n. Labem,Tempo Prague,1,2,2.50,3.60,2.31
+2026-08-29,Chomutov,Meteor Prague,4,0,1.57,3.99,4.51
+2026-08-29,Psary,Slany,2,1,2.06,3.52,2.95
+2026-08-29,Ujezd Prague,Ostrov,3,2,1.47,4.25,4.93
+2026-08-29,Usti nad Labem B,Hostoun,0,4,6.03,4.69,1.38
+2026-08-29,Velvary,Karlovy Vary,2,1,2.53,3.75,2.24
+2026-08-29,Vysehrad,Hvezda Cheb,1,2,1.61,3.85,4.40
+2026-08-30,Sokolov,Steti,5,1,1.54,3.76,5.14
+2026-09-05,Hvezda Cheb,Psary,1,5,,,
+2026-09-05,Karlovy Vary,Vysehrad,3,4,1.47,4.68,4.72
+2026-09-05,Slany,Sokolov,1,2,2.04,3.79,2.85
+2026-09-05,Steti,Chomutov,1,2,5.41,4.23,1.46
+2026-09-05,Tempo Prague,Ujezd Prague,1,2,2.08,3.63,2.86
+2026-09-06,Hostoun,Brandys n. Labem,4,2,1.31,5.12,6.71
+2026-09-06,Meteor Prague,Usti nad Labem B,1,3,1.65,4.18,3.85
+2026-09-06,Ostrov,Velvary,3,1,2.12,3.88,2.67
+2026-09-12,Chomutov,Slany,0,2,1.81,3.60,3.27
+2026-09-12,Psary,Karlovy Vary,1,2,,,
+2026-09-12,Sokolov,Hvezda Cheb,3,1,1.27,5.43,7.21
+2026-09-12,Ujezd Prague,Hostoun,0,2,2.76,3.70,2.08
+2026-09-12,Usti nad Labem B,Brandys n. Labem,2,4,1.60,4.37,3.96
+2026-09-12,Velvary,Tempo Prague,2,1,2.64,3.83,2.16
+2026-09-12,Vysehrad,Ostrov,2,2,1.93,3.78,3.12
+2026-09-13,Meteor Prague,Steti,2,2,1.51,4.31,4.56
+2026-09-18,Karlovy Vary,Sokolov,2,0,2.07,3.75,2.79
+2026-09-19,Brandys n. Labem,Ujezd Prague,1,2,2.54,3.86,2.18
+2026-09-19,Hvezda Cheb,Chomutov,1,3,5.45,4.71,1.41
+2026-09-19,Ostrov,Psary,1,3,3.05,3.52,2.00
+2026-09-19,Slany,Meteor Prague,0,2,1.67,4.22,3.73
+2026-09-19,Steti,Usti nad Labem B,2,1,1.55,4.39,4.44
+2026-09-19,Tempo Prague,Vysehrad,2,1,1.69,4.17,3.71
+2026-09-20,Hostoun,Velvary,5,1,1.35,5.18,5.89
+2026-09-23,Meteor Prague,Sokolov,0,1,2.70,3.64,2.13
+2026-09-23,Ostrov,Brandys n. Labem,2,3,2.19,3.66,2.61
+2026-09-25,Chomutov,Karlovy Vary,1,0,1.58,4.15,4.25
+2026-09-25,Vysehrad,Hostoun,1,2,5.47,4.45,1.43
+2026-09-26,Psary,Tempo Prague,3,2,,,
+2026-09-26,Sokolov,Ostrov,1,2,1.38,4.67,5.94
+2026-09-26,Steti,Slany,3,0,2.55,3.61,2.21
+2026-09-26,Usti nad Labem B,Ujezd Prague,1,1,3.04,3.78,1.94
+2026-09-26,Velvary,Brandys n. Labem,0,2,2.04,3.68,2.91
+2026-09-27,Meteor Prague,Hvezda Cheb,7,2,1.42,4.28,5.80

@@ -1,0 +1,65 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2026-08-07,Velke Mezirici,Humpolec,1,1,2.00,3.59,3.00
+2026-08-08,Bedrichov,Znojmo,0,0,3.79,3.91,1.71
+2026-08-08,Bystrc,Zdar nad Sazavou,2,3,2.00,3.63,3.07
+2026-08-08,Kurim,Chotebor,8,1,1.32,4.71,7.28
+2026-08-08,Sparta Brno,FS Trebic,1,2,1.68,3.89,3.88
+2026-08-09,Pelhrimov,Havlickuv Brod,1,0,,,
+2026-08-09,Velka Bites,Bohunice,0,4,2.14,3.52,2.80
+2026-08-09,Zdirec n. D.,Tasovice,1,3,2.00,3.59,3.05
+2026-08-15,Bohunice,Zdirec n. D.,1,1,1.28,4.87,8.47
+2026-08-15,FS Trebic,Velka Bites,0,1,2.34,3.47,2.54
+2026-08-15,Znojmo,Kurim,2,1,,,
+2026-08-16,Chotebor,Bystrc,2,2,,,
+2026-08-16,Humpolec,Bedrichov,2,2,1.91,3.83,3.12
+2026-08-16,Havlickuv Brod,Velke Mezirici,3,1,,,
+2026-08-16,Tasovice,Pelhrimov,2,2,1.82,3.61,3.50
+2026-08-16,Zdar nad Sazavou,Sparta Brno,1,1,1.99,3.78,2.89
+2026-08-21,Velke Mezirici,Tasovice,0,0,2.08,3.68,2.77
+2026-08-22,Bedrichov,Havlickuv Brod,1,4,2.83,3.38,2.21
+2026-08-22,Bystrc,Znojmo,1,1,2.83,3.73,2.05
+2026-08-22,Kurim,Humpolec,1,0,1.35,4.60,6.66
+2026-08-22,FS Trebic,Zdar nad Sazavou,0,5,,,
+2026-08-22,Sparta Brno,Chotebor,2,0,1.59,4.03,4.36
+2026-08-23,Pelhrimov,Bohunice,1,2,,,
+2026-08-23,Velka Bites,Zdirec n. D.,1,0,1.69,3.74,3.96
+2026-08-28,Bohunice,Velke Mezirici,3,3,1.39,4.42,5.99
+2026-08-28,Chotebor,FS Trebic,0,2,,,
+2026-08-29,Havlickuv Brod,Kurim,1,3,2.54,3.45,2.37
+2026-08-29,Znojmo,Sparta Brno,3,0,,,
+2026-08-30,Humpolec,Bystrc,0,2,,,
+2026-08-30,Tasovice,Bedrichov,4,1,1.58,4.10,4.32
+2026-08-30,Zdar nad Sazavou,Velka Bites,2,2,,,
+2026-08-30,Zdirec n. D.,Pelhrimov,2,2,2.11,3.54,2.86
+2026-09-05,Bedrichov,Bohunice,0,4,5.62,4.37,1.42
+2026-09-05,Kurim,Tasovice,1,1,1.35,4.73,6.61
+2026-09-05,FS Trebic,Znojmo,1,6,4.11,3.89,1.65
+2026-09-05,Sparta Brno,Humpolec,1,0,1.83,3.78,3.40
+2026-09-05,Velka Bites,Pelhrimov,2,0,1.62,4.05,4.12
+2026-09-06,Bystrc,Havlickuv Brod,0,0,2.29,3.51,2.60
+2026-09-06,Velke Mezirici,Zdirec n. D.,3,2,2.11,3.57,2.83
+2026-09-06,Zdar nad Sazavou,Chotebor,0,2,1.78,4.13,3.22
+2026-09-12,Bohunice,Kurim,3,0,1.87,3.63,3.31
+2026-09-12,Chotebor,Velka Bites,0,0,,,
+2026-09-12,Havlickuv Brod,Sparta Brno,3,1,,,
+2026-09-13,Humpolec,FS Trebic,1,2,,,
+2026-09-13,Pelhrimov,Velke Mezirici,5,0,,,
+2026-09-13,Tasovice,Bystrc,0,0,1.93,3.70,3.09
+2026-09-13,Zdirec n. D.,Bedrichov,3,0,,,
+2026-09-13,Znojmo,Zdar nad Sazavou,2,0,1.53,4.42,4.32
+2026-09-19,Bedrichov,Pelhrimov,1,5,3.47,3.94,1.80
+2026-09-19,Bystrc,Bohunice,1,3,4.91,3.96,1.54
+2026-09-19,Chotebor,Znojmo,4,2,5.18,4.44,1.46
+2026-09-19,Kurim,Zdirec n. D.,6,1,1.26,5.16,8.86
+2026-09-19,FS Trebic,Havlickuv Brod,2,0,3.32,3.44,1.91
+2026-09-19,Sparta Brno,Tasovice,3,2,2.08,3.68,2.87
+2026-09-20,Velka Bites,Velke Mezirici,2,0,1.63,3.81,4.29
+2026-09-20,Zdar nad Sazavou,Humpolec,1,2,1.53,4.05,4.80
+2026-09-25,Bohunice,Sparta Brno,1,2,1.30,4.85,7.54
+2026-09-26,Havlickuv Brod,Zdar nad Sazavou,4,2,,,
+2026-09-27,Humpolec,Chotebor,0,0,2.47,3.46,2.35
+2026-09-27,Pelhrimov,Kurim,4,2,2.93,3.91,1.93
+2026-09-27,Tasovice,FS Trebic,1,1,2.11,3.63,3.82
+2026-09-27,Velke Mezirici,Bedrichov,2,1,1.38,4.53,5.85
+2026-09-27,Zdirec n. D.,Bystrc,3,2,2.26,3.60,2.52
+2026-09-27,Znojmo,Velka Bites,1,1,1.93,3.95,3.00

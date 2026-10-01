@@ -229,6 +229,69 @@ LEAGUES = {
         ],
         "season_start": "2026-07-01",
     },
+    "czech-3-cfl-group-a": {
+        "files": [
+            _p("Czech Republic", "3. CFL Group A", "2025-26.csv"),
+            _p("Czech Republic", "3. CFL Group A", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-3-cfl-group-b": {
+        "files": [
+            _p("Czech Republic", "3. CFL Group B", "2025-26.csv"),
+            _p("Czech Republic", "3. CFL Group B", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-3-msfl": {
+        "files": [
+            _p("Czech Republic", "3. MSFL", "2025-26.csv"),
+            _p("Czech Republic", "3. MSFL", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-4-liga-group-a": {
+        "files": [
+            _p("Czech Republic", "4. Liga Group A", "2025-26.csv"),
+            _p("Czech Republic", "4. Liga Group A", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-4-liga-group-b": {
+        "files": [
+            _p("Czech Republic", "4. Liga Group B", "2025-26.csv"),
+            _p("Czech Republic", "4. Liga Group B", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-4-liga-group-c": {
+        "files": [
+            _p("Czech Republic", "4. Liga Group C", "2025-26.csv"),
+            _p("Czech Republic", "4. Liga Group C", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-4-liga-group-d": {
+        "files": [
+            _p("Czech Republic", "4. Liga Group D", "2025-26.csv"),
+            _p("Czech Republic", "4. Liga Group D", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-4-liga-group-e": {
+        "files": [
+            _p("Czech Republic", "4. Liga Group E", "2025-26.csv"),
+            _p("Czech Republic", "4. Liga Group E", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
+    "czech-4-liga-group-f": {
+        "files": [
+            _p("Czech Republic", "4. Liga Group F", "2025-26.csv"),
+            _p("Czech Republic", "4. Liga Group F", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-01",
+    },
     # Kollisionskoll UAE: Hatta + United FC upp fran Division 1 till UAE League;
     # Al Bataeh + Dibba Al Fujairah ner fran UAE League till Division 1.
     # Forte Virtus + Palm City nya i Division 1 utan matchande roster i nagon

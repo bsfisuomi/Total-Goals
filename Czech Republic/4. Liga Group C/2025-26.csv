@@ -1,0 +1,241 @@
+datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-08-09,Dobrovice,Chrudim B,2,0,,,
+2025-08-09,Hlinsko,Chlumec nad Cidlinou,4,2,3.38,3.74,1.82
+2025-08-09,Hradek nad Nisou,Caslav,0,1,,,
+2025-08-09,Kosmonosy,Horni Redice,2,2,,,
+2025-08-09,Nachod,Turnov,1,2,,,
+2025-08-09,Vysoke Myto,Prepere,0,1,1.72,3.54,4.10
+2025-08-10,Svitavy,Brandys n. Labem,0,1,,,
+2025-08-10,Trutnov,Police nad Metuji,0,3,,,
+2025-08-16,Brandys n. Labem,Kosmonosy,1,0,1.73,3.81,3.58
+2025-08-16,Chlumec nad Cidlinou,Prepere,3,2,,,
+2025-08-16,Chrudim B,Vysoke Myto,0,3,3.74,3.81,1.70
+2025-08-16,Hlinsko,Svitavy,3,0,1.42,4.20,4.75
+2025-08-16,Horni Redice,Trutnov,2,4,1.83,4.25,3.08
+2025-08-16,Hradek nad Nisou,Dobrovice,5,3,2.12,3.46,2.83
+2025-08-17,Police nad Metuji,Nachod,3,2,1.47,4.50,5.10
+2025-08-17,Turnov,Caslav,1,5,,,
+2025-08-23,Dobrovice,Turnov,0,3,,,
+2025-08-23,Kosmonosy,Hlinsko,2,1,1.89,3.78,3.28
+2025-08-23,Nachod,Horni Redice,1,3,,,
+2025-08-23,Prepere,Chrudim B,3,3,1.35,4.73,6.37
+2025-08-23,Vysoke Myto,Hradek nad Nisou,1,0,,,
+2025-08-24,Caslav,Police nad Metuji,4,0,,,
+2025-08-24,Svitavy,Chlumec nad Cidlinou,0,2,,,
+2025-08-24,Trutnov,Brandys n. Labem,2,0,1.89,3.65,3.25
+2025-08-30,Brandys n. Labem,Nachod,0,4,1.47,4.44,4.90
+2025-08-30,Hlinsko,Trutnov,3,4,2.13,3.82,2.65
+2025-08-30,Horni Redice,Caslav,2,4,3.94,4.59,1.57
+2025-08-30,Hradek nad Nisou,Prepere,0,4,3.94,4.52,1.59
+2025-08-31,Chlumec nad Cidlinou,Chrudim B,1,0,1.29,5.40,6.82
+2025-08-31,Police nad Metuji,Dobrovice,2,0,1.52,4.44,4.23
+2025-08-31,Svitavy,Kosmonosy,1,2,4.64,4.66,1.45
+2025-08-31,Turnov,Vysoke Myto,4,2,3.28,3.61,1.89
+2025-09-06,Chrudim B,Hradek nad Nisou,2,0,1.41,4.39,6.24
+2025-09-06,Dobrovice,Horni Redice,1,4,2.43,3.42,2.42
+2025-09-06,Kosmonosy,Chlumec nad Cidlinou,2,1,2.83,3.60,2.12
+2025-09-06,Nachod,Hlinsko,1,3,2.29,3.48,2.57
+2025-09-06,Prepere,Turnov,1,2,1.80,3.76,3.48
+2025-09-06,Vysoke Myto,Police nad Metuji,3,0,,,
+2025-09-07,Caslav,Brandys n. Labem,3,0,1.30,5.39,6.85
+2025-09-07,Trutnov,Svitavy,6,0,1.22,5.86,8.68
+2025-09-13,Brandys n. Labem,Dobrovice,1,1,1.47,4.29,4.83
+2025-09-13,Chlumec nad Cidlinou,Hradek nad Nisou,0,0,1.16,6.40,10.91
+2025-09-13,Hlinsko,Caslav,2,0,4.46,4.57,1.53
+2025-09-13,Horni Redice,Vysoke Myto,2,0,,,
+2025-09-13,Kosmonosy,Trutnov,4,0,2.34,3.55,2.63
+2025-09-14,Svitavy,Nachod,4,3,,,
+2025-09-14,Turnov,Chrudim B,5,0,,,
+2025-09-20,Chrudim B,Police nad Metuji,2,2,1.77,3.91,3.56
+2025-09-20,Dobrovice,Hlinsko,3,1,,,
+2025-09-20,Nachod,Kosmonosy,1,2,,,
+2025-09-20,Prepere,Horni Redice,3,0,1.81,4.20,3.17
+2025-09-20,Vysoke Myto,Brandys n. Labem,1,2,,,
+2025-09-21,Caslav,Svitavy,5,0,,,
+2025-09-21,Hradek nad Nisou,Turnov,2,1,4.41,4.05,1.61
+2025-09-21,Trutnov,Chlumec nad Cidlinou,2,1,,,
+2025-09-27,Brandys n. Labem,Prepere,1,2,3.89,3.70,1.73
+2025-09-27,Hlinsko,Vysoke Myto,1,2,1.99,3.89,2.89
+2025-09-27,Horni Redice,Chrudim B,4,1,1.56,4.32,4.22
+2025-09-27,Kosmonosy,Caslav,2,1,,,
+2025-09-28,Chlumec nad Cidlinou,Turnov,1,3,2.61,4.06,2.13
+2025-09-28,Police nad Metuji,Hradek nad Nisou,4,0,,,
+2025-09-28,Svitavy,Dobrovice,3,1,,,
+2025-09-28,Trutnov,Nachod,3,3,1.53,4.64,4.20
+2025-10-04,Chrudim B,Brandys n. Labem,1,1,1.82,4.04,3.38
+2025-10-04,Dobrovice,Kosmonosy,0,1,,,
+2025-10-04,Nachod,Chlumec nad Cidlinou,1,2,,,
+2025-10-04,Prepere,Hlinsko,3,3,,,
+2025-10-04,Vysoke Myto,Svitavy,2,1,1.17,6.73,9.95
+2025-10-05,Caslav,Trutnov,2,1,,,
+2025-10-05,Hradek nad Nisou,Horni Redice,3,0,,,
+2025-10-05,Turnov,Police nad Metuji,6,0,,,
+2025-10-11,Brandys n. Labem,Hradek nad Nisou,2,0,1.49,4.37,4.76
+2025-10-11,Hlinsko,Chrudim B,1,2,,,
+2025-10-11,Horni Redice,Turnov,3,1,2.41,3.90,2.30
+2025-10-11,Kosmonosy,Vysoke Myto,3,3,,,
+2025-10-11,Nachod,Caslav,0,3,,,
+2025-10-12,Chlumec nad Cidlinou,Police nad Metuji,1,0,1.44,4.73,5.03
+2025-10-12,Svitavy,Prepere,0,4,5.63,5.17,1.36
+2025-10-12,Trutnov,Dobrovice,3,0,1.64,3.67,4.30
+2025-10-18,Chrudim B,Svitavy,0,3,1.39,4.45,6.59
+2025-10-18,Dobrovice,Nachod,2,0,,,
+2025-10-18,Prepere,Kosmonosy,2,0,2.28,3.64,2.48
+2025-10-18,Vysoke Myto,Trutnov,2,0,,,
+2025-10-19,Caslav,Chlumec nad Cidlinou,1,0,,,
+2025-10-19,Hradek nad Nisou,Hlinsko,2,0,,,
+2025-10-19,Police nad Metuji,Horni Redice,0,4,,,
+2025-10-19,Turnov,Brandys n. Labem,2,2,,,
+2025-10-22,Police nad Metuji,Prepere,0,1,4.13,4.68,1.54
+2025-10-25,Brandys n. Labem,Police nad Metuji,3,4,1.45,4.31,5.34
+2025-10-25,Hlinsko,Turnov,7,1,2.72,3.68,2.21
+2025-10-25,Kosmonosy,Chrudim B,1,1,1.28,5.11,7.48
+2025-10-25,Nachod,Vysoke Myto,1,3,4.49,3.89,1.62
+2025-10-26,Caslav,Dobrovice,3,0,1.12,6.60,13.62
+2025-10-26,Chlumec nad Cidlinou,Horni Redice,1,2,2.10,3.69,2.72
+2025-10-26,Svitavy,Hradek nad Nisou,1,1,1.90,3.68,3.16
+2025-10-26,Trutnov,Prepere,3,2,2.40,3.52,2.40
+2025-11-01,Chrudim B,Trutnov,1,2,3.18,3.63,1.94
+2025-11-01,Dobrovice,Chlumec nad Cidlinou,0,4,,,
+2025-11-01,Horni Redice,Brandys n. Labem,3,0,1.42,4.54,5.47
+2025-11-01,Hradek nad Nisou,Kosmonosy,0,2,,,
+2025-11-01,Prepere,Nachod,3,2,1.22,6.00,8.90
+2025-11-01,Vysoke Myto,Caslav,2,1,,,
+2025-11-02,Turnov,Svitavy,3,3,1.37,4.46,6.86
+2025-11-08,Dobrovice,Vysoke Myto,1,5,4.84,4.26,1.49
+2025-11-08,Hlinsko,Horni Redice,0,4,2.49,3.62,2.37
+2025-11-08,Kosmonosy,Turnov,1,2,1.81,4.01,3.45
+2025-11-08,Nachod,Chrudim B,4,4,,,
+2025-11-09,Caslav,Prepere,0,0,1.88,3.78,3.28
+2025-11-09,Chlumec nad Cidlinou,Brandys n. Labem,2,2,1.49,4.24,5.16
+2025-11-09,Svitavy,Police nad Metuji,1,1,2.13,3.63,2.76
+2025-11-09,Trutnov,Hradek nad Nisou,1,0,1.30,5.35,6.99
+2025-11-15,Brandys n. Labem,Hlinsko,3,3,1.98,4.28,2.75
+2025-11-15,Chrudim B,Caslav,2,4,3.48,4.12,1.74
+2025-11-15,Horni Redice,Svitavy,3,0,,,
+2025-11-15,Hradek nad Nisou,Nachod,1,1,1.81,3.92,3.41
+2025-11-15,Kosmonosy,Police nad Metuji,1,1,,,
+2025-11-15,Prepere,Dobrovice,2,1,1.18,6.59,10.24
+2025-11-15,Turnov,Trutnov,3,2,2.17,3.71,2.71
+2025-11-15,Vysoke Myto,Chlumec nad Cidlinou,0,1,,,
+2025-11-23,Police nad Metuji,Hlinsko,5,1,2.03,3.65,2.94
+2026-03-07,Brandys n. Labem,Svitavy,1,1,1.83,3.90,3.37
+2026-03-07,Chrudim B,Dobrovice,2,0,,,
+2026-03-07,Horni Redice,Kosmonosy,2,1,,,
+2026-03-08,Caslav,Hradek nad Nisou,3,0,,,
+2026-03-08,Chlumec nad Cidlinou,Hlinsko,3,2,1.66,3.79,4.00
+2026-03-08,Police nad Metuji,Trutnov,1,4,,,
+2026-03-08,Turnov,Nachod,1,0,,,
+2026-03-14,Dobrovice,Hradek nad Nisou,1,1,2.14,3.64,2.73
+2026-03-14,Kosmonosy,Brandys n. Labem,3,0,1.64,4.13,3.88
+2026-03-14,Nachod,Police nad Metuji,2,0,,,
+2026-03-14,Prepere,Chlumec nad Cidlinou,1,1,,,
+2026-03-14,Vysoke Myto,Chrudim B,1,0,1.80,3.90,3.20
+2026-03-15,Caslav,Turnov,1,1,1.60,3.91,4.40
+2026-03-15,Svitavy,Hlinsko,4,3,2.85,3.57,2.10
+2026-03-15,Trutnov,Horni Redice,1,2,2.20,3.64,2.66
+2026-03-21,Brandys n. Labem,Trutnov,5,2,2.80,3.44,2.16
+2026-03-21,Chrudim B,Prepere,0,3,2.63,3.27,2.37
+2026-03-21,Hlinsko,Kosmonosy,5,1,2.43,3.85,2.25
+2026-03-21,Horni Redice,Nachod,5,2,1.34,5.08,6.07
+2026-03-21,Hradek nad Nisou,Vysoke Myto,0,2,,,
+2026-03-22,Chlumec nad Cidlinou,Svitavy,4,1,1.35,4.59,6.89
+2026-03-22,Police nad Metuji,Caslav,1,2,,,
+2026-03-22,Turnov,Dobrovice,3,0,1.28,5.26,7.55
+2026-03-28,Chrudim B,Chlumec nad Cidlinou,0,2,3.28,3.65,1.90
+2026-03-28,Dobrovice,Police nad Metuji,1,1,,,
+2026-03-28,Kosmonosy,Svitavy,4,0,1.50,4.18,4.87
+2026-03-28,Nachod,Brandys n. Labem,2,2,,,
+2026-03-28,Prepere,Hradek nad Nisou,3,0,1.23,5.49,8.89
+2026-03-28,Vysoke Myto,Turnov,1,1,,,
+2026-03-29,Caslav,Horni Redice,2,1,,,
+2026-03-29,Trutnov,Hlinsko,1,3,1.72,4.15,3.55
+2026-04-03,Brandys n. Labem,Caslav,1,1,3.62,3.81,1.75
+2026-04-03,Chlumec nad Cidlinou,Kosmonosy,2,1,1.80,3.83,3.38
+2026-04-03,Hlinsko,Nachod,3,1,1.53,4.34,4.39
+2026-04-03,Horni Redice,Dobrovice,5,0,1.22,5.80,8.45
+2026-04-03,Turnov,Prepere,0,3,2.34,3.52,2.51
+2026-04-04,Hradek nad Nisou,Chrudim B,1,2,1.93,3.50,3.31
+2026-04-05,Police nad Metuji,Vysoke Myto,0,0,,,
+2026-04-05,Svitavy,Trutnov,0,0,,,
+2026-04-11,Chrudim B,Turnov,1,2,,,
+2026-04-11,Dobrovice,Brandys n. Labem,2,2,,,
+2026-04-11,Nachod,Svitavy,1,2,1.78,3.81,3.57
+2026-04-11,Prepere,Police nad Metuji,0,1,1.38,4.63,5.79
+2026-04-11,Vysoke Myto,Horni Redice,2,0,,,
+2026-04-12,Caslav,Hlinsko,3,2,1.46,4.35,5.17
+2026-04-12,Hradek nad Nisou,Chlumec nad Cidlinou,1,0,5.14,3.95,1.53
+2026-04-12,Trutnov,Kosmonosy,3,3,2.36,3.58,2.46
+2026-04-18,Brandys n. Labem,Vysoke Myto,1,1,,,
+2026-04-18,Hlinsko,Dobrovice,2,1,1.24,5.45,8.89
+2026-04-18,Horni Redice,Prepere,1,0,2.29,3.58,2.51
+2026-04-18,Kosmonosy,Nachod,2,0,1.39,4.58,5.86
+2026-04-19,Chlumec nad Cidlinou,Trutnov,1,2,1.56,4.26,4.35
+2026-04-19,Police nad Metuji,Chrudim B,2,0,1.78,3.81,3.57
+2026-04-19,Svitavy,Caslav,1,4,4.66,3.99,1.55
+2026-04-19,Turnov,Hradek nad Nisou,3,1,1.43,4.36,5.71
+2026-04-22,Prepere,Vysoke Myto,0,2,2.27,3.85,2.42
+2026-04-25,Dobrovice,Svitavy,1,3,,,
+2026-04-25,Nachod,Trutnov,2,2,,,
+2026-04-25,Prepere,Brandys n. Labem,2,1,,,
+2026-04-25,Vysoke Myto,Hlinsko,3,0,,,
+2026-04-26,Caslav,Kosmonosy,4,3,1.56,4.13,4.44
+2026-04-26,Chrudim B,Horni Redice,2,0,,,
+2026-04-26,Hradek nad Nisou,Police nad Metuji,0,1,,,
+2026-04-26,Turnov,Chlumec nad Cidlinou,3,3,,,
+2026-05-01,Brandys n. Labem,Chrudim B,1,1,1.75,3.65,3.76
+2026-05-01,Chlumec nad Cidlinou,Nachod,1,2,1.30,5.10,7.13
+2026-05-01,Hlinsko,Prepere,4,1,2.59,3.39,2.30
+2026-05-01,Horni Redice,Hradek nad Nisou,2,1,1.19,5.94,11.18
+2026-05-01,Kosmonosy,Dobrovice,6,1,1.33,4.75,7.16
+2026-05-03,Police nad Metuji,Turnov,2,0,,,
+2026-05-03,Svitavy,Vysoke Myto,1,1,,,
+2026-05-03,Trutnov,Caslav,1,2,2.91,3.49,2.07
+2026-05-08,Turnov,Horni Redice,3,2,2.35,3.82,2.37
+2026-05-09,Chrudim B,Hlinsko,5,0,2.04,3.58,2.95
+2026-05-09,Dobrovice,Trutnov,2,4,,,
+2026-05-09,Prepere,Svitavy,1,0,1.29,5.13,7.52
+2026-05-09,Vysoke Myto,Kosmonosy,1,1,,,
+2026-05-10,Caslav,Nachod,6,1,1.20,6.07,10.30
+2026-05-10,Hradek nad Nisou,Brandys n. Labem,1,2,2.34,3.57,2.52
+2026-05-10,Police nad Metuji,Chlumec nad Cidlinou,2,1,2.22,3.56,2.64
+2026-05-16,Brandys n. Labem,Turnov,3,1,,,
+2026-05-16,Hlinsko,Hradek nad Nisou,1,0,1.51,4.14,4.81
+2026-05-16,Horni Redice,Police nad Metuji,3,3,,,
+2026-05-16,Kosmonosy,Prepere,5,1,,,
+2026-05-16,Nachod,Dobrovice,3,0,1.42,4.65,5.44
+2026-05-17,Chlumec nad Cidlinou,Caslav,1,0,3.64,3.67,1.78
+2026-05-17,Svitavy,Chrudim B,1,2,2.50,3.68,2.33
+2026-05-17,Trutnov,Vysoke Myto,0,0,,,
+2026-05-23,Chrudim B,Kosmonosy,1,2,,,
+2026-05-23,Dobrovice,Caslav,2,5,13.16,6.80,1.14
+2026-05-23,Horni Redice,Chlumec nad Cidlinou,4,0,,,
+2026-05-23,Prepere,Trutnov,4,1,1.80,4.12,3.18
+2026-05-23,Vysoke Myto,Nachod,3,0,,,
+2026-05-24,Hradek nad Nisou,Svitavy,3,3,,,
+2026-05-24,Police nad Metuji,Brandys n. Labem,1,1,2.15,3.80,2.57
+2026-05-24,Turnov,Hlinsko,4,0,1.60,4.06,4.11
+2026-05-30,Brandys n. Labem,Horni Redice,1,4,,,
+2026-05-30,Hlinsko,Police nad Metuji,2,2,1.92,3.69,3.07
+2026-05-30,Kosmonosy,Hradek nad Nisou,1,2,1.40,4.34,5.81
+2026-05-30,Nachod,Prepere,1,2,3.19,3.48,1.94
+2026-05-31,Caslav,Vysoke Myto,1,4,,,
+2026-05-31,Chlumec nad Cidlinou,Dobrovice,0,1,,,
+2026-05-31,Svitavy,Turnov,4,3,,,
+2026-05-31,Trutnov,Chrudim B,2,3,,,
+2026-06-06,Brandys n. Labem,Chlumec nad Cidlinou,1,1,,,
+2026-06-06,Horni Redice,Hlinsko,3,1,,,
+2026-06-06,Prepere,Caslav,4,1,,,
+2026-06-06,Vysoke Myto,Dobrovice,3,0,,,
+2026-06-07,Chrudim B,Nachod,3,1,1.39,4.68,5.61
+2026-06-07,Hradek nad Nisou,Trutnov,1,2,,,
+2026-06-07,Police nad Metuji,Svitavy,2,4,,,
+2026-06-07,Turnov,Kosmonosy,3,3,,,
+2026-06-13,Caslav,Chrudim B,1,2,,,
+2026-06-13,Chlumec nad Cidlinou,Vysoke Myto,1,4,,,
+2026-06-13,Dobrovice,Prepere,0,1,,,
+2026-06-13,Hlinsko,Brandys n. Labem,0,7,,,
+2026-06-13,Nachod,Hradek nad Nisou,4,0,,,
+2026-06-13,Police nad Metuji,Kosmonosy,5,1,,,
+2026-06-13,Svitavy,Horni Redice,2,4,,,
+2026-06-13,Trutnov,Turnov,2,4,,,
