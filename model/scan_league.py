@@ -167,6 +167,14 @@ NAME_ALIASES = {
     "KS Stilon Gorzow Wlkp": "Stilon Gorzow", "Karkonosze Jelenia Gora": "Jelenia Gora",
     "LKS Goczalkowice-Zdroj": "Goczalkowice Zdroj", "MKS Kluczbork": "Kluczbork",
     "Miedz Legnica II": "Legnica II", "Mkp Carina Gubin": "Carina Gubin",
+    # Polen III Liga grupp 4
+    "AKS 1947 Busko Zdroj": "Busko-Zdroj", "JKS 1909 Jaroslaw": "Jaroslaw",
+    "KS Hetman Zamosc": "Hetman Zamosc", "KS Naprzod Jedrzejow": "Naprzod Jedrzejow",
+    "KS Wisloka Debica": "Wisloka Debica", "KSZO Ostrowiec Swietokrzyski": "Ostrowiec Swietokrzyski",
+    "Korona II Kielce SA": "Korona Kielce II", "MKS Czarni Polaniec": "Czarni Polaniec",
+    "MKS Podlasie Biala Podlaska": "Biala Podlaska", "Pogon Sokol Lubaczow": "Lubaczow",
+    "Sokol Kolbuszowa Dolna": "Kolbuszowa Dolna", "Wieczysta II Krakow": "Wieczysta Krakow II",
+    "Wisla II Krakow": "Wisla II",
 
     # Tyskland 3. Liga
     "1. FC Saarbrucken": "Saarbrucken", "FC Ingolstadt 04": "Ingolstadt",
