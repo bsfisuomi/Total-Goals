@@ -92,8 +92,12 @@ LEAGUE_SLUGS = {
     # heter "Divize"/"CFL"/"MSFL" dar utan nummer-prefix).
     "czech-chance-liga": ["czechia-1-liga"],
     "czech-chnl": ["czechia-fnl"],
-    "czech-3-cfl-group-a": ["czechia-cfl-group-a"],
-    "czech-3-cfl-group-b": ["czechia-cfl-group-b"],
+    # OBS: odds-api.io taggar matcher fran bada CFL-grupperna oforutsagbart
+    # under bada sluggarna (samma problem som Sverige Ettan ovan) - vi
+    # fragar darfor bada sluggarna for bada liga-nycklarna och later
+    # resolve_team mot ratt CSV sortera ut vilka som faktiskt hor hit.
+    "czech-3-cfl-group-a": ["czechia-cfl-group-a", "czechia-cfl-group-b"],
+    "czech-3-cfl-group-b": ["czechia-cfl-group-a", "czechia-cfl-group-b"],
     "czech-3-msfl": ["czechia-msfl"],
     "czech-4-liga-group-a": ["czechia-divize-a"],
     "czech-4-liga-group-b": ["czechia-divize-b"],
@@ -406,6 +410,104 @@ NAME_ALIASES = {
     "Ehime FC": "Ehime", "Roasso Kumamoto": "Kumamoto",
     "Blaublitz Akita": "Blaublitz", "Iwaki FC": "Iwaki",
     "Vanraure Hashima": "Vanraure",
+
+    # Tjeckien - Chance Liga (verifierat via scan 2026-10-01)
+    "1. FC Slovacko Uherske Hradiste": "Slovacko", "Bohemians Prague 1905": "Bohemians",
+    "FC Banik Ostrava": "Ostrava", "FC Hradec Kralove": "Hradec Kralove",
+    "FC Slovan Liberec": "Liberec", "FC Viktoria Plzen": "Plzen",
+    "FC Zbrojovka Brno": "Brno", "FC Zlin": "Zlin",
+    "FK Jablonec": "Jablonec", "FK Mlada Boleslav": "Mlada Boleslav",
+    "FK Teplice": "Teplice", "SK Artis Brno": "Artis Brno",
+    "SK Sigma Olomouc": "Sigma Olomouc",
+    # Tjeckien - ChNL
+    "1.SK Prostejov": "Prostejov", "FC Banik Ostrava B": "Ostrava B",
+    "FC Silon Taborsko": "Taborsko", "FC Vlasim": "Vlasim",
+    "FC Vysocina Jihlava": "Jihlava", "FK Arsenal Ceska Lipa": "FK Ceska Lipa",
+    "FK Fotbal Trinec": "Trinec", "FK Pribram": "Pribram",
+    "FK Usti nad Labem": "Usti nad Labem", "FK Viktoria Zizkov": "Zizkov",
+    "MFK Karvina": "Karvina", "SFC Opava": "Opava",
+    "SK Hanacka Slavia Kromeriz": "Kromeriz", "SK Slavia Prague B": "Slavia Prague B",
+    # Tjeckien - 3. CFL Group A + B (odds-api.io taggar matcher fran bada
+    # grupperna under bada sluggarna - samma losning som Sverige ovan: vi
+    # fragar bada sluggarna for bada liga-nycklarna och later resolve_team
+    # mot ratt CSV filtrera ut de som faktiskt hor till just den gruppen)
+    "Bohemians Prague 1905 B": "Bohemians 1905 B", "FC Hradec Kralove B": "Hradec Kralove B",
+    "FC Pisek": "Pisek", "FC Slovan Liberec B": "Liberec B",
+    "FC Viktoria Plzen B": "Plzen B", "FK Admira Prague": "Admira Prague",
+    "FK Banik Most-Sous": "Banik Most-Sous", "FK Caslav": "Caslav",
+    "FK Horni Redice": "Horni Redice", "FK Jablonec B": "Jablonec B",
+    "FK Kraluv Dvur": "Kraluv Dvur", "FK Loko Prague": "Loko Praha",
+    "FK Mlada Boleslav B": "Mlada Boleslav B", "FK Motorlet Prague": "Motorlet Prague",
+    "FK Pardubice B": "Pardubice B", "FK Pribram B": "Pribram B",
+    "FK Teplice B": "Teplice B", "FK Varnsdorf": "Varnsdorf",
+    "FK Velke Hamry": "Velke Hamry", "MFK Chrudim": "Chrudim",
+    "SK Aritma Prague": "Aritma Prague", "SK Benatky Nad Jizerou": "Benatky n. Jiz.",
+    "SK Benesov": "Benesov", "SK Dynamo Ceske Budejovice": "Ceske Budejovice",
+    "SK Slavia Prague C": "Slavia Prague U20", "SK Sokol Brozany": "Brozany",
+    "SK Zapy": "Zapy", "Tj Jiskra Domazlice": "Domazlice",
+    # OBS: "N. Byskovice" (dyker upp hos odds-api.io i 3. CFL) saknas helt i
+    # var historik for bada grupperna - troligen ett lag vi missat vid
+    # insamlingen eller en nyuppfluttad klubb. Loses tyst over tills vidare.
+    # Tjeckien - 3. MSFL
+    "1. FC Slovacko B": "Slovacko B", "CSK Uhersky Brod": "Uhersky Brod",
+    "FC Vsetin": "Vsetin", "FC Zbrojovka Brno B": "Brno B",
+    "FC Zlin B": "Zlin B", "FK Blansko": "Blansko",
+    "FK Hodonin": "Hodonin", "MFK Havirov": "Havirov",
+    "MFK Vitkovice": "Vitkovice", "MFk Karvina B": "Karvina B",
+    "SFK Vrchovina": "Nove Mesto na Morave", "SK Artis B": "Artis Brno B",
+    "SK Polanka Nad Odrou": "Polanka nad Odrou", "SK Sigma Olomouc B": "Sigma Olomouc B",
+    "SK Unicov": "Unicov", "TJ Unie Hlubina": "Hlubina",
+    # Tjeckien - 4. Liga Group A
+    "FC Rokycany": "Rokycany", "FC Taborsko Akademie": "Taborsko akademie",
+    "FK Krimice": "Krimice", "FK Okula Nyrsko": "Nyrsko",
+    "FK Slavoj Cesky Krumlov": "Cesky Krumlov", "FK Spartak Sobeslav": "Sobeslav",
+    "SK Horovice": "Horovice", "SK Petrin Plzen": "Petrin Plzen",
+    "SK Senco Doubravka": "Doubravka", "SK Strakonice": "SK Strakonice 1908",
+    "TJ Hluboka Nad Vlatvou": "Hluboka nad Vltavou", "Tj Jiskra Domazlice B": "Domazlice B",
+    "ZVVZ Milevsko": "Milevsko",
+    # OBS: "SK Dynamo Ceske Budejovice B" saknas i var historik for 4. Liga
+    # Group A - ingen traff i CSV:erna, loses tyst over tills vidare.
+    # Tjeckien - 4. Liga Group B
+    "Brandys Nad Labem": "Brandys n. Labem", "FC Chomutov": "Chomutov",
+    "FC Hvezda Cheb": "Hvezda Cheb", "FC Slavia Karlovy Vary": "Karlovy Vary",
+    "FC Slavoj Vysehrad": "Vysehrad", "FK Banik Sokolov": "Sokolov",
+    "FK Meteor Prague VIII": "Meteor Prague", "FK Ostrov": "Ostrov",
+    "FK Usti Nad Labem II": "Usti nad Labem B", "SK Rapid Psary": "Psary",
+    "SK Slany": "Slany", "SK Steti": "Steti",
+    "SK Ujezd Praha 4": "Ujezd Prague", "Sokol Hostoun": "Hostoun",
+    "Tj Slovan Velvary": "Velvary",
+    # Tjeckien - 4. Liga Group C
+    "FC Hlinsko": "Hlinsko", "FC Slavia HK": "Slavia HK",
+    "FK Cechie Vykan": "Vykan", "FK Chlumec Nad Cidlinou": "Chlumec nad Cidlinou",
+    "FK Prepere": "Prepere", "FK Turnov": "Turnov",
+    "MFK Trutnov": "Trutnov", "MFk Chrudim B": "Chrudim B",
+    "SK Kosmonosy": "Kosmonosy", "SK Sparta Kolin": "Kolin",
+    "Spartak Police Nad Metuji": "Police nad Metuji", "Tj Dvur Kralove Nad Labem": "Dvur Kralove",
+    "Tj Jiskra Usti Nad Orlici": "Usti nad Orlici",
+    # Tjeckien - 4. Liga Group D
+    "1. SC Znojmo FK": "Znojmo", "AFC Humpolec": "Humpolec",
+    "FC Chotebor": "Chotebor", "FC Dosta Bystrc-Kninicky": "Bystrc",
+    "FC Kurim": "Kurim", "FC PBS Velka Bites": "Velka Bites",
+    "FC Slovan Havlickuv Brod": "Havlickuv Brod", "FC Sparta Brno": "Sparta Brno",
+    "FC Velke Mezirici": "Velke Mezirici", "FK Pelhimov": "Pelhrimov",
+    "SK Tatran Zdirec Nad Doubravou": "Zdirec n. D.", "TJ Sokol Tasovice": "Tasovice",
+    "TJ Tatran Bohunice": "Bohunice", "Zdar Nad Sazavou": "Zdar nad Sazavou",
+    # Tjeckien - 4. Liga Group E
+    "1. SK Prostejov B": "Prostejov B", "FC Brumov": "Brumov",
+    "FC Strani": "Strani", "FC Tvd Slavicin": "Slavicin",
+    "FK Bzenec Vracov": "Bzenec-Vracov", "FK Nove Sady": "Nove Sady",
+    "MSK Breclav": "Breclav", "SK Batov 1930": "Batov",
+    "SK Hs Kromeriz B": "Kromeriz B", "Sfk Elko Holesov": "Holesov",
+    "Spartak Hluk": "Hluk", "Tatran Vsechovice": "Vsechovice",
+    "Tj Sokol Lanzhot": "Lanzhot",
+    # Tjeckien - 4. Liga Group F
+    "1. Bfk Frydlant Nad Ostravici": "Frydlant n. O.", "FC Hlucin": "Hlucin",
+    "FC Vratimov": "Vratimov", "FK Bilovec": "Bilovec",
+    "FK Bospor Bohumin": "Bohumin", "FK Frydek-Mistek B": "Frydek-Mistek B",
+    "FK Novy Jicin": "Novy Jicin", "FK Sumperk": "Sumperk",
+    "MFK Kravare": "Kravare", "SK Jiskra Rymarov": "Rymarov",
+    "SK Stonava": "Stonava", "SK Sulko Zabreh": "Zabreh",
+    "TJ Bridlicna": "Bridlicna", "Tj Valasske Mezirici": "Valasske Mezirici",
 }
 
 
