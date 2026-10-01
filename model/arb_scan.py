@@ -22,6 +22,18 @@ Metod:
 Anvandning:
     python3 arb_scan.py <liga-nyckel> [<liga-nyckel> ...]
     python3 arb_scan.py sweden-norra sweden-sodra --send
+    python3 arb_scan.py all              # skannar bara de ~30 ligor var modell kanner till
+    python3 arb_scan.py all-leagues      # skannar ALLA fotbollsligor odds-api.io har (se varning nedan)
+    python3 arb_scan.py all-leagues --send
+
+OBS om "all-leagues": den hamtar forst HELA ligalistan fran odds-api.io
+(forvantat nagra hundra ligor over hela varlden - inte bara de vi redan
+foljer), och kollar varje liga for kommande matcher dar bade Bet365 OCH
+Veikkaus har odds. Det ar BETYDLIGT fler API-anrop an "all" (en /events-
+anrop per liga, plus ett /odds-anrop per match som har bada bookmakarna).
+Kor det forst en gang i smaskala (tex en enskild liga, eller "all") for
+att se att allt fungerar, innan du kor hela varlden - annars kan du slosa
+en stor del av din dagliga API-kvot pa en kors.
 
 OBS: kravs riktig natverksatkomst (odds-api.io + Telegram), kor lokalt,
 inte i Claudes sandlada. Samma .env som scan_league.py anvander.
@@ -32,9 +44,7 @@ import sys
 import time
 
 sys.path.insert(0, os.path.dirname(__file__))
-from tot_model import LEAGUES
-from scan_league import LEAGUE_SLUGS, api_get, resolve_team
-from tot_model import load_league
+from scan_league import LEAGUE_SLUGS, api_get
 from telegram_bot import send_message, load_env, format_report_chunks
 
 VEIKKAUS_NAME = "Veikkaus"  # uppdatera om check_veikkaus.py visar ett annat namn
@@ -44,6 +54,12 @@ MIN_ARB_PROFIT = 0.01   # minsta garanterade vinstmarginal (1%) for att rakna so
 
 def get_upcoming_events(league_slug):
     return api_get("/events", {"sport": "football", "league": league_slug})
+
+
+def get_all_football_league_slugs():
+    """Hamtar HELA ligalistan fran odds-api.io (inte bara de vi redan kanner till)."""
+    leagues = api_get("/leagues", {"sport": "football"})
+    return [(lg["slug"], lg.get("name", lg["slug"])) for lg in leagues]
 
 
 def get_both_odds(event_id):
@@ -139,24 +155,24 @@ def check_totals(bet365_totals, veikkaus_totals, match_label):
     return hits
 
 
-def scan_league(league_key):
-    known_teams = None
-    try:
-        matches = load_league(league_key)
-        known_teams = set(m["hemmalag"] for m in matches) | set(m["bortalag"] for m in matches)
-    except Exception:
-        pass  # arb-scan behover inte var egen historik, bara for att visa snyggare lagnamn
-
+def scan_slugs(label, slugs):
+    """Skannar en lista odds-api.io-ligaslugar (oavsett om de kommer fran var egen
+    LEAGUE_SLUGS eller fran hela /leagues-listan) och letar efter Bet365+Veikkaus-
+    avvikelser pa deras kommande matcher."""
     seen_ids = set()
     events = []
-    for slug in LEAGUE_SLUGS.get(league_key, []):
+    for slug in slugs:
         for ev in get_upcoming_events(slug):
             if ev["id"] in seen_ids:
                 continue
             seen_ids.add(ev["id"])
             events.append(ev)
+        time.sleep(0.2)
 
-    print(f"  -> {len(events)} kommande matcher for {league_key}", file=sys.stderr)
+    if not events:
+        return []
+
+    print(f"  -> {len(events)} kommande matcher for {label}", file=sys.stderr)
 
     all_hits = []
     for ev in events:
@@ -179,8 +195,12 @@ def scan_league(league_key):
 
         time.sleep(0.3)
 
-    print(f"  -> {len(all_hits)} avvikelser/arbitrage hittade i {league_key}", file=sys.stderr)
+    print(f"  -> {len(all_hits)} avvikelser/arbitrage hittade i {label}", file=sys.stderr)
     return all_hits
+
+
+def scan_league(league_key):
+    return scan_slugs(league_key, LEAGUE_SLUGS.get(league_key, []))
 
 
 def format_hit(h):
@@ -216,13 +236,31 @@ def main():
         sys.exit(1)
 
     all_hits = []
-    for key in league_keys:
-        if key not in LEAGUE_SLUGS or not LEAGUE_SLUGS[key]:
-            print(f"Hoppar over {key} (ingen odds-api.io-slug registrerad)", file=sys.stderr)
-            continue
-        print(f"Skannar {key}...", file=sys.stderr)
-        all_hits.extend(scan_league(key))
-        time.sleep(0.3)
+
+    if league_keys == ["all-leagues"]:
+        # Skanna HELA odds-api.io:s ligalista, inte bara de ~30 vi kanner till
+        # fran var egen modell. Detta ar mycket storre an "all" - se varningen
+        # i filens docstring innan du kor detta.
+        print("Hamtar hela ligalistan fran odds-api.io...", file=sys.stderr)
+        all_slugs = get_all_football_league_slugs()
+        print(f"Hittade {len(all_slugs)} fotbollsligor totalt - skannar alla...", file=sys.stderr)
+        for i, (slug, name) in enumerate(all_slugs, 1):
+            print(f"[{i}/{len(all_slugs)}] {name} ({slug})", file=sys.stderr)
+            all_hits.extend(scan_slugs(name, [slug]))
+    elif league_keys == ["all"]:
+        # skanna varenda liga vi har en odds-api.io-slug registrerad for
+        for key in [k for k, slugs in LEAGUE_SLUGS.items() if slugs]:
+            print(f"Skannar {key}...", file=sys.stderr)
+            all_hits.extend(scan_league(key))
+            time.sleep(0.3)
+    else:
+        for key in league_keys:
+            if key not in LEAGUE_SLUGS or not LEAGUE_SLUGS[key]:
+                print(f"Hoppar over {key} (ingen odds-api.io-slug registrerad)", file=sys.stderr)
+                continue
+            print(f"Skannar {key}...", file=sys.stderr)
+            all_hits.extend(scan_league(key))
+            time.sleep(0.3)
 
     # sortera: arbitrage forst (storst vinst forst), sedan storsta avvikelser
     arb_hits = sorted([h for h in all_hits if h["type"] == "arbitrage"], key=lambda h: -h["profit_pct"])
