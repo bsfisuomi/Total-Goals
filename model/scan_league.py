@@ -18,12 +18,19 @@ Miljovariabler som kravs (las in fran .env i projektroten, se telegram_bot.load_
 
 Anvandning:
     python3 scan_league.py <liga-nyckel> [<liga-nyckel> ...]
+    python3 scan_league.py all                                     # skannar ALLA ligor
 
 Exempel:
     python3 scan_league.py poland sweden-norra sweden-sodra
     python3 scan_league.py poland sweden-norra sweden-sodra --send   # skickar till Telegram
+    python3 scan_league.py all --send
 
-Liga-nycklar: se LEAGUES i tot_model.py (poland, sweden-norra, sweden-sodra, japan-j1).
+Liga-nycklar: se LEAGUES i tot_model.py.
+
+Med --send: value-fynd som redan skickats till Telegram tidigare (sparas i
+sent_bets.json i projektroten) skickas INTE igen - bara nya fynd. De syns
+fortfarande i den vanliga utskriften pa skarmen, bara inte i det som gar
+till Telegram.
 """
 
 import os
@@ -33,6 +40,7 @@ import json
 import gzip
 import urllib.request
 import urllib.parse
+from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
 from tot_model import load_league, team_tot_snitt, dnb_probabilities, predict_tot, LAST_N, LEAGUES
@@ -479,6 +487,7 @@ def scan_league(league_key, min_ev=MIN_EV):
         if hit:
             hits.append({
                 "league": league_key,
+                "event_id": ev["id"],
                 "match": f"{ev['home']} - {ev['away']}",
                 "market": "Goal Line",
                 "side": hit["sida"],
@@ -496,6 +505,52 @@ def scan_league(league_key, min_ev=MIN_EV):
     return hits
 
 
+# Lokal fil som kommer ihag vilka value-bets som redan skickats till Telegram,
+# sa vi inte skickar samma fynd flera ganger pa rad nar vi kor skannern om och
+# om igen (t.ex. varje timme). Ligger i projektroten, delas INTE via git
+# (lagg garna till den i .gitignore om den inte redan ar det).
+SENT_LOG_PATH = os.path.join(os.path.dirname(__file__), "..", "sent_bets.json")
+SENT_LOG_MAX_AGE_DAYS = 14  # efter sa har manga dagar antar vi att matchen spelats klart
+
+
+def hit_key(h):
+    """Unik nyckel per (match, marknad, sida, linje) - anvands for att avgora
+    om ett fynd redan skickats tidigare."""
+    return f"{h.get('event_id', '?')}|{h['market']}|{h['side']}|{h.get('line')}"
+
+
+def load_sent_log():
+    if not os.path.exists(SENT_LOG_PATH):
+        return {}
+    try:
+        with open(SENT_LOG_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def save_sent_log(log):
+    with open(SENT_LOG_PATH, "w", encoding="utf-8") as f:
+        json.dump(log, f, indent=2, ensure_ascii=False)
+
+
+def prune_sent_log(log):
+    """Tar bort gamla rader (aldre an SENT_LOG_MAX_AGE_DAYS) sa filen inte vaxer
+    for alltid, och sa samma match nasta sasong kan trigga en ny alert igen."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=SENT_LOG_MAX_AGE_DAYS)
+    stale = []
+    for key, entry in log.items():
+        try:
+            sent_at = datetime.fromisoformat(entry["sent_at"])
+        except (KeyError, ValueError):
+            stale.append(key)
+            continue
+        if sent_at < cutoff:
+            stale.append(key)
+    for key in stale:
+        del log[key]
+
+
 def main():
     args = sys.argv[1:]
     send = "--send" in args
@@ -504,6 +559,10 @@ def main():
     if not league_keys:
         print(__doc__)
         sys.exit(1)
+
+    if league_keys == ["all"]:
+        league_keys = list(LEAGUES.keys())
+        print(f"Skannar ALLA {len(league_keys)} ligor...", file=sys.stderr)
 
     all_hits = []
     for key in league_keys:
@@ -518,13 +577,31 @@ def main():
     print(report)
 
     if send:
-        chunks = format_report_chunks(all_hits)
-        for i, chunk in enumerate(chunks, 1):
-            send_message(chunk)
-            if len(chunks) > 1:
-                print(f"Skickat till Telegram ({i}/{len(chunks)}).", file=sys.stderr)
-            else:
-                print("Skickat till Telegram.", file=sys.stderr)
+        sent_log = load_sent_log()
+        new_hits = [h for h in all_hits if hit_key(h) not in sent_log]
+        already_sent = len(all_hits) - len(new_hits)
+        if already_sent:
+            print(f"({already_sent} av {len(all_hits)} fynd var redan skickade tidigare - hoppar over dem)", file=sys.stderr)
+
+        if not new_hits:
+            print("Inga NYA value-fynd att skicka.", file=sys.stderr)
+        else:
+            chunks = format_report_chunks(new_hits)
+            for i, chunk in enumerate(chunks, 1):
+                send_message(chunk)
+                if len(chunks) > 1:
+                    print(f"Skickat till Telegram ({i}/{len(chunks)}).", file=sys.stderr)
+                else:
+                    print("Skickat till Telegram.", file=sys.stderr)
+
+            now = datetime.now(timezone.utc).isoformat()
+            for h in new_hits:
+                sent_log[hit_key(h)] = {
+                    "sent_at": now, "league": h["league"], "match": h["match"],
+                    "side": h["side"], "line": h.get("line"),
+                }
+            prune_sent_log(sent_log)
+            save_sent_log(sent_log)
 
 
 if __name__ == "__main__":
