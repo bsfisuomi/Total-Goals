@@ -433,6 +433,37 @@ def get_upcoming_events(league_slug):
     return api_get("/events", {"sport": "football", "league": league_slug})
 
 
+MAX_ROUNDS_AHEAD = 2  # hur manga "omgangar" (kalenderveckor med minst en match) framat vi skannar
+
+
+def event_date(ev):
+    try:
+        return datetime.fromisoformat(ev["date"].replace("Z", "+00:00"))
+    except (KeyError, ValueError, TypeError, AttributeError):
+        return None
+
+
+def limit_to_next_rounds(events, max_rounds=MAX_ROUNDS_AHEAD):
+    """Begransar till de narmaste max_rounds 'omgangarna' istallet for att skanna
+    hela sasongen framat - en omgang rammas in som en kalendervecka (man-son)
+    med minst en match, sa en helg (fre-son) raknas som EN omgang, inte tre.
+    Events utan tolkbart datum behalls (hellre skanna for mycket an missa nagot)."""
+    dated = [(event_date(ev), ev) for ev in events]
+    undated = [ev for d, ev in dated if d is None]
+    dated = sorted([(d, ev) for d, ev in dated if d is not None], key=lambda x: x[0])
+
+    weeks_seen = []
+    result = []
+    for d, ev in dated:
+        wk = (d.isocalendar()[0], d.isocalendar()[1])
+        if wk not in weeks_seen:
+            if len(weeks_seen) >= max_rounds:
+                break
+            weeks_seen.append(wk)
+        result.append(ev)
+    return result + undated
+
+
 def get_event_odds(event_id):
     return api_get("/odds", {"eventId": event_id, "bookmakers": "Bet365"})
 
@@ -451,7 +482,10 @@ def scan_league(league_key, min_ev=MIN_EV):
             seen_ids.add(ev["id"])
             events.append(ev)
 
-    print(f"  -> {len(events)} kommande matcher hittade hos odds-api.io for {league_key}", file=sys.stderr)
+    n_total = len(events)
+    events = limit_to_next_rounds(events)
+    print(f"  -> {n_total} kommande matcher hittade hos odds-api.io for {league_key}, "
+          f"skannar de narmaste {MAX_ROUNDS_AHEAD} omgangarna ({len(events)} matcher)", file=sys.stderr)
 
     n_resolved = 0
     n_with_odds = 0
