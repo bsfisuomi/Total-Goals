@@ -108,7 +108,7 @@ LEAGUE_SLUGS = {
     "slovenia-3-snl-west": ["slovenia-3-snl-west"],
 }
 
-MIN_EV = 0.10  # minsta EV for att trigga en Telegram-alert (se find_goal_line_value)
+MIN_EV = 0.13  # minsta EV for att trigga en Telegram-alert (se find_goal_line_value)
 
 # Kanda namnvarianter: API-namn -> namn i var historik-CSV
 NAME_ALIASES = {

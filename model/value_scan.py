@@ -101,7 +101,7 @@ def find_value(model_tot, bet365_totals, min_edge=0.04):
     return hits
 
 
-def find_goal_line_value(model_tot, totals_odds, min_ev=0.10):
+def find_goal_line_value(model_tot, totals_odds, min_ev=0.13):
     """
     Filter for Telegram-alerts. Anvander Bet365s riktiga "Goal Line"
     (den linje som visas under fliken "Goal Line" pa bet365.com - inte
