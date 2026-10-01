@@ -1,4 +1,244 @@
 datum,hemmalag,bortalag,hemmamal,bortamal,hemmaodds,oavgjortodds,bortaodds
+2025-07-18,FK Pardubice,Plzen,1,5,8.55,5.06,1.31
+2025-07-19,Bohemians,Ostrava,1,0,3.57,3.64,1.93
+2025-07-19,Jablonec,Sparta Prague,1,1,3.34,3.41,2.07
+2025-07-19,Karvina,Dukla Prague,2,0,1.90,3.52,3.80
+2025-07-19,Teplice,Zlin,1,3,1.90,3.33,4.03
+2025-07-20,Mlada Boleslav,Liberec,3,3,2.58,3.14,2.72
+2025-07-20,Slavia Prague,Hradec Kralove,2,2,1.17,7.04,13.31
+2025-07-20,Slovacko,Sigma Olomouc,0,1,2.91,3.27,2.35
+2025-07-26,Bohemians,Slavia Prague,0,2,10.67,5.60,1.25
+2025-07-26,Hradec Kralove,Karvina,1,2,1.62,3.88,5.00
+2025-07-26,Plzen,Jablonec,1,1,1.42,4.63,6.57
+2025-07-26,Sigma Olomouc,Dukla Prague,0,0,1.67,3.86,4.67
+2025-07-26,Zlin,Slovacko,1,1,2.14,3.23,3.38
+2025-07-27,Liberec,FK Pardubice,2,1,1.42,4.48,6.88
+2025-07-27,Sparta Prague,Mlada Boleslav,3,2,1.34,5.24,7.45
+2025-08-02,Jablonec,Hradec Kralove,2,0,1.76,3.53,4.55
+2025-08-02,Karvina,Zlin,0,1,1.84,3.65,3.92
+2025-08-02,Sigma Olomouc,Liberec,2,1,2.22,3.36,3.09
+2025-08-02,Teplice,Bohemians,3,0,2.74,3.31,2.47
+2025-08-03,Dukla Prague,Ostrava,1,1,3.28,3.54,2.07
+2025-08-03,FK Pardubice,Sparta Prague,1,3,8.29,5.11,1.32
+2025-08-03,Slovacko,Slavia Prague,0,1,10.69,5.63,1.25
+2025-08-09,Liberec,Dukla Prague,2,0,1.57,3.94,5.46
+2025-08-09,Plzen,Slovacko,1,1,1.21,6.23,11.47
+2025-08-09,Slavia Prague,Teplice,3,0,1.12,8.65,18.34
+2025-08-09,Zlin,Mlada Boleslav,3,2,2.73,3.31,2.47
+2025-08-10,Bohemians,Jablonec,0,1,2.86,3.46,2.31
+2025-08-10,Hradec Kralove,FK Pardubice,1,1,1.49,4.20,6.22
+2025-08-10,Ostrava,Karvina,1,2,1.78,3.79,4.09
+2025-08-10,Sparta Prague,Sigma Olomouc,1,0,1.38,4.61,7.60
+2025-08-16,Dukla Prague,Plzen,2,0,6.26,4.07,1.50
+2025-08-16,Jablonec,Slavia Prague,1,1,4.90,3.86,1.64
+2025-08-16,Mlada Boleslav,Hradec Kralove,3,2,2.08,3.69,3.12
+2025-08-16,Sigma Olomouc,Zlin,1,0,2.04,3.28,3.58
+2025-08-16,Slovacko,Teplice,2,1,2.24,3.20,3.18
+2025-08-17,Liberec,Sparta Prague,0,2,3.77,3.55,1.90
+2025-08-17,Karvina,Bohemians,1,2,2.13,3.45,3.15
+2025-08-19,Mlada Boleslav,Plzen,0,5,3.61,3.81,1.88
+2025-08-23,Plzen,Karvina,2,1,1.25,5.83,9.68
+2025-08-23,Slavia Prague,FK Pardubice,3,1,1.08,10.52,22.36
+2025-08-23,Teplice,Jablonec,0,1,3.42,3.44,2.05
+2025-08-23,Zlin,Liberec,1,0,2.84,3.09,2.52
+2025-08-24,Hradec Kralove,Sigma Olomouc,1,0,2.15,3.38,3.23
+2025-08-24,Ostrava,Slovacko,2,0,1.85,3.70,3.83
+2025-08-24,Sparta Prague,Dukla Prague,3,2,1.25,5.63,10.29
+2025-08-30,Dukla Prague,Hradec Kralove,1,1,3.25,3.12,2.26
+2025-08-30,FK Pardubice,Bohemians,1,1,3.09,3.41,2.20
+2025-08-30,Karvina,Teplice,4,1,1.98,3.56,3.50
+2025-08-30,Mlada Boleslav,Slavia Prague,1,3,10.01,6.07,1.24
+2025-08-30,Slovacko,Jablonec,0,2,3.63,3.35,2.01
+2025-08-31,Liberec,Plzen,1,1,4.00,3.70,1.81
+2025-08-31,Sigma Olomouc,Ostrava,1,0,2.26,3.44,2.96
+2025-08-31,Sparta Prague,Zlin,3,1,1.24,5.82,10.24
+2025-09-13,Ostrava,Liberec,0,2,2.08,3.55,3.17
+2025-09-13,Plzen,Sigma Olomouc,1,0,1.53,4.23,5.45
+2025-09-13,Slavia Prague,Karvina,3,1,1.16,7.08,14.15
+2025-09-13,Teplice,Mlada Boleslav,2,3,2.20,3.63,2.90
+2025-09-13,Zlin,Dukla Prague,1,1,2.19,3.09,3.38
+2025-09-14,Bohemians,Slovacko,1,0,1.82,3.57,4.10
+2025-09-14,Hradec Kralove,Sparta Prague,2,1,4.35,3.62,1.76
+2025-09-14,Jablonec,FK Pardubice,3,2,1.43,4.47,6.57
+2025-09-17,Ostrava,Teplice,1,1,,,
+2025-09-20,FK Pardubice,Slovacko,1,1,2.27,3.27,3.02
+2025-09-20,Karvina,Jablonec,1,2,2.44,3.43,2.66
+2025-09-20,Sigma Olomouc,Teplice,0,0,1.55,4.00,5.57
+2025-09-20,Sparta Prague,Plzen,2,1,2.00,3.37,3.60
+2025-09-20,Zlin,Hradec Kralove,1,2,3.18,3.12,2.28
+2025-09-21,Dukla Prague,Bohemians,0,2,2.76,3.22,2.49
+2025-09-21,Liberec,Slavia Prague,1,1,3.95,3.61,1.84
+2025-09-21,Mlada Boleslav,Ostrava,1,1,2.22,3.63,2.81
+2025-09-26,Slavia Prague,Dukla Prague,2,0,1.12,8.49,17.26
+2025-09-27,Bohemians,Sigma Olomouc,2,2,2.28,3.30,3.02
+2025-09-27,Hradec Kralove,Liberec,2,3,2.49,3.16,2.79
+2025-09-27,Ostrava,Sparta Prague,0,3,4.60,3.88,1.67
+2025-09-27,Slovacko,Karvina,1,2,2.70,3.40,2.45
+2025-09-28,Jablonec,Mlada Boleslav,2,0,1.73,4.02,4.07
+2025-09-28,Plzen,Zlin,0,1,1.29,5.28,9.27
+2025-09-28,Teplice,FK Pardubice,0,0,2.22,3.30,3.12
+2025-10-01,FK Pardubice,Ostrava,0,1,2.52,3.47,2.57
+2025-10-04,Dukla Prague,Teplice,1,3,2.23,3.19,3.20
+2025-10-04,FK Pardubice,Karvina,2,1,2.55,3.46,2.54
+2025-10-04,Liberec,Bohemians,0,0,1.81,3.46,4.28
+2025-10-04,Mlada Boleslav,Slovacko,0,0,1.91,3.69,3.55
+2025-10-05,Plzen,Hradec Kralove,3,3,1.41,4.41,7.20
+2025-10-05,Sigma Olomouc,Jablonec,2,0,2.20,3.27,3.19
+2025-10-05,Sparta Prague,Slavia Prague,1,1,2.18,3.25,3.25
+2025-10-05,Zlin,Ostrava,1,1,2.31,3.33,2.94
+2025-10-18,Bohemians,Plzen,0,1,4.13,3.83,1.75
+2025-10-18,FK Pardubice,Mlada Boleslav,2,1,2.46,3.54,2.61
+2025-10-18,Karvina,Sigma Olomouc,1,1,2.66,3.14,2.66
+2025-10-18,Slavia Prague,Zlin,0,0,1.18,6.96,12.62
+2025-10-18,Teplice,Liberec,1,1,3.37,3.21,2.16
+2025-10-19,Jablonec,Dukla Prague,0,0,1.45,4.28,6.65
+2025-10-19,Ostrava,Hradec Kralove,0,1,2.26,3.36,3.00
+2025-10-19,Slovacko,Sparta Prague,0,0,7.62,4.74,1.37
+2025-10-22,Bohemians,Mlada Boleslav,1,1,1.78,3.83,3.96
+2025-10-25,Dukla Prague,Slovacko,1,0,2.52,3.09,2.82
+2025-10-25,Hradec Kralove,Teplice,0,0,1.81,3.45,4.29
+2025-10-25,Liberec,Jablonec,0,2,2.16,3.12,3.44
+2025-10-25,Mlada Boleslav,Karvina,2,4,2.35,3.61,2.68
+2025-10-25,Zlin,FK Pardubice,2,2,2.09,3.26,3.44
+2025-10-26,Plzen,Ostrava,2,0,1.42,4.58,6.47
+2025-10-26,Sigma Olomouc,Slavia Prague,0,0,4.47,3.72,1.72
+2025-10-28,Sparta Prague,Bohemians,2,1,1.32,5.04,7.87
+2025-11-01,FK Pardubice,Dukla Prague,1,1,2.04,3.13,3.75
+2025-11-01,Jablonec,Zlin,1,3,1.65,3.61,5.10
+2025-11-01,Slavia Prague,Ostrava,2,0,1.26,5.78,9.11
+2025-11-01,Slovacko,Liberec,0,3,3.41,3.05,2.18
+2025-11-02,Bohemians,Hradec Kralove,1,2,2.26,3.21,3.10
+2025-11-02,Karvina,Sparta Prague,2,1,4.79,3.94,1.63
+2025-11-02,Mlada Boleslav,Sigma Olomouc,1,4,3.37,3.56,2.00
+2025-11-02,Teplice,Plzen,1,2,4.91,3.69,1.66
+2025-11-08,Dukla Prague,Mlada Boleslav,0,1,2.17,3.35,3.20
+2025-11-08,Hradec Kralove,Slovacko,4,0,1.64,3.77,5.06
+2025-11-08,Ostrava,Jablonec,0,1,3.01,3.25,2.32
+2025-11-08,Zlin,Bohemians,0,1,2.59,3.13,2.73
+2025-11-09,Liberec,Karvina,6,0,1.96,3.46,3.64
+2025-11-09,Plzen,Slavia Prague,3,5,3.11,3.27,2.26
+2025-11-09,Sigma Olomouc,FK Pardubice,2,0,1.78,3.57,4.32
+2025-11-09,Sparta Prague,Teplice,2,2,1.21,6.04,12.01
+2025-11-22,Dukla Prague,Sigma Olomouc,2,2,4.25,3.07,1.94
+2025-11-22,FK Pardubice,Liberec,0,4,3.40,3.34,2.07
+2025-11-22,Mlada Boleslav,Sparta Prague,1,2,6.33,4.40,1.44
+2025-11-22,Slavia Prague,Bohemians,3,1,1.32,5.07,8.41
+2025-11-22,Teplice,Ostrava,1,0,2.73,3.28,2.47
+2025-11-23,Jablonec,Plzen,3,3,3.50,3.29,2.06
+2025-11-23,Karvina,Hradec Kralove,4,3,2.17,3.41,3.08
+2025-11-23,Slovacko,Zlin,2,0,2.58,3.09,2.72
+2025-11-29,Hradec Kralove,Jablonec,2,0,2.38,3.29,2.87
+2025-11-29,Ostrava,Dukla Prague,3,1,1.59,3.79,5.44
+2025-11-29,Slavia Prague,Slovacko,3,0,1.15,7.27,15.80
+2025-11-29,Zlin,Karvina,1,3,2.73,3.41,2.41
+2025-11-30,Bohemians,Teplice,0,1,1.71,3.41,5.03
+2025-11-30,Liberec,Sigma Olomouc,1,0,1.93,3.26,3.95
+2025-11-30,Plzen,Mlada Boleslav,2,1,1.26,5.62,9.01
+2025-11-30,Sparta Prague,FK Pardubice,2,4,1.16,6.93,15.16
+2025-12-05,Teplice,Slavia Prague,1,2,8.23,4.34,1.38
+2025-12-06,Dukla Prague,Liberec,1,1,4.58,3.48,1.75
+2025-12-06,Mlada Boleslav,Zlin,3,1,2.18,3.30,3.18
+2025-12-06,Sigma Olomouc,Sparta Prague,0,1,3.86,3.18,1.99
+2025-12-06,Slovacko,Plzen,3,0,7.02,4.26,1.43
+2025-12-07,FK Pardubice,Hradec Kralove,1,0,2.93,3.18,2.36
+2025-12-07,Jablonec,Bohemians,1,0,2.08,3.34,3.38
+2025-12-07,Karvina,Ostrava,0,0,2.21,3.48,2.98
+2025-12-13,Hradec Kralove,Mlada Boleslav,1,1,1.80,3.67,4.06
+2025-12-13,Ostrava,FK Pardubice,1,4,1.78,3.54,4.41
+2025-12-13,Slavia Prague,Jablonec,4,3,1.31,5.06,8.74
+2025-12-13,Teplice,Slovacko,1,0,2.23,2.99,3.46
+2025-12-14,Bohemians,Karvina,0,3,2.09,3.52,3.22
+2025-12-14,Plzen,Dukla Prague,2,0,1.30,5.14,9.33
+2025-12-14,Sparta Prague,Liberec,2,2,1.67,3.74,4.89
+2025-12-14,Zlin,Sigma Olomouc,5,0,3.06,3.00,2.41
+2026-01-31,Dukla Prague,Sparta Prague,0,3,7.49,4.21,1.43
+2026-01-31,Jablonec,Teplice,1,0,1.75,3.43,4.78
+2026-01-31,Mlada Boleslav,Bohemians,2,2,2.70,3.19,2.55
+2026-01-31,Sigma Olomouc,Hradec Kralove,1,0,2.09,3.20,3.51
+2026-02-01,FK Pardubice,Slavia Prague,1,1,7.10,4.57,1.40
+2026-02-01,Liberec,Zlin,2,0,1.83,3.46,4.17
+2026-02-01,Karvina,Plzen,0,2,3.68,3.61,1.91
+2026-02-01,Slovacko,Ostrava,2,2,3.37,3.19,2.16
+2026-02-07,Jablonec,Slovacko,0,0,1.78,3.50,4.39
+2026-02-07,Ostrava,Sigma Olomouc,2,0,2.46,3.19,2.80
+2026-02-07,Slavia Prague,Mlada Boleslav,4,0,1.18,6.74,12.34
+2026-02-07,Teplice,Karvina,2,0,2.65,3.23,2.57
+2026-02-08,Bohemians,FK Pardubice,1,2,2.20,3.28,3.15
+2026-02-08,Hradec Kralove,Dukla Prague,3,0,1.58,3.75,5.56
+2026-02-08,Plzen,Liberec,3,1,1.75,3.57,4.47
+2026-02-08,Zlin,Sparta Prague,0,3,5.58,3.83,1.57
+2026-02-14,Dukla Prague,Zlin,0,0,2.68,2.94,2.74
+2026-02-14,Karvina,Slavia Prague,1,3,6.10,4.46,1.45
+2026-02-14,Sigma Olomouc,Plzen,1,2,3.29,3.16,2.19
+2026-02-14,Slovacko,Bohemians,1,2,2.31,3.18,3.00
+2026-02-15,FK Pardubice,Jablonec,0,2,2.44,3.23,2.79
+2026-02-15,Liberec,Ostrava,1,0,1.94,3.48,3.68
+2026-02-15,Mlada Boleslav,Teplice,0,0,2.20,3.19,3.24
+2026-02-15,Sparta Prague,Hradec Kralove,2,0,1.35,4.66,8.17
+2026-02-21,Hradec Kralove,Zlin,0,0,1.82,3.33,4.43
+2026-02-21,Jablonec,Karvina,1,0,1.90,3.53,3.74
+2026-02-21,Slavia Prague,Liberec,1,0,1.43,4.34,6.84
+2026-02-21,Slovacko,FK Pardubice,2,0,2.48,3.17,2.79
+2026-02-22,Bohemians,Dukla Prague,1,0,1.64,3.63,5.21
+2026-02-22,Ostrava,Mlada Boleslav,0,0,1.56,4.17,5.03
+2026-02-22,Plzen,Sparta Prague,0,0,2.53,3.29,2.64
+2026-02-22,Teplice,Sigma Olomouc,1,3,2.69,2.89,2.79
+2026-02-27,Dukla Prague,Slavia Prague,0,2,10.14,5.02,1.29
+2026-02-28,FK Pardubice,Teplice,1,1,2.19,3.05,3.43
+2026-02-28,Liberec,Hradec Kralove,0,1,1.80,3.47,4.22
+2026-02-28,Mlada Boleslav,Jablonec,3,0,3.06,3.39,2.20
+2026-02-28,Sparta Prague,Ostrava,5,2,1.43,4.43,6.44
+2026-03-01,Karvina,Slovacko,0,2,1.85,3.61,3.87
+2026-03-01,Sigma Olomouc,Bohemians,1,0,1.96,3.16,3.99
+2026-03-01,Zlin,Plzen,3,0,4.65,3.36,1.78
+2026-03-07,Bohemians,Liberec,0,0,2.44,3.17,2.87
+2026-03-07,Jablonec,Sigma Olomouc,1,2,2.29,3.13,3.16
+2026-03-07,Slovacko,Mlada Boleslav,2,2,2.22,3.27,3.14
+2026-03-07,Teplice,Dukla Prague,0,0,1.78,3.24,4.91
+2026-03-08,Hradec Kralove,Plzen,0,3,3.27,3.25,2.18
+2026-03-08,Karvina,FK Pardubice,1,2,2.22,3.52,2.95
+2026-03-08,Ostrava,Zlin,6,2,1.82,3.44,4.32
+2026-03-08,Slavia Prague,Sparta Prague,3,1,1.81,3.37,4.46
+2026-03-14,Dukla Prague,Jablonec,2,0,3.87,3.17,2.00
+2026-03-14,Hradec Kralove,Ostrava,1,0,2.28,3.27,3.01
+2026-03-14,Mlada Boleslav,FK Pardubice,2,0,2.47,3.39,2.66
+2026-03-14,Zlin,Slavia Prague,1,3,7.31,4.15,1.44
+2026-03-15,Liberec,Teplice,1,1,1.71,3.43,5.01
+2026-03-15,Plzen,Bohemians,2,0,1.44,4.40,6.34
+2026-03-15,Sigma Olomouc,Karvina,2,2,1.84,3.36,4.20
+2026-03-15,Sparta Prague,Slovacko,5,2,1.37,4.60,7.63
+2026-04-04,Dukla Prague,FK Pardubice,0,2,2.85,3.16,2.44
+2026-04-04,Liberec,Slovacko,2,1,1.56,3.99,5.28
+2026-04-04,Plzen,Teplice,2,2,1.36,4.57,8.33
+2026-04-04,Sigma Olomouc,Mlada Boleslav,2,4,1.78,3.51,4.33
+2026-04-04,Zlin,Jablonec,0,3,3.22,3.08,2.24
+2026-04-05,Hradec Kralove,Bohemians,2,0,2.02,3.20,3.73
+2026-04-05,Ostrava,Slavia Prague,0,2,5.01,3.88,1.62
+2026-04-05,Sparta Prague,Karvina,2,0,1.28,5.52,8.44
+2026-04-11,Bohemians,Zlin,2,1,1.56,3.84,5.65
+2026-04-11,Jablonec,Ostrava,4,1,2.04,3.41,3.37
+2026-04-11,Slovacko,Hradec Kralove,1,3,2.93,3.16,2.39
+2026-04-12,FK Pardubice,Sigma Olomouc,2,1,2.58,3.10,2.72
+2026-04-12,Karvina,Liberec,3,1,3.20,3.39,2.13
+2026-04-12,Mlada Boleslav,Dukla Prague,1,1,1.76,3.61,4.35
+2026-04-12,Slavia Prague,Plzen,0,0,1.65,3.77,4.86
+2026-04-12,Teplice,Sparta Prague,0,1,4.76,3.48,1.72
+2026-04-18,Dukla Prague,Karvina,1,2,2.38,3.28,2.84
+2026-04-18,Liberec,Mlada Boleslav,0,0,1.83,3.49,4.06
+2026-04-18,Ostrava,Bohemians,0,2,2.14,3.42,3.11
+2026-04-18,Sparta Prague,Jablonec,3,1,1.56,3.90,5.53
+2026-04-18,Zlin,Teplice,3,2,2.48,2.97,2.94
+2026-04-19,Hradec Kralove,Slavia Prague,2,1,4.43,3.50,1.77
+2026-04-19,Plzen,FK Pardubice,0,1,1.41,4.50,6.84
+2026-04-19,Sigma Olomouc,Slovacko,2,1,1.56,3.97,5.44
+2026-04-25,Bohemians,Sparta Prague,2,0,4.02,3.57,1.83
+2026-04-25,FK Pardubice,Zlin,3,1,1.95,3.33,3.77
+2026-04-25,Jablonec,Liberec,1,2,2.25,3.08,3.24
+2026-04-25,Karvina,Mlada Boleslav,0,3,2.70,3.52,2.37
+2026-04-25,Ostrava,Plzen,0,1,3.47,3.48,1.99
+2026-04-25,Slavia Prague,Sigma Olomouc,2,1,1.34,4.80,8.06
+2026-04-25,Slovacko,Dukla Prague,1,2,2.02,3.28,3.62
+2026-04-25,Teplice,Hradec Kralove,0,1,2.85,3.06,2.50
 2026-05-02,Ostrava,Mlada Boleslav,0,0,1.90,3.59,3.66
 2026-05-02,Zlin,Dukla Prague,2,1,2.17,3.19,3.31
 2026-05-02,Liberec,Slavia Prague,1,2,4.34,3.39,1.81
