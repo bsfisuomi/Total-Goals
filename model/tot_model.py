@@ -462,9 +462,11 @@ LEAGUES = {
         ],
         "season_start": "2026-07-10",
     },
-    # Belgien. Skrapat utan 1X2-odds (anvandaren bad om det) - hemmaodds/
-    # oavgjortodds/bortaodds ar tomma i alla dessa CSV-filer. Anvands bara for
-    # datum/match/resultat, inte for value-bet-scanning mot Bet365.
+    # Belgien. Historiken skrapades utan 1X2-odds (anvandaren bad om det) -
+    # hemmaodds/oavgjortodds/bortaodds ar tomma i alla dessa CSV-filer, men det
+    # paverkar inte value-bet-scanningen - se LEAGUE_SLUGS i scan_league.py,
+    # som sedan 2026-10-02 hamtar LIVE-odds fran odds-api.io for de flesta av
+    # dessa ligor (nagra mindre divisioner saknas helt hos odds-api.io).
     "belgium-jupiler-pro-league": {
         "files": [
             _p("Belgium", "Jupiler Pro League", "2025-26.csv"),
@@ -528,8 +530,9 @@ LEAGUES = {
         ],
         "season_start": "2026-08-29",
     },
-    # Danmark. Skrapat utan 1X2-odds (samma upplagg som Belgien ovan) -
-    # hemmaodds/oavgjortodds/bortaodds ar tomma. Bara datum/match/resultat.
+    # Danmark. Historiken skrapades utan 1X2-odds (samma upplagg som Belgien
+    # ovan), men alla fyra ligorna far nu LIVE-odds fran odds-api.io - se
+    # LEAGUE_SLUGS i scan_league.py (verifierat 2026-10-02).
     "denmark-superliga": {
         "files": [
             _p("Denmark", "Superliga", "2025-26.csv"),

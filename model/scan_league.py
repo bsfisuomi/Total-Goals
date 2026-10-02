@@ -127,25 +127,29 @@ LEAGUE_SLUGS = {
     "slovenia-3-snl-east": ["slovenia-3-snl-east"],
     "slovenia-3-snl-west": ["slovenia-3-snl-west"],
 
-    # Belgien: skrapat utan 1X2-odds pa anvandarens begaran (bara datum/match/
-    # resultat). Tomma listor - ingen value-bet-scanning mot Bet365 for dessa,
-    # det finns inga riktiga odds i CSV-filerna att matcha mot.
-    "belgium-jupiler-pro-league": [],
-    "belgium-challenger-pro-league": [],
-    "belgium-national-division-1-acff": [],
-    "belgium-national-division-1-vv": [],
-    "belgium-second-amateur-division-acff": [],
-    "belgium-second-amateur-division-vfv-a": [],
-    "belgium-second-amateur-division-vfv-b": [],
-    "belgium-super-league-women": [],
-    "belgium-1st-national-women": [],
+    # Belgien: CSV-historiken skrapades utan 1X2-odds (anvandarens begaran),
+    # men det spelar ingen roll har - scan_league.py anvander bara historiken
+    # for TOT-snitt (mal), inte for historiska odds. Live-odds hamtas som
+    # vanligt fran odds-api.io via sluggarna nedan.
+    # Verifierat 2026-10-02 via find_slugs.py mot odds-api.io:s /leagues.
+    # De tre divisionerna utan slug nedan ("Second Amateur Division" x3 och
+    # "1st National Women") finns inte alls hos odds-api.io - gar inte skanna.
+    "belgium-jupiler-pro-league": ["belgium-first-division-a"],
+    "belgium-challenger-pro-league": ["belgium-challenger-pro-league"],
+    "belgium-national-division-1-acff": ["belgium-nationale-1-ffa"],
+    "belgium-national-division-1-vv": ["belgium-nationale-1-vv"],
+    "belgium-second-amateur-division-acff": [],  # saknas hos odds-api.io
+    "belgium-second-amateur-division-vfv-a": [],  # saknas hos odds-api.io
+    "belgium-second-amateur-division-vfv-b": [],  # saknas hos odds-api.io
+    "belgium-super-league-women": ["belgium-superleague-women"],
+    "belgium-1st-national-women": [],  # saknas hos odds-api.io
 
-    # Danmark: skrapat utan 1X2-odds pa anvandarens begaran (samma upplagg
-    # som Belgien ovan). Tomma listor - ingen value-bet-scanning mot Bet365.
-    "denmark-superliga": [],
-    "denmark-1st-division": [],
-    "denmark-2nd-division": [],
-    "denmark-3rd-division": [],
+    # Danmark: samma upplagg som Belgien ovan (historik utan odds, men live-
+    # odds fran odds-api.io fungerar anda). Verifierat 2026-10-02.
+    "denmark-superliga": ["denmark-superligaen"],
+    "denmark-1st-division": ["denmark-1st-division"],
+    "denmark-2nd-division": ["denmark-2nd-division"],
+    "denmark-3rd-division": ["denmark-3rd-division"],
 }
 
 MIN_EV = 0.13  # minsta EV for att trigga en Telegram-alert (se find_goal_line_value)
