@@ -534,6 +534,21 @@ NAME_ALIASES = {
     "MFK Kravare": "Kravare", "SK Jiskra Rymarov": "Rymarov",
     "SK Stonava": "Stonava", "SK Sulko Zabreh": "Zabreh",
     "TJ Bridlicna": "Bridlicna", "Tj Valasske Mezirici": "Valasske Mezirici",
+    # Belgien - National Division 1 ACFF (verifierat 2026-10-02 mot faktisk
+    # scan_league.py-korning - se omatchade lagnamn i terminalen)
+    "FC Flenu": "Flenu", "Olympic Club De Charleroi": "OC Charleroi",
+    "R AEC Mons": "Renaissance Mons", "RCS Onhaye": "Onhaye",
+    "RFC Meux": "Meux", "RSC Habay": "Habay La Neuve",
+    "Royal Charleroi SC B": "Charleroi B", "Royale Union Tubize-Braine": "Tubize-Braine",
+    "SL16 Football Campus": "St. Liege U23", "Union Saint-Gilloise B": "Royal Union SG 2",
+    # Belgien - National Division 1 VV
+    "Belisia Bilzen SV": "Belisia Bilzen", "Hoogstraten VV": "Hoogstraten",
+    "Jong Cercle": "Cercle Brugge KSV 2", "K. Lyra-Lierse": "Lyra-Lierse",
+    "KFC Dessel Sport": "Dessel", "KFC Mandel United": "Mandel United",
+    "KFC Merelbeke": "Merelbeke", "KSK Heist": "Heist",
+    "KVC Houtvenne": "Houtvenne", "KVK Tienen": "Tienen",
+    "KVV Thes Sport Tessenderlo": "Thes Sport", "KVV Zelzate": "Zelzate",
+    "Oud Heverlee Leuven B": "Leuven B", "Royal Knokke FC": "Knokke",
 }
 
 
