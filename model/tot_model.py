@@ -528,6 +528,36 @@ LEAGUES = {
         ],
         "season_start": "2026-08-29",
     },
+    # Danmark. Skrapat utan 1X2-odds (samma upplagg som Belgien ovan) -
+    # hemmaodds/oavgjortodds/bortaodds ar tomma. Bara datum/match/resultat.
+    "denmark-superliga": {
+        "files": [
+            _p("Denmark", "Superliga", "2025-26.csv"),
+            _p("Denmark", "Superliga", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-24",
+    },
+    "denmark-1st-division": {
+        "files": [
+            _p("Denmark", "1st Division", "2025-26.csv"),
+            _p("Denmark", "1st Division", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-24",
+    },
+    "denmark-2nd-division": {
+        "files": [
+            _p("Denmark", "2nd Division", "2025-26.csv"),
+            _p("Denmark", "2nd Division", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-31",
+    },
+    "denmark-3rd-division": {
+        "files": [
+            _p("Denmark", "3rd Division", "2025-26.csv"),
+            _p("Denmark", "3rd Division", "2026-27.csv"),
+        ],
+        "season_start": "2026-07-31",
+    },
 }
 
 # Bakatkompatibel genvag: SEASON_START["poland"] etc.

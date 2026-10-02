@@ -139,6 +139,13 @@ LEAGUE_SLUGS = {
     "belgium-second-amateur-division-vfv-b": [],
     "belgium-super-league-women": [],
     "belgium-1st-national-women": [],
+
+    # Danmark: skrapat utan 1X2-odds pa anvandarens begaran (samma upplagg
+    # som Belgien ovan). Tomma listor - ingen value-bet-scanning mot Bet365.
+    "denmark-superliga": [],
+    "denmark-1st-division": [],
+    "denmark-2nd-division": [],
+    "denmark-3rd-division": [],
 }
 
 MIN_EV = 0.13  # minsta EV for att trigga en Telegram-alert (se find_goal_line_value)
