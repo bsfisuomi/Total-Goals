@@ -465,9 +465,13 @@ NAME_ALIASES = {
     "SK Benesov": "Benesov", "SK Dynamo Ceske Budejovice": "Ceske Budejovice",
     "SK Slavia Prague C": "Slavia Prague U20", "SK Sokol Brozany": "Brozany",
     "SK Zapy": "Zapy", "Tj Jiskra Domazlice": "Domazlice",
-    # OBS: "N. Byskovice" (dyker upp hos odds-api.io i 3. CFL) saknas helt i
-    # var historik for bada grupperna - troligen ett lag vi missat vid
-    # insamlingen eller en nyuppfluttad klubb. Loses tyst over tills vidare.
+    # "N. Byskovice" = FK Neratovice-Byskovice, spelar i 3. CFL Group B
+    "N. Byskovice": "Neratovice",
+    # "SK Dynamo Ceske Budejovice B" = reservlaget, felaktigt taggat av
+    # odds-api.io som "4. Liga" men spelar i 3. CFL Group A (samma lag som
+    # heter "Ceske Budejovice" i var 2026-27-historik, "Ceske Budejovice B"
+    # i 2025-26-historik - bada sasongerna ar samma reservlag)
+    "SK Dynamo Ceske Budejovice B": "Ceske Budejovice",
     # Tjeckien - 3. MSFL
     "1. FC Slovacko B": "Slovacko B", "CSK Uhersky Brod": "Uhersky Brod",
     "FC Vsetin": "Vsetin", "FC Zbrojovka Brno B": "Brno B",
@@ -485,8 +489,6 @@ NAME_ALIASES = {
     "SK Senco Doubravka": "Doubravka", "SK Strakonice": "SK Strakonice 1908",
     "TJ Hluboka Nad Vlatvou": "Hluboka nad Vltavou", "Tj Jiskra Domazlice B": "Domazlice B",
     "ZVVZ Milevsko": "Milevsko",
-    # OBS: "SK Dynamo Ceske Budejovice B" saknas i var historik for 4. Liga
-    # Group A - ingen traff i CSV:erna, loses tyst over tills vidare.
     # Tjeckien - 4. Liga Group B
     "Brandys Nad Labem": "Brandys n. Labem", "FC Chomutov": "Chomutov",
     "FC Hvezda Cheb": "Hvezda Cheb", "FC Slavia Karlovy Vary": "Karlovy Vary",
