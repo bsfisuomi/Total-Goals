@@ -593,6 +593,12 @@ NAME_ALIASES = {
     "HIK Hellerup": "Hellerup", "Middelfart BK": "Middelfart",
     "Naestved BK": "Naestved", "Nykoebing FC": "Nykobing",
     "Skive IK": "Skive", "Vsk Aarhus": "VSK Aarhus",
+    # Danmark - 3rd Division
+    "Bronshoj BK": "Bronshoj", "FC Helsingoer": "Helsingor",
+    "Hoersholm-Usseroed IK": "Horsholm-Usserod", "Holbaek B&I": "Holbaek",
+    "Holstebro BK": "Holstebro", "Ishoej IF": "Ishoj",
+    "Naesby BK": "Naesby", "Ringsted IF": "Ringsted",
+    "Sundby BK": "Sundby", "Vanloese IF": "Vanlose",
 }
 
 
