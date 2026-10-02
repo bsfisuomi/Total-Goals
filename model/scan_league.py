@@ -126,6 +126,19 @@ LEAGUE_SLUGS = {
     "slovenia-2-snl": ["slovenia-2nd-snl"],
     "slovenia-3-snl-east": ["slovenia-3-snl-east"],
     "slovenia-3-snl-west": ["slovenia-3-snl-west"],
+
+    # Belgien: skrapat utan 1X2-odds pa anvandarens begaran (bara datum/match/
+    # resultat). Tomma listor - ingen value-bet-scanning mot Bet365 for dessa,
+    # det finns inga riktiga odds i CSV-filerna att matcha mot.
+    "belgium-jupiler-pro-league": [],
+    "belgium-challenger-pro-league": [],
+    "belgium-national-division-1-acff": [],
+    "belgium-national-division-1-vv": [],
+    "belgium-second-amateur-division-acff": [],
+    "belgium-second-amateur-division-vfv-a": [],
+    "belgium-second-amateur-division-vfv-b": [],
+    "belgium-super-league-women": [],
+    "belgium-1st-national-women": [],
 }
 
 MIN_EV = 0.13  # minsta EV for att trigga en Telegram-alert (se find_goal_line_value)

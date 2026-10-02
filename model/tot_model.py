@@ -462,6 +462,72 @@ LEAGUES = {
         ],
         "season_start": "2026-07-10",
     },
+    # Belgien. Skrapat utan 1X2-odds (anvandaren bad om det) - hemmaodds/
+    # oavgjortodds/bortaodds ar tomma i alla dessa CSV-filer. Anvands bara for
+    # datum/match/resultat, inte for value-bet-scanning mot Bet365.
+    "belgium-jupiler-pro-league": {
+        "files": [
+            _p("Belgium", "Jupiler Pro League", "2025-26.csv"),
+            _p("Belgium", "Jupiler Pro League", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-07",
+    },
+    "belgium-challenger-pro-league": {
+        "files": [
+            _p("Belgium", "Challenger Pro League", "2025-26.csv"),
+            _p("Belgium", "Challenger Pro League", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-14",
+    },
+    "belgium-national-division-1-acff": {
+        "files": [
+            _p("Belgium", "National Division 1 - ACFF", "2025-26.csv"),
+            _p("Belgium", "National Division 1 - ACFF", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-26",
+    },
+    "belgium-national-division-1-vv": {
+        "files": [
+            _p("Belgium", "National Division 1 - VV", "2025-26.csv"),
+            _p("Belgium", "National Division 1 - VV", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-28",
+    },
+    "belgium-second-amateur-division-acff": {
+        "files": [
+            _p("Belgium", "Second Amateur Division Group ACFF", "2025-26.csv"),
+            _p("Belgium", "Second Amateur Division Group ACFF", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-22",
+    },
+    "belgium-second-amateur-division-vfv-a": {
+        "files": [
+            _p("Belgium", "Second Amateur Division Group VFV A", "2025-26.csv"),
+            _p("Belgium", "Second Amateur Division Group VFV A", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-29",
+    },
+    "belgium-second-amateur-division-vfv-b": {
+        "files": [
+            _p("Belgium", "Second Amateur Division Group VFV B", "2025-26.csv"),
+            _p("Belgium", "Second Amateur Division Group VFV B", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-29",
+    },
+    "belgium-super-league-women": {
+        "files": [
+            _p("Belgium", "Super League Women", "2025-26.csv"),
+            _p("Belgium", "Super League Women", "2026-27.csv"),
+        ],
+        "season_start": "2026-09-05",
+    },
+    "belgium-1st-national-women": {
+        "files": [
+            _p("Belgium", "1st National Women", "2025-26.csv"),
+            _p("Belgium", "1st National Women", "2026-27.csv"),
+        ],
+        "season_start": "2026-08-29",
+    },
 }
 
 # Bakatkompatibel genvag: SEASON_START["poland"] etc.
