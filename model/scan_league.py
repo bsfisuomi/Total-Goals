@@ -549,14 +549,69 @@ NAME_ALIASES = {
     "KVC Houtvenne": "Houtvenne", "KVK Tienen": "Tienen",
     "KVV Thes Sport Tessenderlo": "Thes Sport", "KVV Zelzate": "Zelzate",
     "Oud Heverlee Leuven B": "Leuven B", "Royal Knokke FC": "Knokke",
+    # Belgien - Jupiler Pro League (herr) och Super League Women (dam) -
+    # odds-api.io ateranvander SAMMA lagnamn for bada ligorna for 6 av
+    # klubbarna nedan (de har bade herr- och damlag), darfor listor med
+    # bada kandidaterna - se resolve_team() som provar ratt en per liga.
+    "RSC Anderlecht": ["Anderlecht", "RSC Anderlecht W"],
+    "KAA Gent": ["Gent", "Gent W"],
+    "KRC Genk": ["Genk", "Genk W"],
+    "Oud-Heverlee Leuven": ["Leuven", "Leuven W"],
+    "Standard Liege": ["St. Liege", "St. Liege W"],
+    "SV Zulte Waregem": ["Waregem", "Waregem W"],
+    # Belgien - Jupiler Pro League (resten, inga krockar)
+    "Cercle Brugge": "Cercle Brugge KSV", "Club Brugge": "Club Brugge KV",
+    "KV Kortrijk": "Kortrijk", "KVC Westerlo": "Westerlo",
+    "Royal Antwerp FC": "Antwerp", "Royal Charleroi SC": "Charleroi",
+    "SK Beveren": "Beveren", "St. Truidense VV": "St. Truiden",
+    "Union Saint-Gilloise": "Royale Union SG", "Yellow-Red KV Mechelen": "KV Mechelen",
+    # Belgien - Challenger Pro League
+    "Club NXT": "Club Brugge KV U23", "FCV Dender EH": "Dender",
+    "Jeugd KAA Gent B": "Gent U23", "Jong KRC Genk": "Genk U23",
+    "K Beerschot VA": "Beerschot VA", "KAS Eupen": "Eupen",
+    "KSC Lokeren-Temse": "Sporting Lokeren", "Koninklijke Lierse Sportkring": "K. Lierse S.K.",
+    "Patro Eisden Maasmechelen": "Patro Eisden", "RFC Seraing": "Seraing",
+    "RSC Anderlecht Futures": "Anderlecht U23", "Royal Excelsior Virton": "Virton",
+    "Royal Francs Borains": "Francs Borains", "Sporting Hasselt": "Hasselt",
+    # Belgien - Super League Women (resten, inga krockar)
+    "Club Brugge YLA": "Club Brugge W", "Raal La Louviere": "RAAL La Louviere W",
+    # Danmark - Superliga
+    "AC Horsens": "Horsens", "AGF Aarhus": "Aarhus",
+    "Broendby IF": "Brondby", "FC Midtjylland": "Midtjylland",
+    "FC Nordsjaelland": "Nordsjaelland", "Lyngby BK": "Lyngby",
+    "Odense Boldklub": "Odense", "Silkeborg IF": "Silkeborg",
+    "Soenderjyske": "Sonderjyske", "Viborg FF": "Viborg",
+    # Danmark - 1st Division
+    "AB Gladsaxe": "AB Copenhagen", "Aalborg BK": "Aalborg",
+    "Esbjerg FB": "Esbjerg", "FC Fredericia": "Fredericia",
+    "HB Koege": "Koge", "Hillerod Fodbold": "Hillerod",
+    "Hobro IK": "Hobro", "Vejle BK": "Vejle",
+    "Vendsyssel FF": "Vendsyssel",
+    # Danmark - 2nd Division
+    "B93 Copenhagen": "B.93", "BK Fremad Amager": "F. Amager",
+    "Brabrand IF": "Brabrand", "FC Roskilde": "Roskilde",
+    "HIK Hellerup": "Hellerup", "Middelfart BK": "Middelfart",
+    "Naestved BK": "Naestved", "Nykoebing FC": "Nykobing",
+    "Skive IK": "Skive", "Vsk Aarhus": "VSK Aarhus",
 }
 
 
 def resolve_team(name, known_teams):
+    """NAME_ALIASES[name] kan vara antingen en enda strang (det vanliga
+    fallet) eller en lista av kandidater - det senare behovs nar
+    odds-api.io ateranvander exakt samma lagnamn i flera olika ligor
+    (t.ex. "RSC Anderlecht" for bade herr- och damlaget). Vi provar varje
+    kandidat och anvander den forsta som faktiskt finns i den har ligans
+    historik."""
     if name in known_teams:
         return name
-    if name in NAME_ALIASES and NAME_ALIASES[name] in known_teams:
-        return NAME_ALIASES[name]
+    if name in NAME_ALIASES:
+        candidates = NAME_ALIASES[name]
+        if isinstance(candidates, str):
+            candidates = [candidates]
+        for cand in candidates:
+            if cand in known_teams:
+                return cand
     return None
 
 
